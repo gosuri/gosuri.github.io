@@ -6,4 +6,28 @@
     %meta{:author => 'Greg Osuri'}
     %link{:rel => 'stylesheet', :href => '/css/screen.css', :type => 'text/css'}
     %title {{ page.title }}
+    %script{:type =>"text/javascript", :src=>"http://use.typekit.com/xrn7yhf.js" }
+    :javascript
+      try{Typekit.load();}catch(e){}
   %body
+    #container
+      #content
+        #header
+          %p 
+            about 
+            &#149;
+            on twitter
+            &#149;
+            on github
+          %h1#title Greg Osuri
+        #body.about
+      #footer
+        %p.copy
+          Copyright &copy; 2011 by 
+          %a{:href => '/about', :rel => "me author"} Greg Osuri
+        %p.github
+          Created using 
+          %a{:href => 'https://github.com/mojombo/jekyll'} Jekyll 
+          and hosted on 
+          %a{:href => 'http://pages.github.com/'} GitHub Pages
+        
