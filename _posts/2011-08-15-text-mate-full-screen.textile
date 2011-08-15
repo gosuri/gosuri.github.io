@@ -6,9 +6,9 @@ title: Text Mate Fullscreen on Lion
 You'll need:
 
 * Textmate
-* Xcode
+* Xcode (xcodebuild should be in your path)
 
-Run:
+Run in your terminal:
 
 {% highlight bash %}
 bash <(curl -s -L http://j.mp/text-mate-full-screen)
