@@ -26,15 +26,9 @@
         #body.about
           %p
             I write code and take pictures. These are my writings and links I share.
-        .index
-          .posts
-            {% for post in site.posts %}
-            .entry
-              %p.date
-                {{ post.date | date_to_string }}
-              %h3
-                %a{:href => '{{ post.url }}'} {{ post.title }}
-            {% endfor %}
+        #body.main
+          {{ content }}
+          
       #footer
         %p.copy
           Copyright &copy; 2011 by 
@@ -44,4 +38,3 @@
           %a{:href => 'https://github.com/mojombo/jekyll'} Jekyll 
           and hosted on 
           %a{:href => 'http://pages.github.com/'} GitHub Pages
-        

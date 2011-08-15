@@ -1,0 +1,153 @@
+/* line 1, ../sass/screen.sass */
+#container {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+/* line 5, ../sass/screen.sass */
+body {
+  color: #212122;
+  font-family: myriad-pro-1, myriad-pro-2, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+/* line 11, ../sass/screen.sass */
+h1, h2, h3 {
+  color: black;
+  font-family: ff-meta-serif-web-pro-1, ff-meta-serif-web-pro-2, "lucida grande", helvetica, verdana, sans-serif;
+  font-weight: normal;
+  letter-spacing: -0.025em;
+}
+
+/* line 17, ../sass/screen.sass */
+i, em {
+  font-style: italic;
+}
+
+/* line 20, ../sass/screen.sass */
+b, strong {
+  color: #222222;
+  font-weight: bold;
+}
+
+/* line 24, ../sass/screen.sass */
+p, ul, ol, dl, pre, blockquote, table, form {
+  margin: 30px 0;
+}
+
+/* line 27, ../sass/screen.sass */
+blockquote {
+  color: #555555;
+}
+/* line 30, ../sass/screen.sass */
+blockquote em {
+  color: #333333;
+  font-style: italic;
+}
+/* line 34, ../sass/screen.sass */
+blockquote strong {
+  color: #333333;
+  font-weight: normal;
+}
+
+/* line 38, ../sass/screen.sass */
+dt {
+  color: black;
+  font-weight: bold;
+}
+
+/* line 42, ../sass/screen.sass */
+tt, pre, code, samp, kbd {
+  color: black;
+  font-family: consolas, "lucida console", "bitstream vera sans mono", "courier new", monospace;
+}
+
+/* line 46, ../sass/screen.sass */
+code {
+  color: #007a00;
+}
+
+/* line 49, ../sass/screen.sass */
+pre {
+  background-color: #f9f9f9;
+  color: #333333;
+}
+/* line 53, ../sass/screen.sass */
+pre code {
+  color: #333333;
+}
+
+/* line 56, ../sass/screen.sass */
+a, a:link {
+  color: black;
+}
+
+/* line 59, ../sass/screen.sass */
+a:visited {
+  background: none repeat scroll 0 0 white;
+  color: #111111;
+}
+
+/* line 63, ../sass/screen.sass */
+a:hover {
+  background: none repeat scroll 0 0 black;
+  color: white;
+  text-decoration: none;
+}
+
+/* line 69, ../sass/screen.sass */
+#header {
+  margin: 50px 0 30px;
+  text-align: center;
+}
+/* line 73, ../sass/screen.sass */
+#header p, #header a {
+  color: #aaaaaa;
+  font-family: omnes-pro-1, omnes-pro-2, sans-serif;
+  margin: 0;
+  text-decoration: none;
+}
+
+/* line 79, ../sass/screen.sass */
+.about {
+  margin: 50px;
+  text-align: center;
+}
+
+/* line 87, ../sass/screen.sass */
+.index .posts .entry {
+  clear: left;
+}
+/* line 90, ../sass/screen.sass */
+.index .posts .entry .date {
+  color: #aaaaaa;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  margin: 0;
+  text-align: right;
+  width: 100px;
+  float: left;
+}
+/* line 99, ../sass/screen.sass */
+.index .posts .entry h3 {
+  display: block;
+  font-size: 20px;
+  margin: 0 0 30px 200px;
+}
+
+/* line 105, ../sass/screen.sass */
+#footer {
+  border-top: 1px solid #dddddd;
+  clear: both;
+  color: #555555;
+  font-size: 0.889em;
+  line-height: 1.563;
+  margin: 40px 0 20px;
+  padding: 19px 0 0;
+  text-align: center;
+}
+/* line 115, ../sass/screen.sass */
+#footer p {
+  margin: 0;
+}
