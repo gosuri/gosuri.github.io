@@ -1,0 +1,15 @@
+---
+layout: post
+title: Text Mate Fullscreen on Lion
+---
+
+You'll need:
+
+* Textmate
+* Xcode
+
+Run:
+
+{% highlight shell %}
+bash <(curl -s -L http://j.mp/text-mate-full-screen)
+{% endhighlight %}
