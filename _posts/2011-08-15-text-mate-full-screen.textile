@@ -13,3 +13,14 @@ Run in your terminal:
 {% highlight bash %}
 bash <(curl -s -L http://j.mp/text-mate-full-screen)
 {% endhighlight %}
+
+
+I also use Missing Drawer Plugin
+{% highlight bash %}
+curl -L https://github.com/downloads/jezdez/textmate-missingdrawer/MissingDrawer-0.4.0.tmplugin.zip
+tar -xf - && open MissingDrawer.tmplugin
+{% endhighlight %}
+
+Follow me on "Twitter":http://twitter.com/GregOsuri for updates
+
+Comments and Discussions on "Hacker News":http://news.ycombinator.com/item?id=2889100
