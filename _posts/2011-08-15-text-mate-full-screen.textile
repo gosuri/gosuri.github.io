@@ -10,6 +10,6 @@ You'll need:
 
 Run:
 
-{% highlight shell %}
+{% highlight bash %}
 bash <(curl -s -L http://j.mp/text-mate-full-screen)
 {% endhighlight %}
