@@ -6,7 +6,6 @@ title: Going META - Twitter API wrapper in less than 50 lines
 
 I've been long fascinated about active record dynamic finders (find_by_) and wanted to write some thing similarly elegant, this twitter client uses ruby metaprogramming to dynamically generate objects and methods and adds simpler and easy to user methods for "Twitter REST API":https://dev.twitter.com/
 
-Example: The REST method 'user/show' at http://api.twitter.com/1/users/lookup.json can be invoked simply by calling Twitter.new("user","pass").user.show(:screen_name => "gregosuri")
 
 {% highlight ruby %}
 #!/usr/bin/env ruby
@@ -19,8 +18,9 @@ Example: The REST method 'user/show' at http://api.twitter.com/1/users/lookup.js
 # 
 # Simple and Powerful Twitter REST API Wrapper.
 # This library adds simpler and easy to user methods for Twitter REST API at
-# http://apiwiki.twitter.com/Twitter-API-Documentation
-# For Example,users/show REST method can be invoked simply by calling user.show(:user_id=>1401881)
+# https://dev.twitter.com/
+# For Example,users/show REST method can be invoked simply
+# by calling user.show(:user_id=>1401881)
 # Usage Example:
 #   client = Twitter.new("user","pass")
 #   user = client.users.lookup(:screen_name => "gregosuri")
@@ -83,7 +83,9 @@ class Twitter
     end
     
     def self.construct(res)
-      return res.class == Array ? res.collect { |item| TwitterResponse.new(item) } : TwitterResponse.new(res)
+      return res.class == Array 
+                          ? res.collect { |item| TwitterResponse.new(item) } 
+                          : TwitterResponse.new(res)
     end
   end
 end
