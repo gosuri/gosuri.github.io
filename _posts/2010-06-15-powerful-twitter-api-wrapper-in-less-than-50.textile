@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Going META - Twitter API wrapper in less than 50 lines
-permalink: /powerful-twitter-api-wrapper-in-less-than-50
 ---
 
 h1. {{ page.title }}
