@@ -3,9 +3,6 @@ layout: post
 title: Going META - Twitter API wrapper in less than 50 lines
 ---
 
-h1. {{ page.title }}
-
-p(meta). 15 Jun 2010 - San Francisco
 
 I've been long fascinated about active record dynamic finders (find_by_) and wanted to write some thing similarly elegant, this twitter client uses ruby metaprogramming to dynamically generate objects and methods and adds simpler and easy to user methods for "Twitter REST API":https://dev.twitter.com/
 

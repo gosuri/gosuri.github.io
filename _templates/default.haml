@@ -25,7 +25,11 @@
           %h1#title Greg Osuri
         #body.about
           %p
-            I write code and take pictures. These are my writings and links I share.
+            I write 
+            %a{:href => 'http://github.com/gosuri', :target => '_blank' } code
+            and take 
+            %a{:href => 'http://www.flickr.com/photos/24919077@N02', :target => '_blank' } pictures.
+            These are my writings and links I share.
         .index
           .posts
             {% for post in site.posts %}

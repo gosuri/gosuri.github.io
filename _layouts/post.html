@@ -5,7 +5,6 @@
     <meta content='text/html' http-equiv='Content-Type' />
     <meta author='Greg Osuri' />
     <link href='/stylesheets/screen.css' media='screen, projection' rel='stylesheet' type='text/css' />
-    <link href='/stylesheets/print.css' media='print' rel='stylesheet' type='text/css' />
     <title>{{ page.title }}</title>
     <script src='http://use.typekit.com/xrn7yhf.js' type='text/javascript'></script>
     <script type='text/javascript'>
@@ -17,25 +16,17 @@
   <body>
     <div id='container'>
       <div id='content'>
-        <div id='header'>
-          <p>
-            <a href='/about'>about</a>
-            &#149;
-            <a href='http://twitter.com/gregosuri' target='_blank'>on twitter</a>
-            &#149;
-            <a href='http://github.com/gosuri' target='_blank'>on github</a>
-            &#149;
-            <a href='http://www.flickr.com/photos/24919077@N02' target='_blank'>on flickr</a>
-          </p>
-          <h1 id='title'>Greg Osuri</h1>
-        </div>
-        <div class='about' id='body'>
-          <p>
-            I write code and take pictures. These are my writings and links I share.
-          </p>
-        </div>
-        <div class='main' id='body'>
-          {{ content }}
+        <div class='post'>
+          <div id='heading'>
+            <p class='published'>{{ page.date | date_to_string}}</p>
+            <h1 class='title'>{{ page.title }}</h1>
+            <p class='author'>
+              <a href='/'>Greg Osuri</a>
+            </p>
+          </div>
+          <div class='body'>
+            {{ content }}
+          </div>
         </div>
       </div>
       <div id='footer'>

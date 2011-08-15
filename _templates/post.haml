@@ -5,7 +5,6 @@
     %meta{'http-equiv' => 'Content-Type', :content => 'text/html'}
     %meta{:author => 'Greg Osuri'}
     %link{:rel => 'stylesheet', :href => '/stylesheets/screen.css', :type => 'text/css', :media => 'screen, projection'}
-    %link{:rel => 'stylesheet', :href => '/stylesheets/print.css',  :type => 'text/css', :media => 'print' }
     %title {{ page.title }}
     %script{:type =>"text/javascript", :src=>"http://use.typekit.com/xrn7yhf.js" }
     :javascript
@@ -13,22 +12,14 @@
   %body
     #container
       #content
-        #header
-          %p
-            %a{:href => '/about'} about 
-            &#149;
-            %a{:href => 'http://twitter.com/gregosuri', :target => '_blank' } on twitter
-            &#149;
-            %a{:href => 'http://github.com/gosuri',     :target => '_blank' } on github
-            &#149;
-            %a{:href => 'http://www.flickr.com/photos/24919077@N02', :target => '_blank' }on flickr
-          %h1#title Greg Osuri
-        #body.about
-          %p
-            I write code and take pictures. These are my writings and links I share.
-        #body.main
-          {{ content }}
-          
+        .post
+          #heading
+            %p.published {{ page.date | date_to_string}}
+            %h1.title {{ page.title }}
+            %p.author
+              %a{:href => "/"} Greg Osuri
+          .body
+            {{ content }}        
       #footer
         %p.copy
           Copyright &copy; 2011 by 

@@ -76,32 +76,33 @@ pre {
 /* line 53, ../sass/screen.sass */
 pre code {
   color: #333333;
+  font-size: 14px;
 }
 
-/* line 56, ../sass/screen.sass */
+/* line 57, ../sass/screen.sass */
 a, a:link {
   color: black;
 }
 
-/* line 59, ../sass/screen.sass */
+/* line 60, ../sass/screen.sass */
 a:visited {
   background: none repeat scroll 0 0 white;
   color: #111111;
 }
 
-/* line 63, ../sass/screen.sass */
+/* line 64, ../sass/screen.sass */
 a:hover {
   background: none repeat scroll 0 0 black;
   color: white;
   text-decoration: none;
 }
 
-/* line 69, ../sass/screen.sass */
+/* line 70, ../sass/screen.sass */
 #header {
   margin: 50px 0 30px;
   text-align: center;
 }
-/* line 73, ../sass/screen.sass */
+/* line 74, ../sass/screen.sass */
 #header p, #header a {
   color: #aaaaaa;
   font-family: omnes-pro-1, omnes-pro-2, sans-serif;
@@ -109,17 +110,17 @@ a:hover {
   text-decoration: none;
 }
 
-/* line 79, ../sass/screen.sass */
+/* line 80, ../sass/screen.sass */
 .about {
   margin: 50px;
   text-align: center;
 }
 
-/* line 87, ../sass/screen.sass */
+/* line 88, ../sass/screen.sass */
 .index .posts .entry {
   clear: left;
 }
-/* line 90, ../sass/screen.sass */
+/* line 91, ../sass/screen.sass */
 .index .posts .entry .date {
   color: #aaaaaa;
   font-size: 18px;
@@ -129,7 +130,7 @@ a:hover {
   width: 100px;
   float: left;
 }
-/* line 99, ../sass/screen.sass */
+/* line 100, ../sass/screen.sass */
 .index .posts .entry h3 {
   display: block;
   font-size: 20px;
@@ -137,6 +138,27 @@ a:hover {
 }
 
 /* line 105, ../sass/screen.sass */
+.post {
+  margin-top: 35px;
+}
+/* line 108, ../sass/screen.sass */
+.post #heading {
+  text-align: center;
+  font-family: ff-meta-serif-web-pro-1, ff-meta-serif-web-pro-2, "lucida grande", helvetica, verdana, sans-serif;
+}
+/* line 112, ../sass/screen.sass */
+.post #heading h1.title {
+  margin: 0;
+  text-shadow: 0px 1px 0px #e5e5ee;
+}
+/* line 116, ../sass/screen.sass */
+.post #heading p.published, .post #heading p.author {
+  margin: 0;
+  color: #333333;
+  font-variant: small-caps;
+}
+
+/* line 123, ../sass/screen.sass */
 #footer {
   border-top: 1px solid #dddddd;
   clear: both;
@@ -147,7 +169,7 @@ a:hover {
   padding: 19px 0 0;
   text-align: center;
 }
-/* line 115, ../sass/screen.sass */
+/* line 133, ../sass/screen.sass */
 #footer p {
   margin: 0;
 }
