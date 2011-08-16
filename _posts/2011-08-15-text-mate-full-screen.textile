@@ -21,7 +21,7 @@ I also use Missing Drawer Plugin:
 bash <(curl -s -L http://j.mp/q6VM34)
 {% endhighlight %}
 
-Update - To address "concerns on HN":http://news.ycombinator.com/item?id=2889323 . Code behind ("http://j.mp/text-mate-full-screen":http://j.mp/text-mate-full-screen and "http://j.mp/q6VM34":http://j.mp/q6VM34 ):
+Update - To address "concerns on HN":http://news.ycombinator.com/item?id=2889323. Code behind ("http://j.mp/text-mate-full-screen":http://j.mp/text-mate-full-screen and "http://j.mp/q6VM34":http://j.mp/q6VM34 ):
 
 {% highlight bash %}
 
