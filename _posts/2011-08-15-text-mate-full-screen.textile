@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Text Mate Fullscreen on Lion
+title: TextMate Fullscreen on Lion
 ---
 
 You'll need:
 
-* Textmate
+* TextMate
 * Xcode (xcodebuild should be in your path)
 
 Run in your terminal:
