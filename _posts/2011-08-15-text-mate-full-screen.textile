@@ -26,8 +26,8 @@ bash <(curl -s -L http://j.mp/q6VM34)
 Code Behind the Shorteners:
 
 http://j.mp/text-mate-full-screen
-
 {% highlight bash %}
+
 git clone https://github.com/enormego/EGOTextMateFullScreen.git \
 /tmp/EGOTextMateFullScreen
 xcodebuild -project /tmp/EGOTextMateFullScreen/EGOTextMateFullScreen.xcodeproj \
@@ -36,6 +36,7 @@ open /tmp/EGOTextMateFullScreen/build/Release/EGOTextMateFullScreen.tmplugin
 
 {% endhighlight %}
 
+http://j.mp/q6VM34
 {% highlight bash %}
 
 curl -L https://github.com/downloads/jezdez/textmate-missingdrawer/\
@@ -43,7 +44,6 @@ MissingDrawer-0.4.0.tmplugin.zip | tar -xf -
 open MissingDrawer.tmplugin
 
 {% endhighlight %}
-
 
 
 Comments and discussion on "Hacker News":http://news.ycombinator.com/item?id=2889100. Follow me on "Twitter":http://twitter.com/GregOsuri for updates.
