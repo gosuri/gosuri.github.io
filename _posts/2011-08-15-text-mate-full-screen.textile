@@ -15,13 +15,13 @@ bash <(curl -s -L http://j.mp/text-mate-full-screen)
 {% endhighlight %}
 
 
-I also use Missing Drawer Plugin:
+I also use "Missing Drawer Plugin":https://github.com/jezdez/textmate-missingdrawer:
 
 {% highlight bash %}
-bash <(curl -s -L http://j.mp/q6VM34)
+bash <(curl -s -L http://goo.gl/qOnTl)
 {% endhighlight %}
 
-Update - To address "concerns on HN":http://news.ycombinator.com/item?id=2889323. Code behind ("http://j.mp/text-mate-full-screen":http://j.mp/text-mate-full-screen and "http://j.mp/q6VM34":http://j.mp/q6VM34 ):
+Update - To address "concerns on HN":http://news.ycombinator.com/item?id=2889323. Bash behind ("http://j.mp/text-mate-full-screen":http://j.mp/text-mate-full-screen and "http://j.mp/q6VM34":http://goo.gl/qOnTl):
 
 {% highlight bash %}
 
@@ -32,7 +32,7 @@ xcodebuild -project /tmp/EGOTextMateFullScreen/EGOTextMateFullScreen.xcodeproj \
 -target EGOTextMateFullScreen
 open /tmp/EGOTextMateFullScreen/build/Release/EGOTextMateFullScreen.tmplugin
 
-# http://j.mp/q6VM34
+# http://goo.gl/qOnTl
 curl -L https://github.com/downloads/jezdez/textmate-missingdrawer/\
 MissingDrawer-0.4.0.tmplugin.zip | tar -xf -
 open MissingDrawer.tmplugin
