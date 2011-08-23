@@ -1,0 +1,57 @@
+---
+layout: post
+title: git-sub(1) - Git substitution utility
+categories: [git,shell]
+---
+
+When we renamed my github organization, the whole team had to manually update the remote URLs which proved to be a daunting task. I created git-sub to make this easier.
+
+Install using "homebrew":http://mxcl.github.com/homebrew (Mac OS):
+
+{% highlight bash %}
+brew install git-sub
+{% endhighlight %}
+
+Install from "source":https://github.com/gosuri/git-sub:
+
+{% highlight bash %}
+git clone https://gosuri@github.com/gosuri/git-sub.git
+cd git-sub
+make
+sudo make install
+{% endhighlight %}
+
+Usage
+
+{% highlight bash %}
+git sub url [options] pattern replacement
+{% endhighlight %}
+
+Example:
+
+To replace all occurrences of 'foo' in the remote url with 'bar'
+
+
+{% highlight bash %}
+
+$ git sub url foo bar # will dry run
+
+. origin (fetch) git@github.com:foo/project.git -> git@github.com:bar/project.git
+. origin (push)  git@github.com:foo/project.git -> git@github.com:bar/project.git
+
+NOTE: No changes have been made. Please run with -c flag to commit changes
+
+$ git sub url -c foo bar # commit once you are satisfied with changes
+
+. origin (fetch) git@github.com:foo/project.git -> git@github.com:bar/project.git
+. origin (push)  git@github.com:foo/project.git -> git@github.com:bar/project.git
+
+Changes have been made to the above urls
+
+{% endhighlight %}
+
+Check out the "source":http://github.com/gosuri/git-sub and "man pages":http://gregosuri.com/git-sub.
+
+Like it? Spread the love, "Tweet":http://twitter.com/intent/tweet?source=webclient&text=RT%20@GregOsuri%20%22Introducing%20git-sub:%20git%20substitution%20utility%20to%20recursively%20update%20recursive%20URLs%22 and follow me on "Twitter":http://twitter.com/GregOsuri for updates.
+
+
