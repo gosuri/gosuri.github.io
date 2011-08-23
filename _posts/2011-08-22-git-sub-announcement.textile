@@ -6,11 +6,6 @@ h3. Background
 
 When we renamed our github organization the whole (rather big) team had to manually update the remote URLs which proved to be a daunting task. I created git-sub to make this easier.
 
-h3. Install using "(newwindow)homebrew":http://mxcl.github.com/homebrew (Mac OS):
-
-{% highlight bash %}
-brew install git-sub
-{% endhighlight %}
 
 h3. Install from "(newwindow)source":https://github.com/gosuri/git-sub:
 
