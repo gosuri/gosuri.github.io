@@ -9,9 +9,8 @@
     %script{:type =>"text/javascript", :src=>"http://use.typekit.com/xrn7yhf.js" }
     :javascript
       try{Typekit.load();}catch(e){}
-    %script{:type => "text/javascript", :src => "https://www.google.com/jsapi?key=ABQIAAAA9tY08LlsIeMqIln2VLJBiBT1QcW1pqS1h8CoEOeyHLsvcKFZ0xTPorLc8Vsc3-c0ng2mcpyjiN0zGQ" }
+    %script{:type => "text/javascript", :src => "http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" }
     :javascript
-      google.load("jquery", "1.6.2");
       $(document).ready(function() {
         $("a.newwindow").attr("target","_blank");
       });

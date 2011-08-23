@@ -5,8 +5,7 @@ title: git-sub(1) - Git substitution utility
 
 When we renamed my github organization, the whole team had to manually update the remote URLs which proved to be a daunting task. I created git-sub to make this easier.
 
-Install using <a href="http://twitter.com/intent/tweet?source=webclient&text=RT+%40GregOsuri+%22Introducing+git-sub%281%29+url+-+Recursively+substitutes+remote+URLs+for+multiple+repositories+http%3A%2F%2Fgregosuri.com%2F2011%2F08%2F22%2Fgit-sub-announcement.html%22" target="_blank">homebrew</a> (Mac OS):
-
+Install using "(newwindow)homebrew":http://mxcl.github.com/homebrew
 {% highlight bash %}
 brew install git-sub
 {% endhighlight %}
@@ -50,6 +49,6 @@ Changes have been made to the above urls
 
 Check out the "source":http://github.com/gosuri/git-sub and "man pages":http://gregosuri.com/git-sub.
 
-<p> Like it? You can <a href="http://twitter.com/intent/tweet?source=webclient&text=RT+%40GregOsuri+%22Introducing+git-sub%281%29+url+-+Recursively+substitutes+remote+URLs+for+multiple+repositories+http%3A%2F%2Fgregosuri.com%2F2011%2F08%2F22%2Fgit-sub-announcement.html%22" target="_blank"> Tweet </a> about it or(and) follow me on <a href="http://twitter.com/GregOsuri" target="_blank">Twitter</a> for updates.</p>
+Like it? You can "(newwindow)Tweet":http://twitter.com/intent/tweet?source=webclient&text=RT+%40GregOsuri+%22Introducing+git-sub%281%29+url+-+Recursively+substitutes+remote+URLs+for+multiple+repositories+http%3A%2F%2Fgregosuri.com%2F2011%2F08%2F22%2Fgit-sub-announcement.html%22" about it or (and) follow me on "(newwindow)Twitter":http://twitter.com/GregOsuri for updates.
 
 
