@@ -10,7 +10,7 @@ Install using "(newwindow)homebrew":http://mxcl.github.com/homebrew
 brew install git-sub
 {% endhighlight %}
 
-Install from "(newwindow)source":https://github.com/gosuri/git-sub:
+Install from "(newwindow)source":https://github.com/gosuri/git-sub
 
 {% highlight bash %}
 git clone https://gosuri@github.com/gosuri/git-sub.git
