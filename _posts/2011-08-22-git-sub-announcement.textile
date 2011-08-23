@@ -1,7 +1,6 @@
 ---
 layout: post
 title: git-sub(1) - Git substitution utility
-categories: [git,shell]
 ---
 
 When we renamed my github organization, the whole team had to manually update the remote URLs which proved to be a daunting task. I created git-sub to make this easier.
