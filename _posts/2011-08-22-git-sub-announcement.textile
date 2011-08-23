@@ -1,16 +1,18 @@
 ---
 layout: post
-title: git-sub(1) - Git substitution utility
+title: Introducing git-sub(1)
 ---
+h3. Background
 
-When we renamed my github organization, the whole team had to manually update the remote URLs which proved to be a daunting task. I created git-sub to make this easier.
+When we renamed our github organization the whole (rather big) team had to manually update the remote URLs which proved to be a daunting task. I created git-sub to make this easier.
 
-Install using "(newwindow)homebrew":http://mxcl.github.com/homebrew
+h3. Install using "(newwindow)homebrew":http://mxcl.github.com/homebrew (Mac OS):
+
 {% highlight bash %}
 brew install git-sub
 {% endhighlight %}
 
-Install from "(newwindow)source":https://github.com/gosuri/git-sub
+h3. Install from "(newwindow)source":https://github.com/gosuri/git-sub:
 
 {% highlight bash %}
 git clone https://gosuri@github.com/gosuri/git-sub.git
@@ -19,13 +21,13 @@ make
 sudo make install
 {% endhighlight %}
 
-Usage
+h3. "(newwindow)Usage":http://gregosuri.com/git-sub:
 
 {% highlight bash %}
 git sub url [options] pattern replacement
 {% endhighlight %}
 
-Example:
+h3. Example:
 
 To replace all occurrences of 'foo' in the remote url with 'bar'
 
@@ -47,8 +49,6 @@ Changes have been made to the above urls
 
 {% endhighlight %}
 
-Check out the "source":http://github.com/gosuri/git-sub and "man pages":http://gregosuri.com/git-sub.
-
-Like it? You can "(newwindow)Tweet":http://twitter.com/intent/tweet?source=webclient&text=RT+%40GregOsuri+%22Introducing+git-sub%281%29+url+-+Recursively+substitutes+remote+URLs+for+multiple+repositories+http%3A%2F%2Fgregosuri.com%2F2011%2F08%2F22%2Fgit-sub-announcement.html%22" about it or (and) follow me on "(newwindow)Twitter":http://twitter.com/GregOsuri for updates.
+Like it? You can "(newwindow)Tweet":http://twitter.com/intent/tweet?source=webclient&text=RT+%40GregOsuri+%22Introducing+git-sub%281%29+url+-+Recursively+substitutes+remote+URLs+for+multiple+repositories+http%3A%2F%2Fgregosuri.com%2F2011%2F08%2F22%2Fgit-sub-announcement.html%22 about it or (and) follow me on "(newwindow)Twitter":http://twitter.com/GregOsuri for updates.
 
 
