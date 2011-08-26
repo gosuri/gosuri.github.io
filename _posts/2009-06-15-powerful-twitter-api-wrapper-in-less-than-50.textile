@@ -12,7 +12,7 @@ I've been long fascinated about active record dynamic finders (find_by_) and wan
 
 # Author:: Greg Osuri <http://gregosuri.com>
 #
-# Copyright:: 2010, Greg Osuri. All Rights Reserved
+# Copyright:: 2009 Greg Osuri. All Rights Reserved
 #
 # Licensed under the MIT License
 # 
