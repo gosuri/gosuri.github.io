@@ -2,6 +2,7 @@
 layout: post
 title: Introducing git-url-sub(1)
 ---
+
 h3. Background
 
 When we renamed our github organization the entire (rather large) team had to manually update the remote URLs which proved to be a daunting task. I created git-url-sub to make this easier.
@@ -9,7 +10,7 @@ When we renamed our github organization the entire (rather large) team had to ma
 
 h3. Install from "(newwindow)source":https://github.com/gosuri/git-url-sub:
 
-j% highlight bash %}
+{% highlight bash %}
 git clone https://gosuri@github.com/gosuri/git-url-sub.git
 cd git-url-sub
 sudo make install
