@@ -196,16 +196,21 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 2 ;
+    text-align: center;
+
+    .site-name {
+      font-variant: small-caps;
+    }
 }
 
 .post-title {
     font-size: 32px;
-    //letter-spacing: -1px;
+    letter-spacing: -1px;
     line-height: 1.2;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 26px;
     }
 }
 
