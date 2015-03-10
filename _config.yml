@@ -2,7 +2,7 @@
 title: Greg Osuri
 email: me@gregosuri.com
 description: > # this means to ignore newlines until "baseurl:"
-  I build things for people that build things.
+  I build things for people that build things
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregosuri.com" # the base hostname & protocol for your site
 twitter_username: kn0tch
