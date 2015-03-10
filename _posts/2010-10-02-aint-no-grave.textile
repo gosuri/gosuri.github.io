@@ -1,7 +1,0 @@
----
-layout: post
-title: Ain't no Grave
----
-A collective music video of Cash's song "Ain't no Grave", directed by Chris Milk and created by people all over. Start contributing at "The Johnny Cash Project":http://www.thejohnnycashproject.com/
-<p style="text-align:center;"><object align='center'><param name="movie" value="http://www.thejohnnycashproject.com/pub/n/swf/release/videoplayer/MediaPlayerBoot.swf" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="scale" value="showAll" /><param name="bgcolor" value="#000000" /><param name="salign" value="tl" />
-  <param name="flashvars" value="type=TopRated&amp;pluginURL=http%3A%2F%2Fwww.thejohnnycashproject.com%2Fpub%2Fn%2Fxml%2Fvideoplayer%2Fcash.mediaplayer.CashMediaPlayer.plugin.xml.php%3Fv%3D1" /><embed src="http://www.thejohnnycashproject.com/pub/n/swf/release/videoplayer/MediaPlayerBoot.swf" type="application/x-shockwave-flash" width="608" height="440" flashvars="type=TopRated&amp;pluginURL=http%3A%2F%2Fwww.thejohnnycashproject.com%2Fpub%2Fn%2Fxml%2Fvideoplayer%2Fcash.mediaplayer.CashMediaPlayer.plugin.xml.php%3Fv%3D1"></embed></object></p>

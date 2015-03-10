@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Going META - Twitter API wrapper in less than 50 lines
+title: "Going META - Twitter API wrapper in less than 50 lines"
 ---
 
-
 I've been long fascinated about active record dynamic finders (find_by_) and wanted to write some thing similarly elegant, this twitter client uses ruby metaprogramming to dynamically generate objects and methods and adds simpler and easy to user methods for "Twitter REST API":https://dev.twitter.com/
-
 
 {% highlight ruby %}
 #!/usr/bin/env ruby
@@ -89,8 +87,12 @@ class Twitter
     end
   end
 end
+{% endhighlight %}
 
-#Examples
+Examples
+--------
+
+{% highlight ruby %}
 client = Twitter.new("user","password")
 status = client.statuses.show(:id => "13400589015") 
 p status.errors ? status.errors : status.text
@@ -98,10 +100,10 @@ p status.errors ? status.errors : status.text
 # More Examples
 user = client.users.lookup(:screen_name => "gregosuri")
 client.statuses.update.post(:status=>"Ruby Metaprogramming Rocks")
-
 {% endhighlight %}
+
 The program is constructed very similarly to active record dynamic finders, at the core it overrides object's method_missing and dynamically constructs the missing methods, "Jay Fields has an excellent blog post":http://blog.jayfields.com/2008/02/ruby-replace-methodmissing-with-dynamic.html that explains this technique.
 
 For e.g., in client.statuses.show(:id=>'1234') the client object (Twitter instance) does not have statuses object during initialization, when this is called, it invokes the method_missing of Twitter class, and since this method(statuses) does not have any arguments or ends with post/get, method_missing will return 'self', i.e., in our case the statuses object. The Proxy is used to buffer the methods, this is useful to construct the URL for later use.
 
-Now, 'show' method is called on 'statuses', since this has arguments it get processed by doing a HTTP GET to Twitter API. Once we have response from the server, an instance of TwitterResponse is created, the construct method accepts a hash/array and converts them into attributes and methods by using object.instance_variable_set and object.send in the constructor
+Now, 'show' method is called on 'statuses', since this has arguments it get processed by doing a HTTP GET to Twitter API. Once we have response from the server, an instance of TwitterResponse is created, the construct method accepts a hash/array and converts them into attributes and methods by using object.instance_variable_set and object.send in the constructor.
