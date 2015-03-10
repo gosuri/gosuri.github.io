@@ -10,3 +10,5 @@ github_username:  gosuri
 
 # Build settings
 markdown: kramdown
+
+permalink: pretty
