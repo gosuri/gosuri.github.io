@@ -12,3 +12,8 @@ github_username:  gosuri
 markdown: kramdown
 
 permalink: pretty
+
+paginate: 5
+
+karmadown:
+  enable_coreray: true
