@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a systems programmer based in San Francisco with a deep passion for automation at scale.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I spend most of my time building [ovrclk](http://ovrclk.com). Previously, I cofounded [AngelHack](http://angelhack.com) and [Hackathon.IO](http://hackathon.io).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I activily open-source my work, mostly on [my github](https://github.com/gosuri) and at [ovrclk github page](https://github.com/ovrclk).
+
+I am on [Twitter](https://twitter.com/kn0tch), am [Frontback](http://frontback.me/kn0tch)
