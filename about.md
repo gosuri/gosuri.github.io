@@ -10,4 +10,4 @@ I spend most of my time building [ovrclk](http://ovrclk.com). Previously, I cofo
 
 I activily open-source my work, mostly on [my github](https://github.com/gosuri) and at [ovrclk github page](https://github.com/ovrclk).
 
-I am on [Twitter](https://twitter.com/kn0tch), am [Frontback](http://frontback.me/kn0tch)
+I am on [Twitter](https://twitter.com/kn0tch) and [Frontback](http://frontback.me/kn0tch)
