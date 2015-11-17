@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a systems programmer based in San Francisco with a deep passion for automation at scale.
+I am a systems programmer based in San Francisco with a deep passion for automation at scale. You can find me online at, come say hi:
 
-I spend most of my time building [ovrclk](http://ovrclk.com). Previously, I cofounded [AngelHack](http://angelhack.com) and [Hackathon.IO](http://hackathon.io).
-
-I activily open-source my work, mostly on [my github](https://github.com/gosuri) and at [ovrclk github page](https://github.com/ovrclk).
-
-I am on [Twitter](https://twitter.com/kn0tch) and [Frontback](http://frontback.me/kn0tch)
+* [github.com/gosuri](https://github.com/gosuri)
+* [twitter/kn0tch](https://twitter.com/kn0tch)
+* [linkedin/gosuri](https://www.linkedin.com/in/gosuri)
