@@ -1,0 +1,9 @@
+- title: uiprogress
+  desc: A go library to render progress bars in terminal applications
+  url: https://github.com/gosuri/uiprogress
+- title: uilive
+  desc: A go library for updating terminal output in realtime
+  url: https://github.com/gosuri/uilive
+- title: uitable
+  desc: A go library to improve readability in terminal apps using tabular data
+  url: https://github.com/gosuri/uitable
