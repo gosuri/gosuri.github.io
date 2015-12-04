@@ -3,20 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Recent Projects</h1>
-  <ul class="proj-list">
-    {% for proj in site.data.projects limit:5 %}
-      <li>
-        <h3>
-          <a class="post-link" target="_blank" href="{{ proj.url | prepend: site.baseurl }}">{{ proj.title }}</a> 
-          <span class="post-meta">{{ proj.desc }}</span>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
   <h1 class="page-heading">Recent posts</h1>
   <ul class="post-list">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:3 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
@@ -31,6 +20,17 @@ layout: default
   </ul>
   <p class="rss-subscribe">see <a href="{{ "/posts" | prepend: site.baseurl }}">all posts</a></p>
   <br/>
+  <h1 class="page-heading">Recent Projects</h1>
+  <ul class="proj-list">
+    {% for proj in site.data.projects limit:5 %}
+      <li>
+        <h2>
+          <a class="post-link" target="_blank" href="{{ proj.url | prepend: site.baseurl }}">{{ proj.title }}</a> 
+          <span class="post-meta">{{ proj.desc }}</span>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
   <!-- <h1 class="page-heading">Talks</h1> -->
   <!-- <ul class="post-list"> -->
   <!--   {% for talk in site.data.talks %} -->
