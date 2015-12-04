@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am a systems programmer based in San Francisco with a deep passion for automation at scale. You can find me online at, come say hi:
+I’m a systems programmer based in San Francisco, CA and the Founder of [OvrClk](http://ovrclk.com), an operating system for distributed applications. Previously, I've founded [AngelHack](http://angelhack.com).
 
-* [github.com/gosuri](https://github.com/gosuri)
+I’m passionated about Distributed Computing, Product and Go and a regular open source contributor.
+
+You can find me online at:
+
+* [github/gosuri](https://github.com/gosuri)
 * [twitter/kn0tch](https://twitter.com/kn0tch)
 * [linkedin/gosuri](https://www.linkedin.com/in/gosuri)
