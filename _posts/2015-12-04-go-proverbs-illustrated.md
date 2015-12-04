@@ -9,7 +9,7 @@ These profound set of elegant truths become evident as I practice more Go. I wro
 
 ### The bigger the interface, the weaker the abstraction
 
-The concept behind an Interface is to allow re-usability by abstracting an object's behaviour into a simple contract. Although, it is not exclusive to Go, it has been widely adopted by Go programmers because of the fact that Go interfaces generally tend to be small. Often times, limited on one or two methods.
+The concept behind an Interface is to allow re-usability by abstracting an object's behavior into a simple contract. Although, it is not exclusive to Go, it has been widely adopted by Go programmers because of the fact that Go interfaces generally tend to be small. Often times, limited on one or two methods.
 
 I recently published [uilive](https://github.com/gosuri/uilive), a library for updating terminal output in real-time. To write, the user sends an array of bytes to writer's `Write([]byte)` method. Since the uilive's [Writer](https://godoc.org/github.com/gosuri/uilive#Writer.Write) implements io.Writer's [Write](https://golang.org/pkg/io/#Writer) method, the user can send this writer to any object that accepts `io.Writer`, like [fmt.Fprintf](https://golang.org/pkg/fmt/#Fprintf). 
 
@@ -31,7 +31,7 @@ The small size of the `io.Writer` interface allows for a stronger abstraction an
 
 ### Make the zero value useful
 
-Zero values can greatly simply the API. For example when using bytes.Buffer, the user just can declare and use it with out initialization ([play](http://play.golang.org/p/gJfh6XYSV8)).
+Zero values can greatly simplify the API. For example when using bytes.Buffer, the user just can declare and use it with out initialization ([play](http://play.golang.org/p/gJfh6XYSV8)).
 
 {% highlight go %}
 var buf bytes.Buffer
@@ -39,7 +39,7 @@ buf.Write([]byte("hello"))
 fmt.Println(buf.String())
 {% endhighlight %}
 
-In cases where zero values are impracticle, package defaults can be used to simplify the API. For [uiprogress](https://github.com/gosuri/uiprogress), A library I wrote for rendering progress bars in terminal applications, using a [DefaultProgress](https://github.com/gosuri/uiprogress/blob/master/progress.go#L16) simplified the API in a way that the user can be productive with just four lines of code. This pattern is also used in [net/http](https://golang.org/pkg/net/http/) `http.ListenAndServe(...)`.
+In cases where zero values are impractical, package defaults can be used to simplify the API. For [uiprogress](https://github.com/gosuri/uiprogress), A library I wrote for rendering progress bars in terminal applications, using a [DefaultProgress](https://github.com/gosuri/uiprogress/blob/master/progress.go#L16) simplified the API in a way that the user can be productive with just four lines of code. This pattern is also used in [net/http](https://golang.org/pkg/net/http/) `http.ListenAndServe(...)`.
 
 {% highlight go %}
 uiprogress.Start()            // start rendering
@@ -50,7 +50,7 @@ for bar.Incr() {
 }
 {% endhighlight %}
 
-Not quite the zero value but a slightly related topic is the value of zero storage - the empty struct, one of my favourite data types. An empty struct, in essence, is a struct type that has no fields, no data and consumes no storage ([play](http://play.golang.org/p/Hbxdob-liW)).
+Not quite the zero value but a slightly related topic is the value of zero storage - the empty struct, one of my favorite data types. An empty struct, in essence, is a struct type that has no fields, no data and consumes no storage ([play](http://play.golang.org/p/Hbxdob-liW)).
 
 I tend to use this when communicating signals between go routines. For example:
 
@@ -152,7 +152,7 @@ func (w *Writer) clearLines() {
 }
 {% endhighlight %}
 
-Buildtags in this case not only gaurd, but actually simplify the implementation for different systems.
+Build tags in this case not only gaurd, but actually simplify the implementation for different systems.
 
 ### Reflection is never clear & interface{} says nothing
 
@@ -231,4 +231,4 @@ func (s *Redis) List(i interface{}) error {
 
 Thank you for reading. Hope you found this post useful. 
 
-Please feel free to leave a comment below or reach out to me [twitter](http://twitter.com/kn0tch) if you'd like to get in touch.
+Please feel free to leave a comment below or reach out to me [twitter](http://www.twitter.com/kn0tch) if you'd like to get in touch.

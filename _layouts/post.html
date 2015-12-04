@@ -29,9 +29,9 @@
         </div>
         <div class="post">
           <header class="post-header">
-            <h3 class='site-name'> <a href="{{ site.baseurl }}/">{{ site.title }}</a> </h3>
             <h1 class="post-title">{{ page.title }}</h1>
-            <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+            <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} | <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+            </p>
           </header>
           <article class="post-content">
             {{ content }}
