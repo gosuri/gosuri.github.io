@@ -5,7 +5,9 @@ title: "Go Proverbs Illustrated"
 
 Rob Pike, in a recent [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c), shared a set of insightful principles in a hope to explain the [Go language](https://golang.org) and a few common patterns in go programs using a set of [simple, poetic and pithy proverbs](http://go-proverbs.github.io)
 
-These profound set of elegant truths become evident as I practice more Go. I wrote this post to illustrate some of my experiences and my learnings along the way.
+These profound set of elegant truths become evident as I practice more Go. I wrote this post to illustrate some of my experiences and learnings along the way. 
+
+Examples illustrated are primarily from [uiprogress](https://github.com/gosuri/uiprogress), [uilive](https://github.com/gosuri/uilive), [uitable](https://github.com/gosuri/uitable) and [go-store](https://github.com/gosuri/go-store)
 
 ### The bigger the interface, the weaker the abstraction
 
@@ -95,7 +97,7 @@ for i := 0; i < 100; i++ {
 	// do some work concurrently
 	go func() {
 		bar.Incr() // increment
-	}
+	}()
 }
 uiprogress.Stop() // finish rendering, send a message to the stop channel
 {% endhighlight %}
