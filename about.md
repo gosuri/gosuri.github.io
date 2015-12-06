@@ -11,5 +11,5 @@ I’m passionated about Distributed Computing, Product and Go and a regular open
 You can find me online at:
 
 * [github/gosuri](https://github.com/gosuri)
-* [twitter/kn0tch](https://twitter.com/kn0tch)
+* [twitter/GregOsuri](https://twitter.com/GregOsuri)
 * [linkedin/gosuri](https://www.linkedin.com/in/gosuri)
