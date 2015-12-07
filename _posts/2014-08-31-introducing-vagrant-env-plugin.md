@@ -3,7 +3,7 @@ layout: post
 title: "Introducing vagrant-env plugin"
 ---
 
-At [Overclock](http://overclock.io), we use [Vagrant](https://www.vagrantup.com) to develop and test our chef cookbooks and it has become an integral part of our workflow. 
+At [OvrClk](http://ovrclk.com), we use [Vagrant](https://www.vagrantup.com) to develop and test our chef cookbooks and it has become an integral part of our workflow. 
 
 We also prefer checking in our knife config files in the SCM to reduce friction in setting up chef on our team members' and clients' workstations.
 
