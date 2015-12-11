@@ -54,7 +54,7 @@ for bar.Incr() {
 
 Not quite the zero value but a slightly related topic is the value of zero storage - the empty struct, one of my favorite data types. An empty struct, in essence, is a struct type that has no fields, no data and consumes no storage.
 
-I tend to use this when communicating signals between go routines. For example:
+I tend to use this when communicating signals between go routines. The [Listen](https://github.com/gosuri/uilive/blob/master/writer.go#L91) method for uilive works this way. For example:
 
 {% highlight go %}
 type Writer struct {
@@ -63,28 +63,33 @@ type Writer struct {
 }
 
 func (w *Writer) Start() {
-	go func() {
-		for { 
-			// render logic .. 
+	for {
+		select {
+		case <-w.stopChan:
+			{
+				return // stop rendering
+			}
+		default:
+			{
+      // do work ...
+			}
 		}
-	}()
-	<-w.stopChan // stop when a message to this channel is recevid
+	}
 }
 
 func (w *Writer) Stop() {
-	// send an emtpy struct to stop rendering
-	w.stopChan <- struct{}{}
+	close(w.stopChan)
 }
 {% endhighlight %}
 
-The below example demonstrates the zero storage of an empty struct ([play](http://play.golang.org/p/Hbxdob-liW)).
+The below example demonstrates the zero storage property of an empty struct ([play](http://play.golang.org/p/ubG5f2HvLT)).
 
 {% highlight go %}
-s := struct{}{}
+var s struct{}
 fmt.Println(unsafe.Sizeof(s)) // prints 0
 {% endhighlight %}
 
-Dave Cheney explores this in depth in this [post](http://dave.cheney.net/2014/03/25/the-empty-struct).
+Dave Cheney explores this in depth in this [post](http://dave.cheney.net/2013/04/30/curious-channels) about using an empty struct in channels.
 
 ### Channels orchestrate; mutexes serialize
 
@@ -233,6 +238,4 @@ func (s *Redis) List(i interface{}) error {
 }
 {% endhighlight %}
 
-Thank you for reading. Hope you found this post useful. 
-
-Please feel free to leave a comment below or reach out to me [twitter](http://www.twitter.com/kn0tch) if you'd like to get in touch.
+Thank you for reading. Hope you found this post useful. Please feel free to leave a comment below or reach out to me [twitter](http://www.twitter.com/kn0tch), if you'd like to get in touch.
