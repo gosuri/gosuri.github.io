@@ -3,7 +3,7 @@ layout: post
 title: Automating a multi-tiered application securely on AWS with Docker and Terraform
 ---
 
-> This is a copy of the [originial article](https://www.airpair.com/aws/posts/ntiered-aws-docker-terraform-guide#LXCaODz2cklfBubq.01), published on [AirPair](http://www.airpair.com).
+> This article was originally published on [AirPair](https://www.airpair.com/aws/posts/ntiered-aws-docker-terraform-guide#LXCaODz2cklfBubq.01)
 
 Data, a crucial part of any infrastructure, is particularly vulnerable while traveling over the Internet. Securing its transportation is a fundamental requirement for establishing a trusted network. 
 
