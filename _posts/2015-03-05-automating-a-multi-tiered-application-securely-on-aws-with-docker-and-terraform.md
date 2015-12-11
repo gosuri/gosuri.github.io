@@ -639,7 +639,7 @@ Terraform allows persisting computed values in output variables. The output vari
 
 Create the `outputs.tf` file with the below configuration:
 
-```
+{% highlight sh%}
 output "app.0.ip" {
   value = "${aws_instance.app.0.private_ip}"
 }
@@ -655,7 +655,7 @@ output "nat.ip" {
 output "elb.hostname" {
   value = "${aws_elb.app.dns_name}"
 }
-```
+{% endhighlight %}
 
 Since we are not changing any values this time, running `terraform apply` will populate outputs in the state file. Inspect the `elb.hostname` by running:
 
@@ -672,62 +672,62 @@ The below steps configure the VPN server and generate a client configuration to 
 
 Considering the commands are fairly long, we will be creating command wrappers to be able to easily run them again. A big part of improving operationally efficiency comes from our ability to simplify complicated commands. We will save the commands in the `bin` directory as executable files.
 
-1. Initialize PKI and save the command the under bin/ovpn-init
+1) Initialize PKI and save the command the under bin/ovpn-init
 
-  {% highlight sh%}
-  $ cat > bin/ovpn-init <<EOF
-  ssh -t -i ssh/insecure-deployer \
-  "ubuntu@\$(terraform output nat.ip)" \
-  sudo docker run --volumes-from ovpn-data --rm -it gosuri/openvpn ovpn_initpki
-  EOF
+{% highlight sh%}
+$ cat > bin/ovpn-init <<EOF
+ssh -t -i ssh/insecure-deployer \
+"ubuntu@\$(terraform output nat.ip)" \
+sudo docker run --volumes-from ovpn-data --rm -it gosuri/openvpn ovpn_initpki
+EOF
 
-  $ chmod +x bin/ovpn-init 
-  $ bin/ovpn-init
-  {% endhighlight %}
-  
+$ chmod +x bin/ovpn-init 
+$ bin/ovpn-init
+{% endhighlight %}
+
 The above command will prompt you for a passphrase for the root certificate. Choose a strong passphrase and store it some where safe. This passphrase is required every time you generate a new client configuration.
 
-2. Start the VPN server
+2) Start the VPN server
 
-  {% highlight sh%}
-  $ cat > bin/ovpn-start <<EOF
-  ssh -t -i ssh/insecure-deployer \
-  "ubuntu@\$(terraform output nat.ip)" \
-  sudo docker run --volumes-from ovpn-data -d -p 1194:1194/udp --cap-add=NET_ADMIN gosuri/openvpn
-  EOF
-  
-  $ chmod +x bin/ovpn-start
-  $ bin/ovpn-start
-  {% endhighlight %}
+{% highlight sh%}
+$ cat > bin/ovpn-start <<EOF
+ssh -t -i ssh/insecure-deployer \
+"ubuntu@\$(terraform output nat.ip)" \
+sudo docker run --volumes-from ovpn-data -d -p 1194:1194/udp --cap-add=NET_ADMIN gosuri/openvpn
+EOF
 
-3. Generate client certificate
+$ chmod +x bin/ovpn-start
+$ bin/ovpn-start
+{% endhighlight %}
 
-  {% highlight sh%}
-  $ cat > bin/ovpn-new-client <<EOF
-  ssh -t -i ssh/insecure-deployer \
-  "ubuntu@\$(terraform output nat.ip)" \
-  sudo docker run --volumes-from ovpn-data --rm -it gosuri/openvpn easyrsa build-client-full "\${1}" nopass
-  EOF
+3) Generate client certificate
 
-  $ chmod +x bin/ovpn-new-client
-  # generate a configuration for your user
-  $ bin/ovpn-new-client $USER
-  {% endhighlight %}
+{% highlight sh%}
+$ cat > bin/ovpn-new-client <<EOF
+ssh -t -i ssh/insecure-deployer \
+"ubuntu@\$(terraform output nat.ip)" \
+sudo docker run --volumes-from ovpn-data --rm -it gosuri/openvpn easyrsa build-client-full "\${1}" nopass
+EOF
 
-4. Download OpenVPN client configuration
+$ chmod +x bin/ovpn-new-client
+# generate a configuration for your user
+$ bin/ovpn-new-client $USER
+{% endhighlight %}
 
-  {% highlight sh%}
-  $ cat > bin/ovpn-client-config <<EOF
-  ssh -t -i ssh/insecure-deployer \
-  "ubuntu@\$(terraform output nat.ip)" \
-  sudo docker run --volumes-from ovpn-data --rm gosuri/openvpn ovpn_getclient "\${1}" > "\${1}-airpair-example.ovpn"
-  EOF
+4) Download OpenVPN client configuration
 
-  $ chmod +x bin/ovpn-client-config
-  $ bin/ovpn-client-config $USER
-  {% endhighlight %}
+{% highlight sh%}
+$ cat > bin/ovpn-client-config <<EOF
+ssh -t -i ssh/insecure-deployer \
+"ubuntu@\$(terraform output nat.ip)" \
+sudo docker run --volumes-from ovpn-data --rm gosuri/openvpn ovpn_getclient "\${1}" > "\${1}-airpair-example.ovpn"
+EOF
 
-5. The above command creates a `$USER-airpair-example.ovpn` client configuration file in the current directory. Double-click on the file to import the configuration to your VPN client. You can also connect using an iPhone/Android device. Check out [OpenVPN Connect for iPhone](https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8) and [OpenVPN Connect on Play Store](https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=en).
+$ chmod +x bin/ovpn-client-config
+$ bin/ovpn-client-config $USER
+{% endhighlight %}
+
+5) The above command creates a `$USER-airpair-example.ovpn` client configuration file in the current directory. Double-click on the file to import the configuration to your VPN client. You can also connect using an iPhone/Android device. Check out [OpenVPN Connect for iPhone](https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8) and [OpenVPN Connect on Play Store](https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=en).
 
 Test your Private Connection
 ----------------------------
