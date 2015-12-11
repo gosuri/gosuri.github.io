@@ -766,11 +766,9 @@ Do you really want to destroy?
 Apply complete! Resources: 0 added, 0 changed, 16 destroyed.
 {% endhighlight %}
 
-gonclusion
+Conclusion
 ----------
 
 There is a lot more to Terraform than what is covered in this guide. Checkout [terraform.io](https://terraform.io) and the [Github project](http://github.com/hashicorp/terraform) to see more of this awesome tool.
 
 I hope you found this guide useful. I gave my best to keep the it accurate and updated. If there is any part of the guide that you felt could use improvement, make your updates in a [fork](https://www.airpair.com/posts/fork/54f3d0b292e9370c00ae049f) and send me a pull request. I will attend to it promptly. 
-
-
