@@ -11,6 +11,9 @@ github_username:  gosuri
 # Build settings
 markdown: kramdown
 
+sass:
+  sass_dir: _sass
+
 permalink: pretty
 
 paginate: 5

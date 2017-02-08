@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Recent posts</h1>
-  <ul class="post-list">
-    {% for post in site.posts limit:3 %}
+  <h1 class="page-heading">Posts</h1>
+  <ul class="index-list post-list">
+    {% for post in site.posts limit:9 %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
@@ -20,8 +20,8 @@ layout: default
   </ul>
   <p class="rss-subscribe">see <a href="{{ "/posts" | prepend: site.baseurl }}">all posts</a></p>
   <br/>
-  <h1 class="page-heading">Recent Projects</h1>
-  <ul class="proj-list">
+  <h1 class="page-heading">Open Source</h1>
+  <ul class="index-list proj-list">
     {% for proj in site.data.projects limit:5 %}
       <li>
         <h2>
@@ -31,15 +31,15 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  <!-- <h1 class="page-heading">Talks</h1> -->
-  <!-- <ul class="post-list"> -->
-  <!--   {% for talk in site.data.talks %} -->
-  <!--     <li> -->
-  <!--       <span class="post-meta">{{ talk.date | date: "%b %-d, %Y" }}</span> -->
-  <!--       <h2> -->
-  <!--         <a class="post-link" target="_blank" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.title }}</a> -->
-  <!--       </h2> -->
-  <!--     </li> -->
-  <!--   {% endfor %} -->
-  <!-- </ul> -->
+  <h1 class="page-heading">Media</h1>
+  <ul class="index-list post-list">
+    {% for talk in site.data.talks %}
+      <li>
+        <span class="post-meta">{{ talk.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" target="_blank" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 </div>

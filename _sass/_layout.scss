@@ -171,33 +171,44 @@
     font-size: 20px;
 }
 
-.post-list {
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+  display: inline-block;
+}
+
+.index-list {
     margin-left: 0;
     list-style: none;
+    line-height: 1.2;
 
     > li {
-        margin-bottom: $spacing-unit;
+      margin-bottom: 0px;
+      // margin-bottom: $spacing-unit;
+    }
+    h2 {
+      display: inline-block;
+      margin-bottom: 2px;
     }
 }
 
-.post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+.post-list {
+  .post-meta {
+    width: 100px;
+  }
 }
 
+
 .post-link {
-    display: block;
-    font-size: 18px;
+    display: inline-block;
+    font-size: 15px;
 }
 
 
 .proj-list {
-    margin-left: 0;
-    list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit / 2;
-    }
+  .post-link {
+    width: 100px;
+  }
 }
 
 /**
