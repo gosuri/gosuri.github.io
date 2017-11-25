@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm the Founder and CEO of [OvrClk](http://ovrclk.com), where I spend most of my time building a better future where every interaction is cognitively continuous.
+I’m the Founder and CEO of [Overclock Labs](http://ovrclk.com), where I spend most of my time building a democratized future of internet by with protocols, tools, and infrastructure to make foundational elements of the open, decentralized, and secure.
 
 My obsessed with automation at scale began when I wrote my first line of code at 12, and I feel very fortunate to turn my hobby into a life-long career in software engineering. I also regularly [contribute](http://github.com/gosuri) to open-source software.
 
