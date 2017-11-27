@@ -10,5 +10,6 @@ My obsessed with automation at scale began when I wrote my first line of code at
 
 You can find me online at:
 
+* [medium/gosuri](https://medium.com/@gosuri)
 * [twitter/GregOsuri](https://twitter.com/GregOsuri)
 * [linkedin/gosuri](https://www.linkedin.com/in/gosuri)
