@@ -20,6 +20,28 @@ layout: default
   </ul>
   <p class="rss-subscribe">see <a href="{{ "/posts" | prepend: site.baseurl }}">all posts</a></p>
   <br/>
+  <h1 class="page-heading">Recent Talks</h1>
+  <ul class="index-list post-list">
+    {% for talk in site.data.talks %}
+      <li>
+        <span class="post-meta">{{ talk.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" target="_blank" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  <h1 class="page-heading">Recent Press</h1>
+  <ul class="index-list post-list">
+    {% for talk in site.data.press %}
+      <li>
+        <span class="post-meta">{{ talk.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" target="_blank" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
   <h1 class="page-heading">Open Source</h1>
   <ul class="index-list proj-list">
     {% for proj in site.data.projects limit:5 %}
@@ -27,17 +49,6 @@ layout: default
         <h2>
           <a class="post-link" target="_blank" href="{{ proj.url | prepend: site.baseurl }}">{{ proj.title }}</a> 
           <span class="post-meta">{{ proj.desc }}</span>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-  <h1 class="page-heading">Media</h1>
-  <ul class="index-list post-list">
-    {% for talk in site.data.talks %}
-      <li>
-        <span class="post-meta">{{ talk.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" target="_blank" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.title }}</a>
         </h2>
       </li>
     {% endfor %}
