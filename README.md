@@ -16,3 +16,9 @@ Run the below command to start the server at http://127.0.0.1:4000
 ```sh
 $ jekyll server
 ```
+
+Running on Akash
+----------------
+```sh
+$ akash deployment create akash.yml -k [key] -w
+```

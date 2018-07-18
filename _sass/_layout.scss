@@ -180,7 +180,7 @@
 .index-list {
     margin-left: 0;
     list-style: none;
-    line-height: 1.2;
+    line-height: 1.1;
 
     > li {
       margin-bottom: 0px;
@@ -188,7 +188,7 @@
     }
     h2 {
       display: inline-block;
-      margin-bottom: 2px;
+      margin-bottom: 0px;
     }
 }
 
@@ -201,7 +201,7 @@
 
 .post-link {
     display: inline-block;
-    font-size: 15px;
+    font-size: $small-font-size;
 }
 
 

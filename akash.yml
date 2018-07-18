@@ -1,0 +1,34 @@
+---
+services:
+  web:
+    image: docker.io/gosuri/blog
+    expose:
+      - port: 8080
+        as: 80
+        accept:
+          - gregosuri.147.75.70.13.nip.io
+          - gregosuri.147-75-70-13.aksh.io
+          - gregosuri.tn1.akash.network
+          - gregosuri.com
+          - www.gregosuri.com
+        to:
+          - global: true
+
+profiles:
+  compute:
+    web:
+      cpu: "0.25"
+      memory: "1024Mi"
+      disk: "5Gi"
+  placement:
+    westcoast:
+      attributes:
+        region: us-west
+      pricing:
+        web: 100
+
+deployment:
+  web:
+    westcoast:
+      profile: web
+      count: 1

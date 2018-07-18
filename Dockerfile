@@ -1,4 +1,6 @@
-FROM jekyll/jekyll:latest
+FROM ruby:latest 
 RUN mkdir /myapp
-WORKDIR /myapp
 COPY . /myapp
+WORKDIR /myapp
+RUN bundle
+CMD jekyll build && jekyll serve -H 0.0.0.0 -P 8080
