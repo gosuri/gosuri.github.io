@@ -19,6 +19,15 @@ $ jekyll server
 
 Running on Akash
 ----------------
+
+Modify the `.akash.yml` with the necessary hostnames and run:
+
 ```sh
-$ akash deployment create akash.yml -k [key] -w
+$ make create
+```
+
+To deploy changes:
+
+```sh
+$ make deploy
 ```

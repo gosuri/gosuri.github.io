@@ -6,11 +6,9 @@ services:
       - port: 8080
         as: 80
         accept:
-          - gregosuri.147.75.70.13.nip.io
           - gregosuri.147-75-70-13.aksh.io
-          - gregosuri.tn1.akash.network
+          - gregosuri.147.75.70.13.nip.io
           - gregosuri.com
-          - www.gregosuri.com
         to:
           - global: true
 

@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I’m the Founder and CEO of [Overclock Labs](http://ovrclk.com), where I spend most of my time building a democratized future of the internet using protocols, tools, and infrastructure to make its foundational elements open, decentralized, and secure.
+Greg Osuri is the founder & CEO of [Overclock Labs](http://ovrclk.com), the creators of [Akash Network](http://akash.network), the decentralized protocol for provisioning, scaling and securing cloud workloads. Previously, Greg founded AngelHack and was the CTO for the world's largest hackathon-accelerator with over 150k developers in the ecosystem, spread across 50 cities around the world.
 
-My obsessed with automation at scale began when I wrote my first line of code at 12, and I feel very fortunate to turn my hobby into a life-long career in software engineering. I also regularly [contribute](http://github.com/gosuri) to open-source software.
+Greg is also an author of several prominent open source toolkits that are well-regarded by the DevOps community and has been placed amongst top 20 programmers worldwide on several occasions for authoring [open-source](http://github.com/gosuri) libraries used by widely-adopted projects like Ubuntu and Kubernetes. 
 
-You can find me online at:
+You can find Greg online at:
 
 * [medium/gosuri](https://medium.com/@gosuri)
 * [twitter/GregOsuri](https://twitter.com/GregOsuri)
 * [linkedin/gosuri](https://www.linkedin.com/in/gosuri)
+* [telegram/gosuri](https://t.me/gosuri)
