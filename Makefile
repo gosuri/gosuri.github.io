@@ -1,3 +1,5 @@
+KEY = osuri
+
 server:
 	bundle exec jekyll server
 
@@ -17,9 +19,9 @@ img-push:
 	docker push gosuri/blog 
 
 create:
-	akash deployment create akash.yml -k master -w > .akash
+	akash deployment create akash.yml -k $(KEY) > .akash
 
 remove: 
-	akash deployment close $(shell cat .akash | head -1) -k master
+	akash deployment close $(shell cat .akash | head -1) -k $(KEY)
 
 .PHONY: server installdeps deploy img img-run img-push create remove
