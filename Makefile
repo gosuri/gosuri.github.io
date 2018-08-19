@@ -1,4 +1,4 @@
-KEY = osuri
+KEY = gosuri
 
 server:
 	bundle exec jekyll server
