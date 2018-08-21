@@ -1,9 +1,8 @@
-86e3059367ef7d8aa08d0dc61e88fea31883e779a5c7b1405ca6ca0dc12a1327
+e7df0c9df2f15717ef42384ba366ed0cae91fb54220c4f7f8552360251c5dd20
 Waiting...
-Group 1/1 Fulfillment: 86e3059367ef7d8aa08d0dc61e88fea31883e779a5c7b1405ca6ca0dc12a1327/1/2/b5699c11e40b9c8569094777da31c24a25bb5792f8e3092afde82daa8578e9ad [price=29]
-Group 1/1 Fulfillment: 86e3059367ef7d8aa08d0dc61e88fea31883e779a5c7b1405ca6ca0dc12a1327/1/2/1640fa269587cf31d853f4e5fc061442a432ed5aa26e4db755ba13796e15ccd7 [price=49]
-Group 1/1 Lease: 86e3059367ef7d8aa08d0dc61e88fea31883e779a5c7b1405ca6ca0dc12a1327/1/2/b5699c11e40b9c8569094777da31c24a25bb5792f8e3092afde82daa8578e9ad [price=29]
-Sending manifest to http://provider.sjc.ix.akashtest.net...
-Service URIs for provider: b5699c11e40b9c8569094777da31c24a25bb5792f8e3092afde82daa8578e9ad
+Group 1/1 Fulfillment: e7df0c9df2f15717ef42384ba366ed0cae91fb54220c4f7f8552360251c5dd20/1/2/2f60c1b262ee2e41371799f6a6e96eac52fabafaa4e7f2313960a601b61c72b5 [price=55]
+Group 1/1 Lease: e7df0c9df2f15717ef42384ba366ed0cae91fb54220c4f7f8552360251c5dd20/1/2/2f60c1b262ee2e41371799f6a6e96eac52fabafaa4e7f2313960a601b61c72b5 [price=55]
+Sending manifest to http://provider.sjc.arrakis.akashtest.net...
+Service URIs for provider: 2f60c1b262ee2e41371799f6a6e96eac52fabafaa4e7f2313960a601b61c72b5
 	web: gregosuri.com
-	web: web.63ce183f-dbe2-4f45-8f3b-6a242d20b825.147-75-201-51.aksh.io
+	web: web.d7c8f1b4-35fa-4bdf-9ce1-f26bec2c9f88.147-75-70-213.aksh.io

@@ -1,0 +1,30 @@
+---
+version: "1.0"
+
+services:
+  web:
+    image: gosuri/blog
+    expose:
+      - port: 8080
+        as: 80
+        accept:
+          - demo.gregosuri.com
+        to:
+          - global: true
+
+profiles:
+  compute:
+    web:
+      cpu: "100m"
+      memory: "512Mi"
+      disk: "512Mi"
+  placement:
+    san-jose:
+      pricing:
+        web: .0012
+
+deployment:
+  web:
+    san-jose:
+      profile: web
+      count: 1
