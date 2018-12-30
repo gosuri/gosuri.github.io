@@ -1,11 +1,1 @@
-c91f005ac1b39f14b0e7301976695345dfc21f18516a65b30c61baca488cc212
-Waiting...
-Group 1/1 Fulfillment: c91f005ac1b39f14b0e7301976695345dfc21f18516a65b30c61baca488cc212/1/2/08a7360fe32319995fe80fe6a70eace45b14bbc26ba72266fdf0dacdcfeff605 [price=29]
-Group 1/1 Fulfillment: c91f005ac1b39f14b0e7301976695345dfc21f18516a65b30c61baca488cc212/1/2/694661c1a375874bf0640b2657aeb5012a922d47e9d09f093275434d30884406 [price=50]
-Group 1/1 Fulfillment: c91f005ac1b39f14b0e7301976695345dfc21f18516a65b30c61baca488cc212/1/2/4ed57705f2e9e6628129d3982791dd69e737c6916cb06144a283f5398ffe8f03 [price=49]
-Group 1/1 Fulfillment: c91f005ac1b39f14b0e7301976695345dfc21f18516a65b30c61baca488cc212/1/2/08e1bc50d28e30c920138a3c2b3c9b906dfa72797de8b1db4110daaaec46077b [price=52]
-Group 1/1 Lease: c91f005ac1b39f14b0e7301976695345dfc21f18516a65b30c61baca488cc212/1/2/08a7360fe32319995fe80fe6a70eace45b14bbc26ba72266fdf0dacdcfeff605 [price=29]
-Sending manifest to http://provider.sjc.ecaz.akashtest.net...
-Service URIs for provider: 08a7360fe32319995fe80fe6a70eace45b14bbc26ba72266fdf0dacdcfeff605
-	web: gregosuri.com
-	web: web.d26960f4-9999-4d43-abb6-e5885450b868.147-75-109-3.aksh.io
+E[12-30|14:24:03.110] error sending tx                             app=akash error="broadcast_tx_commit: Error unmarshalling rpc response: invalid character '<' looking for beginning of value"
