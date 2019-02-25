@@ -1,1 +1,10 @@
-E[12-30|14:24:03.110] error sending tx                             app=akash error="broadcast_tx_commit: Error unmarshalling rpc response: invalid character '<' looking for beginning of value"
+249f21e2343031c146f15177d165163692d680ea9f13179bc96fe7d51285babd
+Waiting...
+Group 1/1 Fulfillment: 249f21e2343031c146f15177d165163692d680ea9f13179bc96fe7d51285babd/1/2/4ed57705f2e9e6628129d3982791dd69e737c6916cb06144a283f5398ffe8f03 [price=67]
+Group 1/1 Fulfillment: 249f21e2343031c146f15177d165163692d680ea9f13179bc96fe7d51285babd/1/2/08e1bc50d28e30c920138a3c2b3c9b906dfa72797de8b1db4110daaaec46077b [price=38]
+Group 1/1 Fulfillment: 249f21e2343031c146f15177d165163692d680ea9f13179bc96fe7d51285babd/1/2/5899b716a289a2db6b9513e97dee37c6e50259fe2edd85063cc00e9e5c96e69c [price=60]
+Group 1/1 Lease: 249f21e2343031c146f15177d165163692d680ea9f13179bc96fe7d51285babd/1/2/08e1bc50d28e30c920138a3c2b3c9b906dfa72797de8b1db4110daaaec46077b [price=38]
+Sending manifest to http://provider.sjc.arrakis.akashtest.net...
+Service URIs for provider: 08e1bc50d28e30c920138a3c2b3c9b906dfa72797de8b1db4110daaaec46077b
+	web: gregosuri.com
+	web: web.bde7bbb9-6b3b-488c-adf9-975693a6719f.147-75-108-121.aksh.io
