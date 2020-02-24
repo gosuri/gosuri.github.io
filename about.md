@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Greg Osuri is the founder & CEO of [Overclock Labs](http://ovrclk.com), the creators of [Akash Network](http://akash.network), the decentralized protocol for provisioning, scaling and securing cloud workloads. Previously, Greg founded AngelHack and was the CTO for the world's largest hackathon-accelerator with over 150k developers in the ecosystem, spread across 50 cities around the world.
+As cofounder and CEO of [Akash Network](http://akash.network), Greg has transformed the future of cloud computing. Prior to Akash, Greg founded AngelHack, the world’s largest hackathon organization with over 100,000 developers across 50 cities worldwide. A renowned open source and blockchain developer and thought leader, Greg has helped launch several developer companies including Firebase (acquired by Google). He launched his career at IBM and later designed Kaiser Permanente’s first cloud architecture. 
 
-Greg is also an author of several prominent open source toolkits that are well-regarded by the DevOps community and has been placed amongst top 20 programmers worldwide on several occasions for authoring [open-source](http://github.com/gosuri) libraries used by widely-adopted projects like Ubuntu and Kubernetes. 
+Greg is a frequently featured speaker, and was instrumental in the passing of California's first Blockchain law, providing the first expert-witness testimony at the Senate.
 
-You can find Greg online at:
+Public Key: [F73164542118DB5144A1655C3CF68C6B14A103D5](https://keybase.io/kn0tch/pgp_keys.asc?fingerprint=f73164542118db5144a1655c3cf68c6b14a103d5)
 
-* [medium/gosuri](https://medium.com/@gosuri)
-* [twitter/GregOsuri](https://twitter.com/GregOsuri)
-* [linkedin/gosuri](https://www.linkedin.com/in/gosuri)
-* [telegram/gosuri](https://t.me/gosuri)
+Online At:
+
+* [keybase/kn0tch](https://keybase.io/kn0tch)
+* [twitter/GregOsuri](https://twitter.com/gregosuri)
+* [instagram/Greg.Osuri](https://instagram.com/greg.osuri)
