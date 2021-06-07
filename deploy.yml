@@ -9,6 +9,7 @@ services:
         as: 80
         accept:
           - gregosuri.com
+          - gregosuri
         to:
           - global: true
 
