@@ -1,6 +1,6 @@
 KEY = gosuri
 AKASH_DSEQ = 1262914
-IMG = gosuri/blog:v1
+IMG = gosuri/blog:v2
 
 server:
 	bundle exec jekyll server
