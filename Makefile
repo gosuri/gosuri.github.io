@@ -1,4 +1,5 @@
 KEY = gosuri
+AKASH_DSEQ = 1262914
 
 server:
 	bundle exec jekyll server
