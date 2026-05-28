@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-As cofounder and CEO of [Akash Network](http://akash.network), Greg has transformed the future of cloud computing. Prior to Akash, Greg founded AngelHack, the world’s largest hackathon organization with over 100,000 developers across 50 cities worldwide. He launched his career at IBM and later designed Kaiser Permanente’s first cloud architecture. 
+As the founder of [Akash Network](http://akash.network) and CEO of [Overclock Labs](https://ovrclk.com), Greg has transformed the future of cloud computing. Prior to Akash, Greg founded AngelHack, the world’s largest hackathon organization with over 100,000 developers across 50 cities worldwide. He launched his career at IBM and later designed Kaiser Permanente’s first cloud architecture. 
 
 Greg is a frequently featured speaker, and was instrumental in the passing of California's first Blockchain law, providing the first expert-witness testimony at the Senate.
 
@@ -14,4 +14,4 @@ Online At:
 
 * [keybase/kn0tch](https://keybase.io/kn0tch)
 * [twitter/GregOsuri](https://twitter.com/gregosuri)
-* [instagram/Greg.Osuri](https://instagram.com/greg.osuri)
+* [instagram/Greg.Osuri](https://instagram.com/gregosuri)
