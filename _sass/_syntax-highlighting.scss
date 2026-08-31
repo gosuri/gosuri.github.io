@@ -1,9 +1,12 @@
 /**
  * Syntax highlighting styles
  */
+// `.highlight` is both `div.highlight` (fenced code) and `figure.highlight`
+// (the {% highlight %} tag); the box itself is drawn by `.post pre`, so this
+// wrapper stays transparent on the paper ground and adds no margin of its own.
 .highlight {
-    background: #fff;
-    @extend %vertical-rhythm;
+    background: transparent;
+    margin: 0;
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error

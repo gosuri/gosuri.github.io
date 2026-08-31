@@ -1,277 +1,93 @@
-/**
- * Site header
- */
+// ---------------------------------------------------------------------------
+// Layout — the page shell and the chrome that frames every page.
+//
+// Translated from the "site chrome" block shared by design/navigation.html and
+// every page shell. `.wrapper` is the previews' `.page`; the markup contract is
+//
+//   <body>
+//     <div class="wrapper">
+//       <header class="site-header">
+//         <a class="brand" href="/">Greg Osuri</a>
+//         <nav class="site-nav"><a …>…</a></nav>   // aria-current="page" marks the section
+//       </header>
+//       <main class="page-content">…</main>
+//       <footer class="site-footer">…</footer>
+//     </div>
+//   </body>
+//
+// The header and footer sit *inside* the wrapper, as in the previews, so the
+// hairlines that close each end of the page stop at the measure.
+// ---------------------------------------------------------------------------
+
+.wrapper {
+  max-width: var(--measure);
+  margin-inline: auto;
+  padding: var(--s4) var(--s3) var(--s4);
+}
+
+// Structural hook only: the previews' <main> carries no styling of its own —
+// each page's first element owns its top margin.
+.page-content { display: block; }
+
+
+// ---- header ----
+
 .site-header {
-    //border-top: 5px solid $grey-color-dark;
-    //border-bottom: 1px solid $grey-color-light;
-    margin-top: 20px;
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s2) var(--s3);
+  padding-bottom: var(--s3);
+  border-bottom: 1px solid var(--rule);
 }
-
-.site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
-    font-weight: 400;
-    margin-bottom: 0;
-    float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+.brand {
+  font-size: var(--step-1);
+  font-weight: 540;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-decoration: none;
 }
-
-.site-nav {
-    float: right;
-    line-height: 56px;
-
-    .menu-icon {
-        display: none;
-    }
-
-    .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
-    }
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
-    }
+.site-nav { display: flex; flex-wrap: wrap; gap: var(--s3); }
+.site-nav a {
+  font-style: italic;
+  color: var(--ink-soft);
+  text-decoration: none;
+  transition: color .15s ease;
+}
+.site-nav a:hover { color: var(--accent); }
+.site-nav a[aria-current="page"] {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .35em;
 }
 
 
+// ---- footer ----
 
-/**
- * Site footer
- */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+  margin-top: var(--s5);
+  border-top: 1px solid var(--rule);
+  padding-top: var(--s3);
+  font-size: var(--step--1);
+  color: var(--ink-soft);
 }
-
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-}
-
-.footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
-}
-
-.footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
+.site-footer p { margin: 0; }
+.site-footer a { color: inherit; text-decoration: none; transition: color .15s ease; }
+.site-footer a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .25em;
 }
 
 
+// ---- narrow screens (~640px) ----
+// The previews were verified clean at 375px, so this only relieves the top
+// margin above the header, where a 2rem gap reads as wasted screen on a phone.
 
-/**
- * Page content
- */
-.page-content {
-    padding: $spacing-unit 0;
-}
-
-.page-heading {
-    font-size: 20px;
-}
-
-.post-meta {
-  font-size: $small-font-size;
-  color: $grey-color;
-  display: inline-block;
-}
-
-.index-list {
-    margin-left: 0;
-    list-style: none;
-    line-height: 1.1;
-
-    > li {
-      margin-bottom: 0px;
-      // margin-bottom: $spacing-unit;
-    }
-    h2 {
-      display: inline-block;
-      margin-bottom: 0px;
-    }
-}
-
-.post-list {
-  .post-meta {
-    width: 100px;
-  }
-}
-
-
-.post-link {
-    display: inline-block;
-    font-size: $small-font-size;
-}
-
-
-.proj-list {
-  .post-link {
-    width: 100px;
-  }
-}
-
-/**
- * Posts
- */
-.post-header {
-    margin-bottom: $spacing-unit * 2 ;
-    text-align: center;
-
-    .site-name {
-      font-variant: small-caps;
-    }
-}
-
-.post-title {
-    font-size: 32px;
-    letter-spacing: -1px;
-    line-height: 1.2;
-
-    @include media-query($on-laptop) {
-        font-size: 26px;
-    }
-}
-
-.post-content {
-    margin-bottom: $spacing-unit;
-    h2,h3,h4 {
-      font-weight: 600
-    }
-
-    h2 {
-        margin-top: $spacing-unit;
-        font-size: 28px;
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        margin-top: $spacing-unit;
-        font-size: 24px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 18px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
-}
-
-.akash-powered {
-  background-image: url("/assets/img/akash-powered.svg");
-  width: 190px;
-  height: 100px;
-  background-size: 100%;
-  background-position-y: -20px;
-  background-position-x: -25px;
-  background-repeat: no-repeat;
-  display: block;
+@media (max-width: 40em) {
+  .wrapper { padding-top: var(--s3); }
 }
