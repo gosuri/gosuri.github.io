@@ -5,7 +5,18 @@ theme: "Crypto & DePIN"
 permalink: "/predictions/crypto-depin/"
 ---
 
-_199 statements · 2018–2026_
+_225 statements · 2018–2026_
+
+### 2018-03-02 — 2018 will be the year of security tokens
+
+_Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)_
+
+> "I think 2018 is going to be the year of security tokens. You're going to see a lot less utility tokens. I know folks that are getting investigated... My recommendation is folks should really explore more securities than utilities and do it the right way."
+> — [00:23:19](https://omny.fm/shows/the-silicon-valley-insider-show/sv-insider-3-2-18-podcast)
+
+**Context:** Discussion of Wyoming's utility-token law; Greg argues selling tokens pre-utility with expectation of return is a security, and mentions Reg A+ as an alternative path.
+
+---
 
 ### 2018-04-26 — Greg is an early, excited Solana ("Loom") investor
 
@@ -29,6 +40,39 @@ _Solana: The World's Fastest Blockchain (fireside chat at Node) (Solana)_
 
 ---
 
+### 2018-06-15 — Blockchain will take over the world faster than the web did
+
+_S1E2 - Greg Osuri (CryptoChange.News)_
+
+> "Considering the rate at which these projects are being formed and evolving gives me the confidence that the rate at which blockchain will take on the world is going to be much faster than the worldwide web itself... I'm pretty confident within a year or two, we're going to see a massive adoption of blockchain."
+> — [00:13:21](https://archive.org/details/CryptoEp2GregOsuri)
+
+**Context:** He tempers it — "we are in month nine," usability and performance problems remain — but claims blockchain's benefits already "rival the worldwide web itself" (quote spans into the 00:14:15 block).
+
+---
+
+### 2018-06-15 — 2018 is blockchain's 1996-98: no killer app, no browser yet
+
+_S1E2 - Greg Osuri (CryptoChange.News)_
+
+> "We are in like the 98, I would think, of the .com era... or probably even 96. We still don't have the killer app, except for Bitcoin. We still don't have the browser for the blockchain, right? Browser being the killer app for the World Wide Web... We still are in the BBS level."
+> — [00:17:34](https://archive.org/details/CryptoEp2GregOsuri)
+
+**Context:** His dot-com analogy (spans into the 00:18:15 block), paired with the contrarian "I wish Bitcoin did not hit 20,000" (00:16:51) because the price run attracted misaligned speculators; corrections "weed out the bad intent."
+
+---
+
+### 2018-08-31 — The unstoppable web
+
+_"Crypto Stories: A Primer on Distributed Computing with Dani Grant, Dan Desjardins, Chandler Song, and Greg Osuri" (Village Global's Venture Stories)_
+
+> "One of the concepts we're working is unstoppable web. Unstoppable web is censorship resistant web that cannot be taken down by any individual other than the beholder of a key. By combining other protocols such as Handshake or an Orchid and us together, we can create an infrastructure where the DNS discovery is decentralized, as well as the runtime is decentralized."
+> — [00:10:15](https://podcasts.apple.com/us/podcast/crypto-stories-a-primer-on-distributed-computing/id1316769266?i=1000499161936)
+
+**Context:** Greg's "exploration" track for Akash's next five years — a fully decentralized web stack; an early statement of the censorship-resistance thesis he repeats in later years.
+
+---
+
 ### 2018-11-09 — Smart contracts on Ethereum cost $13,000/MB vs ~$25 on Akash
 
 _Serverless Panel: Komal Mangtani, Greg Osuri, Guillermo Rauch, Gwen Shapira (Kong)_
@@ -48,6 +92,28 @@ _Overcoming the Challenges of Distributed Networks with Greg Osuri CEO Overclock
 > — [00:46:26](https://www.youtube.com/watch?v=WKvrKWdc9OA&t=2786s)
 
 **Context:** After outlining the three open-source business models (support, open-core, tokenized); he declines to reveal specifics but says it will "be evident very very soon."
+
+---
+
+### 2020-01-12 — Bootstrap the marketplace by "borrowing from the future"
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "My thesis was, in a two-sided marketplace, the first challenge the market has to solve is the demand supply paradox. What comes first?... when you bootstrap supply to a point that it's extremely attractive to the demand — let's say cost, for example — the demand side will catch up... really, you're borrowing from the future to bootstrap the present."
+> — [00:30:22](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** Summarizing his paper "Bootstrapping a free market by borrowing from the future" (quote spans the 00:31:06 and 00:31:48 blocks): inflation-funded supply subsidies de-risk providers until network effects arrive — the template later used for Akash's provider incentives.
+
+---
+
+### 2020-01-12 — Tokenized open source software is the third open-source business model
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "So far, the business models for open source software have been primarily subscription driven and open core driven. But now we're experiencing the third business model, which is tokenized open source software, we call it, where it has this incredible incentive layer, the token layer on top of the open source platform... So how do you monetize? A lot of us are still trying to figure that out, to be honest with you. And our solution is [selling] hardware."
+> — [00:28:47](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** From the recovered span (quote spans into the 00:29:29 block), answering "how do you make money?": Overclock profits only if the network succeeds — via Supermini hardware sales and managed services ("setting hardware" is Whisper for "selling hardware"). An early articulation of the tokenized-OSS sustainability thesis he later repeats.
 
 ---
 
@@ -125,6 +191,17 @@ _"The Akashian Challenge Livestream: Phase 3 Week 1" (Akash Network)_
 > — [00:51:21](https://www.youtube.com/watch?v=7x1ct2eC_Nw&t=3081s)
 
 **Context:** Asked about the business model; Overclock Labs takes no cut and profits by staking AKT, with inflation rewards designed to give way to a fee share.
+
+---
+
+### 2020-12-16 — Compute will be paid for in stablecoins, not volatile tokens
+
+_Greg Osuri - AKASH Network (At Stake)_
+
+> "There will be some friction, I would imagine, for using Akash tokens to pay for compute. So to alleviate that friction, we wanted to introduce stable currencies... using USDX to pay for cloud compute is the first use case for IBC that we really want to, like, get out."
+> — [00:30:19](https://podcasts.apple.com/us/podcast/greg-osuri-akash-network/id1543138052?i=1000502539042)
+
+**Context:** IBC discussion (spans into the 00:31:05 block); multi-currency settlement via Kava's USDX framed as Akash's first IBC use case. Akash did later add USDC settlement (2023).
 
 ---
 
@@ -500,6 +577,39 @@ _"Akash Network Deep Dive: The Unstoppable Cloud, Powered by Cosmos!" (Cryptocit
 > — [01:04:06](https://www.youtube.com/watch?v=K0iInoQojyg&t=3846s)
 
 **Context:** Says Solana production nodes await Akash GPU support; also claims Akash pricing is about one-third of Amazon's (00:42:39) and mentions a Serum UI running on Akash.
+
+---
+
+### 2021-08-11 — Web3 will replace Web2 no matter what
+
+_Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)_
+
+> "The entire stack is getting decentralized, right? So before it was just DNS, but now you have transport level and you have like the wire level... So Web3 is going to replace Web3 no matter what. I mean, it's so fast that before we realize it's going to be gone."
+> — [00:16:02](https://www.podpage.com/the-index-podcast/blog/unstoppable-cloud-and-building-a/)
+
+**Context:** Discussing Althea decentralizing the last mile; the second "Web3" is almost certainly a Whisper glitch for "Web2" — the claim is that Web3 replaces Web2 faster than people realize.
+
+---
+
+### 2021-08-11 — A Cambrian explosion of experiences in 3–4 years
+
+_Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)_
+
+> "We just touched the surface when it comes to the possibilities with user experience. With the next three to four years, you're just going to see a Cambrian explosion in types of experiences... looking from the trends of it is going to be amazing."
+> — [00:21:05](https://www.podpage.com/the-index-podcast/blog/unstoppable-cloud-and-building-a/)
+
+**Context:** After arguing IBC-driven composability ("small building blocks that Akash offers or Osmosis offers... become more composable") will let permissionless systems out-design traditional ones.
+
+---
+
+### 2021-08-11 — Personal decentralization as a coming trend
+
+_Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)_
+
+> "I use a decentralized VPN and I use all my blogs, all my websites are on a decentralized cloud. I use Handshake. I use [Sia] to store my storage. A lot of my life is actually migrated pretty successfully to decentralized. And I think that's going to be a trend."
+> — [00:16:44](https://www.podpage.com/the-index-podcast/blog/unstoppable-cloud-and-building-a/)
+
+**Context:** Offered as evidence these are "real products people are using" — predicting individual migration to decentralized infrastructure despite current friction.
 
 ---
 
@@ -1471,6 +1581,39 @@ _ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrade
 
 ---
 
+### 2023-09-06 — Crypto is the sustainability layer for open source
+
+_"#3 - Akash Network with Greg Osuri" (Weapons of Mass Adoption)_
+
+> "My entire career exists because of open source software, right? So, and if you were to add sustainability to open source software, you need networks. And the only data structure we found where you can have a highly sustainable networks were crypto, right? So, crypto gives sustainability to open source software."
+> — [00:11:06](https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051)
+
+**Context:** The one-sentence version of his "tokenized open source" thesis, expanded at [00:21:23] ("Open source software with a token adds sustainability, gives permissionless... aligns and attracts developers").
+
+---
+
+### 2023-09-25 — Crypto sources supply, AI sources demand — that's the marriage
+
+_Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)_
+
+> "Crypto is really good at sourcing supply. Look at Helium, look at Filecoin, look at every deep [DePIN] network. Crypto is incredible at sourcing supply, not so in service demand... At tracking resources, crypto is phenomenal. At tracking demand, AI is phenomenal. So that's where I see the marriage between crypto and AI is."
+> — [00:25:48](https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449)
+
+**Context:** Prefaced by AI's evident product-market fit ("100 million users, 90 days, ChatGPT" — he uses it even at Home Depot).
+
+---
+
+### 2023-09-25 — Bringing AI to crypto is imperative, not optional
+
+_Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)_
+
+> "So I think crypto is going to play a critical role and people are going to realize that sooner than later. And now we have an incredible opportunity. AI is a new industry and a new industry that's post crypto. So we have to bring AI to crypto. I don't think it's an option. It's more imperative at this point."
+> — [00:30:37](https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449)
+
+**Context:** His closing thesis, after mapping the decentralized ML stack: Gensyn (training), BitTensor (incentivized evals), data marketplaces (IP-safe training data), provenance.
+
+---
+
 ### 2023-09-28 — Akash incentives can sustain 1,000–1,500 idle A100s
 
 _Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)_
@@ -1534,6 +1677,28 @@ _How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearc
 > — [00:41:10](https://www.youtube.com/watch?v=CRA0yN28Dw8&t=2470s)
 
 **Context:** CryptoKitties' 40,000 users crashed Akash's 2017-18 Ethereum prototype, forcing an app-chain; he says early networks can't justify the security budget. Also reveals an experiment using Bitcoin as an archival chain for old Akash transactions ([00:41:53](https://www.youtube.com/watch?v=CRA0yN28Dw8&t=2513s)) and predicts the modular design space "five years from now is going to be very different" ([00:42:37](https://www.youtube.com/watch?v=CRA0yN28Dw8&t=2557s)).
+
+---
+
+### 2023-12-11 — Crypto saves AI; Web3 gives AI its rails
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "Web3 and AI are a lot more related than we anticipate. I think the first thing we're doing with crypto is we're saving AI with chips, right? There's really no other solution... I think Web3 will also... add the rails to AI that's missing all the way from organization... human coordination, payments or value exchange."
+> — [01:12:38](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** He predicts "most experimentation happening in Web3 on AI than anywhere else"; separately: "AI is going to take web three to mainstream because of these inherent problems. That's my prediction." ([01:15:45], on provenance for fakes).
+
+---
+
+### 2023-12-11 — GPU leases as tradable NFTs — a futures market for compute
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "On Akash itself, [a] lease could be an NFT, right? A lease gets created every time we have an agreement... I can sell that lease in an open market, right? Now that lease becomes a tradable commodity because now I have access to H100s, right? So imagine the efficiency that brings a futures market to Akash itself."
+> — [01:40:01](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** Why he's "a lot more bullish on NFTs now than I was in the bull market" — financializing compute access rights.
 
 ---
 
@@ -1625,6 +1790,83 @@ _Akash: $300 Million Incentives w/Greg Osuri | CEO of Overclock Labs,Founder & A
 
 ---
 
+### 2024-01-16 — Tokenized open source — a sustainability model the world has never seen
+
+_"Akash: The Crypto-Powered Decentralized Supercloud" (The Edge Podcast)_
+
+> "I looked at open core. Open core was not the solution. Token as open source software allows a sustainability model to open source that the world has never seen. So why? Because it moves the maintainability of a network away from a single corporation to the common... And for the first time we can have an open write database. Never before it was possible before crypto."
+> — [00:37:18](https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294)
+
+**Context:** The core of his "why crypto" answer; he adds that permissionless writes solve the minimal-trust credential-bootstrapping problem of edge computing ([00:38:39]).
+
+---
+
+### 2024-01-16 — Post-ETF, fundamentals will reprice crypto
+
+_"Akash: The Crypto-Powered Decentralized Supercloud" (The Edge Podcast)_
+
+> "So my prediction is with the Bitcoin ETF, you're going to see more institutional adoption. What that means is more focus on fundamentals, more than speculation in terms of valuing an asset... if you have a capability to go long, you'll also have a capability to go short... that is actually healthy in a way because it normalizes valuations."
+> — [00:46:08](https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294)
+
+**Context:** Days before spot-BTC ETF approval; he ties it to TradFi (Fidelity) starting to cover Akash and warns crypto has "X amount of time to reach the terms of adoption to match the valuation."
+
+---
+
+### 2024-01-16 — Crypto is incentive on steroids
+
+_"Akash: The Crypto-Powered Decentralized Supercloud" (The Edge Podcast)_
+
+> "Crypto is incentive on steroids, right? So that's one key property of crypto that no other industry can give. And what can we do with the incentives in a supply constraint market? I think it's going to be fascinating, right? It has never been done before for GPUs."
+> — [01:04:29](https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294)
+
+**Context:** Closing alpha — several large ML companies were approaching Akash to list "their entire A100 fleet... thousands of A100s," partly for depreciation tax reasons ([01:05:09]).
+
+---
+
+### 2024-02-14 — Crypto is the only sustainable model for open-source infrastructure
+
+_"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri" (Finality Crypto Podcast (DeFi Times))_
+
+> "In order to have pure open source software that's sustainable, crypto is the answer. Right? Every other open source software [closes] at some point. If you do open core model, at some point it becomes closed because that's the only way to make money... you cannot have closed source software and have verifiability."
+> — [00:58:04](https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095)
+
+**Context:** Capstone of his recurring argument, set up earlier with Docker's acqui-hire and Kubernetes contributor churn: "Venture-backed model doesn't work for open-source software... the value capture is predominantly done by someone else that's not a contributor" (00:42:56).
+
+---
+
+### 2024-02-14 — Blockchains create permanent systems that outlive their creators
+
+_"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri" (Finality Crypto Podcast (DeFi Times))_
+
+> "One of the reasons why I'm doing crypto and blockchain is to have that legacy, like, to create something that will outlive me, the corporations that I built, or the people that I know."
+> — [00:18:08](https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095)
+
+**Context:** His "permanence" thesis, echoed later: "Akash without crypto wouldn't last. Like, in case I retire, it would die" (00:44:40) and "I could disappear right now and Akash will function" — 480 contributors, on-chain funding, third parties earning revenue (00:45:23).
+
+---
+
+### 2024-02-14 — "Crypto is saving AI" — an A100 for $1.10 on Akash
+
+_"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri" (Finality Crypto Podcast (DeFi Times))_
+
+> "Semafor... wrote a piece on how crypto is saving AI. And they interviewed a lot of Akash's users and providers... this was a college student from Columbia that got an A100 [on] Akash for like $1.10 or something like that... it just tells you that AI problems are solved with crypto. You know, the supply problems at least."
+> — [00:56:32](https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095)
+
+**Context:** Evidence for the crypto-x-AI synergy thesis; he extends it to provenance/deepfakes ("What if there's a permanent database that you can write to? Crypto." 00:57:15).
+
+---
+
+### 2024-02-14 — Scam heuristics: investor-facing sites, buzzwords, closed source
+
+_"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri" (Finality Crypto Podcast (DeFi Times))_
+
+> "The moment you see a website geared towards investors, that's generally a scam. Because you're not focused on getting users... every time you see DePIN on a website, like front and center... DePIN didn't exist six months ago... Close source is a scam, generally speaking. And when you have founders that come out of nowhere... generally [regard] them as a scam."
+> — [01:04:35](https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095)
+
+**Context:** Closing safety advice (spans into the 01:05:24 block); he warns that FTX/Celsius-style patterns are reappearing in "smaller protocols... with outsized numbers that are closed source."
+
+---
+
 ### 2024-03-19 — Helium paid him ~$500k for a $300 box — why Akash is pre-incentives
 
 _Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)_
@@ -1713,6 +1955,28 @@ _Tech Snippets Today - Greg Osuri - Founder at Akash with Joseph Raczynski (Jose
 
 ---
 
+### 2024-06-18 — Washington policymakers already know Akash as DePIN-meets-AI
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "I was on Capitol Hill earlier this week. I met with four senators, four congressmen on the AI caucus, and as well as the chair of the Financial Committee and the Commerce and Energy Committee... I was actually surprised that how many of them knew about [Akash]. One of the lead staffers of the Commerce Committee was like, yeah, [Akash] was like an intersection between [DePIN] and AI... We're talking about the people that write policy."
+> — [00:45:42](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** On how much policy/politics work Web3 founders must do (third of his three Web2-vs-Web3 founder differences); quote spans into the 00:46:22 block, where Whisper mishears "Akash" as "Apache" and "DePIN" as "deep end" (bracketed fixes). At 00:47:02 he adds he lobbies for decentralization "because the Sam Alphans [Altmans] of the world are going and debating that AI should be closed."
+
+---
+
+### 2024-06-18 — AI is the killer use case for crypto
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "I think AI is a killer use case for crypto. AI is the only one that could turn the press around from FTX. AI is the only one that's turning the government around and embrace technology."
+> — [01:13:34](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** Prompted by discussing Semafor's first positive mainstream crypto story — about Akash helping university students get GPU access (01:12:48); he also notes "without AI, Akash wouldn't be as visible as it is right now" (01:12:05).
+
+---
+
 ### 2024-07-17 — Does open-source AGI need a token? "Not yet" — but Bittensor's emissions fund open AI
 
 _Evolution to AGI Panel at Web3_AI Day | Encode Club | Linera, Ritual, Nillion, Akash Network (Linera: Real-Time Blockchain)_
@@ -1754,6 +2018,17 @@ _Greg Osuri of Akash on Unlocking DePIN Capabilities for AI Model Training (Nebu
 > — [00:33:58](https://www.youtube.com/watch?v=AWKVdqzUBAg&t=2038s)
 
 **Context:** Answering a cloud-gaming latency question; AI isn't latency-sensitive so it's the current focus, but planned incentive pools would bootstrap geographic/latency coverage for gaming.
+
+---
+
+### 2024-09-10 — Crypto onboarding loses 95% of would-be Akash users
+
+_Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))_
+
+> "Traditional Web2 developers, AI developers that don't interact with crypto are forced to buy crypto... we lose 95% of the users in that very step of getting AKT tokens. And thanks to the United States, zero regulation or lack of clarity with regulation, you cannot sell legally the tokens using a credit card on your website."
+> — [00:27:22](https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512)
+
+**Context:** Justifying the upcoming "trial wallets" feature (spans into the 00:28:02 block), which he says will "open up 99% of the users that we were closed to before" without sacrificing decentralization.
 
 ---
 
@@ -1820,6 +2095,17 @@ _Leveraging Incentives to Build with Your Community | Open AGI Summit | Brussels
 > — [00:07:23](https://www.youtube.com/watch?v=QD0dxndS3m4&t=443s)
 
 **Context:** Lesson three: against cargo-culting Bitcoin block rewards; protocol designers must budget incentives in real-dollar terms.
+
+---
+
+### 2024-10-02 — Akash at ~50% utilization while rival GPU networks sit under 1%
+
+_"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out." (Block Fuel)_
+
+> "We are at a product market fit stage for GPUs. And we have real usage. We have about, say, 50 [percent] overall utilization, and I believe 60 to 70 percent utilization for high density GPUs... a lot of the other networks that have launched just throw the towel and see what happens. But their utilizations are less than 1%."
+> — [00:08:45](https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211)
+
+**Context:** Capacity stats (~400 GPUs, ~20,000 CPUs, quote spans into the 00:10:10 block); he argues incentives before demand are wasted, and says on-chain incentives await cryptographic (not TEE-based) resource verification.
 
 ---
 

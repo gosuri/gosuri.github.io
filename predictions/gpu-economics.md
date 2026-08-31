@@ -5,7 +5,18 @@ theme: "GPU Economics"
 permalink: "/predictions/gpu-economics/"
 ---
 
-_219 statements · 2018–2026_
+_248 statements · 2018–2026_
+
+### 2018-06-15 — Ten million servers sit comatose while 76% struggle with cloud costs
+
+_S1E2 - Greg Osuri (CryptoChange.News)_
+
+> "RightScale... they quantified it saying 76% of the respondents complained managing cloud cost is a big problem... And on the other side, you have 85% of server capacity across the globe that's not used. I think Stanford did a study in 2015... they estimated that about 10 million servers are in [a] comatose state... Not touched for six months."
+> — [00:41:31](https://archive.org/details/CryptoEp2GregOsuri)
+
+**Context:** The data behind Akash's founding thesis (quote spans into the 00:42:12 block); he says the tech to exploit it took three years to build because "making an application work anywhere in the world on any data center is not easy."
+
+---
 
 ### 2018-11-09 — 85% of server capacity sits underutilized
 
@@ -40,6 +51,39 @@ _CEO of Overclock Labs On the World of Blockchain & Upcoming Technology In Devel
 
 ---
 
+### 2020-01-12 — 85% of capacity in 4.8 million data centers is unused
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "There is a ton of capacity sitting in data centers. About 85% of the capacity sitting in 4.8 million data centers is not used... there's this incredible capacity that's not being used. And there is this, you know, a few companies that are capitalizing on knowledge. And we felt that it was fundamentally broken."
+> — [00:06:06](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** The founding thesis; causes given at 00:08:39: peak planning (TurboTax 97% vs 3% utilization) and homogeneous single-purpose server architectures.
+
+---
+
+### 2020-01-12 — Compute can't be commoditized — "it's like diamonds, not like gold"
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "Every attempt to price compute has ended up in an utter failure, EOS being I think a big example... Every time you commoditize something, turns out... there's always going to be room for people to cheat... compute is very, very hard to commoditize. Instead of trying to commoditize, [we] create a free market that's driven by auction... it's like diamonds and it's not like gold."
+> — [00:37:34](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** Why Akash uses reverse auctions instead of fixed pricing (spans into the 00:38:20 block); he's equally candid that hardware claims can't practically be proven, hence the web-of-trust reputation model (00:39:04).
+
+---
+
+### 2020-01-12 — For batch workloads, cheap enough compute makes latency irrelevant
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "It really comes down to price performance. So when you have a price performance metric, where the cost is insignificant, latency becomes insignificant as well... when you do batch optimality... the requirement really is driven by cost. So our thesis is the cost is exponentially lower, about like eight times, nine times lower, latency becomes less important for batch optimal workloads."
+> — [00:18:21](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** Answering the HPC-background host's challenge about distributed clusters lacking fast interconnects (quote spans into the re-transcribed 00:19:00 block) — the argument that ML/batch jobs would tolerate decentralized placement, which presaged Akash's ML-first demand profile.
+
+---
+
 ### 2020-06-22 — Machine learning is Akash's biggest use case, ~10x cost advantage
 
 _The Akashian Challenge Phase 1 Livestream (Akash Network)_
@@ -48,6 +92,17 @@ _The Akashian Challenge Phase 1 Livestream (Akash Network)_
 > — [00:48:56](https://www.youtube.com/watch?v=L3JjJldfU3o&t=2936s)
 
 **Context:** June 2020 — years before the GPU marketplace launched; earlier he states "the cost advantage is literally about 10 times over the market" ([00:46:00](https://www.youtube.com/watch?v=L3JjJldfU3o&t=2760s)).
+
+---
+
+### 2020-12-16 — 85%+ of data-center capacity sits idle across ~8.2 million data centers
+
+_Greg Osuri - AKASH Network (At Stake)_
+
+> "Usually we're looking at north of 85% of capacity that sits idle in these data centers... a lot of them happen to be like GPU clusters as well... they use these massive clusters to design cars... but they only use them like two hours tops a day... All in all, there are about 8.2 million data centers in the world with excess capacity that is just sitting idle."
+> — [00:06:02](https://podcasts.apple.com/us/podcast/greg-osuri-akash-network/id1543138052?i=1000502539042)
+
+**Context:** His core supply-side thesis (spans the 00:06:02–00:07:45 blocks): unlocking underutilized enterprise capacity (Honda-style GPU clusters, Intuit's 97%-at-tax-season/2-3% off-season swing) naturally undercuts hyperscaler pricing.
 
 ---
 
@@ -202,6 +257,39 @@ _Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (C
 > — [01:05:57](https://www.youtube.com/watch?v=4xlOVeUXd90&t=3957s)
 
 **Context:** Asked if bots will high-frequency trade compute across machines; Greg: "I totally imagine that would be high frequency trading for compute" ([01:06:38](https://www.youtube.com/watch?v=4xlOVeUXd90&t=3998s)) — Akash as "a decentralized exchange for compute."
+
+---
+
+### 2021-05-12 — 85% of data-center compute sits unused
+
+_"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute" (Base Layer)_
+
+> "As we were deploying this Kubernetes in data centers across the walls, what we discovered was 85% or so of compute capacity that sits in these data centers remains unused. The reason being most data centers are planned for peak capacity to handle peak loads."
+> — [00:04:59](https://podcasts.apple.com/us/podcast/base-layer-episode-209-greg-osuri-founder-of-akash/id1445373535?i=1000521492647)
+
+**Context:** The founding insight behind Akash; he pairs it with Intuit running at ~3% utilization outside tax season and four clouds holding ~80% of a $300B market ("across the walls" = Whisper for "across the world").
+
+---
+
+### 2021-05-12 — Akash will launch "the world's first GPU marketplace" fed by post-Merge Ethereum GPUs
+
+_"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute" (Base Layer)_
+
+> "We'll be launching the world's first GPU marketplace. So that's going to be very exciting because there's an enormous amount of GPUs that are getting essentially unlocked with Ethereum and a lot of these networks going to proof of stake... currently GPUs are extremely expensive on Amazon."
+> — [00:28:26](https://podcasts.apple.com/us/podcast/base-layer-episode-209-greg-osuri-founder-of-akash/id1445373535?i=1000521492647)
+
+**Context:** Roadmap question. A year-plus ahead of the Merge (Sept 2022) he predicts stranded mining GPUs will need a marketplace; Akash's GPU marketplace ultimately shipped in 2023.
+
+---
+
+### 2021-05-12 — Post-Merge mining hardware becomes useless without a compute marketplace
+
+_"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute" (Base Layer)_
+
+> "When Ethereum moves to a proof of stake... all that hardware becomes useless. And it's really good hardware... there is no marketplace, there's no sort of like liquidity mechanism... So the solution is to install Akash and have users run TensorFlow applications or any of these machine learning applications and take advantage of this chip compute."
+> — [00:29:14](https://podcasts.apple.com/us/podcast/base-layer-episode-209-greg-osuri-founder-of-akash/id1445373535?i=1000521492647)
+
+**Context:** Continuation of the GPU marketplace answer (spans into the 00:29:56 block); "chip compute" = Whisper for "cheap compute." Miners would earn AKT for serving ML workloads.
 
 ---
 
@@ -1285,6 +1373,61 @@ _Akash Mainnet 6 Livestream (Akash Network)_
 
 ---
 
+### 2023-09-06 — GPUs are the oil for AI; shortage lasts 2–5 years
+
+_"#3 - Akash Network with Greg Osuri" (Weapons of Mass Adoption)_
+
+> "For the next two to five years, we're not going to be able to solve the supply chain problems. And on the other hand, what's happening is as companies get serious about AI, they tend to buy these chips as much as possible because they need these chips to run. So these chips are the oil, the GPUs are the oil for AI. And so right now it takes about two years to get the advanced chips from NVIDIA."
+> — [00:33:02](https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051)
+
+**Context:** Explaining the COVID-crippled NVIDIA/TSMC/ASML supply chain meeting quadrupled AI demand — the market gap Akash's secondary GPU market targets.
+
+---
+
+### 2023-09-06 — $1.5 trillion AI spend in the next five years
+
+_"#3 - Akash Network with Greg Osuri" (Weapons of Mass Adoption)_
+
+> "You think about where AI is going, the spend in the next five years is expected to be $1.5 trillion, a trillion with a T, right? That's $1 trillion is $1,000 billion. And I thought the market cap was, what, $200 million? So if you look at room for growth, there is quite a lot."
+> — [00:58:50](https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051)
+
+**Context:** Explaining why AKT's price action didn't faze him (he says he still holds his original developer allocation); explicitly caveated "none of this is financial advice."
+
+---
+
+### 2023-09-25 — Chips are the new oil
+
+_Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)_
+
+> "Ultimately, every AI needs chips, right? Ultimately, without chips, AI cannot evolve. Chips are the new oil, right? Whoever has the chips has essentially the control of the world, right? So access to these chips to be decentralized is extremely critical. And that's what Akash is working on."
+> — [00:29:03](https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449)
+
+**Context:** The capstone of his crypto-and-AI section; he warns of a "feudalistic world where people that control the chips will eventually have AGI and they'll control the world" ([00:29:49]).
+
+---
+
+### 2023-09-25 — Akash is the Airbnb for high-end GPUs
+
+_Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)_
+
+> "You get an apartment for a year and you only go there maybe two months of the year... You can put them on Airbnb. Similarly, Akash is in the Airbnb for high-end [GPUs]. Now you get into these long contracts because you cannot get them on Amazon... and now what do you do with these unused chips? You put them on Akash."
+> — [00:14:51](https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449)
+
+**Context:** His Manhattan-apartment analogy for the GPU sub-leasing thesis, following the argument that startups iterating on fast-moving models (Llama 2, Falcon) can't predict capacity a year out ([00:14:06]).
+
+---
+
+### 2023-09-25 — NVIDIA is deliberately fragmenting the GPU market
+
+_Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)_
+
+> "Nvidia alone has 80% market share... Nvidia is fragmenting the market by choice, meaning they are giving priority, lower priority to the bigger clouds and higher priority in the smaller cloud [providers]... Core[W]eave has about 35,000 H100s, way more than Google cloud has. So the tides have turned when it comes to Nvidia H100s and A100s."
+> — [00:12:31](https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449)
+
+**Context:** Answering whether Akash empowers a "middle ground" of GPU providers; he claims Amazon 8x H100s ran ~$12/chip/hr with no supply while CoreWeave required 3-month waits and prepaid yearly contracts ([00:13:17]–[00:14:06]).
+
+---
+
 ### 2023-09-28 — 1% of global GDP will go to machine learning
 
 _Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)_
@@ -1439,6 +1582,28 @@ _1on1 Greg Osuri - Akash (Jerry V Hall)_
 
 ---
 
+### 2023-12-11 — GPU supply must be diversified — Taiwan is a single point of failure
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "It's very important that the supply, the GPUs, the oil for AI is diversified and doesn't come from a single company. It's very, very important. NVIDIA has 80% market share, which is crazy... It's even scarier how the world is like literally dependent or so critical, reliant on a stable Taiwan, right? If there's a war in Taiwan, it's going to disrupt so much in terms of AI that is scary."
+> — [00:57:54](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** After walking the TSMC/ASML supply chain; the secondary GPU market is framed as "a first step" toward a resilient supply chain "if we want a truly resilient future for humanity" ([00:58:40]).
+
+---
+
+### 2023-12-11 — Frontier launches on NVIDIA; mass adoption spreads to cheaper GPUs
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "That's why all the best applications are always launched on Apple... I think that's going to be a pattern where the latest and the greatest is going to be launched on NVIDIA. But most adoption is going to happen across different GPUs. It has to, because it's not sustainable the way it is right now."
+> — [00:59:28](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** NVIDIA-as-Apple analogy (CUDA's vertical integration vs. AMD's "embarrassingly bad" SDK); he cites Alpaca fine-tuning in ~10 minutes on an H100 vs. ~5 hours on cheap GPUs as the optionality trade-off ([01:00:12]–[01:01:00]).
+
+---
+
 ### 2023-12-18 — 95% utilization on A100s, no incentives needed
 
 _Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)_
@@ -1557,6 +1722,28 @@ _Akash: $300 Million Incentives w/Greg Osuri | CEO of Overclock Labs,Founder & A
 > — [00:14:29](https://www.youtube.com/watch?v=9gI5CWNpDgw&t=869s)
 
 **Context:** Comparing Akash's traction to Flux, Render, and Golem; repeated later alongside the ~43% cumulative daily GPU utilization figure.
+
+---
+
+### 2024-01-16 — Liquidity mining for GPUs
+
+_"Akash: The Crypto-Powered Decentralized Supercloud" (The Edge Podcast)_
+
+> "Similarly, Akash will have pools. A pool one could be A100 with [NVMe] storage, with PCI card, with X amount of memory, X amount of bandwidth, and certain characteristics of a provider that are preset, and a set of tokens can distribute to this pool... in the early days when there are a few participants, they're going to get significantly outsized rewards."
+> — [00:53:39](https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294)
+
+**Context:** Osmosis-style incentive pools applied to physical GPU supply; a $5M 90-day pilot was launching that month with "about $400 plus million dollars unminted on-chain incentives" in reserve ([00:55:40]), against 90%+ A100 utilization ([00:52:58]).
+
+---
+
+### 2024-02-14 — ~5% of global GDP will be spent on AI hardware
+
+_"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri" (Finality Crypto Podcast (DeFi Times))_
+
+> "Some of the predictions, Gartner, I believe, made a prediction that about 5% of global GDP will be spent on AI hardware. And what is that hardware? GPUs, right? And GPUs are very hard to build... 80% of GPUs used for AI is built by NVIDIA."
+> — [00:52:43](https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095)
+
+**Context:** A third-party forecast he endorses, followed by the supply-chain explanation: TSMC fab time reserved two years ahead, $10B+ per foundry, GPU generations turning over every two years (00:54:13-00:55:00).
 
 ---
 
@@ -1835,6 +2022,28 @@ _Tech Snippets Today - Greg Osuri - Founder at Akash with Joseph Raczynski (Jose
 
 ---
 
+### 2024-06-18 — The 2017 whitepaper predicted AI demand would outrun GPU supply
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "We actually talked about machine learning in the White Paper. There was a whole page on it. We talked about how machine learning is only getting expensive... it was very obvious to us, like, that GPUs being the core for AI will be, and the demand for AI as it's going up, GPUs will be in short supply."
+> — [00:16:48](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** Retrospective claim (spans into the 00:17:30 block) that the GPU-scarcity thesis dates to 2017; he attributes the bottleneck to TSMC/ASML supply chains, noting fabs take 18 months to 2 years per new process (00:22:56).
+
+---
+
+### 2024-06-18 — Akash is the only place to get an H100 on demand
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "Akash is the only way you can get on-demand [H]100. There's nowhere right now that you can get an H100 on demand. You can get H100 if you go long contracts... and it's very, very expensive. But if you want to get H100 for $2 an hour, or $1.59, you can get [on] Akash an hour instantly."
+> — [00:24:28](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** June 2024 market claim, paired with the claim that NVIDIA's "deploy" AI portal routes to Akash via Brev; bracketed fixes for Whisper mishearings ("at $100" → "an H100").
+
+---
+
 ### 2024-06-19 — AI compute to 5% of global GDP by 2030; supply chain eases in 3-5 years
 
 _Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)_
@@ -1945,6 +2154,28 @@ _Decentralized solutions for cloud computing and AI  📌 Greg Osuri, Akash @ De
 
 ---
 
+### 2024-09-10 — Cloud providers dictate who gets to train AI
+
+_Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))_
+
+> "Who powers these AI machines? You need something called GPUs. How do you get them? You have to go to this cloud provider. And it's nearly impossible for a company to get these GPUs because they're scarce. These cloud providers sell the GPUs to the highest bidder. So they literally dictate today how AI should be trained and who should use AI by choosing who they want to give their GPUs."
+> — [00:04:35](https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512)
+
+**Context:** Extending the feudalism argument to AI; followed by the invisible-tax claim: "50% of what we pay to online services goes to a cloud provider."
+
+---
+
+### 2024-09-10 — Data centers sit unused 85% of the time
+
+_Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))_
+
+> "There are about 8.1 million data centers in the world... in these data centers, they only use 15% of the time. That means 85% of the time they're not being used... [Intuit] during tax season, their compute is used 95% of their capacity or higher... Off tax season, they only use 5% or less."
+> — [00:09:13](https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512)
+
+**Context:** The Airbnb analogy's supply side (quote spans into the 00:09:58 block); he notes AWS itself was born from Amazon's idle retail capacity — "what Amazon did to themselves is what Akash is doing for the rest of them" (00:10:40).
+
+---
+
 ### 2024-09-20 — Akash is ~80% cheaper than Amazon; H100s at $1.49 vs $5
 
 _Compute: Past, Present, and Future by Akash Network founder Greg Osuri at deAI Summit (Pundi AI)_
@@ -2041,6 +2272,39 @@ _Leveraging Incentives to Build with Your Community | Open AGI Summit | Brussels
 > — [00:08:06](https://www.youtube.com/watch?v=QD0dxndS3m4&t=486s)
 
 **Context:** Lesson four (go narrow, not broad); an implicit critique of over-incentivized DePIN supply gluts. He promises a report on on-chain incentive lessons "in a year's time."
+
+---
+
+### 2024-10-02 — NVIDIA is backlogged 18 months to 2 years on H100s
+
+_"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out." (Block Fuel)_
+
+> "The demand is so high and increasing so fast, the supply is not catching up to any degree of satisfaction. Right now, NVIDIA is backlogged for about 18 months to two years, I believe, for H100s, which is the most widely distributed GPUs from NVIDIA, and even longer for the newer models, the B200s."
+> — [00:03:53](https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211)
+
+**Context:** Setting up the scarcity thesis with the Elon Musk "harder to get than drugs" quote and the Larry Ellison/Jensen Huang dinner anecdote.
+
+---
+
+### 2024-10-02 — Serving Apple's users would take a billion H100s — only ~700,000 exist
+
+_"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out." (Block Fuel)_
+
+> "For something like Llama 3.1 [40]5B... it takes about 24 H100s to do inference... that can serve about 20 to 30 concurrent connections at high precision... to serve Apple's users at decent performance, you need a billion H100s. And there are about, I believe, about 700,000 H100s right now."
+> — [00:05:15](https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211)
+
+**Context:** Back-of-envelope inference math (spans into the 00:05:58 block) prompted by Apple Intelligence onboarding "a billion new devices that'll have AI inference."
+
+---
+
+### 2024-10-02 — The endgame is one H100-class GPU per user, refreshed yearly
+
+_"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out." (Block Fuel)_
+
+> "Assume what the demand is going to be when we onboard 8 billion users, which is going to happen... imagine one H100 per user. And that gets outdated within a year. So then you have newer, bigger models that are more intelligent, that need bigger chips... I haven't even touched the surface of the kind of demand that I see for H100."
+> — [00:05:58](https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211)
+
+**Context:** The episode's titular 1:1 chips-per-person prediction (spans into the 00:06:41 block); he repeats it later: "we need a GPU H100 per human being on the planet" (00:26:00), arguing no single protocol can serve that alone.
 
 ---
 
@@ -2176,6 +2440,29 @@ _Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)_
 
 ---
 
+### 2025-01-02 — Contribute compute, own the model, earn inference revenue
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "One of the most exciting incentive models for me was, well, if I contribute compute to you, to your model, and if I get an ownership based on my contribution from the model, that means I get inference revenues, because inference is how you make money, and training is how you spend money... if there is some ownership rights that I can get from my contribution, I think we hit the nail on the head, because that solves everything."
+> — [00:38:15](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** Answering "why would I lend my computer to train your model?" — the missing monetization primitive for decentralized training; he urges joining Nous's incentivized testnet.
+
+---
+
+### 2025-01-19 — ~5% of GDP spent on compute by 2030 (Gartner)
+
+_"算力帝國的崛起：Akash 如何改變遊戲規則 ft. Greg Osuri | Max Alpha 訪談系列" (MaxAlpha 幣圈基本面)_
+
+> "這是就是一開始 然後的需求 最好的預測是在數據上的需求 是在Gartner做的 他們說5%的GDP會在數據上的數據上 5% 2030年 那是我們有的需求"
+> (Translation: "This is just the beginning of the demand. The best forecast of demand for data [compute] was done by Gartner — they say 5% of GDP will be [spent] on data [compute] — 5%, by 2030. That's the demand we have.")
+> — [00:00:00](https://podcasts.apple.com/us/podcast/id1782808550?i=1000683706426)
+
+**Context:** Cold-open clip of Greg (rendered in Chinese — voiceover/translation, not his own English voice) citing his frequently repeated Gartner statistic — that roughly 5% of global GDP will go to compute by 2030 — as the demand backdrop for Akash. Quote fidelity is low due to transcription/translation artifacts; the underlying claim matches his English-language talks from the same period.
+
+---
+
 ### 2025-02-04 — A 60%-margin layer cannot be a public utility — everyone pays a cloud tax
 
 _Akash Network Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)_
@@ -2308,6 +2595,17 @@ _Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | D
 
 ---
 
+### 2025-07-31 — GPU access is feudalism
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "In order to get decent GPUs, you need to have long contracts with cloud companies. They're going to pick and choose the highest bidders, and it becomes prohibitively expensive. It reminds you of the Middle Ages where you had feudalism... These few lords own the grain, and we all have to stand in line to get the grain because if you don't, you don't get the AI."
+> — [00:40:45](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Recalls 2023, when an AI researcher couldn't get an A100 without long cloud contracts — the scarcity he says he warned about on stage 10 years ago.
+
+---
+
 ### 2025-10-10 — 80% cheaper than cloud, deployed in two minutes
 
 _DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)_
@@ -2349,6 +2647,17 @@ _The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)_
 > — [00:07:18](https://www.youtube.com/watch?v=CWA3IAr9sc4&t=438s)
 
 **Context:** On the 2023 GPU shortage that created the neoclouds (CoreWeave et al.) and put Akash on the map.
+
+---
+
+### 2026-01-15 — In the 2023 GPU crisis, Akash was the only one with GPUs
+
+_The Remote Work Tribe Podcast: Greg Osuri (The Remote Work Tribe Podcast)_
+
+> "It really became prominent in 23 timeframe when you had GPU crisis. You remember, ChatGPT launched and it was impossible to get GPUs. And Akash was the only one that had GPUs because we were tapping into places where your typical cloud wouldn't go."
+> — [00:04:43](https://www.theremoteworktribe.com/2026/01/15/the-remote-work-tribe-podcast-greg-osuri/)
+
+**Context:** His recurring supply-side argument; illustrated by the Cornell student who built a company on an Akash GPU that NVIDIA later acquired [00:05:31].
 
 ---
 
@@ -2415,3 +2724,14 @@ _This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)_
 > — [00:24:17](https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1457s)
 
 **Context:** On the AI supply-chain crisis; also cites 4060-class home GPUs listed at $4,000 selling for ~$12,000 and Micron HBM costs quadrupling.
+
+---
+
+### 2026-07-29 — Put 5090s at home on solar and earn income at zero marginal cost
+
+_AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)_
+
+> "You can simply put a bunch of 5090s, put it on Akash right now and actually earn a sizable income. Your biggest variable will be bandwidth and your energy costs. That's what you want to watch out for. Now, if you have access to, let's say, a solar or renewable, your marginal cost is zero. That's an incredible opportunity."
+> — [00:39:59](https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way)
+
+**Context:** Also notes Bitcoin miners are pivoting their setups to AI compute. (Whisper renders "put it on Akash" as "put it on a cash" and slightly garbles the surrounding sentence.)

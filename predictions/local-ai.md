@@ -5,7 +5,7 @@ theme: "Local AI"
 permalink: "/predictions/local-ai/"
 ---
 
-_42 statements · 2020–2026_
+_48 statements · 2020–2026_
 
 ### 2020-06-22 — Giving IoT devices intelligence at the edge with home compute
 
@@ -15,6 +15,17 @@ _The Akashian Challenge Phase 1 Livestream (Akash Network)_
 > — [00:55:15](https://www.youtube.com/watch?v=L3JjJldfU3o&t=3315s)
 
 **Context:** Asked whether Supermini is plug-and-play; Greg's personal edge-AI use cases, plus Sunny's GPT-2 bot training on a Supermini.
+
+---
+
+### 2021-05-12 — Machine learning is the ideal workload for home-deployed compute
+
+_"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute" (Base Layer)_
+
+> "Machine learning is one of those use cases where you do not have the data gravity issues like our latency requirements that web applications normally require. So it's an ideal system to be deployed in the home."
+> — [00:26:54](https://podcasts.apple.com/us/podcast/base-layer-episode-209-greg-osuri-founder-of-akash/id1445373535?i=1000521492647)
+
+**Context:** Early (2021) articulation of the thesis that AI/ML workloads, being latency-insensitive, will migrate to cheap home/edge hardware ("our latency requirements" = likely "or latency requirements").
 
 ---
 
@@ -114,6 +125,28 @@ _1on1 Greg Osuri - Akash (Jerry V Hall)_
 > — [00:27:07](https://www.youtube.com/watch?v=ubYh3RfdQHA&t=1627s)
 
 **Context:** His flagship AI-supercloud use case: eight billion people lack adequate healthcare because diagnosis is bottlenecked on human doctors.
+
+---
+
+### 2023-12-11 — Super Mini — a GPU for the home, because AI must remain sovereign
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "About three to four years ago, we launched something called Super Mini... It's a device, a GPU for the home... AI is going to be one of the most important, like, applications for Akash and for the globe. And it's very, very important that AI remains sovereign, right, instead of being controlled by a few companies. And ultimately, in order to ensure sovereignty, you need to ensure the fuel that runs AI and that happen to be GPUs."
+> — [00:13:08](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** Revealing Overclock attempted home-AI hardware around 2019–2020 (killed by COVID and immature models/GPUs) — "I think now things have changed quite a lot" ([00:13:54]). Early documentation of his home-compute conviction.
+
+---
+
+### 2023-12-11 — A GPT for each person — healthcare is AI's first dominant application
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "I think the first application we're going to see that is going to take dominance is healthcare... And we have 7 billion people, right? 8 billion people now. Imagine a GPT for each person, right? That can actually diagnose your lab results... And the amount of GPUs you need for that, we don't have enough H100s in the world."
+> — [01:01:00](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** The per-person-GPT quote and H100-shortage math land in the [01:02:29] block; he uses this to argue lower-end GPUs will matter as AI use cases expand, including a "GPT doctor" for the billion people without basic healthcare ([01:03:12]).
 
 ---
 
@@ -224,6 +257,28 @@ _Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)_
 > — [00:35:35](https://www.youtube.com/watch?v=3_gGBRqzxrQ&t=2135s)
 
 **Context:** Answering "the billion dollar question" of generalized vs. specialized models; he analogizes to humanity progressing through specialization and knowledge sharing. Small specialized models are the form factor that runs on local/edge hardware.
+
+---
+
+### 2025-01-02 — AI is moving off the cloud and into home computers
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "Yesterday when Jensen [Huang]... introduced this like, just supercomputer for home. And if you saw that, right, so they're literally like, there's a big movement of [home AI], I would call it, where the AI is not literally on a cloud like today, but rather in home computers, right? And I believe in that vision because I've been coding a lot of AI agents these days."
+> — [00:48:31](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** Referencing NVIDIA's just-announced home supercomputer (Project DIGITS, CES 2025); the transcript garbles the movement's name ("AJ"). This clip also opens the episode as the cold open.
+
+---
+
+### 2025-01-02 — Sovereign private AI at home is inevitable
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "I don't want that information to leave my home because I don't trust anything that leaves my home network in terms of privacy, right? So there's going to be a need for sovereign private AI at home. It's inevitable because nobody, I'm not comfortable with this stuff leaving my home. I'm pretty sure most people are not comfortable. But if there's an easy enough solution that you can just buy and plug and play at home, I think people will buy."
+> — [00:50:34](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** He describes his target build: cameras/microphones throughout his home feeding a local tinybox cluster running inference, with agents comparing contractor meetings and producing action items ([00:49:53]).
 
 ---
 
@@ -356,6 +411,17 @@ _The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)_
 > — [00:14:29](https://www.youtube.com/watch?v=CWA3IAr9sc4&t=869s)
 
 **Context:** Bandwidth, not energy, as the binding constraint for home inference; inference otherwise belongs in telco-style data centers in every city.
+
+---
+
+### 2026-01-15 — Desert-island pick: a GPU machine with a fully loaded local AI
+
+_The Remote Work Tribe Podcast: Greg Osuri (The Remote Work Tribe Podcast)_
+
+> "That would be definitely my GPU machine here with the AI loaded on it. A fully trained AI on it, because if your physical needs or protection and your shelter and your food is taken care of, the next important thing is intellectual satisfaction... a fully loaded AI, like a DeepSeek or something that's coming with me. I will generate infinite amounts of knowledge and read."
+> — [00:27:22](https://www.theremoteworktribe.com/2026/01/15/the-remote-work-tribe-podcast-greg-osuri/)
+
+**Context:** Lightning-round answer; notable as a personal endorsement of self-sufficient local AI on consumer hardware (final sentence falls at [00:28:13]).
 
 ---
 

@@ -5,7 +5,7 @@ theme: "Decentralized AI"
 permalink: "/predictions/decentralized-ai/"
 ---
 
-_148 statements · 2020–2026_
+_165 statements · 2020–2026_
 
 ### 2020-12-10 — DeFi and machine learning first, enterprise later (the S3 playbook)
 
@@ -194,6 +194,39 @@ _Akash Mainnet 6 Livestream (Akash Network)_
 
 ---
 
+### 2023-09-06 — Resilience: kill the company, the network lives
+
+_"#3 - Akash Network with Greg Osuri" (Weapons of Mass Adoption)_
+
+> "One attack on Render, one state attack on Render, well, if OTA, the company behind Render, it disappears. The Render network disappears right now, right? If Akash, the company behind Akash's Overclock Labs disappears, Akash will run, right? Overclock Labs operates one provider out of 50 other providers."
+> — [00:47:03](https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051)
+
+**Context:** His self-regulation argument for the industry — "decentralization is very important, especially now with state-level attacks happening on this ecosystem" — while contrasting Akash's open model with Render's closed one ("OTA" is Whisper's mis-hearing of OTOY, Render's parent company).
+
+---
+
+### 2023-09-25 — The commons should own AGI
+
+_Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)_
+
+> "The race to AGI is on. The question is, who's, is that going to be a centralized or a decentralized player? I want more equitable. I don't want a single corporation. I want the common to own the AGI... I want to see decentralized machine learning take a central stage."
+> — [00:26:39](https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449)
+
+**Context:** Asked about the crypto/AI convergence; he frames current AI as "leading us to a feudalistic world" with OpenAI unchallenged.
+
+---
+
+### 2023-09-25 — Decentralized solutions will win AI, not centralized ones
+
+_Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)_
+
+> "Decentralized open systems, even though they move slower, they go further versus closed source systems move faster, but there's a limit as to which they can scale, right? There is nothing more scalable than the worldwide web. Why? Because it's decentralized... it's actually going to be decentralized solutions. I have very high confidence in that."
+> — [00:26:39](https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449)
+
+**Context:** AOL-vs-web analogy applied to AI; the concluding "very high confidence" clause lands in the [00:27:29] block.
+
+---
+
 ### 2023-09-29 — Akash was built for machine learning from the 2017 white paper
 
 _Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)_
@@ -271,6 +304,17 @@ _1on1 Greg Osuri - Akash (Jerry V Hall)_
 
 ---
 
+### 2023-12-11 — Akash will be the platform of choice for decentralized ML
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "We're also seeing some of the decentralized networks now training on Akash, right? So like BitTensor and networks like that. So Akash, I mean, I predict Akash to be the platform of choice for decentralized machine learning to thrive."
+> — [00:22:10](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** Following the observation that someone was already deploying AutoGPT (autonomous agents) on the Akash testnet.
+
+---
+
 ### 2023-12-18 — On-chain AI is at least 5-6 years away
 
 _Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)_
@@ -290,6 +334,17 @@ _Akash: $300 Million Incentives w/Greg Osuri | CEO of Overclock Labs,Founder & A
 > — [00:10:06](https://www.youtube.com/watch?v=9gI5CWNpDgw&t=606s)
 
 **Context:** Answering what Akash's unique selling proposition is; he frames permissionless GPU access as the counter to hyperscaler gatekeeping.
+
+---
+
+### 2024-01-16 — For the first time, crypto has something Amazon doesn't
+
+_"Akash: The Crypto-Powered Decentralized Supercloud" (The Edge Podcast)_
+
+> "They talk about how they couldn't find compute on Amazon, but they could find compute on Akash. So I think for the first time we have something so critical that Amazon of the world doesn't. And we have an incredible shot to get this right."
+> — [01:05:51](https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294)
+
+**Context:** On Semafor's "blockchain saving AI" article — mainstream coverage of Akash with "zero coverage crypto" — which he calls exactly the narrative the industry needs (transcript garbles the second clause as "couldn't find computer in Akash"; sense per the Semafor article is "could").
 
 ---
 
@@ -447,6 +502,28 @@ _Tech Snippets Today - Greg Osuri - Founder at Akash with Joseph Raczynski (Jose
 
 ---
 
+### 2024-06-18 — Nobody who discovers ASI will share it — so ASI access must be a public utility
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "If someone discovered AGI or artificial general intelligence or ASI artificial super intelligence, there is no incentive for them to share that with the world. Because they can go on a stock market, public market and just rip it apart... So it's very, very important ASI is not closed. And very important access to ASI is open and is public utility rather than corporate assets."
+> — [01:05:37](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** The core of his open-AI argument: a private ASI discoverer would have "superpower"-level advantages and no reason to share. At 01:09:58 he adds the sustainability half: "Pure open source doesn't have sustainability" — tokenized incentives are what make open ASI development viable.
+
+---
+
+### 2024-06-18 — Bittensor's emissions already rival OpenAI's revenue
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "[OpenAI] makes about $2 billion a year... in revenue. Now what the emissions are for BitTensor per year? $1.5 billion... BitTensor has similar levels of revenues or emissions as open AI revenue. So we are right there at that scale."
+> — [01:06:22](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** His evidence that decentralized AI is already economically competitive; he adds that Bittensor sustains top researchers (Nous Research, ex-Stability talent) and that FAANG AI talent is moving to incentivized open source (01:07:03-01:07:49). Whisper renders "OpenAI" as "opening AI."
+
+---
+
 ### 2024-06-19 — Separation of compute from state
 
 _Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)_
@@ -568,6 +645,17 @@ _Building a React App live with AI (Greg Osuri)_
 
 ---
 
+### 2024-09-10 — Firmest conviction: your fridge will contribute to a global machine learning machine
+
+_Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))_
+
+> "Decentralized AI is going to be such a reality that people don't really understand the power what it can represent... When you remove the finite [limit] and you can connect the global devices... you'll be able to have your fridge contribute to the global machine learning machine... the future of AI is decentralized."
+> — [00:31:28](https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512)
+
+**Context:** His answer to "firmest conviction crypto opinion" (spans into the 00:32:10/00:32:50 blocks); he cites a Nous Research distributed-training result published the day before as evidence the technology barrier "is solved, and being solved at a rapid pace."
+
+---
+
 ### 2024-09-18 — Crypto enables data sovereignty for AI
 
 _Interview with Akash Network founder/CEO Greg Osuri at deAI Summit TOKEN2049 (Pundi AI)_
@@ -675,6 +763,17 @@ _Leveraging Incentives to Build with Your Community | Open AGI Summit | Brussels
 > — [00:05:10](https://www.youtube.com/watch?v=QD0dxndS3m4&t=310s)
 
 **Context:** On verifying general-purpose compute where the platform can't see source code. Notable because two weeks later (Sahara AI/ALL Summit panel) he again emphasized TEE hardware vulnerabilities — he holds both positions with visible reluctance.
+
+---
+
+### 2024-10-02 — The AI crossroads: digital lords vs. the people
+
+_"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out." (Block Fuel)_
+
+> "The choice is really like, is it going to be Larry Ellisons of the world, the new digital lords of the world, that are going to control who gets the chips, to us peasants? Or is it going to be us, the people that actually rely on these chips and use AI on a daily basis...? That's the crossroads we're at with AI right now."
+> — [00:07:22](https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211)
+
+**Context:** Capping the demand math, referencing Ellison's nuclear-reactor datacenter plans; his core framing of why decentralized compute allocation matters.
 
 ---
 
@@ -975,6 +1074,28 @@ _Greg Osuri Founder Akash Network | Cosmoverse Dubai 2024! (pinoyweb3TV)_
 
 ---
 
+### 2025-01-02 — Nuclear can't arrive in time — distributed training is the answer
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "So we have to, you know, build nuclear reactors in the next two years, which is not going to be reality. So we're going to have to explore very seriously about distributed training. Right? So, distributed training also means distributed grid. That means you can actually go, instead of concentrating too much compute in a single data center, you distribute that compute all over."
+> — [00:31:27](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** He cites Prime Intellect's INTELLECT-1 (10B parameters trained over the internet via DiLoCo) as the two-month-old proof point ([00:32:08]).
+
+---
+
+### 2025-01-02 — Decentralized AI goes mainstream by mid-2025
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "There are a lot of people working, very, very smart people working on this stuff, that I have a lot of confidence that by mid-2025, when ICML happens, pay attention to the papers that are being submitted... and I think mid-25, you're going to see decentralized AI go mainstream, like, no doubt."
+> — [00:38:57](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** Expecting training runs from Nous, Gensyn, and Prime Intellect; "memes are taking the mindshare right now, but that's not going to be the case when AI is going to go mainstream with decentralized AI" ([00:39:38]).
+
+---
+
 ### 2025-01-31 — Synthetic data broke the data ceiling and accelerated AGI
 
 _DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)_
@@ -1162,6 +1283,28 @@ _DePin, Scams & Decentralized ML (Chris Joannou)_
 
 ---
 
+### 2025-05-13 — Distributed training just broke the co-location requirement
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "There's enormous amount of research... Google really released a paper called [DiLoCo] and a bunch of companies actually implemented this paper and actually proved we can train a 32 billion parameter model fully distributed... you can have a cluster in New York... Singapore... San Francisco and actually contribute to a training run... That was not possible a few years ago."
+> — [00:26:13](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** He dates the breakthrough to "about six months ago" (00:25:21) and says if Nous Research's DisTrO approach proves out at 100B parameters "that will turn a lot of heads" (00:27:07).
+
+---
+
+### 2025-05-13 — Decentralized AI "takes off" mid-2025; every layer of AI will decentralize
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "This like new era of decentralized AI, which I believe will take off mid year, like June, July timeframe... there's going to be an explosion of decentralized AI, but the beginning of the training, and then we're going to go to inference... So every layer of AI will be decentralized."
+> — [00:47:57](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** He grounds the timing in ICML paper volume and his involvement with Nous Research, Pluralis and Prime Intellect — "all of them actually use Akash right now to do their research" (00:48:41); bandwidth (Helium, Starlink) is the next DePIN layer.
+
+---
+
 ### 2025-06-03 — Inference will be much larger than training
 
 _Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)_
@@ -1313,6 +1456,39 @@ _Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Cryp
 > — [00:04:21](https://www.youtube.com/watch?v=_4cu3b3jJgk&t=261s)
 
 **Context:** Concluding argument that whoever controls AI's foundation determines which values guide it.
+
+---
+
+### 2025-07-31 — The fix is changing the math: 875x less communication
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "Can we actually reduce the amount of energy bandwidth that's needed between nodes?... They were able to reduce communication or improve bandwidth requirements by 875x. So from, I think, like 80 gigabytes to, like, 70 megabytes."
+> — [00:14:16](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Surveying low-communication optimizers: DeepMind's DiLoCo paper (Whisper: "DialaCo"), Prime Intellect's fully decentralized 10B-parameter model, and Nous Research's DisTrO (Whisper: "News Research"). First quoted sentence is at [00:13:22].
+
+---
+
+### 2025-07-31 — Distributed training hits GPT-3 level by end of year
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "The biggest model is 72 billion parameter model. For comparison, GPT-3 was 150 billion parameter model. So we're very, very close to GPT-3... So if you were to ask me where distributed training is, it's about pre-ChatGPT-3. And by end of the year, it will be ChatGPT-3 level."
+> — [00:19:37](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Dated benchmark prediction (end of 2025). Cites the sponsor protocol (likely Gensyn; Whisper: "Jensen") running ~12,000 models training concurrently, plus zero-knowledge gradient verification enabling permissionless nodes [00:18:11].
+
+---
+
+### 2025-07-31 — Traditional AI now accepts decentralized training: five papers at ICML
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "Why last year there was dismissal of this? No one even thought this was possible. This year, there are five papers that are all presenting at ICML. That's a big shift because that is acceptance by traditional AI."
+> — [00:22:26](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** He had just given an hour-long invited lecture on energy at ICML Vancouver to a packed room of 300, "completely opposite to crypto... it reminded me of what crypto used to be back in 2013" [00:20:17].
 
 ---
 
@@ -1632,3 +1808,14 @@ _This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)_
 > — [00:34:15](https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=2055s)
 
 **Context:** Cites ~100B-parameter distributed training runs (Nous Research, "PluralSight" — likely Pluralis, caption garble) as proof the science is arriving; Akash's latent supply is inherently heterogeneous.
+
+---
+
+### 2026-07-29 — Training now works on distributed, heterogeneous networks
+
+_AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)_
+
+> "Today, training workloads are evolving to a point that can work on distributed networks, heterogeneous networks, highly fault tolerant. We're seeing companies like Pluralis, for example, training fairly large or usable models on fully decentralized networks."
+> — [00:39:02](https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way)
+
+**Context:** Adds that algorithms "can communicate less frequently in bigger batches," and that Razer (the gaming hardware company) ran a successful April 1st image-generation campaign on Akash home nodes — proof home nodes work at scale for a publicly traded company [00:39:02].

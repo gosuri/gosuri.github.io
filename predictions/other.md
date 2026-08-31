@@ -5,7 +5,7 @@ theme: "Other"
 permalink: "/predictions/other/"
 ---
 
-_153 statements · 2015–2026_
+_169 statements · 2015–2026_
 
 ### 2015-10-12 — "Akash" debuts as Overclock's internal tool
 
@@ -29,6 +29,17 @@ _Greg Osuri New (Digital Summit)_
 
 ---
 
+### 2018-03-02 — Data processed doubles every two years
+
+_Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)_
+
+> "The data, amount of data we process is doubling every two years. So that's when we're like looking at solving this problem. And we discovered there's a lot of latent capacity lying around."
+> — [00:06:47](https://omny.fm/shows/the-silicon-valley-insider-show/sv-insider-3-2-18-podcast)
+
+**Context:** His explanation for why compute cost/speed pressure keeps growing despite hardware advances; used to justify the latent-capacity marketplace.
+
+---
+
 ### 2018-04-23 — Legislation first — then the US is a cradle of innovation
 
 _Panel: Decentralized Storage (Block 2thefuture)_
@@ -37,6 +48,39 @@ _Panel: Decentralized Storage (Block 2thefuture)_
 > — [00:15:11](https://www.youtube.com/watch?v=nTHa7tr277g&t=911s)
 
 **Context:** His one-year wish list, followed by wanting highly scalable/high-performance storage systems and better usability.
+
+---
+
+### 2018-06-15 — Bitcoin is the ultimate store of value — better than gold
+
+_S1E2 - Greg Osuri (CryptoChange.News)_
+
+> "Bitcoin today is ultimate store of value, better than gold. It's just easier. And government doesn't have control on it... Bitcoin is the last crypto that will run out of business if crypto dies."
+> — [00:20:40](https://archive.org/details/CryptoEp2GregOsuri)
+
+**Context:** Reporting Middle East capital flight after the Saudi purge; he says he was approached about selling a 200,000 BTC (~$1.8B) OTC block and predicts hidden OTC volume means "someday the supply dries up, and that's going to drive the retail price up" (00:21:22, with an explicit not-investment-advice disclaimer).
+
+---
+
+### 2018-06-15 — US legislative clarity on crypto is about two years away (~2020)
+
+_S1E2 - Greg Osuri (CryptoChange.News)_
+
+> "My bet would be at least two years by the time we see [legislative understanding]... evidence being the kind of bills that are being introduced... about 18 new legislations being introduced in different states now... these states are moving faster than the feds."
+> — [00:49:55](https://archive.org/details/CryptoEp2GregOsuri)
+
+**Context:** After describing his California Assembly testimony on the state's first blockchain bill and the four-agencies problem (SEC/CFTC/IRS/FinCEN each defining crypto differently, 00:30:07); he cites Wyoming's utility-token bill and Coin Center's work (quote spans into the 00:50:38 block).
+
+---
+
+### 2018-08-31 — Market sizing Akash's beachhead use cases
+
+_"Crypto Stories: A Primer on Distributed Computing with Dani Grant, Dan Desjardins, Chandler Song, and Greg Osuri" (Village Global's Venture Stories)_
+
+> "Which is not a small market. It's about $10 billion market. And then we moved on to CI CD [pipelines], which is about $30 billion market. And machine learning workloads is about $60 billion market. So that's how we're looking at go to market."
+> — [00:11:49](https://podcasts.apple.com/us/podcast/crypto-stories-a-primer-on-distributed-computing/id1316769266?i=1000499161936)
+
+**Context:** Performance testing → CI/CD → ML workloads as sequential beachheads, explicitly modeled on AWS's 2007 low-friction S3 entry. Notable that ML workloads were already the target end-market in 2018.
 
 ---
 
@@ -70,6 +114,17 @@ _Overcoming the Challenges of Distributed Networks with Greg Osuri CEO Overclock
 > — [00:12:32](https://www.youtube.com/watch?v=WKvrKWdc9OA&t=752s)
 
 **Context:** His core thesis on winning adoption — user-centered design ("fail forgiveness," "cognitive coefficiency") rather than overstating the mission; recurs throughout the episode.
+
+---
+
+### 2020-01-12 — Open-source SGX runtimes will arrive within a year
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "We haven't seen any major open source implementation for SGX yet. So I think the technology is like still early and under development. But that's, I'm pretty certain that's going to change in like the next year."
+> — [00:26:28](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** From the recovered span (quote ends in the 00:27:12 block), discussing SGX as a live primitive on Akash (bring-your-own runtime; he recommends Anjuna's, notes MobileCoin building one) — a dated, checkable early-2020 forecast on confidential-computing tooling.
 
 ---
 
@@ -1020,6 +1075,17 @@ _The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Aka
 
 ---
 
+### 2023-09-25 — Fake video becomes indistinguishable within a year
+
+_Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)_
+
+> "You see a lot of fake, what do you call fake videos and AI generated videos that are going to take over. Video creation is extremely powerful now. Within a year, there's no doubt it's going to get [more] powerful. Incredibly hard for you to know what's fake and what's real. So there's attribution."
+> — [00:29:03](https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449)
+
+**Context:** Arguing decentralized systems will provide provenance/attribution for AI-generated media (transcript garbles "no more powerful"; sense is "more powerful").
+
+---
+
 ### 2023-09-28 — LLMs will make doctors more productive, not replace them
 
 _Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)_
@@ -1086,6 +1152,39 @@ _How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearc
 
 ---
 
+### 2023-12-11 — Doctors go from 10 patients a day to 100 with AI
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "I think the pattern is going to be like, if today, if you deem a doctor can serve up to 10 patients a day, tomorrow's doctors will be able to serve up to a hundred patients a day. Right. I think doctors are not going to go away. I think they're just going to get better with AI. And that means more accessible healthcare."
+> — [01:06:05](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** Part of an extended riff on proactive AI health monitoring of his own sensor data; he later revises upward: "Now it's going to be a thousand patients a day because of AI" ([01:09:43]).
+
+---
+
+### 2023-12-11 — The state's crypto overreach is temporary
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "I think this current overreach by the state is just temporary. Like, I don't see this lasting in more than, you know, maybe a few years... Government tends to, you know, anything they deem to be a threat, they tend to take an adversarial position. And eventually, they learn that it's actually helping them."
+> — [01:33:24](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** Citing the crypto wars of the 80s/90s as precedent; he argues Akash-style real-world problem solving ("secondary market for GPUs will make America a lot more competitive," [01:39:20]) flips the regulatory framing.
+
+---
+
+### 2023-12-11 — AI makes a 10x engineer a 100x engineer
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "The amount of productivity we get is so high with AI. It's unbelievable. And if you know how to use the right tools, chain them together, you can build incredibly effective and proficient, like, processes, right? I think AI, it makes a 10x engineer a 100x. It doesn't negate for a need of humans, but it just makes humans better."
+> — [00:33:39](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** Personal anecdotes — Copilot letting him ship an API in two hours instead of a day; he places himself in the accelerationist camp against "the doomers" ([00:34:24]).
+
+---
+
 ### 2023-12-18 — Bull-market thesis: ETF trigger + cheaper money + degeneracy
 
 _Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)_
@@ -1094,6 +1193,28 @@ _Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)_
 > — [01:15:33](https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=4533s)
 
 **Context:** Answering the host's stock question on when the next bull run starts (Dec 2023, pre-ETF approval); prefaced with "I'm an engineer, I'm really bad at predicting these things." ETF trigger line begins at 01:14:49.
+
+---
+
+### 2024-02-14 — AI is the first technology that passes "the grandmother test"
+
+_"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri" (Finality Crypto Podcast (DeFi Times))_
+
+> "Compared to the last big technology that got popularity, which was crypto... AI is exponentially easier to explain to your grandmother. It passes the grandmother test. And that's key because no technology that came before AI could pass the test."
+> — [00:48:00](https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095)
+
+**Context:** Explaining ChatGPT's zero-to-100M-users-in-90-days adoption versus the iPhone and the early web, both of which required persuasion (spans into the 00:48:54 block).
+
+---
+
+### 2024-02-14 — AI multiplies service professionals: doctors from 10 to 50 patients a day
+
+_"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri" (Finality Crypto Podcast (DeFi Times))_
+
+> "AI makes someone's job much better. Lawyers, doctors, just service professionals. So, today if a doctor can see 10 patients in a day, with AI, they'll be able to see 50 patients a day. If a lawyer needs to review a contract, if it takes an hour, that contract will take 10 minutes to 5 minutes using AI."
+> — [00:51:12](https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095)
+
+**Context:** Built on his framing of medical diagnosis as "a recollection game" where AI gives aging human memory "superpowers" (00:50:28); quote spans into the 00:51:55 block.
 
 ---
 
@@ -1339,6 +1460,28 @@ _Building a React App live with AI (Greg Osuri)_
 
 ---
 
+### 2024-09-10 — AI misuse will get worse before it gets better
+
+_Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))_
+
+> "Most people have no clue what AI can do... I have this like dystopian view at the same time, very optimistic view as well. I think it's going to get worse before it gets better, because there's going to be quite a lot of damage... when things get worse, regulation comes in... and I'm praying that it happens at a pace where the people that want to stop us can't keep up."
+> — [00:35:34](https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512)
+
+**Context:** Answering the William Gibson "future is already here" question, citing his mother interacting with AI-generated images on Facebook as already-deployed manipulation (quote spans into the 00:36:17 block).
+
+---
+
+### 2024-10-02 — Regulation, not competition, killed American railroads — a warning for AI
+
+_"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out." (Block Fuel)_
+
+> "Railroads did not die because airplanes came or motorways came... railroads died because they got overly corrupt and regulated as a result, and that led to the death of a whole industry. And that's the reason why we have railroads in Asia and Europe but we don't have railroads anymore in America."
+> — [00:19:48](https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211)
+
+**Context:** His historical argument against heavy AI/chip industry intervention (quote spans into the 00:20:30 block), paired with a Chips Act critique ("the intention is always good, but the implementation is always bad") and a recommendation of Rothbard's Progressive Era.
+
+---
+
 ### 2024-10-18 — Dedollarization overrated; the semiconductor dollar is next
 
 _Sovereign AI's Battlefield: Compute, Storage, & Running On The Edge | Crypto x AI Event (Delphi Digital)_
@@ -1449,6 +1592,17 @@ _Greg Osuri Founder Akash Network | Cosmoverse Dubai 2024! (pinoyweb3TV)_
 
 ---
 
+### 2025-01-02 — Akash grew 17x year-over-year
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "Our quarterly earnings this year for Q3, last quarter, was 1,700% compared to a year before. That is 17x growth. That is a whole order of magnitude... that's really my north star. Like, we got to grow 10x every year."
+> — [00:19:48](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** Growth snapshot for 2024, plus 12% cumulative monthly growth rate — "better than great" by SaaS standards ([00:21:50]).
+
+---
+
 ### 2025-01-31 — Remove export controls; state intervention backfires
 
 _DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)_
@@ -1515,6 +1669,17 @@ _DePin, Scams & Decentralized ML (Chris Joannou)_
 
 ---
 
+### 2025-05-13 — Within 100 years, a new species merging humans and AI
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "AI is an evolutionary step for humanity. And I think, you know, in 100 years, I definitely can see a birth of a new species that's augmenting AI and humans."
+> — [00:04:12](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** After defining AI as "augmentation of intelligence" versus the internet's "augmentation of reach" (00:02:34); he later reinforces it: "we're basically cyborgs" (00:41:46).
+
+---
+
 ### 2025-06-03 — This era will be remembered as the start of human acceleration
 
 _Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)_
@@ -1567,6 +1732,17 @@ _Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Cryp
 > — [00:01:28](https://www.youtube.com/watch?v=_4cu3b3jJgk&t=88s)
 
 **Context:** Geopolitical stakes-setting; contrarian claim that infrastructure, not algorithms, decides AI leadership.
+
+---
+
+### 2025-07-31 — AI is a substrate of civilization
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "If you look at AI, it is a substrate of civilization. There are very few substrates that we have historically. We had electricity as a substrate. We had water as a substrate... So the foundational technology is not a feature. There's no technology or no area in humanity that AI will not touch."
+> — [00:02:29](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** His opening framing; follows with the thought experiment "electricity is so important, but it's only controlled by three people... How would that make you feel? It doesn't matter if the people are good or bad. People don't last forever" [00:03:57].
 
 ---
 

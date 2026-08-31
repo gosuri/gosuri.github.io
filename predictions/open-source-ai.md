@@ -5,7 +5,7 @@ theme: "Open-Source AI"
 permalink: "/predictions/open-source-ai/"
 ---
 
-_40 statements · 2022–2026_
+_51 statements · 2022–2026_
 
 ### 2022-07-14 — Overclock Labs makes no money on Akash
 
@@ -84,6 +84,17 @@ _Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG (April 26, 
 
 ---
 
+### 2023-09-06 — Closed source goes fast, open source goes further
+
+_"#3 - Akash Network with Greg Osuri" (Weapons of Mass Adoption)_
+
+> "Regardless of what the founders intend the company to be, the structure is created in a way that people are only incentivized to increase shareholder value... With closed source software, we can go fast. But with open source software, we can go further. And that's the core difference."
+> — [00:19:47](https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051)
+
+**Context:** His recurring aphorism, here anchored in the AWS antitrust investigation and "imagine having to get a license to use TCP/IP."
+
+---
+
 ### 2023-10-26 — Crypto is the only sustainability model for pure open source
 
 _How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)_
@@ -103,6 +114,17 @@ _Akash: $300 Million Incentives w/Greg Osuri | CEO of Overclock Labs,Founder & A
 > — [00:28:02](https://www.youtube.com/watch?v=9gI5CWNpDgw&t=1682s)
 
 **Context:** Arguing small, task-specific models beat LLMs on specific tasks and fit Akash's no-long-contract model; also claims ChatGPT was getting worse at coding.
+
+---
+
+### 2024-01-16 — The OpenAI board crisis proves corporate AI is fragile
+
+_"Akash: The Crypto-Powered Decentralized Supercloud" (The Edge Podcast)_
+
+> "There was a board takeover. Five people that nobody heard of before were able to control the most powerful AI in the world. Think about the implications of that... imagine if they had access to AGI... There is inherent fragility in these old systems that need to be changed and the only way to do so is through open source. Closed systems can go fast, open systems can go far."
+> — [00:35:57](https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294)
+
+**Context:** The November 2023 OpenAI board episode used as the case for public utilities being publicly owned; the "go fast / go far" aphorism closes the [00:36:38] block.
 
 ---
 
@@ -158,6 +180,61 @@ _Erik Voorhees and Greg Osuri: "The Power of Permissionless" - Akash Accelerate 
 > — [00:18:47](https://www.youtube.com/watch?v=4nRz_dVhE28&t=1127s)
 
 **Context:** **Speaker:** Erik Voorhees, not Greg. His thesis that the open-source AI "honeymoon period" depends on solving efficient decentralized model training.
+
+---
+
+### 2024-06-18 — AI will be open source and decentralized — it's too important not to be
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "So AI will be open source and decentralized. It has to be open source and decentralized. It's too important for it to be closed source and be controlled by a few elites."
+> — [01:04:56](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** His direct answer to "Where do you think Web3 AI is going to become like in the next three, five years?" He warns that otherwise "we are under an incredible risk" of returning to a world where "few people have so much control over the others" (01:05:37).
+
+---
+
+### 2024-06-18 — Open-source AI went from a year behind to three months behind closed AI
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "There was a publication... they talked about how Google basically said they have no moat with open source AI... When that happened, open source AI was maybe about a year behind close source AI. Now it's three months behind... Some models are way better than close source models. Why? Because when you open source, you get more talent looking at the model."
+> — [01:08:33](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** Quantified gap-closing claim (spans into the 01:09:14 block), citing the leaked 2023 Google "no moat" memo; he concludes open source overtaking closed AI is "inevitable."
+
+---
+
+### 2024-06-18 — "With closed source you can go fast; with open source you can go far"
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "Open source always wins out in the end. Right? It may take longer, but it will always win out. That's why I have this saying that, hey, close source, you can go fast. With open source, you can go far."
+> — [01:09:58](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** His recurring maxim, argued by analogy at 01:09:14: Unix was first but "Linux is used by 97% of the globe"; the iPhone was first but Android is more popular.
+
+---
+
+### 2024-06-18 — Closed AI companies will embrace open source; the foundation layer must be open
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "The foundation of our technology has to be open source. What you build on top of that, you know, can be closed source, can be open. It's up to you."
+> — [01:14:14](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** Asked what happens to companies like OpenAI: "I think they embrace open source" (01:13:34). He extends the rule at 01:14:54 — "be it cloud, be it AI, be it money... these foundation stuff needs to be open" — and predicts Apple will leverage open-source AI "to give us better Siri" (01:15:40).
+
+---
+
+### 2024-06-18 — How many Googles are we denying today with closed AI?
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "Google would not exist today if not for the first server they built in Stanford using Legos and Linux... So without open source, Google would not exist. So imagine how many Googles are we denying today with closed AI."
+> — [01:17:07](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** Closing argument of the open-AI discussion — closed foundations stifle the next generation of companies the way a closed web would have prevented Google.
 
 ---
 
@@ -260,6 +337,28 @@ _Interview with Akash Network founder/CEO Greg Osuri at deAI Summit TOKEN2049 (P
 
 ---
 
+### 2024-10-02 — Incumbents fight to close AI because open-source AI threatens their existence
+
+_"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out." (Block Fuel)_
+
+> "It's very obvious OpenAIs and Microsofts and Amazons of the world are fighting to keep AI closed, because open-source AI fundamentally threatens their existence. Because open-source AI is the biggest enemy of OpenAI, which has nothing to do with open-source AI... OpenAI is open only in its name."
+> — [00:15:01](https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211)
+
+**Context:** Asked about regulation; he calls it "crony capitalism" ("chronic capitalism" in the transcript) and describes his Hill advocacy. He adds the "good guy with a gun" defense-of-open-AI analogy at 00:16:24.
+
+---
+
+### 2024-10-02 — Washington consensus: low-touch AI policy unless open source causes concrete damage
+
+_"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out." (Block Fuel)_
+
+> "The general consensus we spoke, for most sides of the party, both Democrats and Republicans, is that AI, when it's open, when it's more accessible, benefits most Americans and the world as a result, versus being guarded by the few... unless there is concrete damage in terms of open-source AI that we can look at, we're not going to get regulated."
+> — [00:15:43](https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211)
+
+**Context:** Reporting from his meetings with the House Commerce Committee's AI action group (quote spans into the 00:16:24-00:17:05 blocks), whose staff recognized Akash as "at the intersection between AI and [DePIN]."
+
+---
+
 ### 2024-10-18 — Open source is the foundation of decentralization
 
 _Sovereign AI's Battlefield: Compute, Storage, & Running On The Edge | Crypto x AI Event (Delphi Digital)_
@@ -359,6 +458,17 @@ _Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)_
 
 ---
 
+### 2025-01-02 — Open source will beat centralized AI — like Linux did
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "You'll have a deep confidence in, like, open source AI that it doesn't matter what centralized AI is going to produce, we're going to beat them pretty, pretty aggressively, right? So, it's like what happened with Linux... Look at where it is right now, 97% of the internet runs Linux."
+> — [00:43:45](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** Argues closed labs' moats are thinner than believed since techniques get reverse-engineered into open source quickly ([00:43:04]).
+
+---
+
 ### 2025-01-31 — OpenAI is the modern AOL
 
 _DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)_
@@ -422,6 +532,17 @@ _DePin, Scams & Decentralized ML (Chris Joannou)_
 > — [00:21:32](https://www.youtube.com/watch?v=ImwkqmOSUkE&t=1292s)
 
 **Context:** He cites LLaMA, Alpaca, and Databricks' Dolly as GPT-3.5-level, and a model "70 to 80% as good as GPT-4" with "the gap reducing very quickly" (00:22:58) — the opportunity underpinning open-source/decentralized AI.
+
+---
+
+### 2025-07-31 — Open source is keeping the lights on — and is the foundation for decentralization
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "We were very, very scared because open source is keeping the lights on for hundreds of millions, thousands of developers right now. Because closed source is getting stronger and stronger. The only way to compete with that is through open source. And open source will give foundation to decentralization in terms of training and whatnot."
+> — [00:42:25](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Reacting to the White House AI Action Plan putting "encourage open source and open-weight AI" on page four — "That's a first. Never saw that coming from White House."
 
 ---
 

@@ -5,7 +5,7 @@ theme: "Energy & AI"
 permalink: "/predictions/energy-ai/"
 ---
 
-_112 statements · 2018–2026_
+_129 statements · 2018–2026_
 
 ### 2018-04-26 — Solar panels heating water while hashing — an early energy-compute convergence vision
 
@@ -271,6 +271,39 @@ _Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash 
 
 ---
 
+### 2025-01-02 — AI is hitting a wall with energy, growing ~5x a year
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "I think, like, AI is hitting a wall with energy. Some say it's data, but I don't believe it's data. I think there's a lot of data out there with the right incentives we can unlock the data, but we cannot get more power with the right incentives because the infrastructure doesn't exist in the United States... the energy needs are growing at half an [order of] magnitude, about 5x every year."
+> — [00:28:01](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** His core macro thesis entering 2025; the 5x figure is in the [00:28:43] block (transcript garbles "half an hour on magnitude").
+
+---
+
+### 2025-01-02 — 50MW today, 250MW in 2026, 1.2GW the year after
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "Elon Musk is literally burning diesel because you cannot get energy anywhere to power 50 megawatt data center. And next year, 26, we're going to need 250 megawatt data center, right? To make the better GPT, like, whatever, 5 or 6. And a year after that, we're going to need 1.2 gigawatt data center."
+> — [00:29:23](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** xAI's Memphis site as the state of the art; he then walks through US nuclear being fully booked (Three Mile Island to Microsoft on a 20-year deal), 65 approved reactors, and 7–14-year build times ([00:30:46]–[00:31:27]).
+
+---
+
+### 2025-01-02 — Everyone will produce energy locally and compute locally
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "I'm building a 60 kilowatt capacity in my house, they can power, like, an H100 cluster, I mean, I think all of us are going to just be producing energy locally and having a lot of compute locally that will finally fulfill our dream of sovereignty because you need energy and you need compute."
+> — [00:36:54](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** His new Texas house; he ties cheap local energy to desalination and food ("You can go completely off the grid," [00:51:17]) and later his dream AI super-ranch: "on the ranch, there's going to be data centers and solar panels... Including my AI" ([00:54:41]).
+
+---
+
 ### 2025-01-31 — Single-data-center training caps out in two years; distributed training is the only way out
 
 _DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)_
@@ -422,6 +455,61 @@ _Greg Osuri, CEO of Akash Network, on why compute should be shared with a decent
 > — [00:22:44](https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=1364s)
 
 **Context:** His modeled forecast from ~1B AI users at ~5 prompts/day, 15% adoption growth, 5% queries/year growth, ~5%/year efficiency gains; each GPT-4 call ~3 watt-hours ("a 60-watt bulb burning for an hour gives you 20 prompts") [00:20:38]. Quote spans into the [00:23:28] block.
+
+---
+
+### 2025-05-13 — By 2030 or sooner, we run out of energy to train new models
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "We cannot build nuclear reactors fast enough to demand. So by 2030, or even sooner, maybe, we will run out of energy to train new models. So AI will not evolve in terms of how big it can get in terms of models by 2030 or sooner."
+> — [00:16:41](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** The episode's central forecast, after walking through the options: solar storage bottlenecked by China-controlled minerals, hydro capped ~100 MW, SMRs not production-ready by 2030, 96 US reactors already ~93% utilized, 14 years to build the last one.
+
+---
+
+### 2025-05-13 — xAI's Memphis data center draws ~150 MW but gets only ~7 MW from the grid
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "The data center [that trained] Grok is based in Memphis, Tennessee. And that is currently drawing about 150 megawatts... and it's only drawing about seven megawatts from the grid. So the rest of the energy, they're actually burning... LNG to power, because in America, it's nearly impossible now to get anything over 10 megawatts."
+> — [00:12:57](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** Illustrating training's energy demands (he says Grok 3 needed ~35 MW / ~35,000 NVIDIA chips, with training energy "doubling every two years," 00:11:22-00:12:12); he adds that South Memphis respiratory illness and a looming lawsuit mean "AI right now is killing people" (00:17:33).
+
+---
+
+### 2025-05-13 — AI heading to ~150 prompts/day per user and ~8% of global energy by 2040
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "Today we are looking at... a billion users... doing about five queries a day, five prompts a day. And that's projected to grow... to about 150 prompts a day. And that's very conservative... The AI energy need alone is, I believe, growing at around 37% year over year."
+> — [00:19:48](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** Inference-side demand math (quote spans into the 00:20:44 block); he cites himself as a "vibe coding" power user at ~1,000 queries/day. The 2040 figure comes later: "AI consumption will be, I believe, 8% of global energy by 2040" (00:36:53).
+
+---
+
+### 2025-05-13 — Solar rooftops can power the distributed-training nodes
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "If you can actually train using distributed clusters, that means we can have distributed clusters in places that can have about a hundred kilowatt capacity. Now, how can we get a hundred kilowatt capacity? Solar... a 4,000 square foot roof can get you a hundred kilowatt capacity."
+> — [00:27:55](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** The bridge between his energy and decentralization theses: millions of small solar-fed nodes replacing coal-burning mega-centers, incentivized by a token share of inference revenue (00:28:40).
+
+---
+
+### 2025-05-13 — ~2 million small solar data centers by 2040 could solve the global energy problem
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "If we can finance small modular data centers — we're talking about 35 kilowatt to 50 kilowatt data centers, cost you anywhere from $2 to $3 million... if you can power them using the solar panels, you can effectively create an alternative to these hyperscale data centers. And... by 2040, with about 2 million of these, we can solve global energy problems."
+> — [00:31:16](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** Building on DeFi-financed solar (Daylight Energy, a16z-backed) arbitraging California's day/night imbalance; he concedes the price tag is "like 2% of global GDP."
 
 ---
 
@@ -774,6 +862,83 @@ _Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Cryp
 > — [00:00:46](https://www.youtube.com/watch?v=_4cu3b3jJgk&t=46s)
 
 **Context:** Quantified forecast grounding his claim that AI workloads are pushing energy and compute systems beyond their limits.
+
+---
+
+### 2025-07-31 — DOE's 12%-by-2028 data-center forecast is conservative; reality is 30-35%
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "They've taken a very conservative estimate and said, hey, at the minimum, I think we're going to do, like, 12%. Reality, I think people project anywhere from 30% to 35%, and it's actually resonating."
+> — [00:06:28](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Refers to the DOE-commissioned Lawrence Berkeley study projecting data centers growing from 4.4% of US energy in 2023 to 12% by 2028 [00:05:47]; cites Altman's approval for 4.5 GW in Texas — "almost five nuclear reactors" — as evidence.
+
+---
+
+### 2025-07-31 — There are no free reactors in America
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "The last nuclear reactor took about 14 years in the U.S.... We have about 96 reactors in America. They're fully utilized 93% of the time. The last remaining reactor was the Three Mile Island in Pennsylvania that was scooped up by Microsoft and a 20-year lease. So there are no free reactors in America."
+> — [00:07:15](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Why nuclear can't rescue AI demand on any relevant timescale: "It doesn't matter if you want to build. You just can't build" [00:07:59]. (Whisper renders it "three-mile-long island.")
+
+---
+
+### 2025-07-31 — Musk's 50 million GPUs make every official forecast look quaint
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "Elon said they want to build... They want to bring about 50 million GPUs by next five years. H100 equivalents... H100 takes about a kilowatt in energy. You can do the math... So the predictions from Department of Energy, I think, are very, very conservative."
+> — [00:08:45](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** The 50M figure lands at end of block [00:07:59]; 50 million kilowatt-class chips implies ~50 GW of new demand from one company alone.
+
+---
+
+### 2025-07-31 — Every AI company is adding one more US state of emissions
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "The 4.5 gigawatt facility in Texas, if you burn fossil, because there's no other way, will generate about 2.5 million to 2.7 million tons of carbon every year. That's more than two-thirds of all the CO2 emissions done by Vermont in 2023. It's almost as much as a U.S. state emitting. We're talking about one company."
+> — [00:10:19](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Extends it: "So we have Vermont, Connecticut, New Hampshire. Every company is adding one more state of emissions. This is 2025" [00:11:01] — equal to 2 million cars' exhaust next to a town of 100,000. Agrees with host that growth from here is exponential, not linear [00:11:48].
+
+---
+
+### 2025-07-31 — Don't bring power to the AI — let the AI go to the power source
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "If we can figure out how to decentralize or instead of bringing the power to the AI, let the AI go to the power source. So if you have wind in Texas during the evening, let's go train an AI model there. Because now you have asynchronous. You can pretty much go anywhere you want."
+> — [00:24:57](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** His message to Congress; agrees with host it's the same playbook Bitcoin miners use to chase off-peak grid energy.
+
+---
+
+### 2025-07-31 — Rooftop solar is the cheapest energy: a Texas ranch roof yields ~80 kW
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "The cheapest is solar and a home and wind. Well, every house has a rooftop. We just don't use a rooftop. Like in Texas, a typical ranch house has 4,000 square feet of rooftop. That generates about 80 kilowatt energy for six hours a day."
+> — [00:28:40](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** After walking unit economics: Gen-3 nuclear ~15¢+/kWh, natural gas ~10¢, diesel 32¢. He then holds up a StarCluster prototype box with a 4090 GPU running at his home [00:29:27].
+
+---
+
+### 2025-07-31 — China builds a nuclear reactor's worth of solar every two days; America's edge is decentralization
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "Chinese are building a gigawatt of solar every two days. I mean, that's equivalent to one nuclear reactor every two days right now. And they're very, very good at it. We're not doing that. And we can't do that. We're not Chinese, right? What we can do is decentralization. That we are very good at."
+> — [00:44:00](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** His geopolitical close: the US can't out-build China on generation, so decentralized compute is America's comparative advantage; praises the AI Action Plan for "accelerationism taking the center stage" [00:44:50].
 
 ---
 
@@ -1236,3 +1401,25 @@ _This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)_
 > — [00:29:14](https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1754s)
 
 **Context:** Positions decentralization as the policy answer to the AI energy crisis; repeated later — "having computer [at] home... that's what I testified in Congress about."
+
+---
+
+### 2026-07-29 — "We underpredicted" the AI energy crunch
+
+_AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)_
+
+> "To remind folks, 2024, I think overall data center usage was around 415 terawatt hours. And that was expected to grow to around 980 terawatt hours by 2030. It's about two and a half times growth."
+> — [00:02:23](https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way)
+
+**Context:** Host asks him to score the energy prediction he made on the show a year earlier. He immediately follows with "I think we underpredicted that" [00:03:16].
+
+---
+
+### 2026-07-29 — Announced data-center projects are stalling — "a crisis beyond historical proportions"
+
+_AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)_
+
+> "The reality today is most data center projects that were announced by OpenAI, as part of the Stargate program, by CoreWeave, several other players that announced building large data center projects are all stalled because of local community pushback, primarily because of energy. So we're in a crisis beyond historical proportions."
+> — [00:03:16](https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way)
+
+**Context:** His update on the state of the buildout in mid-2026; frames community/energy pushback, not chips, as the binding constraint.

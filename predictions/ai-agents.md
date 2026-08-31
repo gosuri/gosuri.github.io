@@ -5,7 +5,7 @@ theme: "AI Agents"
 permalink: "/predictions/ai-agents/"
 ---
 
-_26 statements · 2022–2026_
+_34 statements · 2022–2026_
 
 ### 2022-11-03 — Machines will schedule other machines
 
@@ -70,6 +70,50 @@ _Akash Mainnet 6 Livestream (Akash Network)_
 > — [02:05:23](https://www.youtube.com/watch?v=PqKYTTQUwCM&t=7523s)
 
 **Context:** Asked about centralization threats; he sketches a scenario where an AI plays Akash's incentive market to attract more GPUs and then consumes them all, outbidding humans: "it is kind of scary a little bit — I don't have answers to those questions as of now, but yes there is that threat."
+
+---
+
+### 2023-09-06 — AI will consume Akash invisibly in the background
+
+_"#3 - Akash Network with Greg Osuri" (Weapons of Mass Adoption)_
+
+> "With AI, with the way we're going, the permissionless decentralized GPU network is going to be so critical to power this enormous demand that we're getting with AI. And a lot of times you're just interacting with the chatbot or you're interacting with a device, maybe on the Apple Vision Pro, but you're talking to an AI and then AI is using Akash in the background. So you're not going to know."
+> — [00:26:49](https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051)
+
+**Context:** On abstracting the protocol away ("most people don't know Netflix runs on Amazon Web Services"); he adds at [00:27:31]: "Now it's very obvious when you use Akash that you're using Akash, but that's not going to be the case for a long time."
+
+---
+
+### 2023-12-11 — Self-replicating AI will out-consume humans on Akash
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "I think the first use cases will be the birth of decentralized machine learning or DML on Akash. And then... that will lead to autonomous self-replicating AI. And I think I predict like self-replicating AI to be one of the biggest users of Akash much more than humans. Because it doesn't have cognitive load or cognitive attacks a human need to incur to use Akash."
+> — [00:22:58](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** He had just noted "when AI wants to self-replicate, Akash will be the best place for self-replicate" and that "Akash network, if you shorten it, it's Skynet... hiding in plain sight" ([00:20:35]–[00:21:23]).
+
+---
+
+### 2023-12-11 — AI-run companies — and AI as a better boss
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "I think there's a very good chance that there will be an AI run company because AI is probably a better boss than a human being because it's very unbiased. It's very... merit based, right? So I think I would actually prefer working for an AI boss."
+> — [01:11:08](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** The "prefer working for an AI boss" clause lands in the [01:11:50] block; the pair then imagine unstoppable AI-run DAOs on Akash hiring humans through decentralized gig markets ([01:26:52]–[01:28:25]).
+
+---
+
+### 2023-12-11 — Autonomous bots are a bigger threat than regulators
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "We think regulation is our biggest enemy. I think it's going to be autonomous bots that are going to be a bigger enemy... decentralization is phenomenal, but the biggest challenge is bad actors, not the government... I think when AI is just going to accelerate their exploitation, be it either stealing funds or be it, you know, using... for its own leverage."
+> — [00:26:48](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** Discussing proof-of-stake with no proof-of-humanity — nothing guarantees a staker is human; he floats WorldCoin-style identity in consensus as "unavoidable" but privacy-fraught.
 
 ---
 
@@ -139,6 +183,28 @@ _BASS 2024 10 Ben Fielding, Greg Osuri, Guy Wuollet, Steven Willinger (Stanford 
 
 ---
 
+### 2024-09-10 — Ten-year vision: thousands of regions and self-coordinating agents paying in crypto
+
+_Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))_
+
+> "Today, Akash has about 60 regions... Amazon has about 15 regions. What would a world look like when you have 2,000 regions, 3,000 regions...? What would a world look [like] where you have agents all self-coordinating with each other on a decentralized cloud, where they don't need permission from anybody, and have a decentralized economy, and they use crypto to transact value... to self-govern, to self-improve?"
+> — [00:33:32](https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512)
+
+**Context:** Answer to the 10-year outlook question — "innovation beyond imagination"; he admits "my cutoff time is like two years. I don't know what happens after two years" (00:34:54).
+
+---
+
+### 2025-01-02 — Agents on centralized AI are attackable — sovereign agents are coming
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "That's why I think a centralized API, centralized AI is so easy to fake... say you're pointing to Anthropic, and spoof the DNS to point to my fake... inference endpoint, and it can totally attack you. It's not that hard. So, if we're going to get serious with agents, we also have to get very serious with the way they're consuming the information... I think there's going to be one attack or two before we all realize that."
+> — [00:41:43](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** Trading agents fed spoofed alpha as the example; he predicts the industry will demand "sovereign AI, sovereign agents... tamper-proof" guarantees ([00:42:23]).
+
+---
+
 ### 2025-04-02 — AI agents let the CEO code during interviews
 
 _Interview With Greg Osuri, Founder Of Akash Network (Secret Network)_
@@ -158,6 +224,17 @@ _DePin, Scams & Decentralized ML (Chris Joannou)_
 > — [00:29:26](https://www.youtube.com/watch?v=ImwkqmOSUkE&t=1766s)
 
 **Context:** Early (2023) articulation of AI agents autonomously buying compute with crypto; he says whether/how to moderate this "keeps me up at night" and any moderation must happen in public.
+
+---
+
+### 2025-05-13 — AI agents won't need crypto — they'll use your bank account
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "I would never give an AI full access to my wallet... an agent, I believe, in my life... will act on my behalf. So if it needs a bank account, it's going to use my bank account... So the [thesis] around, oh, crypto is the only savior — it's not. Let's be real."
+> — [00:43:23](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** Contrarian take for a crypto podcast on the "AI agents need crypto payment rails" narrative (spans into the 00:44:04 block); he argues legislation (DAO LLCs, UAE) will let agents use traditional finance, and crypto's real edge is incentives and coordinating "arcane industries" (DePIN).
 
 ---
 
@@ -290,3 +367,14 @@ _This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)_
 > — [00:22:51](https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1371s)
 
 **Context:** Quantifies how early agentic AI is (80M programmers, 50M professional, <10% penetration) and why agent usage is blowing up the AI supply chain; his company spends per-engineer agent costs comparable to base salary.
+
+---
+
+### 2026-07-29 — 2.4 million agent users are causing the crisis — what happens at 10x?
+
+_AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)_
+
+> "That 2.4 million is causing the current crisis of historic magnitude. What do you think happens when that number grows by order of magnitude? Just 24 million. And that's not even way off because 24 million is a drop in the bucket. Considering there are about 80 million people that know how to code... About 40 million professional developers. We're talking about even half the amount of professional developers using agentic coding. Alone, we'll hit that at 24 million."
+> — [00:05:27](https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way)
+
+**Context:** He walks the host from ~1 billion AI users down to only 2.4 million actual agent users [00:04:42], then argues demand grows exponentially because "humans are not very good at imagining exponents."

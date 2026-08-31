@@ -5,7 +5,7 @@ theme: "Local Compute"
 permalink: "/predictions/local-compute/"
 ---
 
-_138 statements · 2018–2026_
+_159 statements · 2018–2026_
 
 ### 2018-11-10 — Devices will outnumber humans; the future needs edge capacity served by people, not hyperscalers
 
@@ -37,6 +37,39 @@ _Overcoming the Challenges of Distributed Networks with Greg Osuri CEO Overclock
 > — [00:10:22](https://www.youtube.com/watch?v=WKvrKWdc9OA&t=622s)
 
 **Context:** The Cactus economic model — household devices earning income by selling spare compute; Greg calls apps like this, with "nothing to do with blockchain," the proof of the web3 mission.
+
+---
+
+### 2020-01-12 — The Supermini pays for itself in year one — ~110% ROI
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "Super mini is... a home appliance that is essentially a mini supercomputer... in simple terms, it makes you more money [than] you spent purchasing the device in the first year. So the ROI is expected to be somewhere around 110% in the first year... it gives you a mechanism to bring the cloud to your house."
+> — [00:45:56](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** A quantified home-compute-earns-income prediction (spans into the 00:46:41 block); he compares its power to a classic Cray supercomputer ("as powerful as a Cray 70") and lists an app-store model with Eth2, Orchid and Sentinel VPN nodes runnable "from the comfort of your couch."
+
+---
+
+### 2020-01-12 — Home devices + Helium = edge infrastructure that skips telcos and clouds entirely
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "Super mini, when it's connected to a Helium device, provides an inference layer because a lot of these [IoT] devices are super low-powered... So imagine now you're essentially creating an edge infrastructure that skips the big telcos and the big clouds altogether. So that significantly reduces the cost envelope when it comes to deploying these edge IoT devices."
+> — [00:48:07](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** Early (Jan 2020) articulation of home hardware doing AI inference at the edge for mesh-network IoT (quote spans into the 00:48:53 block) — years before the "local AI" framing became mainstream.
+
+---
+
+### 2020-01-12 — Home-to-home encrypted services that skip the cloud altogether
+
+_"Hashing It Out #70 - Akash Network - Greg Osuri" (Hashing It Out (The Bitcoin Podcast Network))_
+
+> "If you're someone that cares about sovereignty and privacy, having super minis at home gives you this opportunity to control your own data... imagine having super minis in your house and my house and we both running matrix on it and we can connect directly in a peer-to-peer manner and have voice over IP, fully secure communications... that skips the cloud altogether."
+> — [00:49:34](https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743)
+
+**Context:** The data-sovereignty use case (quote spans into the 00:50:16 block); he calls this "building the next layer of the web, the web 3 for the edge."
 
 ---
 
@@ -81,6 +114,28 @@ _"The Akashian Challenge Livestream: Phase 3 Week 1" (Akash Network)_
 > — [00:55:35](https://www.youtube.com/watch?v=7x1ct2eC_Nw&t=3335s)
 
 **Context:** Supermini described as Akash's reference architecture for non-technical users — frictionless passive income from home hardware; initial order of 300 units shipping, 400-500 on the waitlist. Early home-compute thesis.
+
+---
+
+### 2020-12-16 — "Plug and earn" — getting cloud into consumers' homes with the Supermini
+
+_Greg Osuri - AKASH Network (At Stake)_
+
+> "I was like, okay, how can we get cloud in the hands of consumers?... If you wanted to build something that is plug and earn, right? Not like the best and most powerful device, but the best in terms of usability."
+> — [00:19:34](https://podcasts.apple.com/us/podcast/greg-osuri-akash-network/id1543138052?i=1000502539042)
+
+**Context:** Origin story of the Supermini, a Raspberry Pi Kubernetes cluster in consumer packaging, explicitly modeled on Helium's in-home node — an early articulation of home hardware earning income from compute.
+
+---
+
+### 2020-12-16 — True decentralization requires a device in the home
+
+_Greg Osuri - AKASH Network (At Stake)_
+
+> "To achieve true decentralization, we need a home with the device, right? Like, so we were like, well, how would a generic Kubernetes cluster that you can schedule any workload at home look like?"
+> — [00:20:30](https://podcasts.apple.com/us/podcast/greg-osuri-akash-network/id1543138052?i=1000502539042)
+
+**Context:** Whisper garbles the phrase slightly ("a home with the device" — likely "a device in the home"); the argument is that home-hosted nodes, not data centers, are the end state of decentralization.
 
 ---
 
@@ -169,6 +224,17 @@ _Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (C
 > — [01:00:17](https://www.youtube.com/watch?v=4xlOVeUXd90&t=3617s)
 
 **Context:** Asked whether Tesla-style garage compute will replace big data centers; Greg says no — sensitive workloads (healthcare, financial) still need physically secured data centers, but ML-style GPU jobs suit distributed consumer hardware.
+
+---
+
+### 2021-05-12 — The Supermini: a home GPU cluster arbitraging home power and bandwidth
+
+_"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute" (Base Layer)_
+
+> "The Super Mini is... really a GPU cluster that sits in your home and really designed for like tinkerers or researchers, AI researchers... What Super Mini does is it brings the device to the home and essentially utilizing the subsidized bandwidth and the power that you get in the home, because most of the cost in a data center is the power... and kind of like resells that to a user at a significantly lower cost."
+> — [00:26:04](https://podcasts.apple.com/us/podcast/base-layer-episode-209-greg-osuri-founder-of-akash/id1445373535?i=1000521492647)
+
+**Context:** Asked about the Supermini product; he says it's "inspired by Helium" (he bought a Helium device in 2019 and calls it "extremely profitable") and the owner earns by selling compute on Akash.
 
 ---
 
@@ -645,6 +711,17 @@ _RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash 
 
 ---
 
+### 2023-09-06 — Mature models migrate to distributed gaming GPUs
+
+_"#3 - Akash Network with Greg Osuri" (Weapons of Mass Adoption)_
+
+> "Most advanced models like GPT-4... work well on high-end GPUs. But as they mature, as they get older, they get optimized to work on a distributed set of GPUs like 3090s, 4090s, and whatnot, the lower-end GPUs, right? Like gaming machines."
+> — [00:41:37](https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051)
+
+**Context:** Answering whether "GPU stardust" — individuals' single GPUs — can earn on Akash; his thesis that model maturation pushes inference/fine-tuning down to consumer hardware over time.
+
+---
+
 ### 2023-09-28 — Every home will have a supercomputer
 
 _Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)_
@@ -711,6 +788,17 @@ _1on1 Greg Osuri - Akash (Jerry V Hall)_
 
 ---
 
+### 2023-12-11 — Bring the compute to the data — Teslas and PlayStations on Akash
+
+_How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)_
+
+> "Now we are working on a way where you can leave the data where it is and bring the compute using IP or the internet... aggregate GPU supply or CPU supply... and give a federated GPU device on the device that has data... that's perfect for scenarios where you have a Tesla or a PlayStation where you do not have full compute capabilities in terms of the device that holds the GPU, but we can extract the GPU and bring the GPU to the data."
+> — [00:46:48](https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791)
+
+**Context:** Answering the host's callback to his two-year-old claim that "people will be able to [mine] Akash with their Tesla"; a POC with an unnamed non-Web3 GPU company was 2–3 months out ([00:47:34]–[00:48:16]).
+
+---
+
 ### 2023-12-18 — Go into the home: PlayStations, Xboxes, and Teslas as providers
 
 _Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)_
@@ -719,6 +807,28 @@ _Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)_
 > — [00:59:51](https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=3591s)
 
 **Context:** Core local-compute prediction: idle consumer hardware connects to the supercloud once Akash is reliable enough to "go inside a house" (01:01:17).
+
+---
+
+### 2024-01-16 — Repurposing compute from homes, consoles, and cars
+
+_"Akash: The Crypto-Powered Decentralized Supercloud" (The Edge Podcast)_
+
+> "What would a world look like where you can have 1,000 regions offering general-purpose compute at 15 millisecond network latency for 98 percentile of active internet population?... And what would it look like where we can essentially repurpose compute from homes, right? So are we talking about powerful GPUs, be it in your gaming console, to your cars, to every connected device has some degree of AI capability and it will have AI capability in the future? And how does a connected globe that comprises of these low-power devices look?"
+> — [00:18:05](https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294)
+
+**Context:** His post-parity "innovation beyond imagination" vision — the clearest statement in this episode of the home/edge compute future.
+
+---
+
+### 2024-02-14 — The near-term GPU fix: repurpose the idle chips already in homes and data centers
+
+_"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri" (Finality Crypto Podcast (DeFi Times))_
+
+> "The only way to solve the problem for now is to look inward instead of looking outward. Instead of expanding our capabilities, let's look at repurposing what we already purchased. Turns out there's a lot of GPUs that are not used... we have PlayStations sitting in homes that are maybe used once or twice every year... 4090s that I have right here... at least half the time they're not used while you sleep."
+> — [00:55:00](https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095)
+
+**Context:** His answer to the NVIDIA/TSMC supply bottleneck (quote spans into the 00:55:43 block): idle consumer and enterprise GPUs (retired A100 fleets, post-training-run clusters) brought to market by crypto incentives — "that's where crypto is phenomenal."
 
 ---
 
@@ -785,6 +895,17 @@ _"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU A
 > — [01:01:40](https://www.youtube.com/watch?v=RYs9UTXv43Q&t=3700s)
 
 **Context:** His answer on Akash's scale ceiling — "effectively limitless" per the host; permissionless design means the only requirement is whether the node can run on the device.
+
+---
+
+### 2024-06-18 — Metaverse/Vision Pro rendering will need low-latency decentralized edge compute
+
+_"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI" (Beacon Podcast)_
+
+> "Metaverse is going to be the future, and Metaverse needs really high-power compute... How do you source compute, high-density compute for a Metaverse that's rendering in your vision pro? That's only possible when you can reduce the latency. The way you can reduce the latency is through any central cloud."
+> — [00:21:15](https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844)
+
+**Context:** Continuing the post-parity vision; final phrase is Whisper garble — from the argument, he means latency reduction requires a *decentralized* cloud near users, since headsets can't carry the compute themselves.
 
 ---
 
@@ -997,6 +1118,28 @@ _Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)_
 
 ---
 
+### 2025-01-02 — Underutilized home computers should earn revenue
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "There's a relation on more distributed AI where your home computer is going to be powerful enough. They're not going to be utilized all the time... And what happens when you have under utilization, they should be able to earn revenue, right?"
+> — [00:50:34](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** Immediately after the host's "You're building Jarvis" — home hardware as income-generating asset; he adds at [00:51:57]: "I don't think... whatever I'm speaking now will be, like, norm in, like, a few years" (i.e., it will be the norm within a few years).
+
+---
+
+### 2025-01-02 — Phones, MacBooks, and PS5s joining training runs
+
+_"AI Sovereignty: Building the Path to Individual AI with Greg Osuri" (The Outpost Podcast)_
+
+> "Heterogeneous GPUs over the internet means my phone or my MacBook with the M4 can be part of a training [run]. Even if I push it, even my PS5, I sit in idle, which I play once a year... I can even hack that to make it compatible with [DisTrO]. In fact, US Air Force hacked PS2s back in the day to create a supercomputer."
+> — [00:33:29](https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476)
+
+**Context:** On Nous Research's announced heterogeneous 15B training run; he adds "imagine how many PS5s are out there that are not being used" and "we got about five years, the space, to really knock it before they build the next nuclear data centers" ([00:34:11]).
+
+---
+
 ### 2025-01-31 — Building a 32-H100 data center in his own house
 
 _DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)_
@@ -1082,6 +1225,17 @@ _Greg Osuri, CEO of Akash Network, on why compute should be shared with a decent
 > — [00:25:36](https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=1536s)
 
 **Context:** Answering where Akash fits vs. traditional data centers; ROI detail is in the [00:26:17] block, at ~80% utilization with "one of the boxes free."
+
+---
+
+### 2025-05-13 — Decentralize the compute grid for national security: 1,000 small data centers, "Akash at home"
+
+_Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)_
+
+> "Our electric grid is so weak. Our utilities are so weak. And... the way we solve that is, [where] we have heavily centered around these, like, small areas, to decentralize them in a way that it cannot be attacked, right? Like, instead of having one large gigawatt data center, how about 1,000 megawatt data centers?"
+> — [01:00:08](https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733)
+
+**Context:** His "what keeps me up at night" answer: ~30 known hyperscale data centers as drone-swarm/hacking targets in a China conflict scenario. He follows with the goal of "10,000 of these small modular data centers connected to Akash... truly decentralized infrastructure that is attack-proof" (01:01:43) and points to the published "Akash at home" data-center spec (00:49:25).
 
 ---
 
@@ -1236,6 +1390,72 @@ _Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Cryp
 > — [00:02:55](https://www.youtube.com/watch?v=_4cu3b3jJgk&t=175s)
 
 **Context:** His energy-adjacent, local-compute vision as the alternative to hyperscale facilities; also cites resilience against cyber attacks and grid failures.
+
+---
+
+### 2025-07-31 — A chip at home consumes the solar energy you can't store or sell
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "We do have the greatest fusion reactor sitting in our sky that we don't capture... You can't sell it back because no one's going to buy your energy during the day... And batteries are still, the economics of batteries are still a little shaky... If you put a chip, like, I put a kilowatt chip, which 4090 is a kilowatt."
+> — [00:25:37](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Concludes "If I can put a chip at home, that'll consume all the excess energy" [00:26:23] — GPUs as the economic alternative to home batteries for excess solar.
+
+---
+
+### 2025-07-31 — "By the end of the year, we'll have a very high-quality model that competes with centralized models"
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "By the end of the year, we'll have a very high-quality model that competes with centralized models, right? So it's not far out. Now, I'm putting my money where my mouth is and say, well, look, we are actually going to do it without any help from the state and the government. We don't need to because economics, number one, play really well."
+> — [00:27:07](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Tied to his StarCluster congressional proposal — decentralization instead of overbuilding data centers.
+
+---
+
+### 2025-07-31 — StarCluster: 5,000 edge sites first, then 22 million homes
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "Of course, the goal is to go inside a house. That's the vision of StarCluster. We are working with partners now, and I don't want to disclose who they are to finalize the terms, but some of our partners are in about 22 million homes in America."
+> — [00:31:42](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Phase one uses underrated telco edge data centers — "In the U.S. alone, we have about 5,000 edge sites" with water, energy, cheap bandwidth and green-energy PPAs [00:30:13].
+
+---
+
+### 2025-07-31 — A GPU data center at home is not a far-out reality; consumer box in ~6 months
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "If you can optimize your bandwidth and your energy costs, I think having a GPU data center at home is not a far-out reality. And we have the partners, we have distribution to get there... We think we'll have it ready by next six months."
+> — [00:35:22](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** Home config must fit residential limits — "a typical house in the U.S. runs at around 15 amps at 120 volts, which gives you about maximum 1,800 watts" [00:33:43]; still "decently profitable" at that size. Confirms host's vision of a device where excess solar funnels into AI compute that "will pay for the solar and the battery and everything" [00:32:47].
+
+---
+
+### 2025-07-31 — Sovereign compute: "compute is going to be like spice"
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "Our long-term vision has been the same since our white papers we wrote in 2018. It hasn't changed at all. Our vision is sovereign compute. Compute is going to be like spice... Historically, spice was the most valuable commodity... Instead of giving up your sovereignty for comfort, we can have both."
+> — [00:36:05](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** The spice analogy: not essential at first, then the most valuable commodity; "we all use compute. We just don't realize how much compute we use."
+
+---
+
+### 2025-07-31 — Cheaper, better, open — sovereignty for the next generation
+
+_Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)_
+
+> "It is cheaper, it's better, it's open. And if my child is going to grow up in a world relying on this technology, I want to make sure that she has complete sovereignty on what the technology is. And that's the vision. That's always been the vision."
+> — [00:39:59](https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134)
+
+**Context:** First-principles cost argument: compute is hardware + bandwidth + energy + water — "resources that we all have" locally, peer-to-peer, without a centralized entity.
 
 ---
 
@@ -1522,3 +1742,14 @@ _This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)_
 > — [00:42:04](https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=2524s)
 
 **Context:** Extends the home-GPU economics: governments financing home compute that feeds national training clusters, with rooftop solar as the citizen's contribution.
+
+---
+
+### 2026-07-29 — Homes are the least understood compute resource; latency is "a symptom, not a cause"
+
+_AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)_
+
+> "Initially, Akash was mostly data center compute, but now we're going into homes with usable compute as well. Homes being one of the best resources, one of the least understood resources... Homes are extremely efficient when it comes to energy usage. Latency is a symptom, not a cause... It's not a critical component for training as well as inference."
+> — [00:38:12](https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way)
+
+**Context:** His core contrarian claim against the co-location advantage of hyperscale data centers: latency constraints are an artifact of algorithm design, not physics.
