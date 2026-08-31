@@ -1,0 +1,305 @@
+<!-- @dsCard group="Foundations" -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tokens — gregosuri.com design</title>
+<style>
+/* ---- Newsreader (self-hosted, variable) ---- */
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2");
+}
+
+/* ---- tokens (locked) ---- */
+:root {
+  --paper: #faf8f4;
+  --ink: #211f1a;
+  --ink-soft: #6e6759;
+  --accent: #9c4221;
+  --rule: #e4ddd0;
+  --font-serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --step--1: .8889rem;
+  --step-0: 1rem;
+  --step-1: 1.25rem;
+  --step-2: 1.5625rem;
+  --step-3: 1.9531rem;
+  --step-4: 2.4414rem;
+  --measure: 65ch;
+  --s1: .25rem;
+  --s2: .5rem;
+  --s3: 1rem;
+  --s4: 2rem;
+  --s5: 4rem;
+}
+
+/* ---- base ---- */
+html { font-size: 112.5%; }
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: var(--step-0);
+  font-weight: 400;
+  line-height: 1.6;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+.page {
+  max-width: var(--measure);
+  margin-inline: auto;
+  padding: var(--s4) var(--s3) var(--s5);
+}
+a { color: inherit; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+::selection { background: rgba(156, 66, 33, .16); }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; }
+}
+
+/* ---- sheet ---- */
+.eyebrow {
+  margin: 0 0 var(--s2);
+  font-size: var(--step--1);
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  font-weight: 500;
+}
+h1 {
+  margin: 0 0 var(--s2);
+  font-size: var(--step-3);
+  font-weight: 480;
+  letter-spacing: -0.012em;
+  line-height: 1.1;
+}
+.standfirst {
+  margin: 0;
+  font-style: italic;
+  color: var(--ink-soft);
+}
+.sheet-section {
+  margin-top: var(--s5);
+  border-top: 1px solid var(--rule);
+  padding-top: var(--s3);
+}
+.sheet-section > h2 {
+  margin: 0 0 var(--s4);
+  font-size: var(--step--1);
+  font-weight: 550;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.token {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: .8rem;
+  letter-spacing: 0;
+}
+
+/* color */
+.swatches { list-style: none; margin: 0; padding: 0; }
+.swatches li {
+  display: grid;
+  grid-template-columns: 3.25rem 1fr auto;
+  column-gap: var(--s3);
+  align-items: center;
+  padding-block: var(--s2);
+}
+.swatch {
+  width: 3.25rem;
+  height: 2.25rem;
+  border: 1px solid var(--rule);
+}
+.swatch-name { display: block; }
+.swatch-role {
+  display: block;
+  font-size: var(--step--1);
+  font-style: italic;
+  color: var(--ink-soft);
+}
+.swatch-hex { color: var(--ink-soft); }
+
+/* type scale */
+.scale { list-style: none; margin: 0; padding: 0; }
+.scale li { margin-bottom: var(--s4); }
+.scale .token { display: block; color: var(--ink-soft); margin-bottom: var(--s1); }
+.specimen { display: block; line-height: 1.15; letter-spacing: -0.01em; }
+.specimen.s4 { font-size: var(--step-4); font-weight: 400; }
+.specimen.s3 { font-size: var(--step-3); font-weight: 440; }
+.specimen.s2 { font-size: var(--step-2); font-weight: 460; }
+.specimen.s1 { font-size: var(--step-1); font-weight: 500; }
+.specimen.s0 { font-size: var(--step-0); line-height: 1.6; letter-spacing: 0; }
+.specimen.sm1 { font-size: var(--step--1); line-height: 1.5; letter-spacing: 0; color: var(--ink-soft); }
+.weights span { font-size: var(--step-1); margin-right: var(--s3); white-space: nowrap; }
+.italic-specimen { font-size: var(--step-1); font-style: italic; line-height: 1.4; }
+
+/* spacing */
+.spacing { list-style: none; margin: 0; padding: 0; }
+.spacing li {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  column-gap: var(--s3);
+  align-items: center;
+  padding-block: var(--s2);
+}
+.spacing .token { color: var(--ink-soft); }
+.bar { height: var(--s3); background: var(--ink); }
+.bar.s1 { width: var(--s1); }
+.bar.s2 { width: var(--s2); }
+.bar.s3 { width: var(--s3); }
+.bar.s4 { width: var(--s4); }
+.bar.s5 { width: var(--s5); }
+
+/* measure */
+.measure-note {
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  margin: 0 0 var(--s3);
+}
+.measure-demo p { margin: 0 0 var(--s3); }
+.measure-demo .quote {
+  font-style: italic;
+  margin: 0;
+}
+.measure-demo .quote .mark {
+  font-style: normal;
+  font-size: var(--step--1);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .05em;
+  color: var(--accent);
+  white-space: nowrap;
+}
+</style>
+</head>
+<body>
+<main class="page">
+  <p class="eyebrow">gregosuri.com · design foundations</p>
+  <h1>Tokens</h1>
+  <p class="standfirst">Editorial minimal: one serif, one accent, hairlines, and room to read. The accent means one thing — a link, most often to a moment in time.</p>
+
+  <section class="sheet-section">
+    <h2>Color</h2>
+    <ul class="swatches">
+      <li>
+        <span class="swatch" style="background: var(--paper);"></span>
+        <span>
+          <span class="swatch-name token">--paper</span>
+          <span class="swatch-role">page ground — warm, unbleached</span>
+        </span>
+        <span class="swatch-hex token">#faf8f4</span>
+      </li>
+      <li>
+        <span class="swatch" style="background: var(--ink);"></span>
+        <span>
+          <span class="swatch-name token">--ink</span>
+          <span class="swatch-role">text — soft black, never #000</span>
+        </span>
+        <span class="swatch-hex token">#211f1a</span>
+      </li>
+      <li>
+        <span class="swatch" style="background: var(--ink-soft);"></span>
+        <span>
+          <span class="swatch-name token">--ink-soft</span>
+          <span class="swatch-role">datelines, sources, captions</span>
+        </span>
+        <span class="swatch-hex token">#6e6759</span>
+      </li>
+      <li>
+        <span class="swatch" style="background: var(--accent);"></span>
+        <span>
+          <span class="swatch-name token">--accent</span>
+          <span class="swatch-role">links and timestamp marks — sparingly</span>
+        </span>
+        <span class="swatch-hex token">#9c4221</span>
+      </li>
+      <li>
+        <span class="swatch" style="background: var(--rule);"></span>
+        <span>
+          <span class="swatch-name token">--rule</span>
+          <span class="swatch-role">hairline rules and underlines</span>
+        </span>
+        <span class="swatch-hex token">#e4ddd0</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="sheet-section">
+    <h2>Type scale · 1.25 on an 18px base</h2>
+    <ul class="scale">
+      <li>
+        <span class="token">--step-4 · 2.4414rem · 43.9px</span>
+        <span class="specimen s4">The unstoppable cloud</span>
+      </li>
+      <li>
+        <span class="token">--step-3 · 1.9531rem · 35.2px</span>
+        <span class="specimen s3">Every home will have a supercomputer</span>
+      </li>
+      <li>
+        <span class="token">--step-2 · 1.5625rem · 28.1px</span>
+        <span class="specimen s2">Bring the cloud to you</span>
+      </li>
+      <li>
+        <span class="token">--step-1 · 1.25rem · 22.5px</span>
+        <span class="specimen s1">Akash is the currency of compute</span>
+      </li>
+      <li>
+        <span class="token">--step-0 · 1rem · 18px</span>
+        <span class="specimen s0">We’re moving to a more decentralized infrastructure, where devices — not humans — are the cloud’s next hundred billion tenants.</span>
+      </li>
+      <li>
+        <span class="token">--step--1 · .8889rem · 16px</span>
+        <span class="specimen sm1">1,496 statements from 219 videos and podcasts, 2018–present. Every quote links to the exact moment it was said.</span>
+      </li>
+      <li>
+        <span class="token">Newsreader · variable weight 200–800</span>
+        <span class="weights">
+          <span style="font-weight: 200;">Two hundred</span>
+          <span style="font-weight: 400;">Four hundred</span>
+          <span style="font-weight: 600;">Six hundred</span>
+          <span style="font-weight: 800;">Eight hundred</span>
+        </span>
+      </li>
+      <li>
+        <span class="token">Newsreader italic · the voice of quotation</span>
+        <span class="italic-specimen">“Supermini is not dead. It’s just living and waiting for its day to come back.”</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="sheet-section">
+    <h2>Spacing</h2>
+    <ul class="spacing">
+      <li><span class="token">--s1 · .25rem</span><span class="bar s1"></span></li>
+      <li><span class="token">--s2 · .5rem</span><span class="bar s2"></span></li>
+      <li><span class="token">--s3 · 1rem</span><span class="bar s3"></span></li>
+      <li><span class="token">--s4 · 2rem</span><span class="bar s4"></span></li>
+      <li><span class="token">--s5 · 4rem</span><span class="bar s5"></span></li>
+    </ul>
+  </section>
+
+  <section class="sheet-section">
+    <h2>Measure · 65ch</h2>
+    <p class="measure-note token">--measure · 65ch · Newsreader 400 · 18px · line-height 1.6</p>
+    <div class="measure-demo">
+      <p>As the founder of Akash Network and CEO of Overclock Labs, Greg has spent a career arguing that compute should belong to the people who use it. Before Akash he founded AngelHack, the world’s largest hackathon organization, with over 100,000 developers across 50 cities; he launched his career at IBM and later designed Kaiser Permanente’s first cloud architecture. He was instrumental in the passing of California’s first blockchain law, providing the first expert-witness testimony at the Senate.</p>
+      <p class="quote">“Why not that compute comes from your home? Just like today you’re able to produce energy from your renewables at your home and contribute back to the grid, why don’t we have a similar mode of compute contribution from your home to the compute grid?” — <a class="mark" href="https://www.youtube.com/watch?v=GVrfHDg30-M&amp;t=2724s">00:45:24</a></p>
+    </div>
+  </section>
+</main>
+</body>
+</html>
