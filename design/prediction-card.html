@@ -1,0 +1,148 @@
+<!-- @dsCard group="Predictions" -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prediction entry — gregosuri.com design</title>
+<style>
+/* ---- Newsreader (self-hosted, variable) ---- */
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2");
+}
+
+/* ---- tokens (locked) ---- */
+:root {
+  --paper: #faf8f4;
+  --ink: #211f1a;
+  --ink-soft: #6e6759;
+  --accent: #9c4221;
+  --rule: #e4ddd0;
+  --font-serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --step--1: .8889rem;
+  --step-0: 1rem;
+  --step-1: 1.25rem;
+  --step-2: 1.5625rem;
+  --step-3: 1.9531rem;
+  --step-4: 2.4414rem;
+  --measure: 65ch;
+  --s1: .25rem;
+  --s2: .5rem;
+  --s3: 1rem;
+  --s4: 2rem;
+  --s5: 4rem;
+}
+
+/* ---- base ---- */
+html { font-size: 112.5%; }
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: var(--step-0);
+  font-weight: 400;
+  line-height: 1.6;
+  font-kerning: normal;
+  overflow-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+.page {
+  max-width: var(--measure);
+  margin-inline: auto;
+  padding: var(--s4) var(--s3) var(--s4);
+}
+a { color: inherit; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+::selection { background: rgba(156, 66, 33, .16); }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; }
+}
+
+/* ---- prediction entries (styles kramdown output) ---- */
+.predictions > p:first-child { color: var(--ink-soft); margin: 0 0 var(--s4); }
+.predictions h3 {
+  font-size: var(--step-1);
+  font-weight: 560;
+  line-height: 1.3;
+  letter-spacing: -0.008em;
+  margin: 0 0 var(--s2);
+}
+.predictions h3 + p {
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  margin: 0 0 var(--s3);
+}
+.predictions blockquote {
+  margin: var(--s3) 0;
+  padding: 0;
+  font-style: italic;
+  line-height: 1.65;
+}
+.predictions blockquote p {
+  margin: 0 0 var(--s2);
+  text-indent: -0.42ch; /* hang the opening quotation mark */
+}
+.predictions blockquote a {
+  font-style: normal;
+  font-size: var(--step--1);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .05em;
+  color: var(--accent);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.predictions blockquote a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .25em;
+}
+.predictions blockquote + p {
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  margin: 0;
+}
+.predictions blockquote + p strong { font-weight: 580; }
+.predictions blockquote + p a { color: var(--accent); text-decoration: none; }
+.predictions blockquote + p a:hover { text-decoration: underline; }
+.predictions hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  width: var(--s5);
+  margin: var(--s4) auto;
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="predictions">
+    <h3>2018-11-10 — Devices will outnumber humans; the future needs edge capacity served by people, not hyperscalers</h3>
+    <p><em>CEO of Overclock Labs On the World of Blockchain &amp; Upcoming Technology In Development (CoinBundle)</em></p>
+    <blockquote>
+      <p>“We’re moving to a more decentralized infrastructure where you have devices more than humans accessing the cloud, and a lot of these devices need edge capacity. Cloud is not gonna provide that because the economics doesn’t really work — they’re focusing on building hyperscale data centers, whereas the world and innovation is moving towards more distributed and decentralized computing. Who’s gonna serve this future? It can’t be the cloud — it has to be people. It’s very important to take back control of a foundational element of society back from the oligarchs, and that’s the mission for Akash.” — <a href="https://www.youtube.com/watch?v=Don1slbJlMQ&amp;t=1536s">00:25:36</a></p>
+    </blockquote>
+    <p><strong>Context:</strong> His closing argument on why decentralization matters long-term: IoT and edge growth make hyperscaler economics unworkable, so compute supply must come from people. Early statement of the compute-goes-local thesis.</p>
+    <hr>
+    <h3>2022-04-24 — Supermini is not dead</h3>
+    <p><em>“Akashonomics: AKT Release Schedule” (Akash Network)</em></p>
+    <blockquote>
+      <p>“Supermini is not dead. It’s just living and waiting for its day to come back.” — <a href="https://www.youtube.com/watch?v=G_pXEAo-ZsU&amp;t=2221s">00:37:01</a></p>
+    </blockquote>
+    <p><strong>Context:</strong> After riffing on interim uses for a home device — remote signer and “entropy source” for validators, sovereign key custody for cloud data — he keeps the home-compute vision alive pending GPU support and favorable economics.</p>
+  </div>
+</div>
+</body>
+</html>

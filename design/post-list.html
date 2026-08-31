@@ -1,0 +1,176 @@
+<!-- @dsCard group="Content" -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Post list — gregosuri.com design</title>
+<style>
+/* ---- Newsreader (self-hosted, variable) ---- */
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2");
+}
+
+/* ---- tokens (locked) ---- */
+:root {
+  --paper: #faf8f4;
+  --ink: #211f1a;
+  --ink-soft: #6e6759;
+  --accent: #9c4221;
+  --rule: #e4ddd0;
+  --font-serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --step--1: .8889rem;
+  --step-0: 1rem;
+  --step-1: 1.25rem;
+  --step-2: 1.5625rem;
+  --step-3: 1.9531rem;
+  --step-4: 2.4414rem;
+  --measure: 65ch;
+  --s1: .25rem;
+  --s2: .5rem;
+  --s3: 1rem;
+  --s4: 2rem;
+  --s5: 4rem;
+}
+
+/* ---- base ---- */
+html { font-size: 112.5%; }
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: var(--step-0);
+  font-weight: 400;
+  line-height: 1.6;
+  font-kerning: normal;
+  overflow-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+.page {
+  max-width: var(--measure);
+  margin-inline: auto;
+  padding: var(--s4) var(--s3) var(--s4);
+}
+a { color: inherit; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+::selection { background: rgba(156, 66, 33, .16); }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; }
+}
+
+/* ---- datelined lists ---- */
+.post-list, .row-list { list-style: none; margin: 0; padding: 0; }
+.post-list li, .row-list li {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr;
+  column-gap: var(--s3);
+  align-items: baseline;
+  padding-block: var(--s2);
+}
+.post-list time, .row-list time {
+  grid-column: 1;
+  grid-row: 1;
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.post-list a, .row-list a {
+  grid-column: 2;
+  grid-row: 1;
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--rule);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .2em;
+  transition: color .15s ease, text-decoration-color .15s ease;
+}
+.post-list a:hover, .row-list a:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+.row-list .where {
+  grid-column: 2;
+  grid-row: 2;
+  font-size: var(--step--1);
+  font-style: italic;
+  color: var(--ink-soft);
+}
+.post-link.external::after {
+  content: "\2197";
+  display: inline-block;
+  margin-left: .3em;
+  font-size: .72em;
+  color: var(--ink-soft);
+  transform: translateY(-.12em);
+}
+.post-link.external:hover::after { color: var(--accent); }
+.home-section {
+  margin-top: var(--s5);
+  border-top: 1px solid var(--rule);
+  padding-top: var(--s3);
+}
+.home-section h2 {
+  font-size: var(--step--1);
+  font-weight: 550;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin: 0 0 var(--s3);
+}
+.section-more { margin: var(--s3) 0 0; font-size: var(--step--1); }
+.section-more a { color: var(--accent); text-decoration: none; }
+.section-more a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .2em;
+}
+
+/* ---- page furniture ---- */
+.page-title {
+  font-size: var(--step-3);
+  font-weight: 480;
+  letter-spacing: -0.012em;
+  line-height: 1.15;
+  margin: var(--s4) 0 var(--s2);
+}
+.standfirst { margin: 0 0 var(--s2); color: var(--ink-soft); }
+.crumb { margin: var(--s4) 0 0; font-size: var(--step--1); }
+.crumb a { color: var(--ink-soft); text-decoration: none; transition: color .15s ease; }
+.crumb a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="page">
+  <main>
+    <h1 class="page-title">Writing</h1>
+    <p class="standfirst">Essays since 2009. The dateline column carries the chronology; an arrow marks pieces published elsewhere.</p>
+    <ul class="post-list">
+      <li><time datetime="2020-02-18">Feb 2020</time> <a class="post-link external" href="https://akash.network/blog/a-founders-guide-to-the-secs-safe-harbor-proposal-for-utility-tokens/">A Founder’s Guide to The SEC’s Safe Harbor Proposal for Utility Tokens</a></li>
+      <li><time datetime="2019-10-07">Oct 2019</time> <a class="post-link external" href="https://akash.network/blog/bootstrapping-a-free-market-by-borrowing-from-the-future/">Bootstrapping a Free Market by Borrowing from the Future</a></li>
+      <li><time datetime="2019-09-25">Sep 2019</time> <a class="post-link external" href="https://akash.network/blog/the-economics-of-akash-network-and-token">The Economics of Akash Network and Token</a></li>
+      <li><time datetime="2018-04-09">Apr 2018</time> <a class="post-link external" href="https://hackernoon.com/my-testimony-as-an-expert-witness-for-the-first-ever-blockchain-bill-ab-2658-introduced-in-the-95bfe2b69add">My testimony as an expert witness for California’s first ever blockchain bill (AB 2658)</a></li>
+      <li><time datetime="2017-11-29">Nov 2017</time> <a class="post-link external" href="https://hackernoon.com/serverless-is-bigger-than-faas-a5fe0f088981">Serverless is bigger than FaaS</a></li>
+      <li><time datetime="2016-11-23">Nov 2016</time> <a class="post-link" href="/2016/11/23/margaret-hamilton/">Margaret Hamilton is what makes America great</a></li>
+      <li><time datetime="2015-12-04">Dec 2015</time> <a class="post-link" href="/2015/12/04/go-proverbs-illustrated/">Go Proverbs Illustrated</a></li>
+      <li><time datetime="2014-11-21">Nov 2014</time> <a class="post-link" href="/2014/11/21/open-souring-improves-quality/">Open-sourcing improves quality</a></li>
+      <li><time datetime="2011-10-05">Oct 2011</time> <a class="post-link" href="/2011/10/05/heres-to-the-crazy-ones/">Here’s to the crazy ones</a></li>
+    </ul>
+  </main>
+</div>
+</body>
+</html>

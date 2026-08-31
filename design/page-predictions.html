@@ -1,0 +1,247 @@
+<!-- @dsCard group="Pages" -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Predictions — gregosuri.com design</title>
+<style>
+/* ---- Newsreader (self-hosted, variable) ---- */
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2");
+}
+
+/* ---- tokens (locked) ---- */
+:root {
+  --paper: #faf8f4;
+  --ink: #211f1a;
+  --ink-soft: #6e6759;
+  --accent: #9c4221;
+  --rule: #e4ddd0;
+  --font-serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --step--1: .8889rem;
+  --step-0: 1rem;
+  --step-1: 1.25rem;
+  --step-2: 1.5625rem;
+  --step-3: 1.9531rem;
+  --step-4: 2.4414rem;
+  --measure: 65ch;
+  --s1: .25rem;
+  --s2: .5rem;
+  --s3: 1rem;
+  --s4: 2rem;
+  --s5: 4rem;
+}
+
+/* ---- base ---- */
+html { font-size: 112.5%; }
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: var(--step-0);
+  font-weight: 400;
+  line-height: 1.6;
+  font-kerning: normal;
+  overflow-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+.page {
+  max-width: var(--measure);
+  margin-inline: auto;
+  padding: var(--s4) var(--s3) var(--s4);
+}
+a { color: inherit; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+::selection { background: rgba(156, 66, 33, .16); }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; }
+}
+
+/* ---- site chrome ---- */
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s2) var(--s3);
+  padding-bottom: var(--s3);
+  border-bottom: 1px solid var(--rule);
+}
+.brand {
+  font-size: var(--step-1);
+  font-weight: 540;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-decoration: none;
+}
+.site-nav { display: flex; flex-wrap: wrap; gap: var(--s3); }
+.site-nav a {
+  font-style: italic;
+  color: var(--ink-soft);
+  text-decoration: none;
+  transition: color .15s ease;
+}
+.site-nav a:hover { color: var(--accent); }
+.site-nav a[aria-current="page"] {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .35em;
+}
+.site-footer {
+  margin-top: var(--s5);
+  border-top: 1px solid var(--rule);
+  padding-top: var(--s3);
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+}
+.site-footer p { margin: 0; }
+.site-footer a { color: inherit; text-decoration: none; transition: color .15s ease; }
+.site-footer a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .25em;
+}
+
+/* ---- theme index ---- */
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap: var(--s4);
+  margin-top: var(--s4);
+}
+a.theme-card {
+  display: block;
+  border-top: 1px solid var(--rule);
+  padding-top: var(--s3);
+  color: inherit;
+  text-decoration: none;
+  transition: border-color .15s ease;
+}
+a.theme-card:hover { border-top-color: var(--accent); }
+.theme-card h2 {
+  margin: 0 0 var(--s1);
+  font-size: var(--step-1);
+  font-weight: 540;
+  line-height: 1.25;
+  letter-spacing: -0.008em;
+  transition: color .15s ease;
+}
+a.theme-card:hover h2 { color: var(--accent); }
+.theme-card .theme-meta {
+  margin: 0 0 var(--s2);
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  font-variant-numeric: tabular-nums;
+}
+.theme-card .theme-sample {
+  margin: 0;
+  font-size: var(--step--1);
+  font-style: italic;
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+
+/* ---- page furniture ---- */
+.page-title {
+  font-size: var(--step-3);
+  font-weight: 480;
+  letter-spacing: -0.012em;
+  line-height: 1.15;
+  margin: var(--s4) 0 var(--s2);
+}
+.standfirst { margin: 0 0 var(--s2); color: var(--ink-soft); }
+.crumb { margin: var(--s4) 0 0; font-size: var(--step--1); }
+.crumb a { color: var(--ink-soft); text-decoration: none; transition: color .15s ease; }
+.crumb a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="site-header">
+    <a class="brand" href="/">Greg Osuri</a>
+    <nav class="site-nav">
+      <a href="/posts/">Writing</a>
+      <a href="/predictions/" aria-current="page">Predictions</a>
+      <a href="/about/">About</a>
+    </nav>
+  </header>
+  <main>
+    <h1 class="page-title">Predictions</h1>
+    <p class="standfirst"><em>1,496 statements from 219 videos and podcasts, 2018–present. Every quote links to the exact moment it was said.</em></p>
+    <nav class="theme-grid">
+    <a class="theme-card" href="/predictions/local-compute/">
+      <h2>Local Compute</h2>
+      <p class="theme-meta">138 statements · 2018–2026</p>
+      <p class="theme-sample">Latest: State-sponsored loans for home compute (2026-07-17)</p>
+    </a>
+    <a class="theme-card" href="/predictions/local-ai/">
+      <h2>Local AI</h2>
+      <p class="theme-meta">42 statements · 2020–2026</p>
+      <p class="theme-sample">Latest: Nvidia and grassroots engineers are driving local AI (2026-07-17)</p>
+    </a>
+    <a class="theme-card" href="/predictions/decentralized-ai/">
+      <h2>Decentralized AI</h2>
+      <p class="theme-meta">148 statements · 2020–2026</p>
+      <p class="theme-sample">Latest: Heterogeneous compute unlocks decentralized networks (2026-07-17)</p>
+    </a>
+    <a class="theme-card" href="/predictions/energy-ai/">
+      <h2>Energy &amp; AI</h2>
+      <p class="theme-meta">112 statements · 2018–2026</p>
+      <p class="theme-sample">Latest: Congress testimony: distributed data centers as the fix (2026-07-17)</p>
+    </a>
+    <a class="theme-card" href="/predictions/gpu-economics/">
+      <h2>GPU Economics</h2>
+      <p class="theme-meta">219 statements · 2018–2026</p>
+      <p class="theme-sample">Latest: GPUs appreciate instead of depreciating (2026-07-17)</p>
+    </a>
+    <a class="theme-card" href="/predictions/cloud-decentralization/">
+      <h2>Cloud Decentralization</h2>
+      <p class="theme-meta">419 statements · 2018–2026</p>
+      <p class="theme-sample">Latest: Hyperscalers will join Akash (2026-07-17)</p>
+    </a>
+    <a class="theme-card" href="/predictions/open-source-ai/">
+      <h2>Open-Source AI</h2>
+      <p class="theme-meta">40 statements · 2022–2026</p>
+      <p class="theme-sample">Latest: What happens when Chinese labs stop shipping open models? (2026-04-23)</p>
+    </a>
+    <a class="theme-card" href="/predictions/crypto-depin/">
+      <h2>Crypto &amp; DePIN</h2>
+      <p class="theme-meta">199 statements · 2018–2026</p>
+      <p class="theme-sample">Latest: Only 1–2% of GPUs on incentive-driven DePIN networks are real (2026-04-23)</p>
+    </a>
+    <a class="theme-card" href="/predictions/ai-agents/">
+      <h2>AI Agents</h2>
+      <p class="theme-meta">26 statements · 2022–2026</p>
+      <p class="theme-sample">Latest: Agents are 1000x inference and only 2.4M people use them (2026-07-17)</p>
+    </a>
+    <a class="theme-card" href="/predictions/other/">
+      <h2>Other</h2>
+      <p class="theme-meta">153 statements · 2015–2026</p>
+      <p class="theme-sample">Latest: AkashML processes ~100 billion tokens a month (2026-04-23)</p>
+    </a>
+    </nav>
+  </main>
+  <footer class="site-footer">
+    <p>© 2026 Greg Osuri · <a href="https://github.com/gosuri">GitHub</a> · <a href="https://x.com/gregosuri">X</a> · <a href="/feed.xml">RSS</a></p>
+  </footer>
+</div>
+</body>
+</html>

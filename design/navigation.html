@@ -1,0 +1,207 @@
+<!-- @dsCard group="Navigation" -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Navigation — gregosuri.com design</title>
+<style>
+/* ---- Newsreader (self-hosted, variable) ---- */
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2");
+}
+
+/* ---- tokens (locked) ---- */
+:root {
+  --paper: #faf8f4;
+  --ink: #211f1a;
+  --ink-soft: #6e6759;
+  --accent: #9c4221;
+  --rule: #e4ddd0;
+  --font-serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --step--1: .8889rem;
+  --step-0: 1rem;
+  --step-1: 1.25rem;
+  --step-2: 1.5625rem;
+  --step-3: 1.9531rem;
+  --step-4: 2.4414rem;
+  --measure: 65ch;
+  --s1: .25rem;
+  --s2: .5rem;
+  --s3: 1rem;
+  --s4: 2rem;
+  --s5: 4rem;
+}
+
+/* ---- base ---- */
+html { font-size: 112.5%; }
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: var(--step-0);
+  font-weight: 400;
+  line-height: 1.6;
+  font-kerning: normal;
+  overflow-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+.page {
+  max-width: var(--measure);
+  margin-inline: auto;
+  padding: var(--s4) var(--s3) var(--s4);
+}
+a { color: inherit; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+::selection { background: rgba(156, 66, 33, .16); }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; }
+}
+
+/* ---- site chrome ---- */
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s2) var(--s3);
+  padding-bottom: var(--s3);
+  border-bottom: 1px solid var(--rule);
+}
+.brand {
+  font-size: var(--step-1);
+  font-weight: 540;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  text-decoration: none;
+}
+.site-nav { display: flex; flex-wrap: wrap; gap: var(--s3); }
+.site-nav a {
+  font-style: italic;
+  color: var(--ink-soft);
+  text-decoration: none;
+  transition: color .15s ease;
+}
+.site-nav a:hover { color: var(--accent); }
+.site-nav a[aria-current="page"] {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: .35em;
+}
+.site-footer {
+  margin-top: var(--s5);
+  border-top: 1px solid var(--rule);
+  padding-top: var(--s3);
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+}
+.site-footer p { margin: 0; }
+.site-footer a { color: inherit; text-decoration: none; transition: color .15s ease; }
+.site-footer a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .25em;
+}
+
+/* ---- essay ---- */
+.post h1 {
+  font-size: var(--step-3);
+  font-weight: 480;
+  letter-spacing: -0.012em;
+  line-height: 1.15;
+  margin: var(--s4) 0 var(--s2);
+}
+.post-meta {
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  font-variant-numeric: tabular-nums;
+  margin: 0 0 var(--s4);
+}
+.post h2 {
+  font-size: var(--step-1);
+  font-weight: 550;
+  line-height: 1.3;
+  letter-spacing: -0.008em;
+  margin: var(--s4) 0 var(--s3);
+}
+.post p { margin: 0 0 var(--s3); }
+.post p a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: rgba(156, 66, 33, .35);
+  text-underline-offset: .2em;
+  transition: text-decoration-color .15s ease;
+}
+.post p a:hover { text-decoration-color: var(--accent); }
+.post blockquote {
+  margin: var(--s4) 0 var(--s4) var(--s4);
+  font-style: italic;
+}
+.post blockquote p { margin: 0 0 var(--s1); }
+.post .cite {
+  font-style: normal;
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+}
+.post pre {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: .78rem;
+  line-height: 1.55;
+  background: rgba(33, 31, 26, .04);
+  border: 1px solid var(--rule);
+  padding: var(--s3);
+  overflow-x: auto;
+  margin: var(--s3) 0 var(--s4);
+}
+.post code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: .82em;
+}
+.post pre code { font-size: 1em; }
+.post-nav {
+  margin-top: var(--s5);
+  font-size: var(--step--1);
+}
+.post .post-nav a { color: var(--ink-soft); text-decoration: none; transition: color .15s ease; }
+.post .post-nav a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="site-header">
+    <a class="brand" href="/">Greg Osuri</a>
+    <nav class="site-nav">
+      <a href="/posts/" aria-current="page">Writing</a>
+      <a href="/predictions/">Predictions</a>
+      <a href="/about/">About</a>
+    </nav>
+  </header>
+  <main class="post">
+    <h1>Site chrome</h1>
+    <p>The header and footer that frame every page. The brand holds the left edge in roman; sections sit to the right in italic — one typeface, two voices. The current section carries a terracotta underline. Hairlines close each end of the page.</p>
+    <p>As the founder of <a href="https://akash.network">Akash Network</a> and CEO of Overclock Labs, Greg has spent a career arguing that compute should belong to the people who use it. He was instrumental in the passing of California’s first blockchain law, providing the first expert-witness testimony at the Senate.</p>
+  </main>
+  <footer class="site-footer">
+    <p>© 2026 Greg Osuri · <a href="https://github.com/gosuri">GitHub</a> · <a href="https://x.com/gregosuri">X</a> · <a href="/feed.xml">RSS</a></p>
+  </footer>
+</div>
+</body>
+</html>
