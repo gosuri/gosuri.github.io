@@ -1,56 +1,65 @@
 ---
 layout: default
 ---
+<p class="intro">Founder of <a href="https://akash.network">Akash Network</a>, CEO of Overclock Labs. Essays on open source and distributed systems since 2009 — and <a href="{{ "/predictions/" | prepend: site.baseurl }}">1,496 dated predictions</a> about where compute is going.</p>
 
-<div class="home">
-  <h1 class="page-heading">Posts</h1>
-  <ul class="index-list post-list">
-    {% for post in site.posts limit:9 %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          {% if post.link %}
-            <a class="post-link" target="_blank" href="{{ post.link }}">{{ post.title }}</a>
-          {% else %}
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {% endif %}
-        </h2>
-      </li>
-    {% endfor %}
+<section class="home-section">
+  <h2>Predictions</h2>
+  <p class="section-note">Statements from 219 talks and podcasts since 2018, each linked to the exact moment it was said.</p>
+  <blockquote class="feature-quote">
+    <p>“I envision a world where every home will have a supercomputer… no doubt about it. As AI gets more penetration, we’re going to realize there are privacy implications for AI.” — <a href="https://www.youtube.com/watch?v=GVrfHDg30-M&amp;t=2596s">00:43:16</a></p>
+  </blockquote>
+  <p class="quote-source">Frictionless Podcast · September 2023</p>
+  <p class="section-more"><a href="{{ "/predictions/" | prepend: site.baseurl }}">Browse all 1,496 →</a></p>
+</section>
+
+<section class="home-section">
+  <h2>Writing</h2>
+  <ul class="post-list">
+    {%- for post in site.posts limit: 5 %}
+    <li><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %Y" }}</time> {% if post.link %}<a class="post-link external" target="_blank" rel="noopener" href="{{ post.link | escape }}">{{ post.title | escape }}</a>{% else %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>{% endif %}</li>
+    {%- endfor %}
   </ul>
-  <p class="rss-subscribe">see <a href="{{ "/posts" | prepend: site.baseurl }}">all posts</a></p>
-  <br/>
-  <h1 class="page-heading">Recent Talks / Interviews</h1>
-  <ul class="index-list post-list">
-    {% for talk in site.data.talks %}
-      <li>
-        <span class="post-meta">{{ talk.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" target="_blank" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+  <p class="section-more"><a href="{{ "/posts/" | prepend: site.baseurl }}">All essays →</a></p>
+</section>
+
+<section class="home-section">
+  <h2>Talks</h2>
+  <ul class="row-list">
+    {%- assign talks = site.data.talks | sort: "date" | reverse -%}
+    {%- for talk in talks limit: 5 %}
+      {%- assign where = "" -%}
+      {%- assign name = talk.title -%}
+      {%- if talk.title contains ": " -%}
+        {%- assign where = talk.title | split: ": " | first -%}
+        {%- assign name = talk.title | remove_first: where | remove_first: ": " -%}
+      {%- endif %}
+    <li><time datetime="{{ talk.date | date: "%Y-%m-%d" }}">{{ talk.date | date: "%b %Y" }}</time> <a target="_blank" rel="noopener" href="{{ talk.url | escape }}">{{ name | escape }}</a>{% if where != "" %} <span class="where">{{ where | escape }}</span>{% endif %}</li>
+    {%- endfor %}
   </ul>
-  <h1 class="page-heading">Recent Press</h1>
-  <ul class="index-list post-list">
-    {% for talk in site.data.press %}
-      <li>
-        <span class="post-meta">{{ talk.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" target="_blank" href="{{ talk.url | prepend: site.baseurl }}">{{ talk.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+</section>
+
+<section class="home-section">
+  <h2>Press</h2>
+  <ul class="row-list">
+    {%- assign press = site.data.press | sort: "date" | reverse -%}
+    {%- for item in press limit: 5 %}
+      {%- assign where = "" -%}
+      {%- assign name = item.title -%}
+      {%- if item.title contains ": " -%}
+        {%- assign where = item.title | split: ": " | first -%}
+        {%- assign name = item.title | remove_first: where | remove_first: ": " -%}
+      {%- endif %}
+    <li><time datetime="{{ item.date | date: "%Y-%m-%d" }}">{{ item.date | date: "%b %Y" }}</time> <a target="_blank" rel="noopener" href="{{ item.url | escape }}">{{ name | escape }}</a>{% if where != "" %} <span class="where">{{ where | escape }}</span>{% endif %}</li>
+    {%- endfor %}
   </ul>
-  <h1 class="page-heading">Open Source</h1>
-  <ul class="index-list proj-list">
-    {% for proj in site.data.projects limit:5 %}
-      <li>
-        <h2>
-          <a class="post-link" target="_blank" href="{{ proj.url | prepend: site.baseurl }}">{{ proj.title }}</a> 
-          <span class="post-meta">{{ proj.desc }}</span>
-        </h2>
-      </li>
-    {% endfor %}
+</section>
+
+<section class="home-section">
+  <h2>Open source</h2>
+  <ul class="row-list">
+    {%- for proj in site.data.projects limit: 5 %}
+    <li><a target="_blank" rel="noopener" href="{{ proj.url | escape }}">{{ proj.title | escape }}</a> <span class="where">{{ proj.desc | strip | escape }}</span></li>
+    {%- endfor %}
   </ul>
-</div>
+</section>

@@ -15,5 +15,18 @@ permalink: pretty
 
 paginate: 5
 
+# Kept out of the published site: the design system previews, planning docs and
+# build tooling live in the repo but are not pages.
+exclude:
+  - design
+  - docs
+  - README.md
+  - Makefile
+  - Dockerfile
+  - deploy.yml
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
 karmadown:
   enable_coreray: true
