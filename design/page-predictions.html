@@ -167,7 +167,7 @@ a.theme-card:hover h2 { color: var(--accent); }
   line-height: 1.15;
   margin: var(--s4) 0 var(--s2);
 }
-.standfirst { margin: 0 0 var(--s2); color: var(--ink-soft); }
+.predictions > p:first-child { color: var(--ink-soft); margin: 0 0 var(--s4); }
 .crumb { margin: var(--s4) 0 0; font-size: var(--step--1); }
 .crumb a { color: var(--ink-soft); text-decoration: none; transition: color .15s ease; }
 .crumb a:hover { color: var(--accent); }
@@ -185,7 +185,8 @@ a.theme-card:hover h2 { color: var(--accent); }
   </header>
   <main>
     <h1 class="page-title">Predictions</h1>
-    <p class="standfirst"><em>1,496 statements from 219 videos and podcasts, 2018–present. Every quote links to the exact moment it was said.</em></p>
+    <div class="predictions">
+    <p><em>1,496 statements from 219 videos and podcasts, 2018–present. Every quote links to the exact moment it was said.</em></p>
     <nav class="theme-grid">
     <a class="theme-card" href="/predictions/local-compute/">
       <h2>Local Compute</h2>
@@ -238,6 +239,7 @@ a.theme-card:hover h2 { color: var(--accent); }
       <p class="theme-sample">Latest: AkashML processes ~100 billion tokens a month (2026-04-23)</p>
     </a>
     </nav>
+    </div>
   </main>
   <footer class="site-footer">
     <p>© 2026 Greg Osuri · <a href="https://github.com/gosuri">GitHub</a> · <a href="https://x.com/gregosuri">X</a> · <a href="/feed.xml">RSS</a></p>
