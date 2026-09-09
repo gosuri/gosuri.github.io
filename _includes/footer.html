@@ -1,3 +1,22 @@
 <footer class="site-footer">
   <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} &middot; <a href="https://github.com/{{ site.github_username }}">GitHub</a> &middot; <a href="https://x.com/{{ site.twitter_username }}">X</a> &middot; <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
 </footer>
+
+<script>
+document.addEventListener('click', function (e) {
+  var a = e.target.closest('a.share[data-copy]');
+  if (!a) return;
+  e.preventDefault();
+  var url = new URL(a.getAttribute('href'), location.href).href;
+  var done = function () {
+    a.textContent = 'Copied';
+    a.setAttribute('data-copied', '');
+    setTimeout(function () {
+      a.textContent = 'Copy link';
+      a.removeAttribute('data-copied');
+    }, 1600);
+  };
+  (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject())
+    .then(done, function () { location.href = url; });
+});
+</script>

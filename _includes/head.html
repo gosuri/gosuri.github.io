@@ -21,4 +21,18 @@
   <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" sizes="any">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  {%- if page.collection == "predictions" %}
+  {%- capture abs_url %}{{ page.url | prepend: site.baseurl | prepend: site.url }}{% endcapture -%}
+  {%- capture og_desc %}“{{ page.quote | strip | truncate: 140 }}” — Greg Osuri, {{ page.date | date: '%-d %b %Y' }}{% endcapture -%}
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ og_desc | escape }}">
+  <meta property="og:url" content="{{ abs_url }}">
+  <meta property="og:image" content="{{ abs_url }}card.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@gregosuri">
+  {%- endif %}
 </head>
