@@ -735,7 +735,7 @@ collection. Each document carries an explicit permalink because Jekyll
 ---
 layout: default
 ---
-<p class="crumb"><a href="{{ '/predictions/' | append: page.theme | append: '/' | prepend: site.baseurl }}">← {{ page.theme_title | escape }}</a></p>
+<p class="crumb"><a href="{{ page.theme_page | prepend: site.baseurl }}">← {{ page.theme_title | escape }}</a></p>
 <article class="prediction-page">
   <p class="dateline"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%-d %b %Y' }}</time></p>
   <h1>{{ page.title | escape }}</h1>
