@@ -47,7 +47,7 @@
   font-style: italic;
   color: var(--ink-soft);
 }
-.post-link.external::after {
+.post-link.external::after, .external::after {
   content: "\2197";
   display: inline-block;
   margin-left: .3em;
@@ -201,64 +201,112 @@
 // Specificity note: must out-rank `.post p a`, which also matches this anchor.
 .post .post-nav a { color: var(--ink-soft); text-decoration: none; transition: color .15s ease; }
 .post .post-nav a:hover { color: var(--accent); }
+.post-nav a { color: var(--ink-soft); text-decoration: none; transition: color .15s ease; }
+.post-nav a:hover { color: var(--accent); }
 
 
 // ---- prediction entries ----------------------------------------------------
 // design/prediction-card.html, design/page-theme.html
-// Styles kramdown's output positionally: h3 (date — title), `p > em` source,
-// blockquote ending in the timestamp link, `p` opening with <strong>Context:</strong>,
-// `hr` between entries. No classes are emitted inside `.predictions`.
+// Entries emit explicit classes from _includes/prediction.html:
+// .prediction > .dateline (permalink + § anchor), h3, .source, blockquote, .context.
 
 .predictions > p:first-child { color: var(--ink-soft); margin: 0 0 var(--s4); }
-.predictions h3 {
-  font-size: var(--step-1);
-  font-weight: 560;
-  line-height: 1.3;
-  letter-spacing: -0.008em;
-  margin: 0 0 var(--s2);
+.prediction { scroll-margin-top: var(--s4); }
+
+.dateline {
+  display: flex; align-items: baseline; gap: var(--s2);
+  margin: 0 0 var(--s1);
+  font-size: var(--step-0); font-weight: 520;
+  font-variant-numeric: tabular-nums; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--accent);
 }
-.predictions h3 + p {
-  font-size: var(--step--1);
-  color: var(--ink-soft);
-  margin: 0 0 var(--s3);
+.dateline a.permalink {
+  color: inherit; text-decoration: underline;
+  text-decoration-color: transparent; text-decoration-thickness: 1px;
+  text-underline-offset: .3em; transition: text-decoration-color .15s ease;
 }
-.predictions blockquote {
-  margin: var(--s3) 0;
-  padding: 0;
-  font-style: italic;
-  line-height: 1.65;
+.dateline a.permalink:hover,
+.prediction:target .dateline a.permalink { text-decoration-color: var(--accent); }
+.dateline a.anchor {
+  color: var(--ink-soft); text-decoration: none;
+  letter-spacing: 0; text-transform: none; font-weight: 400;
+  opacity: 0; transition: opacity .15s ease, color .15s ease;
 }
-.predictions blockquote p {
-  margin: 0 0 var(--s2);
-  text-indent: -0.42ch; // hang the opening quotation mark
+.prediction:hover .dateline a.anchor,
+.dateline a.anchor:focus-visible { opacity: 1; }
+.dateline a.anchor:hover { color: var(--accent); }
+
+.prediction h3 {
+  font-size: var(--step-1); font-weight: 560; line-height: 1.3;
+  letter-spacing: -0.008em; margin: 0 0 var(--s2);
 }
-.predictions blockquote a {
-  font-style: normal;
-  font-size: var(--step--1);
-  font-variant-numeric: tabular-nums;
-  letter-spacing: .05em;
-  color: var(--accent);
-  text-decoration: none;
+.prediction h3 a { text-decoration: none; transition: color .15s ease; }
+.prediction h3 a:hover { color: var(--accent); }
+
+.source {
+  display: flex; flex-wrap: wrap; gap: 0 var(--s2);
+  font-size: var(--step--1); color: var(--ink-soft); margin: 0 0 var(--s3);
+}
+.share-wrap { white-space: nowrap; }
+.share-wrap .sep { margin-right: var(--s2); user-select: none; }
+.source a.share, .share-row a {
+  color: var(--ink-soft); font-style: normal;
+  text-decoration: underline; text-decoration-color: var(--rule);
+  text-decoration-thickness: 1px; text-underline-offset: .25em;
   white-space: nowrap;
+  transition: color .15s ease, text-decoration-color .15s ease;
 }
-.predictions blockquote a:hover {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
+.source a.share:hover, .share-row a:hover {
+  color: var(--accent); text-decoration-color: var(--accent);
+}
+.source a.share[data-copied], .share-row a[data-copied] {
+  color: var(--accent); text-decoration-color: transparent;
+}
+
+.prediction blockquote {
+  margin: var(--s3) 0; padding: 0; font-style: italic; line-height: 1.65;
+}
+.prediction blockquote p { margin: 0 0 var(--s2); text-indent: -0.42ch; }
+.prediction blockquote a, .prediction-page blockquote a {
+  font-style: normal; font-size: var(--step--1);
+  font-variant-numeric: tabular-nums; letter-spacing: .05em;
+  color: var(--accent); text-decoration: none; white-space: nowrap;
+}
+.prediction blockquote a:hover, .prediction-page blockquote a:hover {
+  text-decoration: underline; text-decoration-thickness: 1px;
   text-underline-offset: .25em;
 }
-.predictions blockquote + p {
-  font-size: var(--step--1);
-  color: var(--ink-soft);
-  margin: 0;
-}
-.predictions blockquote + p strong { font-weight: 580; }
-.predictions blockquote + p a { color: var(--accent); text-decoration: none; }
-.predictions blockquote + p a:hover { text-decoration: underline; }
+
+.context { font-size: var(--step--1); color: var(--ink-soft); margin: 0; }
+.context strong { font-weight: 580; }
+.context a { color: var(--accent); text-decoration: none; }
+.context a:hover { text-decoration: underline; }
+
 .predictions hr {
-  border: 0;
+  border: 0; border-top: 1px solid var(--rule);
+  width: var(--s5); margin: var(--s4) auto;
+}
+
+// ---- single prediction page ------------------------------------------------
+// design/page-prediction.html
+
+.prediction-page .dateline { margin: var(--s4) 0 var(--s2); }
+.prediction-page h1 {
+  font-size: var(--step-3); font-weight: 480; letter-spacing: -0.012em;
+  line-height: 1.15; margin: 0 0 var(--s2);
+}
+.prediction-page .source { margin: 0 0 var(--s4); }
+.prediction-page blockquote {
+  margin: var(--s4) 0; padding: 0; font-style: italic;
+  font-size: var(--step-1); font-weight: 360; line-height: 1.55;
+  letter-spacing: -0.004em;
+}
+.prediction-page blockquote p { margin: 0 0 var(--s2); text-indent: -0.42ch; }
+.share-row {
+  display: flex; flex-wrap: wrap; gap: var(--s3);
+  margin: var(--s4) 0 0; padding-top: var(--s3);
   border-top: 1px solid var(--rule);
-  width: var(--s5);
-  margin: var(--s4) auto;
+  font-size: var(--step--1); color: var(--ink-soft);
 }
 
 
