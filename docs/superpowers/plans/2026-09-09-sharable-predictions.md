@@ -33,7 +33,7 @@
 |---|---|
 | `PREDICTIONS.md` | Source of truth, 1,689 entries (moved in, excluded from site) |
 | `research/export_blog.py` | Parses `PREDICTIONS.md`; emits theme pages **and** collection docs |
-| `research/test_export_blog.py` | `unittest` suite; 11 existing tests must keep passing |
+| `research/test_export_blog.py` | `unittest` suite; 9 existing tests must keep passing |
 | `_predictions/<theme>/<id>.md` | 1,689 generated collection documents |
 | `predictions/<theme>.md` | Generated theme pages (URLs unchanged) |
 | `_includes/prediction.html` | One entry, as listed on a theme page |
@@ -124,18 +124,24 @@ docker run --rm -v "$PWD":/github/workspace -v /tmp/after:/out \
   -e GITHUB_API_URL=https://api.github.com -e INPUT_SOURCE=. \
   -e INPUT_DESTINATION=../../out -e INPUT_FUTURE=true -e INPUT_VERBOSE=false \
   ghcr.io/actions/jekyll-build-pages:v1.0.13
-find /tmp/after -name '*.html' | wc -l   # MUST equal BASELINE
-diff -rq /tmp/base /tmp/after            # MUST print nothing
+find /tmp/after -name '*.html' | wc -l   # MUST equal BASELINE (48)
+
+# Compare builds. A plain `diff -rq` can NEVER pass here: _includes/head.html
+# fingerprints the stylesheet with the build time (?v=<epoch>) and feed.xml
+# embeds pubDate/lastBuildDate, so all 49 html files differ between any two
+# builds. This normalizer strips exactly those two values and nothing else.
+diff <(/Users/gosuri/code/gosuri.github.io/.superpowers/sdd/2026-09-09-sharable-predictions/normbuild.sh /tmp/base) \
+     <(/Users/gosuri/code/gosuri.github.io/.superpowers/sdd/2026-09-09-sharable-predictions/normbuild.sh /tmp/after)   # MUST print nothing
 ```
 
-Expected: identical page count and no diff. A larger count means an exclude is missing and hundreds of `videos/*.md` pages are shipping.
+Expected: page count 48 and no normalized diff. A larger count means an exclude is missing and hundreds of `videos/*.md` pages are shipping.
 
 - [ ] **Step 6: Verify the existing tests still pass**
 
 ```bash
 cd research && python3 -m unittest test_export_blog -v
 ```
-Expected: 11 tests, OK.
+Expected: 9 tests, OK.
 
 - [ ] **Step 7: Commit**
 
@@ -252,7 +258,7 @@ def make_id(e):
 ```bash
 cd research && python3 -m unittest test_export_blog -v
 ```
-Expected: 17 tests, OK.
+Expected: 15 tests, OK.
 
 - [ ] **Step 5: Prove uniqueness across the real corpus**
 
@@ -1109,6 +1115,20 @@ gh run watch "$RUN" --exit-status
 
 - [ ] **Step 4: Verify the live site is unchanged**
 
+Before pushing, confirm the workflow's local equivalent still produces the same
+site — using the normalizer, for the same reason as Task 1 Step 5:
+
+```bash
+rm -rf /tmp/t8 && mkdir -p /tmp/t8
+docker run --rm -v "$PWD":/github/workspace -v /tmp/t8:/out \
+  -e GITHUB_WORKSPACE=/github/workspace -e GITHUB_REPOSITORY=gosuri/gosuri.github.io \
+  -e GITHUB_API_URL=https://api.github.com -e INPUT_SOURCE=. \
+  -e INPUT_DESTINATION=../../out -e INPUT_FUTURE=true -e INPUT_VERBOSE=false \
+  ghcr.io/actions/jekyll-build-pages:v1.0.13
+```
+
+Then after the deploy lands:
+
 ```bash
 curl -s -o /dev/null -w "%{http_code}\n" https://www.gregosuri.com/
 curl -s "https://www.gregosuri.com/predictions/local-compute/?cb=$RANDOM" | grep -c 'class="prediction"'
@@ -1313,6 +1333,6 @@ Run after Task 9. These are the spec's acceptance gates.
 - [ ] `§` appears only on hover/focus and is keyboard reachable
 - [ ] "Copy link" copies the absolute URL, reads "Copied" for 1.6 s, then reverts
 - [ ] At 375 px wide, `·` never wraps away from "Copy link"
-- [ ] `feed.xml` byte-identical to before Task 1
+- [ ] `feed.xml` unchanged apart from its build timestamps (compare with `normbuild.sh`; pubDate/lastBuildDate always differ)
 - [ ] Theme standfirst counts match the collection
 - [ ] `cd research && python3 -m unittest test_export_blog -v` passes

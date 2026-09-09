@@ -27,6 +27,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - research
+  - videos
+  - catalog
+  - transcripts
+  - PREDICTIONS.md
+  - CATALOG.md
 
 karmadown:
   enable_coreray: true

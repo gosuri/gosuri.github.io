@@ -6,3 +6,5 @@ _site*
 
 # Subagent-driven development scratch (ledgers, briefs, review packages)
 .superpowers/
+
+transcripts/
