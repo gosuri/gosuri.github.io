@@ -194,5 +194,72 @@ class TestRealCorpusIds(unittest.TestCase):
         self.assertLessEqual(max(len(i) for i in ids), 70)
 
 
+class TestCleaners(unittest.TestCase):
+    def test_clean_source_strips_underscores(self):
+        self.assertEqual(
+            eb.clean_source("_CEO of Overclock Labs (CoinBundle)_"),
+            "CEO of Overclock Labs (CoinBundle)")
+
+    def test_clean_context_strips_prefix(self):
+        self.assertEqual(
+            eb.clean_context("**Context:** His closing argument."),
+            "His closing argument.")
+
+    def test_clean_context_handles_missing(self):
+        self.assertEqual(eb.clean_context(None), "")
+
+    def test_clean_quote_drops_stamp_line(self):
+        lines = ['> "We\'re moving to decentralized infrastructure."',
+                 '> — [00:25:36](https://www.youtube.com/watch?v=x&t=1s)']
+        self.assertEqual(eb.clean_quote(lines),
+                         "We're moving to decentralized infrastructure.")
+
+    def test_clean_quote_joins_multiple_lines(self):
+        lines = ['> "This device sits in your house."',
+                 '> "It becomes part of the Akash network."',
+                 '> — [00:10:22](https://www.youtube.com/watch?v=y&t=2s)']
+        self.assertEqual(
+            eb.clean_quote(lines),
+            'This device sits in your house."\n"It becomes part of the '
+            'Akash network.')
+
+
+class TestCollectionEntry(unittest.TestCase):
+    def _entry(self):
+        _, entries = eb.parse_predictions(FIXTURE)
+        return entries[0]
+
+    def test_relpath(self):
+        relpath, _ = eb.render_collection_entry(self._entry(), "/predictions/local-compute/")
+        self.assertTrue(relpath.startswith("local-compute/"))
+        self.assertTrue(relpath.endswith(".md"))
+
+    def test_front_matter_fields(self):
+        _, content = eb.render_collection_entry(self._entry(), "/predictions/local-compute/")
+        for key in ("layout: prediction", "theme: local-compute",
+                    'theme_title: "Local Compute"', "date: 2018-11-10",
+                    "permalink: /predictions/local-compute/",
+                    "timestamp:", "vid: Don1slbJlMQ",
+                    "quote: |", "context: |"):
+            self.assertIn(key, content)
+
+    def test_quote_has_no_stamp_and_no_marker(self):
+        _, content = eb.render_collection_entry(self._entry(), "/predictions/local-compute/")
+        self.assertNotIn("00:25:36](", content.split("quote: |")[1])
+        self.assertNotIn("**Context:**", content)
+
+    def test_yaml_round_trips_awkward_characters(self):
+        e = self._entry()
+        e["title"] = 'A title with "quotes", a colon: and an — em dash'
+        _, content = eb.render_collection_entry(e, "/predictions/local-compute/")
+        body = content.split("---")[1]
+        try:
+            import yaml
+        except ImportError:
+            self.skipTest("pyyaml not installed")
+        data = yaml.safe_load(body)
+        self.assertEqual(data["title"], e["title"])
+
+
 if __name__ == "__main__":
     unittest.main()

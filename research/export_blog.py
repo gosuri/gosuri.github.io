@@ -227,6 +227,86 @@ def render_index(meta, entries):
     return head + "\n\n" + intro + "\n\n" + "\n".join(cards) + "\n"
 
 
+CONTEXT_PREFIX = "**Context:**"
+
+
+def clean_source(raw):
+    """'_Foo (Bar)_' -> 'Foo (Bar)'. The template supplies the emphasis."""
+    return raw.strip().strip("_").strip()
+
+
+def clean_context(raw):
+    """Strip the literal '**Context:**' label; the template renders it."""
+    if not raw:
+        return ""
+    return raw.strip()[len(CONTEXT_PREFIX):].strip()
+
+
+def clean_quote(lines):
+    """Quote text with the '> ' prefixes and the trailing stamp line removed.
+
+    parse_predictions puts the stamp line in BOTH `stamp` and `quote`, so it
+    must be dropped here or every quote ends with a duplicated timestamp.
+    The outermost straight quotes are stripped because the template adds
+    curly ones.
+    """
+    body = [l[1:].strip() for l in lines if not STAMP_RE.match(l)]
+    text = "\n".join(body).strip()
+    if text.startswith('"'):
+        text = text[1:]
+    if text.endswith('"'):
+        text = text[:-1]
+    return text.strip()
+
+
+def _yaml_block(key, text, indent="  "):
+    """Emit a YAML literal block scalar. Quotes contain ", : and newlines, so
+    quoted scalars are not safe here."""
+    lines = text.split("\n") if text else [""]
+    body = "\n".join(f"{indent}{l}" if l else "" for l in lines)
+    return f"{key}: |\n{body}"
+
+
+def _yaml_str(key, value):
+    """Double-quoted scalar with embedded quotes and backslashes escaped."""
+    esc = str(value).replace("\\", "\\\\").replace('"', '\\"')
+    return f'{key}: "{esc}"'
+
+
+def render_collection_entry(e, theme_page):
+    """One Jekyll collection document. Returns (relpath, content).
+
+    `theme_page` is the permalink of the theme page that lists this entry —
+    the year page for split themes, the theme page otherwise. The single
+    prediction page links back to it, so it must be the page the anchor
+    actually exists on.
+    """
+    tslug = theme_slug(e["theme"])
+    eid = make_id(e)
+    permalink = f"/predictions/{tslug}/{eid}/"
+    head = "\n".join([
+        "---",
+        "layout: prediction",
+        f"theme: {tslug}",
+        _yaml_str("theme_title", e["theme"]),
+        f"date: {e['date']}",
+        _yaml_str("year", e["date"][:4]),
+        _yaml_str("title", e["title"]),
+        f"permalink: {permalink}",
+        f"slug_id: {eid}",
+        f"theme_page: {theme_page}",
+        _yaml_str("source", clean_source(e["source"])),
+        f"source_url: {e['stamp'][1]}",
+        _yaml_str("timestamp", e["stamp"][0]),
+        f"vid: {e['vid']}",
+        _yaml_block("quote", clean_quote(e["quote"])),
+        _yaml_block("context", clean_context(e["context"])),
+        "---",
+        "",
+    ])
+    return f"{tslug}/{eid}.md", head
+
+
 def main():
     repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     ap = argparse.ArgumentParser()
