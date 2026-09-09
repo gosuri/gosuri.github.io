@@ -24,7 +24,7 @@
 
   {%- if page.collection == "predictions" %}
   {%- capture abs_url %}{{ page.url | prepend: site.baseurl | prepend: site.url }}{% endcapture -%}
-  {%- capture og_desc %}“{{ page.quote | strip | truncate: 140 }}” — Greg Osuri, {{ page.date | date: '%-d %b %Y' }}{% endcapture -%}
+  {%- capture og_desc %}“{{ page.quote | strip_newlines | strip | truncate: 140 }}” — Greg Osuri, {{ page.date | date: '%-d %b %Y' }}{% endcapture -%}
   <meta property="og:type" content="article">
   <meta property="og:title" content="{{ page.title | escape }}">
   <meta property="og:description" content="{{ og_desc | escape }}">
