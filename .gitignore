@@ -8,3 +8,6 @@ _site*
 .superpowers/
 
 transcripts/
+
+# Python bytecode from the research pipeline
+__pycache__/
