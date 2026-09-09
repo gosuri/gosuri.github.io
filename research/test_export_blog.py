@@ -260,6 +260,20 @@ class TestCollectionEntry(unittest.TestCase):
         data = yaml.safe_load(body)
         self.assertEqual(data["title"], e["title"])
 
+    def test_empty_context_round_trips_to_empty_string(self):
+        _, entries = eb.parse_predictions(FIXTURE)
+        e = entries[1]
+        self.assertIsNone(e["context"])
+        _, content = eb.render_collection_entry(e, "/predictions/local-compute/")
+        self.assertIn("context: |", content)
+        body = content.split("---")[1]
+        try:
+            import yaml
+        except ImportError:
+            self.skipTest("pyyaml not installed")
+        data = yaml.safe_load(body)
+        self.assertEqual(data["context"], "")
+
 
 if __name__ == "__main__":
     unittest.main()
