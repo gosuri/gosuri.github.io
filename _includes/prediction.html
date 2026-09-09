@@ -1,0 +1,13 @@
+{%- assign item = include.item -%}
+<article class="prediction" id="{{ item.slug_id }}">
+  <p class="dateline">
+    <a class="permalink" href="{{ item.url | prepend: site.baseurl }}"><time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%-d %b %Y' }}</time></a>
+    <a class="anchor" href="#{{ item.slug_id }}" aria-label="Link to this prediction">§</a>
+  </p>
+  <h3><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title | escape }}</a></h3>
+  <p class="source"><em>{{ item.source | escape }}</em><span class="share-wrap"><span class="sep">·</span><a class="share" href="{{ item.url | prepend: site.baseurl }}" data-copy>Copy link</a></span></p>
+  <blockquote><p>“{{ item.quote | strip | escape }}” — <a href="{{ item.source_url | escape }}">{{ item.timestamp }}</a></p></blockquote>
+  {%- if item.context and item.context != "" %}
+  <p class="context"><strong>Context:</strong> {{ item.context | strip | escape }}</p>
+  {%- endif %}
+</article>
