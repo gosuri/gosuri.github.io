@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Export PREDICTIONS.md into Jekyll pages in the blog repo."""
 import argparse
+import base64
+import hashlib
 import os
 import re
 import shutil
@@ -8,6 +10,7 @@ import sys
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 SPLIT_BYTES = 300_000
+ID_SLUG_MAX = 50
 
 HEADER_RE = re.compile(r"_(\d[\d,]*) extracted statements from (\d+) videos")
 THEME_RE = re.compile(r"^## (.+)$")
@@ -28,6 +31,24 @@ def _stamp_identity(url):
 
 def slugify(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+
+
+def theme_slug(theme):
+    """URL slug for a theme name: 'Crypto & DePIN' -> 'crypto-depin'."""
+    return slugify(theme)
+
+
+def make_id(e):
+    """Stable, readable, collision-free id for one prediction.
+
+    The hash is derived from the source (video id + timestamp URL) and never
+    from the title, so re-wording a title changes only the readable half and
+    leaves the hash usable as a join key for redirects.
+    """
+    slug = slugify(e["title"])[:ID_SLUG_MAX].rstrip("-")
+    seed = f"{e['vid']}|{e['stamp'][1]}".encode()
+    h = base64.b32encode(hashlib.sha256(seed).digest()).decode().lower()[:4]
+    return f"{e['date']}-{slug}-{h}"
 
 
 def parse_predictions(text):

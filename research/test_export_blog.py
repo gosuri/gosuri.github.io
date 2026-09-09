@@ -138,5 +138,61 @@ class TestRender(unittest.TestCase):
         self.assertIn(os.path.join("local-compute", "2019.md"), paths)
 
 
+class TestMakeId(unittest.TestCase):
+    def _entry(self, title, vid, url):
+        return {"date": "2023-09-28", "title": title, "vid": vid,
+                "stamp": ("00:43:16", url)}
+
+    def test_id_shape(self):
+        e = self._entry("Every home will have a supercomputer", "GVrfHDg30-M",
+                        "https://www.youtube.com/watch?v=GVrfHDg30-M&t=2596s")
+        self.assertEqual(
+            eb.make_id(e),
+            "2023-09-28-every-home-will-have-a-supercomputer-zved")
+
+    def test_id_is_stable(self):
+        e = self._entry("Every home will have a supercomputer", "GVrfHDg30-M",
+                        "https://www.youtube.com/watch?v=GVrfHDg30-M&t=2596s")
+        self.assertEqual(eb.make_id(e), eb.make_id(e))
+
+    def test_title_truncated_to_50_chars(self):
+        long_title = ("Next 12 months managed services marketplace makes Akash "
+                      "a network of networks and pays open source creators")
+        e = self._entry(long_title, "abc", "https://x.test/?t=1")
+        slug_part = eb.make_id(e)[len("2023-09-28-"):-5]
+        self.assertLessEqual(len(slug_part), 50)
+        self.assertFalse(slug_part.endswith("-"))
+
+    def test_hash_ignores_title(self):
+        a = self._entry("One title", "vid1", "https://x.test/?t=1")
+        b = self._entry("A completely different title", "vid1",
+                        "https://x.test/?t=1")
+        self.assertEqual(eb.make_id(a)[-4:], eb.make_id(b)[-4:])
+
+    def test_hash_distinguishes_sources(self):
+        a = self._entry("Same title", "vid1", "https://x.test/?t=1")
+        b = self._entry("Same title", "vid2", "https://x.test/?t=1")
+        self.assertNotEqual(eb.make_id(a), eb.make_id(b))
+
+
+class TestThemeSlug(unittest.TestCase):
+    def test_slugs(self):
+        self.assertEqual(eb.theme_slug("Local Compute"), "local-compute")
+        self.assertEqual(eb.theme_slug("Crypto & DePIN"), "crypto-depin")
+        self.assertEqual(eb.theme_slug("Energy & AI"), "energy-ai")
+
+
+class TestRealCorpusIds(unittest.TestCase):
+    def test_all_ids_unique(self):
+        path = os.path.join(os.path.dirname(os.path.dirname(
+            os.path.abspath(__file__))), "PREDICTIONS.md")
+        with open(path) as f:
+            _, entries = eb.parse_predictions(f.read())
+        ids = [eb.make_id(e) for e in entries]
+        self.assertEqual(len(ids), 1689)
+        self.assertEqual(len(set(ids)), len(ids))
+        self.assertLessEqual(max(len(i) for i in ids), 70)
+
+
 if __name__ == "__main__":
     unittest.main()
