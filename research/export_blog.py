@@ -137,35 +137,66 @@ def render_entry(e):
     return "\n".join(parts)
 
 
-def render_theme_page(theme, entries, permalink, title=None):
+def render_theme_page(theme, entries, permalink, title=None, year=None):
     entries = sorted(entries, key=lambda e: e["date"])
     years = f"{entries[0]['date'][:4]}–{entries[-1]['date'][:4]}"
-    head = _fm(
-        [
-            ("layout", "predictions"),
-            ("title", title or f"{theme} — Predictions"),
-            ("theme", theme),
-            ("permalink", permalink),
-        ]
-    )
+    pairs = [
+        ("layout", "predictions"),
+        ("title", title or f"{theme} — Predictions"),
+        ("theme", theme),
+        ("theme_slug", theme_slug(theme)),
+        ("permalink", permalink),
+    ]
+    if year:
+        pairs.append(("year", year))
+    head = _fm(pairs)
     intro = f"_{len(entries)} statements · {years}_"
-    body = "\n\n---\n\n".join(render_entry(e) for e in entries)
-    return f"{head}\n\n{intro}\n\n{body}\n"
+    loop = "\n".join([
+        '{%- assign items = site.predictions '
+        '| where: "theme", page.theme_slug -%}',
+        '{%- if page.year -%}'
+        '{%- assign items = items | where: "year", page.year -%}'
+        '{%- endif -%}',
+        '{%- assign items = items | sort: "slug_id" -%}',
+        "{%- for item in items -%}",
+        "{%- if forloop.index > 1 %}<hr>{% endif %}",
+        "{% include prediction.html item=item %}",
+        "{%- endfor -%}",
+    ])
+    return f"{head}\n\n{intro}\n\n{loop}\n"
+
+
+def theme_is_split(entries, split_bytes=SPLIT_BYTES):
+    """Whether a theme is large enough to split into year pages.
+
+    Measures entry content, NOT the rendered page: the page is now a short
+    Liquid loop whose size says nothing about how much it renders.
+    """
+    return sum(len(render_entry(e).encode()) for e in entries) > split_bytes
+
+
+def entry_theme_page(e, split):
+    """Permalink of the theme page that lists this entry."""
+    slug = theme_slug(e["theme"])
+    if split:
+        return f"/predictions/{slug}/{e['date'][:4]}/"
+    return f"/predictions/{slug}/"
 
 
 def theme_pages(theme, entries, split_bytes=SPLIT_BYTES):
     """Return {relative_path: content} for one theme, splitting by year if large."""
     slug = slugify(theme)
-    full = render_theme_page(theme, entries, f"/predictions/{slug}/")
-    if len(full.encode()) <= split_bytes:
-        return {f"{slug}.md": full}
+    if not theme_is_split(entries, split_bytes):
+        return {f"{slug}.md": render_theme_page(
+            theme, entries, f"/predictions/{slug}/")}
     pages = {}
     years = sorted({e["date"][:4] for e in entries})
     links = []
     for y in years:
         sub = [e for e in entries if e["date"][:4] == y]
         pages[os.path.join(slug, f"{y}.md")] = render_theme_page(
-            theme, sub, f"/predictions/{slug}/{y}/", title=f"{theme} — {y}"
+            theme, sub, f"/predictions/{slug}/{y}/",
+            title=f"{theme} — {y}", year=y
         )
         links.append(f"- [{y}](/predictions/{slug}/{y}/) — {len(sub)} statements")
     head = _fm(
@@ -310,20 +341,22 @@ def render_collection_entry(e, theme_page):
 def main():
     repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     ap = argparse.ArgumentParser()
-    ap.add_argument(
-        "--blog-dir",
-        default=os.path.join(os.path.dirname(repo), "gosuri.github.io"),
-    )
+    ap.add_argument("--blog-dir", default=repo)
     args = ap.parse_args()
     src = os.path.join(repo, "PREDICTIONS.md")
     with open(src) as f:
         meta, entries = parse_predictions(f.read())
+
+    ids = [make_id(e) for e in entries]
+    if len(set(ids)) != len(ids):
+        raise SystemExit("duplicate prediction ids; refusing to overwrite")
+
+    themes = {e["theme"] for e in entries}
     out_dir = os.path.join(args.blog_dir, "predictions")
     if os.path.isdir(out_dir):
         shutil.rmtree(out_dir)
     os.makedirs(out_dir)
     pages = {"index.md": render_index(meta, entries)}
-    themes = {e["theme"] for e in entries}
     for t in sorted(themes):
         pages.update(theme_pages(t, [e for e in entries if e["theme"] == t]))
     for rel, content in pages.items():
@@ -331,7 +364,24 @@ def main():
         os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w") as f:
             f.write(content)
-    print(f"wrote {len(pages)} pages for {len(themes)} themes to {out_dir}")
+
+    coll_dir = os.path.join(args.blog_dir, "_predictions")
+    if os.path.isdir(coll_dir):
+        shutil.rmtree(coll_dir)
+    split_themes = {
+        t: theme_is_split([e for e in entries if e["theme"] == t])
+        for t in themes
+    }
+    for e in entries:
+        rel, content = render_collection_entry(
+            e, entry_theme_page(e, split_themes[e["theme"]]))
+        path = os.path.join(coll_dir, rel)
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w") as f:
+            f.write(content)
+
+    print(f"wrote {len(pages)} pages and {len(entries)} predictions "
+          f"to {args.blog_dir}")
 
 
 if __name__ == "__main__":

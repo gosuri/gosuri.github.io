@@ -93,8 +93,12 @@ class TestRender(unittest.TestCase):
         self.assertIn('layout: "predictions"', page)
         self.assertIn('permalink: "/predictions/local-compute/"', page)
         self.assertIn('theme: "Local Compute"', page)
-        # date order preserved, no h1 in body
-        self.assertLess(page.index("2018-11-10"), page.index("2019-08-06"))
+        self.assertIn('theme_slug: "local-compute"', page)
+        # body is a Liquid loop over the collection, sorted on slug_id, not
+        # embedded entry text
+        self.assertIn('sort: "slug_id"', page)
+        self.assertIn('{% include prediction.html item=item %}', page)
+        self.assertNotIn("2018-11-10", page)
         self.assertNotIn("\n# ", page)
 
     def test_index_page(self):

@@ -34,5 +34,9 @@ exclude:
   - PREDICTIONS.md
   - CATALOG.md
 
+collections:
+  predictions:
+    output: true
+
 karmadown:
   enable_coreray: true
