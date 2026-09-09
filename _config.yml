@@ -4,7 +4,7 @@ email: me@gregosuri.com
 description: > # this means to ignore newlines until "baseurl:"
   I build things for people that build things
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gregosuri.com" # the base hostname & protocol for your site
+url: "https://www.gregosuri.com" # the base hostname & protocol for your site (must match CNAME)
 twitter_username: GregOsuri
 github_username:  gosuri
 
