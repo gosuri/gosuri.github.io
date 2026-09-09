@@ -14,7 +14,10 @@
   <link rel="preload" href="{{ "/assets/fonts/newsreader-latin-vf.woff2" | prepend: site.baseurl }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ "/assets/fonts/newsreader-latin-vf-italic.woff2" | prepend: site.baseurl }}" as="font" type="font/woff2" crossorigin>
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  {%- comment -%}Fingerprint the stylesheet so a CDN or browser cache cannot
+  serve a stale main.css after a deploy.{%- endcomment -%}
+  {%- assign css_version = site.time | date: "%s" -%}
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?v={{ css_version }}">
   <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" sizes="any">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
