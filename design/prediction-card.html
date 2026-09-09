@@ -1,4 +1,4 @@
-<!-- @dsCard group="Predictions" -->
+<!-- @dsCard group="Predictions" name="Prediction entry" subtitle="Dateline permalink, § anchor on hover, copy link in the meta line" -->
 <!doctype html>
 <html lang="en">
 <head>
@@ -6,143 +6,79 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Prediction entry — gregosuri.com design</title>
 <style>
-/* ---- Newsreader (self-hosted, variable) ---- */
-@font-face {
-  font-family: "Newsreader";
-  font-style: normal;
-  font-weight: 200 800;
-  font-display: swap;
-  src: url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2");
-}
-@font-face {
-  font-family: "Newsreader";
-  font-style: italic;
-  font-weight: 200 800;
-  font-display: swap;
-  src: url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2");
-}
+@font-face{font-family:"Newsreader";font-style:normal;font-weight:200 800;font-display:swap;src:url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2")}
+@font-face{font-family:"Newsreader";font-style:italic;font-weight:200 800;font-display:swap;src:url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2")}
+:root{--paper:#faf8f4;--ink:#211f1a;--ink-soft:#6e6759;--accent:#9c4221;--rule:#e4ddd0;--font-serif:"Newsreader","Iowan Old Style",Georgia,serif;--step--1:.8889rem;--step-0:1rem;--step-1:1.25rem;--step-2:1.5625rem;--step-3:1.9531rem;--step-4:2.4414rem;--measure:65ch;--s1:.25rem;--s2:.5rem;--s3:1rem;--s4:2rem;--s5:4rem}
+html{font-size:112.5%}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--font-serif);font-size:var(--step-0);font-weight:400;line-height:1.6;font-kerning:normal;overflow-wrap:break-word;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
+.page{max-width:var(--measure);margin-inline:auto;padding:var(--s4) var(--s3)}
+a{color:inherit}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+::selection{background:rgba(156,66,33,.16)}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important}}
 
-/* ---- tokens (locked) ---- */
-:root {
-  --paper: #faf8f4;
-  --ink: #211f1a;
-  --ink-soft: #6e6759;
-  --accent: #9c4221;
-  --rule: #e4ddd0;
-  --font-serif: "Newsreader", "Iowan Old Style", Georgia, serif;
-  --step--1: .8889rem;
-  --step-0: 1rem;
-  --step-1: 1.25rem;
-  --step-2: 1.5625rem;
-  --step-3: 1.9531rem;
-  --step-4: 2.4414rem;
-  --measure: 65ch;
-  --s1: .25rem;
-  --s2: .5rem;
-  --s3: 1rem;
-  --s4: 2rem;
-  --s5: 4rem;
-}
-
-/* ---- base ---- */
-html { font-size: 112.5%; }
-*, *::before, *::after { box-sizing: border-box; }
-body {
-  margin: 0;
-  background: var(--paper);
-  color: var(--ink);
-  font-family: var(--font-serif);
-  font-size: var(--step-0);
-  font-weight: 400;
-  line-height: 1.6;
-  font-kerning: normal;
-  overflow-wrap: break-word;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-}
-.page {
-  max-width: var(--measure);
-  margin-inline: auto;
-  padding: var(--s4) var(--s3) var(--s4);
-}
-a { color: inherit; }
-a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-::selection { background: rgba(156, 66, 33, .16); }
-@media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after { transition: none !important; }
-}
-
-/* ---- prediction entries (styles kramdown output) ---- */
-.predictions > p:first-child { color: var(--ink-soft); margin: 0 0 var(--s4); }
-.predictions h3 {
-  font-size: var(--step-1);
-  font-weight: 560;
-  line-height: 1.3;
-  letter-spacing: -0.008em;
-  margin: 0 0 var(--s2);
-}
-.predictions h3 + p {
-  font-size: var(--step--1);
-  color: var(--ink-soft);
-  margin: 0 0 var(--s3);
-}
-.predictions blockquote {
-  margin: var(--s3) 0;
-  padding: 0;
-  font-style: italic;
-  line-height: 1.65;
-}
-.predictions blockquote p {
-  margin: 0 0 var(--s2);
-  text-indent: -0.42ch; /* hang the opening quotation mark */
-}
-.predictions blockquote a {
-  font-style: normal;
-  font-size: var(--step--1);
-  font-variant-numeric: tabular-nums;
-  letter-spacing: .05em;
-  color: var(--accent);
-  text-decoration: none;
-  white-space: nowrap;
-}
-.predictions blockquote a:hover {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: .25em;
-}
-.predictions blockquote + p {
-  font-size: var(--step--1);
-  color: var(--ink-soft);
-  margin: 0;
-}
-.predictions blockquote + p strong { font-weight: 580; }
-.predictions blockquote + p a { color: var(--accent); text-decoration: none; }
-.predictions blockquote + p a:hover { text-decoration: underline; }
-.predictions hr {
-  border: 0;
-  border-top: 1px solid var(--rule);
-  width: var(--s5);
-  margin: var(--s4) auto;
-}
+/* ---- prediction entries ----
+   Each entry is an <article class="prediction" id="…"> with its own page.
+   .dateline  — the date IS the permalink; § anchor appears on hover/focus.
+   h3         — title, also linked to the page.
+   .source    — source in italics · “Copy link” (JS swaps to “Copied”).
+   blockquote — quote ending in the timestamp link.
+   .context   — <strong>Context:</strong> …                              */
+.predictions>p:first-child{color:var(--ink-soft);margin:0 0 var(--s4)}
+.prediction{scroll-margin-top:var(--s4)}
+.prediction:target .dateline a.permalink{text-decoration-color:var(--accent)}
+.dateline{display:flex;align-items:baseline;gap:var(--s2);margin:0 0 var(--s1);font-size:var(--step-0);font-weight:520;font-variant-numeric:tabular-nums;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.dateline a.permalink{color:inherit;text-decoration:underline;text-decoration-color:transparent;text-decoration-thickness:1px;text-underline-offset:.3em;transition:text-decoration-color .15s ease}
+.dateline a.permalink:hover{text-decoration-color:var(--accent)}
+.dateline a.anchor{color:var(--ink-soft);text-decoration:none;letter-spacing:0;text-transform:none;font-weight:400;opacity:0;transition:opacity .15s ease,color .15s ease}
+.prediction:hover .dateline a.anchor,.dateline a.anchor:focus-visible{opacity:1}
+.dateline a.anchor:hover{color:var(--accent)}
+.prediction h3{font-size:var(--step-1);font-weight:560;line-height:1.3;letter-spacing:-0.008em;margin:0 0 var(--s2)}
+.prediction h3 a{text-decoration:none;transition:color .15s ease}
+.prediction h3 a:hover{color:var(--accent)}
+.source{display:flex;flex-wrap:wrap;gap:0 var(--s2);font-size:var(--step--1);color:var(--ink-soft);margin:0 0 var(--s3)}
+.share-wrap{white-space:nowrap}.share-wrap .sep{margin-right:var(--s2);user-select:none}
+.source a.share{color:var(--ink-soft);font-style:normal;text-decoration:underline;text-decoration-color:var(--rule);text-decoration-thickness:1px;text-underline-offset:.25em;white-space:nowrap;transition:color .15s ease,text-decoration-color .15s ease}
+.source a.share:hover{color:var(--accent);text-decoration-color:var(--accent)}
+.source a.share[data-copied]{color:var(--accent);text-decoration-color:transparent}
+.prediction blockquote{margin:var(--s3) 0;padding:0;font-style:italic;line-height:1.65}
+.prediction blockquote p{margin:0 0 var(--s2);text-indent:-0.42ch}
+.prediction blockquote a{font-style:normal;font-size:var(--step--1);font-variant-numeric:tabular-nums;letter-spacing:.05em;color:var(--accent);text-decoration:none;white-space:nowrap}
+.prediction blockquote a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.25em}
+.context{font-size:var(--step--1);color:var(--ink-soft);margin:0}
+.context strong{font-weight:580}
+.context a{color:var(--accent);text-decoration:none}
+.context a:hover{text-decoration:underline}
+.predictions hr{border:0;border-top:1px solid var(--rule);width:var(--s5);margin:var(--s4) auto}
 </style>
 </head>
 <body>
 <div class="page">
-  <div class="predictions">
-    <h3>2018-11-10 — Devices will outnumber humans; the future needs edge capacity served by people, not hyperscalers</h3>
-    <p><em>CEO of Overclock Labs On the World of Blockchain &amp; Upcoming Technology In Development (CoinBundle)</em></p>
-    <blockquote>
-      <p>“We’re moving to a more decentralized infrastructure where you have devices more than humans accessing the cloud, and a lot of these devices need edge capacity. Cloud is not gonna provide that because the economics doesn’t really work — they’re focusing on building hyperscale data centers, whereas the world and innovation is moving towards more distributed and decentralized computing. Who’s gonna serve this future? It can’t be the cloud — it has to be people. It’s very important to take back control of a foundational element of society back from the oligarchs, and that’s the mission for Akash.” — <a href="https://www.youtube.com/watch?v=Don1slbJlMQ&amp;t=1536s">00:25:36</a></p>
-    </blockquote>
-    <p><strong>Context:</strong> His closing argument on why decentralization matters long-term: IoT and edge growth make hyperscaler economics unworkable, so compute supply must come from people. Early statement of the compute-goes-local thesis.</p>
-    <hr>
-    <h3>2022-04-24 — Supermini is not dead</h3>
-    <p><em>“Akashonomics: AKT Release Schedule” (Akash Network)</em></p>
-    <blockquote>
-      <p>“Supermini is not dead. It’s just living and waiting for its day to come back.” — <a href="https://www.youtube.com/watch?v=G_pXEAo-ZsU&amp;t=2221s">00:37:01</a></p>
-    </blockquote>
-    <p><strong>Context:</strong> After riffing on interim uses for a home device — remote signer and “entropy source” for validators, sovereign key custody for cloud data — he keeps the home-compute vision alive pending GPU support and favorable economics.</p>
-  </div>
+<div class="predictions">
+<article class="prediction" id="2018-11-10-edge-capacity">
+<p class="dateline"><a class="permalink" href="/predictions/local-compute/2018-11-10-edge-capacity/"><time datetime="2018-11-10">10 Nov 2018</time></a><a class="anchor" href="#2018-11-10-edge-capacity" aria-label="Link to this prediction">§</a></p>
+<h3><a href="/predictions/local-compute/2018-11-10-edge-capacity/">Devices will outnumber humans; the future needs edge capacity served by people, not hyperscalers</a></h3>
+<p class="source"><em>CEO of Overclock Labs On the World of Blockchain &amp; Upcoming Technology In Development (CoinBundle)</em><span class="share-wrap"><span class="sep">·</span><a class="share" href="/predictions/local-compute/2018-11-10-edge-capacity/" data-copy>Copy link</a></span></p>
+<blockquote>
+<p>“We’re moving to a more decentralized infrastructure where you have devices more than humans accessing the cloud, and a lot of these devices need edge capacity. Cloud is not gonna provide that because the economics doesn’t really work — they’re focusing on building hyperscale data centers, whereas the world and innovation is moving towards more distributed and decentralized computing. Who’s gonna serve this future? It can’t be the cloud — it has to be people. It’s very important to take back control of a foundational element of society back from the oligarchs, and that’s the mission for Akash.” — <a href="https://www.youtube.com/watch?v=Don1slbJlMQ&amp;t=1536s">00:25:36</a></p>
+</blockquote>
+<p class="context"><strong>Context:</strong> His closing argument on why decentralization matters long-term: IoT and edge growth make hyperscaler economics unworkable, so compute supply must come from people. Early statement of the compute-goes-local thesis.</p>
+</article>
+<hr>
+<article class="prediction" id="2022-04-24-supermini">
+<p class="dateline"><a class="permalink" href="/predictions/local-compute/2022-04-24-supermini/"><time datetime="2022-04-24">24 Apr 2022</time></a><a class="anchor" href="#2022-04-24-supermini" aria-label="Link to this prediction">§</a></p>
+<h3><a href="/predictions/local-compute/2022-04-24-supermini/">Supermini is not dead</a></h3>
+<p class="source"><em>“Akashonomics: AKT Release Schedule” (Akash Network)</em><span class="share-wrap"><span class="sep">·</span><a class="share" href="/predictions/local-compute/2022-04-24-supermini/" data-copy>Copy link</a></span></p>
+<blockquote>
+<p>“Supermini is not dead. It’s just living and waiting for its day to come back.” — <a href="https://www.youtube.com/watch?v=G_pXEAo-ZsU&amp;t=2221s">00:37:01</a></p>
+</blockquote>
+<p class="context"><strong>Context:</strong> After riffing on interim uses for a home device — remote signer and “entropy source” for validators, sovereign key custody for cloud data — he keeps the home-compute vision alive pending GPU support and favorable economics.</p>
+</article>
 </div>
+</div>
+<script>
+document.addEventListener('click',e=>{const a=e.target.closest('a.share[data-copy]');if(!a)return;e.preventDefault();const url=new URL(a.getAttribute('href'),location.href).href;const done=()=>{a.textContent='Copied';a.setAttribute('data-copied','');setTimeout(()=>{a.textContent='Copy link';a.removeAttribute('data-copied')},1600)};(navigator.clipboard?navigator.clipboard.writeText(url):Promise.reject()).then(done,()=>{location.href=url})});
+</script>
 </body>
 </html>

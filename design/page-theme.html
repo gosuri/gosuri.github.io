@@ -120,58 +120,30 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   text-underline-offset: .25em;
 }
 
-/* ---- prediction entries (styles kramdown output) ---- */
+/* ---- prediction entries (see design/prediction-card.html) ---- */
 .predictions > p:first-child { color: var(--ink-soft); margin: 0 0 var(--s4); }
-.predictions h3 {
-  font-size: var(--step-1);
-  font-weight: 560;
-  line-height: 1.3;
-  letter-spacing: -0.008em;
-  margin: 0 0 var(--s2);
-}
-.predictions h3 + p {
-  font-size: var(--step--1);
-  color: var(--ink-soft);
-  margin: 0 0 var(--s3);
-}
-.predictions blockquote {
-  margin: var(--s3) 0;
-  padding: 0;
-  font-style: italic;
-  line-height: 1.65;
-}
-.predictions blockquote p {
-  margin: 0 0 var(--s2);
-  text-indent: -0.42ch; /* hang the opening quotation mark */
-}
-.predictions blockquote a {
-  font-style: normal;
-  font-size: var(--step--1);
-  font-variant-numeric: tabular-nums;
-  letter-spacing: .05em;
-  color: var(--accent);
-  text-decoration: none;
-  white-space: nowrap;
-}
-.predictions blockquote a:hover {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: .25em;
-}
-.predictions blockquote + p {
-  font-size: var(--step--1);
-  color: var(--ink-soft);
-  margin: 0;
-}
-.predictions blockquote + p strong { font-weight: 580; }
-.predictions blockquote + p a { color: var(--accent); text-decoration: none; }
-.predictions blockquote + p a:hover { text-decoration: underline; }
-.predictions hr {
-  border: 0;
-  border-top: 1px solid var(--rule);
-  width: var(--s5);
-  margin: var(--s4) auto;
-}
+.prediction{scroll-margin-top:var(--s4)}
+.dateline{display:flex;align-items:baseline;gap:var(--s2);margin:0 0 var(--s1);font-size:var(--step-0);font-weight:520;font-variant-numeric:tabular-nums;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.dateline a.permalink{color:inherit;text-decoration:underline;text-decoration-color:transparent;text-decoration-thickness:1px;text-underline-offset:.3em;transition:text-decoration-color .15s ease}
+.dateline a.permalink:hover,.prediction:target .dateline a.permalink{text-decoration-color:var(--accent)}
+.dateline a.anchor{color:var(--ink-soft);text-decoration:none;letter-spacing:0;text-transform:none;font-weight:400;opacity:0;transition:opacity .15s ease,color .15s ease}
+.prediction:hover .dateline a.anchor,.dateline a.anchor:focus-visible{opacity:1}
+.dateline a.anchor:hover{color:var(--accent)}
+.prediction h3{font-size:var(--step-1);font-weight:560;line-height:1.3;letter-spacing:-0.008em;margin:0 0 var(--s2)}
+.prediction h3 a{text-decoration:none;transition:color .15s ease}
+.prediction h3 a:hover{color:var(--accent)}
+.source{display:flex;flex-wrap:wrap;gap:0 var(--s2);font-size:var(--step--1);color:var(--ink-soft);margin:0 0 var(--s3)}
+.share-wrap{white-space:nowrap}.share-wrap .sep{margin-right:var(--s2);user-select:none}
+.source a.share{color:var(--ink-soft);text-decoration:underline;text-decoration-color:var(--rule);text-decoration-thickness:1px;text-underline-offset:.25em;white-space:nowrap;transition:color .15s ease,text-decoration-color .15s ease}
+.source a.share:hover{color:var(--accent);text-decoration-color:var(--accent)}
+.source a.share[data-copied]{color:var(--accent);text-decoration-color:transparent}
+.prediction blockquote{margin:var(--s3) 0;padding:0;font-style:italic;line-height:1.65}
+.prediction blockquote p{margin:0 0 var(--s2);text-indent:-0.42ch}
+.prediction blockquote a{font-style:normal;font-size:var(--step--1);font-variant-numeric:tabular-nums;letter-spacing:.05em;color:var(--accent);text-decoration:none;white-space:nowrap}
+.prediction blockquote a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.25em}
+.context{font-size:var(--step--1);color:var(--ink-soft);margin:0}
+.context strong{font-weight:580}
+.predictions hr{border:0;border-top:1px solid var(--rule);width:var(--s5);margin:var(--s4) auto}
 
 /* ---- page furniture ---- */
 .page-title {
@@ -202,31 +174,43 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
     <h1 class="page-title">Local Compute</h1>
     <div class="predictions">
       <p><em>138 statements · 2018–2026</em></p>
-      <h3>2018-11-10 — Devices will outnumber humans; the future needs edge capacity served by people, not hyperscalers</h3>
-    <p><em>CEO of Overclock Labs On the World of Blockchain &amp; Upcoming Technology In Development (CoinBundle)</em></p>
-    <blockquote>
-      <p>“We’re moving to a more decentralized infrastructure where you have devices more than humans accessing the cloud, and a lot of these devices need edge capacity. Cloud is not gonna provide that because the economics doesn’t really work — they’re focusing on building hyperscale data centers, whereas the world and innovation is moving towards more distributed and decentralized computing. Who’s gonna serve this future? It can’t be the cloud — it has to be people. It’s very important to take back control of a foundational element of society back from the oligarchs, and that’s the mission for Akash.” — <a href="https://www.youtube.com/watch?v=Don1slbJlMQ&amp;t=1536s">00:25:36</a></p>
-    </blockquote>
-    <p><strong>Context:</strong> His closing argument on why decentralization matters long-term: IoT and edge growth make hyperscaler economics unworkable, so compute supply must come from people. Early statement of the compute-goes-local thesis.</p>
-      <hr>
-      <h3>2019-08-06 — Home hardware made almost free by earning Akash rewards</h3>
-    <p><em>Overcoming the Challenges of Distributed Networks with Greg Osuri (Techpost)</em></p>
-    <blockquote>
-      <p>“This device sits in your house and becomes part of the Akash network, by which the rewards this particular node gains by hosting other workloads through Akash will subsidize the cost of the hardware… they can bring the cost of the hardware device to almost free — free in the sense the customer’s paying electricity. It’s that type of redistribution of incentives, but it’s only possible because of a decentralized cloud like Akash, and this is the true promise of blockchains.” — <a href="https://www.youtube.com/watch?v=WKvrKWdc9OA&amp;t=622s">00:10:22</a></p>
-    </blockquote>
-    <p><strong>Context:</strong> The Cactus economic model — household devices earning income by selling spare compute; Greg calls apps like this, with “nothing to do with blockchain,” the proof of the web3 mission.</p>
-      <hr>
-      <h3>2023-09-28 — Every home will have a supercomputer</h3>
-    <p><em>Building the Super Cloud of GPUs with Akash Founder Greg Osuri, Ep. 102 (Frictionless)</em></p>
-    <blockquote>
-      <p>“I envision a world where every home will have a supercomputer… no doubt about it. As AI gets more penetration, we’re going to realize there are privacy implications for AI.” — <a href="https://www.youtube.com/watch?v=GVrfHDg30-M&amp;t=2596s">00:43:16</a></p>
-    </blockquote>
-    <p><strong>Context:</strong> Asked where Akash’s end state lands — regional GPU clusters or dispersed GPUs — Greg jumps past both to home supercomputers driven by AI privacy concerns.</p>
+<article class="prediction" id="2018-11-10-edge-capacity">
+<p class="dateline"><a class="permalink" href="/predictions/local-compute/2018-11-10-edge-capacity/"><time datetime="2018-11-10">10 Nov 2018</time></a><a class="anchor" href="#2018-11-10-edge-capacity" aria-label="Link to this prediction">§</a></p>
+<h3><a href="/predictions/local-compute/2018-11-10-edge-capacity/">Devices will outnumber humans; the future needs edge capacity served by people, not hyperscalers</a></h3>
+<p class="source"><em>CEO of Overclock Labs On the World of Blockchain &amp; Upcoming Technology In Development (CoinBundle)</em><span class="share-wrap"><span class="sep">·</span><a class="share" href="/predictions/local-compute/2018-11-10-edge-capacity/" data-copy>Copy link</a></span></p>
+<blockquote>
+<p>“We’re moving to a more decentralized infrastructure where you have devices more than humans accessing the cloud, and a lot of these devices need edge capacity. Cloud is not gonna provide that because the economics doesn’t really work — they’re focusing on building hyperscale data centers, whereas the world and innovation is moving towards more distributed and decentralized computing. Who’s gonna serve this future? It can’t be the cloud — it has to be people. It’s very important to take back control of a foundational element of society back from the oligarchs, and that’s the mission for Akash.” — <a href="https://www.youtube.com/watch?v=Don1slbJlMQ&amp;t=1536s">00:25:36</a></p>
+</blockquote>
+<p class="context"><strong>Context:</strong> His closing argument on why decentralization matters long-term: IoT and edge growth make hyperscaler economics unworkable, so compute supply must come from people. Early statement of the compute-goes-local thesis.</p>
+</article>
+<hr>
+<article class="prediction" id="2019-08-06-free-hardware">
+<p class="dateline"><a class="permalink" href="/predictions/local-compute/2019-08-06-free-hardware/"><time datetime="2019-08-06">6 Aug 2019</time></a><a class="anchor" href="#2019-08-06-free-hardware" aria-label="Link to this prediction">§</a></p>
+<h3><a href="/predictions/local-compute/2019-08-06-free-hardware/">Home hardware made almost free by earning Akash rewards</a></h3>
+<p class="source"><em>Overcoming the Challenges of Distributed Networks with Greg Osuri (Techpost)</em><span class="share-wrap"><span class="sep">·</span><a class="share" href="/predictions/local-compute/2019-08-06-free-hardware/" data-copy>Copy link</a></span></p>
+<blockquote>
+<p>“This device sits in your house and becomes part of the Akash network, by which the rewards this particular node gains by hosting other workloads through Akash will subsidize the cost of the hardware… they can bring the cost of the hardware device to almost free — free in the sense the customer’s paying electricity. It’s that type of redistribution of incentives, but it’s only possible because of a decentralized cloud like Akash, and this is the true promise of blockchains.” — <a href="https://www.youtube.com/watch?v=WKvrKWdc9OA&amp;t=622s">00:10:22</a></p>
+</blockquote>
+<p class="context"><strong>Context:</strong> The Cactus economic model — household devices earning income by selling spare compute; Greg calls apps like this, with “nothing to do with blockchain,” the proof of the web3 mission.</p>
+</article>
+<hr>
+<article class="prediction" id="2023-09-28-home-supercomputer">
+<p class="dateline"><a class="permalink" href="/predictions/local-compute/2023-09-28-home-supercomputer/"><time datetime="2023-09-28">28 Sep 2023</time></a><a class="anchor" href="#2023-09-28-home-supercomputer" aria-label="Link to this prediction">§</a></p>
+<h3><a href="/predictions/local-compute/2023-09-28-home-supercomputer/">Every home will have a supercomputer</a></h3>
+<p class="source"><em>Building the Super Cloud of GPUs with Akash Founder Greg Osuri, Ep. 102 (Frictionless)</em><span class="share-wrap"><span class="sep">·</span><a class="share" href="/predictions/local-compute/2023-09-28-home-supercomputer/" data-copy>Copy link</a></span></p>
+<blockquote>
+<p>“I envision a world where every home will have a supercomputer… no doubt about it. As AI gets more penetration, we’re going to realize there are privacy implications for AI.” — <a href="https://www.youtube.com/watch?v=GVrfHDg30-M&amp;t=2596s">00:43:16</a></p>
+</blockquote>
+<p class="context"><strong>Context:</strong> Asked where Akash’s end state lands — regional GPU clusters or dispersed GPUs — Greg jumps past both to home supercomputers driven by AI privacy concerns.</p>
+</article>
     </div>
   </main>
   <footer class="site-footer">
     <p>© 2026 Greg Osuri · <a href="https://github.com/gosuri">GitHub</a> · <a href="https://x.com/gregosuri">X</a> · <a href="/feed.xml">RSS</a></p>
   </footer>
 </div>
+<script>
+document.addEventListener('click',e=>{const a=e.target.closest('a.share[data-copy]');if(!a)return;e.preventDefault();const url=new URL(a.getAttribute('href'),location.href).href;const done=()=>{a.textContent='Copied';a.setAttribute('data-copied','');setTimeout(()=>{a.textContent='Copy link';a.removeAttribute('data-copied')},1600)};(navigator.clipboard?navigator.clipboard.writeText(url):Promise.reject()).then(done,()=>{location.href=url})});
+</script>
 </body>
 </html>
