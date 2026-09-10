@@ -35,7 +35,7 @@
 | `_predictions/**/*.md` | 1,689 | `<permalink>card.png` — existing, unchanged output |
 | `predictions/*.md` with `theme_slug` | 10 | `_site/predictions/<slug>/card.png` |
 | `predictions/cloud-decentralization/*.md` (year pages, have `theme_slug` **and** `year`) | 9 | `_site/predictions/cloud-decentralization/<year>/card.png` |
-| `_posts/*.md` | 20 (12 with `link:`, 8 on-site) | `_site/<permalink>card.png` |
+| `_posts/*.md` | 20 (9 with `link:`, 11 on-site) | `_site/<permalink>card.png` |
 | static | 2 | `_site/assets/img/og/{site,predictions}.png` |
 
 The 9 year pages are **not** in the handoff's table but they carry `theme_slug`, so the head.html branch in the spec advertises `card.png` for them. They must be rendered or those pages ship a 404 `og:image`. They use the theme template with the year as the soft meta label.
