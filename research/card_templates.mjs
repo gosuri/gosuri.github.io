@@ -54,6 +54,28 @@ export function postCard({ title, date, host }, fonts) {
   }, fonts);
 }
 
+export function siteCard({ tagline }, fonts) {
+  return doc({
+    css: `.og h1{margin:0;font-size:132px;line-height:1;letter-spacing:-0.02em;font-weight:380}
+.og .tag{margin:28px 0 0;font-size:44px;line-height:1.25;font-style:italic;font-weight:340;color:var(--ink-soft);max-width:900px;text-wrap:pretty}`,
+    body: `<p class="meta">gregosuri.com</p>
+<div class="body"><h1>Greg Osuri</h1><p class="tag">${esc(tagline)}</p></div>
+<p class="foot"><span class="name">Founder, Akash Network</span><span>Writing · Predictions · Art</span></p>`,
+  }, fonts);
+}
+
+export function predictionsCard({ count, firstYear, lastYear, sources }, fonts) {
+  return doc({
+    css: `.og .num{margin:0;font-size:168px;line-height:.95;letter-spacing:-0.03em;font-weight:300;font-variant-numeric:tabular-nums lining-nums}
+.og .num small{font-size:56px;font-weight:340;font-style:italic;letter-spacing:-0.01em;margin-left:20px;color:var(--ink)}
+.og .sub{margin:26px 0 0;font-size:34px;line-height:1.3;font-weight:380;color:var(--ink-soft);max-width:980px;text-wrap:pretty}`,
+    body: `<p class="meta">Predictions<span class="soft">${esc(firstYear)}–${esc(lastYear)}</span></p>
+<div class="body"><p class="num">${esc(count)}<small>dated claims about compute</small></p>
+<p class="sub">From ${esc(sources)} talks and podcasts. Every one links to the exact moment it was said. Some were wrong.</p></div>
+<p class="foot"><span class="name">Greg Osuri</span><span>gregosuri.com/predictions</span></p>`,
+  }, fonts);
+}
+
 export function predictionCard(fm, fonts) {
   const quote = String(fm.quote).replace(/\n/g, ' ').trim();
   return doc({

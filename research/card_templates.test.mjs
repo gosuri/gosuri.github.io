@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { esc, doc, quoteSize, predictionCard, titleSize, postCard } from './card_templates.mjs';
+import { esc, doc, quoteSize, predictionCard, titleSize, postCard, siteCard, predictionsCard } from './card_templates.mjs';
 
 const FONTS = { roman: 'ROMAN64', italic: 'ITALIC64' };
 
@@ -60,4 +60,24 @@ test('postCard omits the middle footer slot for on-site essays', () => {
   const html = postCard({ title: 'Here\'s to the crazy ones', date: '2011-10-05', host: null }, FONTS);
   assert.doesNotMatch(html, /Published on/);
   assert.match(html, /font-size:84px/);
+});
+
+test('siteCard is the name over the tagline', () => {
+  const html = siteCard({ tagline: 'I build things for people that build things.' }, FONTS);
+  assert.match(html, /<p class="meta">gregosuri\.com<\/p>/);
+  assert.match(html, /<h1>Greg Osuri<\/h1>/);
+  assert.match(html, /I build things for people that build things\./);
+  assert.match(html, /font-size:132px/);
+  assert.match(html, /Founder, Akash Network/);
+  assert.match(html, /Writing · Predictions · Art/);
+});
+
+test('predictionsCard leads with the count and carries the year range in the meta row', () => {
+  const html = predictionsCard(
+    { count: '1,689', firstYear: '2015', lastYear: '2026', sources: '240' }, FONTS);
+  assert.match(html, /<span class="soft">2015–2026<\/span>/);
+  assert.match(html, /<p class="num">1,689<small>dated claims about compute<\/small><\/p>/);
+  assert.match(html, /From 240 talks and podcasts\./);
+  assert.match(html, /font-size:168px/);
+  assert.match(html, /gregosuri\.com\/predictions/);
 });

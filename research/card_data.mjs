@@ -36,3 +36,22 @@ export function externalHost(link) {
   if (!link) return null;
   return new URL(link).hostname.replace(/^www\./, '');
 }
+
+// "_1,689 statements from 240 videos and podcasts, 2015–2026._" — the source
+// count is prose in predictions/index.md, so read it rather than hardcode it.
+export function sourceCount(indexMd) {
+  const m = indexMd.match(/from\s+([\d,]+)\s+videos and podcasts/i);
+  return m ? m[1] : null;
+}
+
+export function sentence(s) {
+  const t = s.trim();
+  return /[.!?]$/.test(t) ? t : `${t}.`;
+}
+
+// site.description is a folded (`>`) block; the parser in parseFrontMatter only
+// handles `|`, and pulling in a YAML dependency for one field is not worth it.
+export function configDescription(configYml) {
+  const m = configYml.match(/^description: >[^\n]*\n((?:[ \t]+\S.*\n)+)/m);
+  return m ? m[1].trim().replace(/\s+/g, ' ') : null;
+}

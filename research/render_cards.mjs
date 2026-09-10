@@ -5,8 +5,8 @@
 import { readFile, readdir, mkdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { chromium } from 'playwright';
-import { parseFrontMatter, postPermalink, externalHost } from './card_data.mjs';
-import { predictionCard, postCard } from './card_templates.mjs';
+import { parseFrontMatter, postPermalink, externalHost, sourceCount, sentence, configDescription } from './card_data.mjs';
+import { predictionCard, postCard, siteCard, predictionsCard } from './card_templates.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const COLL = join(ROOT, '_predictions');
@@ -44,10 +44,12 @@ let files = await collect(COLL);
 const LIMIT = process.env.CARD_LIMIT ? Number(process.env.CARD_LIMIT) : null;
 if (LIMIT) files = files.slice(0, LIMIT);
 
+const all = [];
 let n = 0;
 for (const f of files) {
   const fm = parseFrontMatter(await readFile(f, 'utf8'));
   if (!fm || !fm.permalink) continue;
+  all.push(fm);
   await shoot(predictionCard(fm, fonts), join(SITE, fm.permalink, 'card.png'));
   if (++n % 100 === 0) console.log(`predictions ${n}/${files.length}`);
 }
@@ -68,5 +70,20 @@ for (const name of (await readdir(POSTS)).sort()) {
   posts++;
 }
 console.log(`posts: ${posts}`);
+
+if (LIMIT) console.warn('CARD_LIMIT set: static card counts are not real');
+const years = all.map(fm => String(fm.date).slice(0, 4)).sort();
+const indexMd = await readFile(join(ROOT, 'predictions/index.md'), 'utf8');
+const configYml = await readFile(join(ROOT, '_config.yml'), 'utf8');
+
+await shoot(siteCard({ tagline: sentence(configDescription(configYml)) }, fonts),
+  join(SITE, 'assets/img/og/site.png'));
+await shoot(predictionsCard({
+  count: all.length.toLocaleString('en-US'),
+  firstYear: years[0],
+  lastYear: years[years.length - 1],
+  sources: sourceCount(indexMd),
+}, fonts), join(SITE, 'assets/img/og/predictions.png'));
+console.log('static: 2');
 
 await browser.close();

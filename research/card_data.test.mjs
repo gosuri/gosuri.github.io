@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseFrontMatter, formatDate, postPermalink, externalHost } from './card_data.mjs';
+import { parseFrontMatter, formatDate, postPermalink, externalHost, sourceCount, sentence, configDescription } from './card_data.mjs';
 
 test('parseFrontMatter reads scalar keys and strips quotes', () => {
   const fm = parseFrontMatter('---\ntheme: ai-agents\ntitle: "Machines will schedule"\n---\nbody');
@@ -43,4 +43,21 @@ test('externalHost strips the scheme and a leading www.', () => {
   assert.equal(externalHost('https://akash.network/blog/the-economics/'), 'akash.network');
   assert.equal(externalHost('https://www.airpair.com/devops/devops-tools'), 'airpair.com');
   assert.equal(externalHost(undefined), null);
+});
+
+test('sourceCount reads the talk count out of the predictions standfirst', () => {
+  const md = '_1,689 statements from 240 videos and podcasts, 2015–2026._\n';
+  assert.equal(sourceCount(md), '240');
+  assert.equal(sourceCount('no standfirst here'), null);
+});
+
+test('sentence adds a full stop only when one is missing', () => {
+  assert.equal(sentence('I build things for people that build things'),
+    'I build things for people that build things.');
+  assert.equal(sentence('Already punctuated.'), 'Already punctuated.');
+});
+
+test('configDescription reads the folded block from _config.yml', () => {
+  const yml = 'title: Greg Osuri\ndescription: > # ignore newlines\n  I build things for people\n  that build things\nbaseurl: ""\n';
+  assert.equal(configDescription(yml), 'I build things for people that build things');
 });
