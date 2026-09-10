@@ -22,17 +22,36 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-  {%- if page.collection == "predictions" %}
-  {%- capture abs_url %}{{ page.url | prepend: site.baseurl | prepend: site.url }}{% endcapture -%}
-  {%- capture og_desc %}“{{ page.quote | normalize_whitespace | strip | truncate: 140 }}” — Greg Osuri, {{ page.date | date: '%-d %b %Y' }}{% endcapture -%}
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ page.title | escape }}">
-  <meta property="og:description" content="{{ og_desc | escape }}">
+  {%- comment -%}Every page advertises a 1200×630 card. Predictions, essays and
+  theme pages get one rendered per-URL at <permalink>card.png by
+  research/render_cards.mjs; everything else falls back to a static card. Adding
+  a branch here without a matching source in the renderer ships a 404 og:image.
+  {%- endcomment -%}
+  {%- capture abs_url %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endcapture -%}
+  {%- assign og_title = page.title -%}
+  {%- if page.collection == "predictions" -%}
+    {%- assign og_image = abs_url | append: "card.png" -%}
+    {%- capture og_desc %}“{{ page.quote | normalize_whitespace | strip | truncate: 140 }}” — Greg Osuri, {{ page.date | date: '%-d %b %Y' }}{% endcapture -%}
+  {%- elsif page.layout == "post" -%}
+    {%- assign og_image = abs_url | append: "card.png" -%}
+  {%- elsif page.theme_slug -%}
+    {%- assign og_image = abs_url | append: "card.png" -%}
+    {%- capture og_title %}{{ page.theme }}{% if page.year %} — {{ page.year }}{% endif %}{% endcapture -%}
+    {%- assign og_title = og_title | strip -%}
+  {%- elsif page.url == "/predictions/" -%}
+    {%- assign og_image = "/assets/img/og/predictions.png" | prepend: site.baseurl | prepend: site.url -%}
+  {%- else -%}
+    {%- assign og_image = "/assets/img/og/site.png" | prepend: site.baseurl | prepend: site.url -%}
+  {%- endif -%}
+  {%- if og_title == nil or og_title == "" -%}{%- assign og_title = site.title -%}{%- endif -%}
+  <meta property="og:type" content="{% if page.layout == 'post' or page.collection == 'predictions' %}article{% else %}website{% endif %}">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{{ og_title | escape }}">
+  <meta property="og:description" content="{{ og_desc | default: page_description | escape }}">
   <meta property="og:url" content="{{ abs_url }}">
-  <meta property="og:image" content="{{ abs_url }}card.png">
+  <meta property="og:image" content="{{ og_image }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@gregosuri">
-  {%- endif %}
 </head>
