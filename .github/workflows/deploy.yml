@@ -25,6 +25,11 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      # actions/jekyll-build-pages is a container action running as root, so it
+      # leaves _site owned by root. Every later step runs as `runner` and cannot
+      # write into it, which fails the card render with EACCES.
+      - name: Take ownership of the build output
+        run: sudo chown -R "$(id -u):$(id -g)" _site
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
