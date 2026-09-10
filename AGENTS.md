@@ -80,3 +80,16 @@ the build time so a deploy can't leave new markup paired with an old `main.css`.
 It is inlined directly in that partial with no build step and no dependency. Keep it
 that way: don't let a bundler, package, or second script creep in, and make sure the
 copy-link control still works (as a plain link) with JS disabled.
+
+## Social preview cards
+
+Each prediction page advertises `og:image` at `<permalink>card.png`. Those PNGs are
+rendered by `research/render_cards.mjs` (Playwright) **after** Jekyll builds, and are
+never committed — 1,689 cards is roughly 200 MB against a ~2 MB repo. CI renders them
+into `_site` between the Jekyll build and the Pages upload, cached by a hash of
+`PREDICTIONS.md` and the renderer.
+
+Consequence for local work: `jekyll build` and `jekyll server` wipe `_site`, so
+`card.png` 404s locally and `make server` will always show missing cards. That is
+expected, not a bug. To check them, run `make preview` — it builds, renders, then serves
+the finished `_site` without regenerating. `make cards` renders into an existing `_site`.
