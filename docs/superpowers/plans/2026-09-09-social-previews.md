@@ -942,7 +942,7 @@ Swap lines 25–37 of `_includes/head.html` (the `{%- if page.collection == "pre
   {%- else -%}
     {%- assign og_image = "/assets/img/og/site.png" | prepend: site.baseurl | prepend: site.url -%}
   {%- endif -%}
-  {%- if og_title == blank -%}{%- assign og_title = site.title -%}{%- endif -%}
+  {%- if og_title == nil or og_title == "" -%}{%- assign og_title = site.title -%}{%- endif -%}
   <meta property="og:type" content="{% if page.layout == 'post' or page.collection == 'predictions' %}article{% else %}website{% endif %}">
   <meta property="og:site_name" content="{{ site.title | escape }}">
   <meta property="og:title" content="{{ og_title | escape }}">
