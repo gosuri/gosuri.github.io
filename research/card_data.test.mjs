@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseFrontMatter, formatDate, postPermalink, externalHost, sourceCount, sentence, configDescription } from './card_data.mjs';
+import { parseFrontMatter, formatDate, postPermalink, externalHost, sourceCount, sentence, configDescription, themeStats } from './card_data.mjs';
 
 test('parseFrontMatter reads scalar keys and strips quotes', () => {
   const fm = parseFrontMatter('---\ntheme: ai-agents\ntitle: "Machines will schedule"\n---\nbody');
@@ -64,4 +64,21 @@ test('configDescription reads the folded block from _config.yml', () => {
 
 test('configDescription returns null when the description field is absent', () => {
   assert.equal(configDescription('title: Greg Osuri\nbaseurl: ""\n'), null);
+});
+
+test('themeStats counts, ranges, and takes the newest title', () => {
+  const items = [
+    { date: '2020-01-02', slug_id: '2020-01-02-b', title: 'Middle' },
+    { date: '2018-05-05', slug_id: '2018-05-05-a', title: 'Oldest' },
+    { date: '2026-07-29', slug_id: '2026-07-29-c', title: 'Newest' },
+  ];
+  assert.deepEqual(themeStats(items), {
+    count: 3, firstYear: '2018', lastYear: '2026', latestTitle: 'Newest',
+  });
+});
+
+test('themeStats survives an empty theme', () => {
+  assert.deepEqual(themeStats([]), {
+    count: 0, firstYear: '', lastYear: '', latestTitle: '',
+  });
 });

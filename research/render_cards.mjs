@@ -5,12 +5,13 @@
 import { readFile, readdir, mkdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { chromium } from 'playwright';
-import { parseFrontMatter, postPermalink, externalHost, sourceCount, sentence, configDescription } from './card_data.mjs';
-import { predictionCard, postCard, siteCard, predictionsCard } from './card_templates.mjs';
+import { parseFrontMatter, postPermalink, externalHost, sourceCount, sentence, configDescription, themeStats } from './card_data.mjs';
+import { predictionCard, postCard, siteCard, predictionsCard, themeCard } from './card_templates.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const COLL = join(ROOT, '_predictions');
 const POSTS = join(ROOT, '_posts');
+const PAGES = join(ROOT, 'predictions');
 const SITE = join(ROOT, '_site');
 
 const b64 = async p => (await readFile(p)).toString('base64');
@@ -95,5 +96,24 @@ await shoot(predictionsCard({
   sources,
 }, fonts), join(SITE, 'assets/img/og/predictions.png'));
 console.log('static: 2');
+
+// Theme pages (predictions/<slug>.md) and their year sub-pages
+// (predictions/<slug>/<year>.md) both carry theme_slug, and head.html
+// advertises card.png for anything that does — so both get rendered.
+let themes = 0;
+for (const f of await collect(PAGES)) {
+  const fm = parseFrontMatter(await readFile(f, 'utf8'));
+  if (!fm || !fm.theme_slug || !fm.permalink) continue;
+  const items = all.filter(p => p.theme === fm.theme_slug && (!fm.year || p.year === fm.year));
+  const stats = themeStats(items);
+  await shoot(themeCard({
+    title: fm.theme,
+    soft: fm.year || 'Theme',
+    url: fm.permalink,
+    ...stats,
+  }, fonts), join(SITE, fm.permalink, 'card.png'));
+  themes++;
+}
+console.log(`themes: ${themes}`);
 
 await browser.close();

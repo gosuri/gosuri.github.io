@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { esc, doc, quoteSize, predictionCard, titleSize, postCard, siteCard, predictionsCard } from './card_templates.mjs';
+import { esc, doc, quoteSize, predictionCard, titleSize, postCard, siteCard, predictionsCard, themeTitleSize, themeCard } from './card_templates.mjs';
 
 const FONTS = { roman: 'ROMAN64', italic: 'ITALIC64' };
 
@@ -80,4 +80,39 @@ test('predictionsCard leads with the count and carries the year range in the met
   assert.match(html, /From 240 talks and podcasts\./);
   assert.match(html, /font-size:168px/);
   assert.match(html, /gregosuri\.com\/predictions/);
+});
+
+test('themeTitleSize drops to 88px past 24 characters', () => {
+  assert.equal(themeTitleSize('Cloud Decentralization'), 104); // 22 chars
+  assert.equal(themeTitleSize('x'.repeat(24)), 104);
+  assert.equal(themeTitleSize('x'.repeat(25)), 88);
+});
+
+test('themeCard carries the stat line, the latest title, and a slash-free footer URL', () => {
+  const html = themeCard({
+    title: 'Local Compute',
+    soft: 'Theme',
+    count: 159,
+    firstYear: '2018',
+    lastYear: '2026',
+    latestTitle: 'Homes are the least understood compute resource',
+    url: '/predictions/local-compute/',
+  }, FONTS);
+  assert.match(html, /<span class="soft">Theme<\/span>/);
+  assert.match(html, /<h1>Local Compute<\/h1>/);
+  assert.match(html, /<p class="stat">159 statements · 2018–2026<\/p>/);
+  assert.match(html, /<b>Latest<\/b>Homes are the least understood compute resource/);
+  assert.match(html, /<span>gregosuri\.com\/predictions\/local-compute<\/span>/);
+  assert.match(html, /font-size:104px/);
+});
+
+test('themeCard labels a year sub-page with its year', () => {
+  const html = themeCard({
+    title: 'Cloud Decentralization', soft: '2018', count: 31,
+    firstYear: '2018', lastYear: '2018', latestTitle: 'Something',
+    url: '/predictions/cloud-decentralization/2018/',
+  }, FONTS);
+  assert.match(html, /<span class="soft">2018<\/span>/);
+  assert.match(html, /31 statements · 2018–2018/);
+  assert.match(html, /gregosuri\.com\/predictions\/cloud-decentralization\/2018/);
 });

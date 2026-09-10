@@ -55,3 +55,17 @@ export function configDescription(configYml) {
   const m = configYml.match(/^description: >[^\n]*\n((?:[ \t]+\S.*\n)+)/m);
   return m ? m[1].trim().replace(/\s+/g, ' ') : null;
 }
+
+// Same numbers the theme standfirst quotes: "159 statements · 2018–2026", and
+// the newest entry's title. Theme pages sort by slug_id, which is date-first.
+export function themeStats(items) {
+  if (!items.length) return { count: 0, firstYear: '', lastYear: '', latestTitle: '' };
+  const years = items.map(i => String(i.date).slice(0, 4)).sort();
+  const newest = [...items].sort((a, b) => (a.slug_id < b.slug_id ? -1 : a.slug_id > b.slug_id ? 1 : 0)).at(-1);
+  return {
+    count: items.length,
+    firstYear: years[0],
+    lastYear: years.at(-1),
+    latestTitle: newest.title,
+  };
+}

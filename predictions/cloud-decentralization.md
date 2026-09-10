@@ -2,6 +2,7 @@
 layout: "predictions"
 title: "Cloud Decentralization — Predictions"
 theme: "Cloud Decentralization"
+theme_slug: "cloud-decentralization"
 permalink: "/predictions/cloud-decentralization/"
 ---
 

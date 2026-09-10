@@ -76,6 +76,26 @@ export function predictionsCard({ count, firstYear, lastYear, sources }, fonts) 
   }, fonts);
 }
 
+// "Cloud Decentralization" (22 chars) is the longest theme today and fits on one
+// line at 104px in the 1040px body. Anything longer steps down.
+export function themeTitleSize(t) {
+  return t.length <= 24 ? 104 : 88;
+}
+
+export function themeCard({ title, soft, count, firstYear, lastYear, latestTitle, url }, fonts) {
+  return doc({
+    css: `.og h1{margin:0;font-size:${themeTitleSize(title)}px;line-height:1;letter-spacing:-0.02em;font-weight:380}
+.og .stat{margin:26px 0 0;font-size:34px;line-height:1.3;color:var(--ink-soft);font-variant-numeric:tabular-nums}
+.og .latest{margin:34px 0 0;font-size:30px;line-height:1.35;font-style:italic;font-weight:340;max-width:1000px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;text-wrap:pretty}
+.og .latest b{font-style:normal;font-weight:520;color:var(--accent);letter-spacing:.06em;text-transform:uppercase;font-size:22px;margin-right:12px;vertical-align:2px}`,
+    body: `<p class="meta">Predictions<span class="soft">${esc(soft)}</span></p>
+<div class="body"><h1>${esc(title)}</h1>
+<p class="stat">${esc(count)} statements · ${esc(firstYear)}–${esc(lastYear)}</p>
+<p class="latest"><b>Latest</b>${esc(latestTitle)}</p></div>
+<p class="foot"><span class="name">Greg Osuri</span><span>gregosuri.com${esc(url).replace(/\/$/, '')}</span></p>`,
+  }, fonts);
+}
+
 export function predictionCard(fm, fonts) {
   const quote = String(fm.quote).replace(/\n/g, ' ').trim();
   return doc({
