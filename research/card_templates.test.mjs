@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { esc, doc, quoteSize, predictionCard } from './card_templates.mjs';
+import { esc, doc, quoteSize, predictionCard, titleSize, postCard } from './card_templates.mjs';
 
 const FONTS = { roman: 'ROMAN64', italic: 'ITALIC64' };
 
@@ -35,4 +35,29 @@ test('predictionCard puts date and theme in the meta row and the quote in a bloc
   assert.match(html, /they will schedule other machines\./);
   assert.doesNotMatch(html, /\n\s*they will/); // newlines collapsed to spaces
   assert.match(html, /Machines will schedule other machines/);
+});
+
+test('titleSize steps 84 / 68 / 56 at 40 and 75 characters', () => {
+  assert.equal(titleSize('x'.repeat(40)), 84);
+  assert.equal(titleSize('x'.repeat(41)), 68);
+  assert.equal(titleSize('x'.repeat(75)), 68);
+  assert.equal(titleSize('x'.repeat(76)), 56);
+});
+
+test('postCard credits the external host and dates the meta row', () => {
+  const html = postCard({
+    title: 'Bootstrapping a Free Market by Borrowing from the Future',
+    date: '2019-10-07',
+    host: 'akash.network',
+  }, FONTS);
+  assert.match(html, /<time datetime="2019-10-07">7 Oct 2019<\/time>/);
+  assert.match(html, /<span class="soft">Writing<\/span>/);
+  assert.match(html, /Published on akash\.network/);
+  assert.match(html, /font-size:68px/);
+});
+
+test('postCard omits the middle footer slot for on-site essays', () => {
+  const html = postCard({ title: 'Here\'s to the crazy ones', date: '2011-10-05', host: null }, FONTS);
+  assert.doesNotMatch(html, /Published on/);
+  assert.match(html, /font-size:84px/);
 });

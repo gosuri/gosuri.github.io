@@ -5,11 +5,12 @@
 import { readFile, readdir, mkdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { chromium } from 'playwright';
-import { parseFrontMatter } from './card_data.mjs';
-import { predictionCard } from './card_templates.mjs';
+import { parseFrontMatter, postPermalink, externalHost } from './card_data.mjs';
+import { predictionCard, postCard } from './card_templates.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname;
 const COLL = join(ROOT, '_predictions');
+const POSTS = join(ROOT, '_posts');
 const SITE = join(ROOT, '_site');
 
 const b64 = async p => (await readFile(p)).toString('base64');
@@ -51,5 +52,21 @@ for (const f of files) {
   if (++n % 100 === 0) console.log(`predictions ${n}/${files.length}`);
 }
 console.log(`predictions: ${n}`);
+
+let posts = 0;
+for (const name of (await readdir(POSTS)).sort()) {
+  if (!name.endsWith('.md') && !name.endsWith('.markdown')) continue;
+  const fm = parseFrontMatter(await readFile(join(POSTS, name), 'utf8'));
+  if (!fm) continue;
+  const url = postPermalink(name, fm);
+  if (!url) { console.warn(`skipped post (cannot derive permalink): ${name}`); continue; }
+  await shoot(postCard({
+    title: fm.title.trim(),
+    date: name.slice(0, 10),
+    host: externalHost(fm.link),
+  }, fonts), join(SITE, url, 'card.png'));
+  posts++;
+}
+console.log(`posts: ${posts}`);
 
 await browser.close();

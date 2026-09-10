@@ -37,6 +37,23 @@ export function quoteSize(q) {
   return 38;
 }
 
+export function titleSize(t) {
+  if (t.length <= 40) return 84;
+  if (t.length <= 75) return 68;
+  return 56;
+}
+
+export function postCard({ title, date, host }, fonts) {
+  const middle = host ? `<span class="title">Published on ${esc(host)}</span>` : '';
+  return doc({
+    css: `.og h1{margin:0;font-size:${titleSize(title)}px;line-height:1.12;letter-spacing:-0.015em;font-weight:400;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;text-wrap:balance}
+.og .foot .title{font-style:italic}`,
+    body: `<p class="meta"><time datetime="${esc(date)}">${esc(formatDate(date))}</time><span class="soft">Writing</span></p>
+<div class="body"><h1>${esc(title)}</h1></div>
+<p class="foot"><span class="name">Greg Osuri</span>${middle}<span>gregosuri.com</span></p>`,
+  }, fonts);
+}
+
 export function predictionCard(fm, fonts) {
   const quote = String(fm.quote).replace(/\n/g, ' ').trim();
   return doc({
