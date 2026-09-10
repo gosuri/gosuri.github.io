@@ -25,6 +25,25 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Cache rendered cards
+        id: cards
+        uses: actions/cache@v4
+        with:
+          path: .card-cache
+          key: cards-${{ hashFiles('PREDICTIONS.md', 'research/render_cards.mjs') }}
+      - name: Restore cached cards
+        if: steps.cards.outputs.cache-hit == 'true'
+        run: cp -R .card-cache/. _site/
+      - name: Render social cards
+        if: steps.cards.outputs.cache-hit != 'true'
+        run: |
+          cd research && npm install && npx playwright install --with-deps chromium
+          cd .. && node research/render_cards.mjs
+          mkdir -p .card-cache
+          cd _site && find . -name card.png -exec cp --parents {} ../.card-cache/ \;
       - uses: actions/upload-pages-artifact@v3
 
   deploy:

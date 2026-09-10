@@ -12,6 +12,9 @@ transcripts/
 # Python bytecode from the research pipeline
 __pycache__/
 
+# Node deps for the card renderer (installed fresh in CI)
+research/node_modules/
+
 # Pipeline run logs. Whisper runs with verbose output, so these embed
 # verbatim third-party transcript text — same reason transcripts/ is ignored.
 catalog/*.log
