@@ -9,7 +9,7 @@ server:
 # Unit tests for the card renderer's pure modules. Node 20's built-in runner,
 # no dependencies — the Playwright driver itself is covered by `make preview`.
 test:
-	node --test research/card_data.test.mjs research/card_templates.test.mjs
+	node --test research/card_data.test.mjs research/card_templates.test.mjs research/theme_card_integration.test.mjs
 
 # Social preview cards are rendered by a separate Node step, not by Jekyll, and
 # they are never committed (1,689 cards, ~200 MB). Any `jekyll build` or

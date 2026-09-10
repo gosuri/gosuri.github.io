@@ -38,12 +38,12 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .card-cache
-          key: cards-${{ hashFiles('PREDICTIONS.md', '_predictions/**', '_posts/**', 'predictions/**', '_config.yml', 'research/render_cards.mjs', 'research/card_data.mjs', 'research/card_templates.mjs', 'assets/fonts/**') }}
+          key: cards-${{ hashFiles('_predictions/**', '_posts/**', 'predictions/**', '_config.yml', 'research/render_cards.mjs', 'research/card_data.mjs', 'research/card_templates.mjs', 'assets/fonts/**', 'research/package.json', 'research/package-lock.json') }}
       - name: Restore cached cards
         if: steps.cards.outputs.cache-hit == 'true'
         run: cp -R .card-cache/. _site/
       - name: Test the card modules
-        run: node --test research/card_data.test.mjs research/card_templates.test.mjs
+        run: make test
       - name: Render social cards
         if: steps.cards.outputs.cache-hit != 'true'
         run: |

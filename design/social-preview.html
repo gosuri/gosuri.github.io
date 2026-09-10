@@ -10,24 +10,24 @@
 :root{--paper:#faf8f4;--ink:#211f1a;--ink-soft:#6e6759;--accent:#9c4221;--rule:#e4ddd0;--font-serif:"Newsreader","Iowan Old Style",Georgia,serif}
 *{box-sizing:border-box}
 html,body{margin:0;background:#e9e4da}
-body{display:grid;place-items:center;min-height:100vh;padding:0}
-/* ---- 1200×630 card ----
-   Fixed pixel type: this renders to PNG, never reflows. Quote clamps at 5 lines;
-   the build should pick font-size 52/44/38 by quote length (short/medium/long). */
-.og{width:1200px;height:630px;background:var(--paper);color:var(--ink);font-family:var(--font-serif);padding:72px 80px 64px;display:grid;grid-template-rows:auto 1fr auto;position:relative;overflow:hidden}
+body{display:grid;place-items:center;min-height:100vh}
+a{color:var(--accent)}a:hover{color:var(--ink)}
+/* Shared 1200×630 shell — renders to PNG, never reflows. Same bones as the prediction card: accent rule, uppercase meta, big Newsreader, rule + footer. */
+.og{width:1200px;height:630px;background:var(--paper);color:var(--ink);font-family:var(--font-serif);padding:72px 80px 64px;display:grid;grid-template-rows:auto 1fr auto;position:relative;overflow:hidden;font-feature-settings:"kern"}
 .og::before{content:"";position:absolute;left:0;top:0;right:0;height:6px;background:var(--accent)}
-.og .meta{display:flex;align-items:baseline;gap:20px;font-size:24px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:520;font-variant-numeric:tabular-nums}
-.og .meta .theme{color:var(--ink-soft);font-weight:450}
-.og blockquote{margin:0;align-self:center;font-style:italic;font-weight:340;font-size:44px;line-height:1.3;letter-spacing:-0.008em;text-indent:-0.42ch;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:5;overflow:hidden;text-wrap:pretty}
-.og .foot{display:flex;justify-content:space-between;align-items:baseline;border-top:1px solid var(--rule);padding-top:22px;font-size:24px;color:var(--ink-soft)}
+.og .meta{margin:0;display:flex;align-items:baseline;gap:20px;font-size:24px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:520;font-variant-numeric:tabular-nums}
+.og .meta .soft{color:var(--ink-soft);font-weight:450}
+.og .foot{margin:0;display:flex;justify-content:space-between;align-items:baseline;border-top:1px solid var(--rule);padding-top:22px;font-size:24px;color:var(--ink-soft)}
 .og .foot .name{color:var(--ink);font-weight:520}
+.og .body{align-self:center;margin:0}
+.og blockquote{font-style:italic;font-weight:340;font-size:44px;line-height:1.3;letter-spacing:-0.008em;text-indent:-0.42ch;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:5;overflow:hidden}
 .og .foot .title{font-style:italic;max-width:760px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 </style>
 </head>
 <body>
 <div class="og">
-<p class="meta"><time datetime="2023-09-28">28 Sep 2023</time><span class="theme">Local Compute</span></p>
-<blockquote>“I envision a world where every home will have a supercomputer… no doubt about it. As AI gets more penetration, we’re going to realize there are privacy implications for AI.”</blockquote>
+<p class="meta"><time datetime="2023-09-28">28 Sep 2023</time><span class="soft">Local Compute</span></p>
+<blockquote class="body">“I envision a world where every home will have a supercomputer… no doubt about it. As AI gets more penetration, we’re going to realize there are privacy implications for AI.”</blockquote>
 <p class="foot"><span class="name">Greg Osuri</span><span class="title">Every home will have a supercomputer</span><span>gregosuri.com</span></p>
 </div>
 </body>

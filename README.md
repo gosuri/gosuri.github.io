@@ -105,8 +105,10 @@ runner.
 
 The cards are **never committed** — 1,689 of them alone is roughly 200 MB against a ~2 MB
 repo. CI renders them into `_site` between the Jekyll build and the Pages upload, cached
-against a hash of every input a card's content depends on, so an ordinary content change
-re-renders only what moved. A full render takes about three minutes.
+under one key hashed from every input a card's content depends on. The cache is
+all-or-nothing: any change to a hashed input — a prediction, a post, a template, a font —
+invalidates the single key and triggers a full re-render of all 1,730 cards, about three
+minutes.
 
 The consequence locally is that any `jekyll build` or `jekyll server` wipes `_site` and
 takes the cards with it, so `make server` will always 404 on `card.png`. That is expected,
