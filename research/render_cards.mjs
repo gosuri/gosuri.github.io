@@ -73,16 +73,26 @@ console.log(`posts: ${posts}`);
 
 if (LIMIT) console.warn('CARD_LIMIT set: static card counts are not real');
 const years = all.map(fm => String(fm.date).slice(0, 4)).sort();
+if (years.length === 0) throw new Error('render_cards.mjs: no predictions parsed — cannot derive firstYear/lastYear for predictions.png');
+const firstYear = years[0];
+const lastYear = years[years.length - 1];
+
 const indexMd = await readFile(join(ROOT, 'predictions/index.md'), 'utf8');
 const configYml = await readFile(join(ROOT, '_config.yml'), 'utf8');
 
-await shoot(siteCard({ tagline: sentence(configDescription(configYml)) }, fonts),
+const sources = sourceCount(indexMd);
+if (!sources) throw new Error('render_cards.mjs: sourceCount() found no match in predictions/index.md — did the standfirst wording change?');
+
+const tagline = configDescription(configYml);
+if (!tagline) throw new Error('render_cards.mjs: configDescription() found no match in _config.yml — did the description field change shape?');
+
+await shoot(siteCard({ tagline: sentence(tagline) }, fonts),
   join(SITE, 'assets/img/og/site.png'));
 await shoot(predictionsCard({
   count: all.length.toLocaleString('en-US'),
-  firstYear: years[0],
-  lastYear: years[years.length - 1],
-  sources: sourceCount(indexMd),
+  firstYear,
+  lastYear,
+  sources,
 }, fonts), join(SITE, 'assets/img/og/predictions.png'));
 console.log('static: 2');
 

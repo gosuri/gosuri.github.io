@@ -61,3 +61,7 @@ test('configDescription reads the folded block from _config.yml', () => {
   const yml = 'title: Greg Osuri\ndescription: > # ignore newlines\n  I build things for people\n  that build things\nbaseurl: ""\n';
   assert.equal(configDescription(yml), 'I build things for people that build things');
 });
+
+test('configDescription returns null when the description field is absent', () => {
+  assert.equal(configDescription('title: Greg Osuri\nbaseurl: ""\n'), null);
+});
