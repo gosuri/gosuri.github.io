@@ -11,3 +11,8 @@ transcripts/
 
 # Python bytecode from the research pipeline
 __pycache__/
+
+# Pipeline run logs. Whisper runs with verbose output, so these embed
+# verbatim third-party transcript text — same reason transcripts/ is ignored.
+catalog/*.log
+catalog/**/*.log
