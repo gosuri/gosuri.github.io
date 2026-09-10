@@ -73,3 +73,10 @@ RSS self-link point somewhere unreachable.
 
 Cloudflare caches aggressively. `_includes/head.html` fingerprints the stylesheet URL with
 the build time so a deploy can't leave new markup paired with an old `main.css`.
+
+## JavaScript
+
+`_includes/footer.html` carries the site's only JavaScript — the copy-link handler.
+It is inlined directly in that partial with no build step and no dependency. Keep it
+that way: don't let a bundler, package, or second script creep in, and make sure the
+copy-link control still works (as a plain link) with JS disabled.

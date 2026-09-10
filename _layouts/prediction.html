@@ -6,9 +6,9 @@ layout: default
   <p class="dateline"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%-d %b %Y' }}</time></p>
   <h1>{{ page.title | escape }}</h1>
   <p class="source"><em>{{ page.source | escape }}</em></p>
-  <blockquote><p>“{{ page.quote | strip | escape }}” — <a href="{{ page.source_url | escape }}">{{ page.timestamp }}</a></p></blockquote>
+  <blockquote><p>“{{ page.quote | strip | strip_html | smartify }}” — <a href="{{ page.source_url | escape }}">{{ page.timestamp | escape }}</a></p></blockquote>
   {%- if page.context and page.context != "" %}
-  <p class="context"><strong>Context:</strong> {{ page.context | strip | escape }}</p>
+  <p class="context"><strong>Context:</strong> {{ page.context | strip | strip_html | markdownify | strip | remove: '<p>' | remove: '</p>' | strip }}</p>
   {%- endif %}
   {%- capture abs_url %}{{ page.url | prepend: site.baseurl | prepend: site.url }}{% endcapture -%}
   {%- capture share_text %}“{{ page.quote | strip | truncate: 200 }}” — @gregosuri, {{ page.date | date: '%-d %b %Y' }}{% endcapture -%}

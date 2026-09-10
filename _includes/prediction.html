@@ -6,8 +6,8 @@
   </p>
   <h3><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title | escape }}</a></h3>
   <p class="source"><em>{{ item.source | escape }}</em><span class="share-wrap"><span class="sep">·</span><a class="share" href="{{ item.url | prepend: site.baseurl }}" data-copy>Copy link</a></span></p>
-  <blockquote><p>“{{ item.quote | strip | escape }}” — <a href="{{ item.source_url | escape }}">{{ item.timestamp }}</a></p></blockquote>
+  <blockquote><p>“{{ item.quote | strip | strip_html | smartify }}” — <a href="{{ item.source_url | escape }}">{{ item.timestamp | escape }}</a></p></blockquote>
   {%- if item.context and item.context != "" %}
-  <p class="context"><strong>Context:</strong> {{ item.context | strip | escape }}</p>
+  <p class="context"><strong>Context:</strong> {{ item.context | strip | strip_html | markdownify | strip | remove: '<p>' | remove: '</p>' | strip }}</p>
   {%- endif %}
 </article>
