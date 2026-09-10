@@ -38,7 +38,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .card-cache
-          key: cards-${{ hashFiles('PREDICTIONS.md', '_predictions/**', '_posts/**', 'predictions/**', '_config.yml', 'research/render_cards.mjs', 'research/card_data.mjs', 'research/card_templates.mjs') }}
+          key: cards-${{ hashFiles('PREDICTIONS.md', '_predictions/**', '_posts/**', 'predictions/**', '_config.yml', 'research/render_cards.mjs', 'research/card_data.mjs', 'research/card_templates.mjs', 'assets/fonts/**') }}
       - name: Restore cached cards
         if: steps.cards.outputs.cache-hit == 'true'
         run: cp -R .card-cache/. _site/
