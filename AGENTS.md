@@ -83,11 +83,15 @@ copy-link control still works (as a plain link) with JS disabled.
 
 ## Social preview cards
 
-Each prediction page advertises `og:image` at `<permalink>card.png`. Those PNGs are
-rendered by `research/render_cards.mjs` (Playwright) **after** Jekyll builds, and are
-never committed — 1,689 cards is roughly 200 MB against a ~2 MB repo. CI renders them
-into `_site` between the Jekyll build and the Pages upload, cached by a hash of
-`PREDICTIONS.md` and the renderer.
+Every page type advertises an `og:image`: each prediction, essay, theme page, and theme
+year sub-page gets its own PNG at `<permalink>card.png`; the predictions index and the
+site default are static, at `assets/img/og/predictions.png` and `assets/img/og/site.png`.
+All of them are rendered by `research/render_cards.mjs` (Playwright) **after** Jekyll
+builds, and are never committed — 1,689 prediction cards alone is roughly 200 MB against
+a ~2 MB repo. CI renders them into `_site` between the Jekyll build and the Pages upload,
+cached by a hash of everything a card's content depends on. The pure parsing and markup
+logic lives in `research/card_data.mjs` and `research/card_templates.mjs`; `make test`
+runs Node's built-in test runner against both, no other dependency required.
 
 Consequence for local work: `jekyll build` and `jekyll server` wipe `_site`, so
 `card.png` 404s locally and `make server` will always show missing cards. That is

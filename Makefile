@@ -3,14 +3,20 @@ AKASH_DSEQ = 1262914
 IMG = gosuri/blog:v2
 
 server:
-	bundle exec jekyll server
+	@printf 'Listening on:\n  http://localhost:4000\n  http://%s:4000  (LAN)\n' "$$(ipconfig getifaddr en0 || ipconfig getifaddr en1)"
+	bundle exec jekyll server --host 0.0.0.0
+
+# Unit tests for the card renderer's pure modules. Node 20's built-in runner,
+# no dependencies — the Playwright driver itself is covered by `make preview`.
+test:
+	node --test research/card_data.test.mjs research/card_templates.test.mjs
 
 # Social preview cards are rendered by a separate Node step, not by Jekyll, and
 # they are never committed (1,689 cards, ~200 MB). Any `jekyll build` or
 # `jekyll server` wipes _site and takes them with it, so `make server` shows
 # card.png as a 404. CI renders them after the Jekyll build; use `make preview`
 # to reproduce that locally.
-cards:
+cards: test
 	cd research && npm install --silent && npx playwright install chromium
 	node research/render_cards.mjs
 
@@ -19,7 +25,8 @@ cards:
 preview:
 	bundle exec jekyll build
 	node research/render_cards.mjs
-	bundle exec jekyll server --skip-initial-build --no-watch
+	@printf 'Listening on:\n  http://localhost:4000\n  http://%s:4000  (LAN)\n' "$$(ipconfig getifaddr en0 || ipconfig getifaddr en1)"
+	bundle exec jekyll server --host 0.0.0.0 --skip-initial-build --no-watch
 
 installdeps:
 	gem install bundler
@@ -42,4 +49,4 @@ create:
 remove: 
 	akash deployment close $(shell cat .akash | head -1) -k $(KEY)
 
-.PHONY: server cards preview installdeps deploy img img-run img-push create remove
+.PHONY: server test cards preview installdeps deploy img img-run img-push create remove

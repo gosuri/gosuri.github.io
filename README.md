@@ -95,16 +95,23 @@ marks those at load time by comparing hostname.
 
 ## Social preview cards
 
-Each prediction advertises `og:image` at `<permalink>card.png`, rendered 1200×630 by
-`research/render_cards.mjs` with Playwright.
+Every page advertises an `og:image`, rendered 1200×630 by `research/render_cards.mjs`
+with Playwright: each prediction, essay, theme page, and theme year sub-page gets one at
+`<permalink>card.png`; the predictions index and the site default live at
+`assets/img/og/predictions.png` and `assets/img/og/site.png`. The pure logic — parsing
+front matter and laying out each card's markup — lives in `research/card_data.mjs` and
+`research/card_templates.mjs`, and `make test` covers both with Node's built-in test
+runner.
 
-The cards are **never committed** — 1,689 of them is roughly 200 MB against a ~2 MB repo.
-CI renders them into `_site` between the Jekyll build and the Pages upload, cached against
-a hash of `PREDICTIONS.md` and the renderer, so an ordinary content change re-renders only
-what moved. A full render takes about three minutes.
+The cards are **never committed** — 1,689 of them alone is roughly 200 MB against a ~2 MB
+repo. CI renders them into `_site` between the Jekyll build and the Pages upload, cached
+against a hash of every input a card's content depends on, so an ordinary content change
+re-renders only what moved. A full render takes about three minutes.
 
 The consequence locally is that any `jekyll build` or `jekyll server` wipes `_site` and
-takes the cards with it. Use `make preview`.
+takes the cards with it, so `make server` will always 404 on `card.png`. That is expected,
+not a bug. Use `make preview` to build, render, and serve the finished `_site` without
+regenerating; `make cards` renders into an existing `_site`.
 
 ## Deploying
 
