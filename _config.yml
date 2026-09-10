@@ -40,5 +40,13 @@ collections:
   predictions:
     output: true
 
+# Local-only. GitHub Pages builds with Ruby Sass 3.7.4 (jekyll-sass-converter
+# 1.5.2), which has no @use/@forward and ignores this block in safe mode. The
+# Gemfile's Jekyll 4 uses Dart Sass, which warns that @import is deprecated —
+# noise we cannot act on without breaking the real builder.
+sass:
+  silence_deprecations:
+    - import
+
 karmadown:
   enable_coreray: true
