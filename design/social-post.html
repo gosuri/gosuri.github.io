@@ -1,0 +1,36 @@
+<!-- @dsCard group="Social previews" viewport="1200x630" name="Social preview · Post" subtitle="1200×630 og:image per essay; title clamps at 3 lines (font-size 84/68/56 by length)" -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Social preview · Post — gregosuri.com design</title>
+<style>
+@font-face{font-family:"Newsreader";font-style:normal;font-weight:200 800;src:url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2")}
+@font-face{font-family:"Newsreader";font-style:italic;font-weight:200 800;src:url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2")}
+:root{--paper:#faf8f4;--ink:#211f1a;--ink-soft:#6e6759;--accent:#9c4221;--rule:#e4ddd0;--font-serif:"Newsreader","Iowan Old Style",Georgia,serif}
+*{box-sizing:border-box}
+html,body{margin:0;background:#e9e4da}
+body{display:grid;place-items:center;min-height:100vh}
+a{color:var(--accent)}a:hover{color:var(--ink)}
+/* Shared 1200×630 shell — renders to PNG, never reflows. Same bones as the prediction card: accent rule, uppercase meta, big Newsreader, rule + footer. */
+.og{width:1200px;height:630px;background:var(--paper);color:var(--ink);font-family:var(--font-serif);padding:72px 80px 64px;display:grid;grid-template-rows:auto 1fr auto;position:relative;overflow:hidden;font-feature-settings:"kern"}
+.og::before{content:"";position:absolute;left:0;top:0;right:0;height:6px;background:var(--accent)}
+.og .meta{margin:0;display:flex;align-items:baseline;gap:20px;font-size:24px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:520;font-variant-numeric:tabular-nums}
+.og .meta .soft{color:var(--ink-soft);font-weight:450}
+.og .foot{margin:0;display:flex;justify-content:space-between;align-items:baseline;border-top:1px solid var(--rule);padding-top:22px;font-size:24px;color:var(--ink-soft)}
+.og .foot .name{color:var(--ink);font-weight:520}
+.og .body{align-self:center;margin:0}
+.og h1{margin:0;font-size:68px;line-height:1.12;letter-spacing:-0.015em;font-weight:400;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;text-wrap:balance}
+.og .foot .title{font-style:italic}
+</style>
+</head>
+<body>
+<div class="og">
+<p class="meta"><time datetime="2019-10-07">7 Oct 2019</time><span class="soft">Writing</span></p>
+<div class="body">
+<h1>Bootstrapping a Free Market by Borrowing from the Future</h1>
+</div>
+<p class="foot"><span class="name">Greg Osuri</span><span class="title">Published on akash.network</span><span>gregosuri.com</span></p>
+</div>
+</body>
+</html>

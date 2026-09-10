@@ -1,0 +1,40 @@
+<!-- @dsCard group="Social previews" viewport="1200x630" name="Social preview · Theme" subtitle="1200×630 og:image per theme page, e.g. /predictions/local-compute/" -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Social preview · Theme — gregosuri.com design</title>
+<style>
+@font-face{font-family:"Newsreader";font-style:normal;font-weight:200 800;src:url(../assets/fonts/newsreader-latin-vf.woff2) format("woff2")}
+@font-face{font-family:"Newsreader";font-style:italic;font-weight:200 800;src:url(../assets/fonts/newsreader-latin-vf-italic.woff2) format("woff2")}
+:root{--paper:#faf8f4;--ink:#211f1a;--ink-soft:#6e6759;--accent:#9c4221;--rule:#e4ddd0;--font-serif:"Newsreader","Iowan Old Style",Georgia,serif}
+*{box-sizing:border-box}
+html,body{margin:0;background:#e9e4da}
+body{display:grid;place-items:center;min-height:100vh}
+a{color:var(--accent)}a:hover{color:var(--ink)}
+/* Shared 1200×630 shell — renders to PNG, never reflows. Same bones as the prediction card: accent rule, uppercase meta, big Newsreader, rule + footer. */
+.og{width:1200px;height:630px;background:var(--paper);color:var(--ink);font-family:var(--font-serif);padding:72px 80px 64px;display:grid;grid-template-rows:auto 1fr auto;position:relative;overflow:hidden;font-feature-settings:"kern"}
+.og::before{content:"";position:absolute;left:0;top:0;right:0;height:6px;background:var(--accent)}
+.og .meta{margin:0;display:flex;align-items:baseline;gap:20px;font-size:24px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:520;font-variant-numeric:tabular-nums}
+.og .meta .soft{color:var(--ink-soft);font-weight:450}
+.og .foot{margin:0;display:flex;justify-content:space-between;align-items:baseline;border-top:1px solid var(--rule);padding-top:22px;font-size:24px;color:var(--ink-soft)}
+.og .foot .name{color:var(--ink);font-weight:520}
+.og .body{align-self:center;margin:0}
+.og h1{margin:0;font-size:104px;line-height:1;letter-spacing:-0.02em;font-weight:380}
+.og .stat{margin:26px 0 0;font-size:34px;line-height:1.3;color:var(--ink-soft);font-variant-numeric:tabular-nums}
+.og .latest{margin:34px 0 0;font-size:30px;line-height:1.35;font-style:italic;font-weight:340;max-width:1000px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;text-wrap:pretty}
+.og .latest b{font-style:normal;font-weight:520;color:var(--accent);letter-spacing:.06em;text-transform:uppercase;font-size:22px;margin-right:12px;vertical-align:2px}
+</style>
+</head>
+<body>
+<div class="og">
+<p class="meta">Predictions<span class="soft">Theme</span></p>
+<div class="body">
+<h1>Local Compute</h1>
+<p class="stat">159 statements · 2018–2026</p>
+<p class="latest"><b>Latest</b>Homes are the least understood compute resource; latency is “a symptom, not a cause”</p>
+</div>
+<p class="foot"><span class="name">Greg Osuri</span><span>gregosuri.com/predictions/local-compute</span></p>
+</div>
+</body>
+</html>

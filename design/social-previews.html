@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="design_doc_mode" content="canvas">
+<title>Social previews — gregosuri.com design</title>
+<style>
+body{margin:0;font-family:"Newsreader","Iowan Old Style",Georgia,serif;color:#211f1a}
+a{color:#9c4221}a:hover{color:#211f1a}
+.frame{position:absolute;width:1200px}
+.frame h2{margin:0 0 12px;font-size:22px;font-weight:450;letter-spacing:.06em;text-transform:uppercase;color:#6e6759}
+.frame h2 span{margin-left:16px;text-transform:none;letter-spacing:0;font-style:italic;font-weight:340}
+iframe{display:block;width:1200px;height:630px;border:0;background:#faf8f4;box-shadow:0 1px 0 #d8d1c4,0 12px 40px rgba(33,31,26,.12)}
+</style>
+</head>
+<body>
+<section class="frame" style="left:80px;top:80px"><h2>Site<span>/ — default og:image</span></h2><iframe src="social-site.html" title="Site"></iframe></section>
+<section class="frame" style="left:1400px;top:80px"><h2>Predictions<span>/predictions/</span></h2><iframe src="social-predictions.html" title="Predictions"></iframe></section>
+<section class="frame" style="left:80px;top:860px"><h2>Theme<span>/predictions/&lt;theme&gt;/</span></h2><iframe src="social-theme.html" title="Theme"></iframe></section>
+<section class="frame" style="left:1400px;top:860px"><h2>Prediction<span>/predictions/&lt;theme&gt;/&lt;date&gt;/ — existing</span></h2><iframe src="social-preview.html" title="Prediction"></iframe></section>
+<section class="frame" style="left:80px;top:1640px"><h2>Post<span>/&lt;year&gt;/&lt;slug&gt;/</span></h2><iframe src="social-post.html" title="Post"></iframe></section>
+</body>
+</html>
