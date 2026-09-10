@@ -1,8 +1,19 @@
 <footer class="site-footer">
-  <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} &middot; <a href="https://github.com/{{ site.github_username }}">GitHub</a> &middot; <a href="https://x.com/{{ site.twitter_username }}">X</a> &middot; <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
+  <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} &middot; <a target="_blank" rel="noopener" href="https://github.com/{{ site.github_username }}">GitHub</a> &middot; <a target="_blank" rel="noopener" href="https://x.com/{{ site.twitter_username }}">X</a> &middot; <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
 </footer>
 
 <script>
+// Links written in markdown (essay bodies, prediction context notes) render as plain
+// anchors, so they cannot carry target/rel from a template. Mark every off-site link
+// here instead. Compares hostname, so absolute links back to this site stay in-tab.
+for (var i = 0, links = document.links; i < links.length; i++) {
+  var a = links[i];
+  if (a.protocol !== 'http:' && a.protocol !== 'https:') continue;
+  if (a.hostname === location.hostname || a.hasAttribute('target')) continue;
+  a.setAttribute('target', '_blank');
+  a.setAttribute('rel', a.rel ? a.rel + ' noopener' : 'noopener');
+}
+
 document.addEventListener('click', function (e) {
   var a = e.target.closest('a.share[data-copy]');
   if (!a) return;

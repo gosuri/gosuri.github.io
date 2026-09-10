@@ -33,6 +33,8 @@ exclude:
   - transcripts
   - PREDICTIONS.md
   - CATALOG.md
+  - AGENTS.md
+  - CLAUDE.md
 
 collections:
   predictions:

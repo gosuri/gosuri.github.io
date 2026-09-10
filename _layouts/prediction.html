@@ -6,7 +6,7 @@ layout: default
   <p class="dateline"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%-d %b %Y' }}</time></p>
   <h1>{{ page.title | escape }}</h1>
   <p class="source"><em>{{ page.source | escape }}</em></p>
-  <blockquote><p>“{{ page.quote | strip | strip_html | smartify }}” — <a href="{{ page.source_url | escape }}">{{ page.timestamp | escape }}</a></p></blockquote>
+  <blockquote><p>“{{ page.quote | strip | strip_html | smartify }}” — <a target="_blank" rel="noopener" href="{{ page.source_url | escape }}">{{ page.timestamp | escape }}</a></p></blockquote>
   {%- if page.context and page.context != "" %}
   <p class="context"><strong>Context:</strong> {{ page.context | strip | strip_html | markdownify | strip | remove: '<p>' | remove: '</p>' | strip }}</p>
   {%- endif %}
@@ -14,7 +14,7 @@ layout: default
   {%- capture share_text %}“{{ page.quote | strip | truncate: 200 }}” — @gregosuri, {{ page.date | date: '%-d %b %Y' }}{% endcapture -%}
   <p class="share-row">
     <a class="share" href="{{ page.url | prepend: site.baseurl }}" data-copy>Copy link</a>
-    <a class="external" href="https://x.com/intent/post?text={{ share_text | url_encode }}&url={{ abs_url | url_encode }}">Post on X</a>
+    <a class="external" target="_blank" rel="noopener" href="https://x.com/intent/post?text={{ share_text | url_encode }}&url={{ abs_url | url_encode }}">Post on X</a>
   </p>
 </article>
 <p class="post-nav"><a href="{{ page.theme_page | append: '#' | append: page.slug_id | prepend: site.baseurl }}">See it among all {{ page.theme_title | escape }} predictions →</a></p>
