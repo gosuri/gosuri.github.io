@@ -6,10 +6,13 @@ server:
 	@printf 'Listening on:\n  http://localhost:4000\n  http://%s:4000  (LAN)\n' "$$(ipconfig getifaddr en0 || ipconfig getifaddr en1)"
 	bundle exec jekyll server --host 0.0.0.0
 
-# Unit tests for the card renderer's pure modules. Node 20's built-in runner,
-# no dependencies — the Playwright driver itself is covered by `make preview`.
+# Pure card/agent modules and filesystem delivery tests; Node 20, no dependencies.
 test:
-	node --test research/card_data.test.mjs research/card_templates.test.mjs research/theme_card_integration.test.mjs
+	node --test research/card_data.test.mjs research/card_templates.test.mjs research/theme_card_integration.test.mjs research/agent_docs.test.mjs research/render_agents.test.mjs
+
+# Render markdown twins and llms.txt into an existing Jekyll build.
+agents: test
+	node research/render_agents.mjs
 
 # Social preview cards are rendered by a separate Node step, not by Jekyll, and
 # they are never committed (1,689 cards, ~200 MB). Any `jekyll build` or
@@ -20,11 +23,11 @@ cards: test
 	cd research && npm install --silent && npx playwright install chromium
 	node research/render_cards.mjs
 
-# Build, render the cards, then serve the finished _site WITHOUT regenerating
-# (regenerating is what deletes the cards). Use this to check og:image locally.
+# Build, render both post-build surfaces, then serve without wiping artifacts.
 preview:
 	bundle exec jekyll build
 	node research/render_cards.mjs
+	node research/render_agents.mjs
 	@printf 'Listening on:\n  http://localhost:4000\n  http://%s:4000  (LAN)\n' "$$(ipconfig getifaddr en0 || ipconfig getifaddr en1)"
 	bundle exec jekyll server --host 0.0.0.0 --skip-initial-build --no-watch
 
@@ -49,4 +52,4 @@ create:
 remove: 
 	akash deployment close $(shell cat .akash | head -1) -k $(KEY)
 
-.PHONY: server test cards preview installdeps deploy img img-run img-push create remove
+.PHONY: server test cards agents preview installdeps deploy img img-run img-push create remove

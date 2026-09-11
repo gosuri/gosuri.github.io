@@ -42,7 +42,7 @@ jobs:
       - name: Restore cached cards
         if: steps.cards.outputs.cache-hit == 'true'
         run: cp -R .card-cache/. _site/
-      - name: Test the card modules
+      - name: Test card and agent modules
         run: make test
       - name: Render social cards
         if: steps.cards.outputs.cache-hit != 'true'
@@ -52,6 +52,8 @@ jobs:
           mkdir -p .card-cache
           cd _site && find . \( -name card.png -o -path './assets/img/og/*.png' \) \
             -exec cp --parents {} ../.card-cache/ \;
+      - name: Render agent documents
+        run: node research/render_agents.mjs
       - uses: actions/upload-pages-artifact@v3
 
   deploy:
