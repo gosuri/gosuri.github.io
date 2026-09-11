@@ -93,3 +93,92 @@ export function postsIndex(posts, site) {
   }
   return finish(lines);
 }
+
+function decodeEntities(text) {
+  const entities = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', ndash: '–', mdash: '—', hellip: '…', lsquo: '‘', rsquo: '’', ldquo: '“', rdquo: '”', middot: '·', copy: '©' };
+  return text.replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (all, name) => {
+    if (!name.startsWith('#')) return entities[name] ?? all;
+    const point = name[1].toLowerCase() === 'x' ? parseInt(name.slice(2), 16) : Number(name.slice(1));
+    return point > 0 && point <= 0x10ffff ? String.fromCodePoint(point) : all;
+  });
+}
+
+function attribute(attrs, name) {
+  const value = attrs.match(new RegExp(`\\b${name}\\s*=\\s*(["'])(.*?)\\1`, 'i'))?.[2];
+  return value === undefined ? '' : decodeEntities(value);
+}
+
+function destination(url, site) {
+  const absolute = new URL(url, `${site.url}${site.baseurl}/`).href;
+  return absolute.replace(/[()<>]/g, char => `%${char.charCodeAt(0).toString(16).toUpperCase()}`);
+}
+
+// Only the markup present in this site's source is supported. Unknown Liquid
+// or HTML fails so future content cannot silently lose text or destinations.
+function contentMarkdown(body, site) {
+  const saved = [];
+  const hold = text => `\u0000${saved.push(text) - 1}\u0000`;
+  let text = body.replace(/\r\n/g, '\n');
+  text = text.replace(/^(`{3,}|~{3,})[^\n]*\n[\s\S]*?^\1[ \t]*$/gm, hold);
+  text = text.replace(/{%\s*highlight\s+([\w+-]+)\s*%}\n?([\s\S]*?){%\s*endhighlight(?:\s+[\w+-]+)?\s*%}/g,
+    (_, language, code) => {
+      const longest = Math.max(2, ...[...code.matchAll(/`+/g)].map(match => match[0].length));
+      const fence = '`'.repeat(longest + 1);
+      return hold(`${fence}${language}\n${code.replace(/\n$/, '')}\n${fence}`);
+    });
+  text = text.replace(/(`+)[^`\n][\s\S]*?\1/g, hold);
+  text = text.replace(/{{\s*(["'])(.*?)\1\s*\|\s*prepend:\s*site\.baseurl\s*}}/g,
+    (_, quote, path) => `${site.baseurl}${path}`);
+  if (/{[{%]/.test(text)) throw new Error('Unsupported Liquid in markdown source');
+  text = text.replace(/<iframe\b([^>]*)>[\s\S]*?<\/iframe>/gi, (_, attrs) => {
+    const src = attribute(attrs, 'src');
+    if (!src) throw new Error('Embedded video has no src');
+    return `[Embedded video](${destination(src, site)})`;
+  });
+  text = text.replace(/<a\b([^>]*)>([\s\S]*?)<\/a>/gi, (_, attrs, label) => {
+    const href = attribute(attrs, 'href');
+    if (!href) throw new Error('Anchor has no href');
+    return `[${escapeText(decodeEntities(label))}](${destination(href, site)})`;
+  });
+  text = text.replace(/<img\b([^>]*)\/?\s*>/gi, (_, attrs) => {
+    const src = attribute(attrs, 'src');
+    if (!src) throw new Error('Image has no src');
+    return `![${escapeText(attribute(attrs, 'alt'))}](${destination(src, site)})`;
+  });
+  text = text.replace(/<h([1-6])\b[^>]*>([\s\S]*?)<\/h\1>/gi, (_, level, title) => `\n${'#'.repeat(Number(level))} ${title.trim()}\n\n`)
+    .replace(/<\/(?:p|section|div|ul|ol)>/gi, '\n\n')
+    .replace(/<(?:p|section|div|ul|ol)\b[^>]*>/gi, '')
+    .replace(/<li\b[^>]*>/gi, '\n- ').replace(/<\/li>/gi, '\n')
+    .replace(/<br\s*\/?\s*>/gi, '\n')
+    .replace(/<\/?(?:time|span|center)\b[^>]*>/gi, '')
+    .replace(/<\/?(?:strong|b)>/gi, '**').replace(/<\/?(?:em|i)>/gi, '*');
+  text = text.replace(/<blockquote\b[^>]*>([\s\S]*?)<\/blockquote>/gi,
+    (_, quote) => `${quote.trim().split('\n').map(line => `> ${line.trim()}`).join('\n')}\n\n`);
+  if (/<\/?[A-Za-z][\w-]*(?:\s[^>]*)?\/?\s*>/.test(text)) {
+    throw new Error('Unsupported HTML in markdown source');
+  }
+  text = decodeEntities(text).replace(/[ \t]+$/gm, '')
+    .replace(/\n{3,}/g, '\n\n').trim();
+  return text.replace(/\u0000(\d+)\u0000/g, (_, index) => saved[Number(index)]);
+}
+
+export function postTwin({ fm, body, date, permalink }, site) {
+  const lines = [`# ${oneLine(fm.title)}`, '', `- **Date:** ${date}`,
+    `- **Canonical:** ${canonicalUrl(site, permalink)}`, ''];
+  if (fm.link && !body.trim()) lines.push('This essay is published externally; no local body is available.', '', `Original: ${fm.link}`);
+  else {
+    if (fm.link) lines.push(`Original: ${fm.link}`, '');
+    lines.push(contentMarkdown(body, site));
+  }
+  return finish(lines);
+}
+
+export function pageTwin({ title, body, permalink }, site) {
+  return finish([`# ${oneLine(title)}`, '', `- **Canonical:** ${canonicalUrl(site, permalink)}`, '', contentMarkdown(body, site)]);
+}
+
+export function homeTwin({ html, site }) {
+  const main = html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i);
+  if (!main) throw new Error('Built homepage is missing <main>');
+  return pageTwin({ title: site.title, body: main[1], permalink: '/' }, site);
+}
