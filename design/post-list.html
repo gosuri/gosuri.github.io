@@ -110,6 +110,8 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   font-style: italic;
   color: var(--ink-soft);
 }
+/* Undated links keep the row spacing without reserving a date column. */
+.row-list--links li { display: block; }
 .post-link.external::after {
   content: "\2197";
   display: inline-block;
@@ -141,6 +143,12 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 }
 
 /* ---- page furniture ---- */
+h3 {
+  margin: var(--s4) 0 var(--s2);
+  font-size: var(--step-0);
+  font-weight: 600;
+  line-height: 1.4;
+}
 .page-title {
   font-size: var(--step-3);
   font-weight: 480;
@@ -169,6 +177,13 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
       <li><time datetime="2015-12-04">Dec 2015</time> <a class="post-link" href="/2015/12/04/go-proverbs-illustrated/">Go Proverbs Illustrated</a></li>
       <li><time datetime="2014-11-21">Nov 2014</time> <a class="post-link" href="/2014/11/21/open-souring-improves-quality/">Open-sourcing improves quality</a></li>
       <li><time datetime="2011-10-05">Oct 2011</time> <a class="post-link" href="/2011/10/05/heres-to-the-crazy-ones/">Here’s to the crazy ones</a></li>
+    </ul>
+    <h3>Elsewhere</h3>
+    <ul class="row-list row-list--links">
+      <li><a target="_blank" rel="noopener" href="https://x.com/gregosuri">x/gregosuri</a></li>
+      <li><a target="_blank" rel="noopener" href="https://github.com/gosuri">github/gosuri</a></li>
+      <li><a target="_blank" rel="noopener" href="https://www.instagram.com/gregosuri">instagram/gregosuri</a></li>
+      <li><a target="_blank" rel="noopener" href="https://keybase.io/kn0tch">keybase/kn0tch</a></li>
     </ul>
   </main>
 </div>

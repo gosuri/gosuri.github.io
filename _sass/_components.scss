@@ -47,6 +47,8 @@
   font-style: italic;
   color: var(--ink-soft);
 }
+// Undated links keep the row spacing without reserving a date column.
+.row-list--links li { display: block; }
 .post-link.external::after, .external::after {
   content: "\2197";
   display: inline-block;

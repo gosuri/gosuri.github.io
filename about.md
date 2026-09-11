@@ -26,7 +26,7 @@ This archive collects dated, checkable statements about compute from my talks an
 
 ### Elsewhere
 
-<ul class="row-list">
+<ul class="row-list row-list--links">
   <li><a target="_blank" rel="noopener" href="https://x.com/gregosuri">x/gregosuri</a></li>
   <li><a target="_blank" rel="noopener" href="https://github.com/gosuri">github/gosuri</a></li>
   <li><a target="_blank" rel="noopener" href="https://www.instagram.com/gregosuri">instagram/gregosuri</a></li>
