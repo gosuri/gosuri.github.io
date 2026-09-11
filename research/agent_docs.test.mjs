@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { readDocument, siteSettings, canonicalUrl, predictionTwin } from './agent_docs.mjs';
 import { predictionIndex, postsIndex } from './agent_docs.mjs';
 import { postTwin, pageTwin, homeTwin } from './agent_docs.mjs';
+import { llmsIndex } from './agent_docs.mjs';
 
 const site = { url: 'https://www.gregosuri.com', baseurl: '', title: 'Greg Osuri', description: 'I build things.' };
 const prediction = {
@@ -147,4 +148,34 @@ test('unrecognized Liquid and HTML fail instead of silently dropping content', (
   for (const body of ['{% include secret.html %}', '<table><tr><td>Text</td></tr></table>']) {
     assert.throws(() => pageTwin({ title: 'Future', body, permalink: '/future/' }, site), /Unsupported/);
   }
+});
+
+test('llmsIndex measures dynamic file counts and UTF-8 budgets without listing each quote', () => {
+  const documents = [
+    { permalink: '/', markdown: '# Home\n', kind: 'home' },
+    { permalink: '/predictions/', markdown: '12345', kind: 'prediction-index' },
+    { permalink: '/predictions/ai-agents/', markdown: 'ééé', kind: 'theme-index' },
+    { permalink: '/predictions/ai-agents/2022/', markdown: '123456789', kind: 'year-index' },
+    { permalink: prediction.permalink, markdown: '12345678', kind: 'prediction' },
+    { permalink: '/citing/', markdown: '# Citing\n', kind: 'page' },
+  ];
+  const md = llmsIndex({ site, predictions: [prediction], posts: [], documents, sources: '2' });
+  assert.ok(md.includes('1 predictions from 2 talks and podcasts; 0 essays; 6 markdown twins.'));
+  assert.ok(md.includes('https://www.gregosuri.com/predictions/index.md — ~2 tokens'));
+  assert.ok(md.includes('https://www.gregosuri.com/predictions/ai-agents/index.md — ~2 tokens'));
+  assert.ok(md.includes('Prediction leaf twins: 1 files; ~2–2 tokens each.'));
+  assert.ok(md.includes('Theme-year indexes: 1 files; ~3–3 tokens each.'));
+  assert.ok(md.includes('UTF-8 bytes / 4'));
+  assert.ok(md.includes('Citation contract and navigation guide: https://www.gregosuri.com/citing/'));
+  assert.ok(!md.includes(prediction.slug_id));
+  assert.ok(!md.includes(prediction.quote));
+  assert.ok(!md.includes('1,689'));
+});
+
+test('llmsIndex handles an empty inventory and does not advertise an absent citing page', () => {
+  const md = llmsIndex({ site, predictions: [], posts: [], documents: [], sources: 0 });
+  assert.ok(md.includes('0 markdown twins.'));
+  assert.ok(md.includes('Prediction leaf twins: 0 files.'));
+  assert.ok(!md.includes('/citing/'));
+  assert.ok(!md.includes('Infinity'));
 });

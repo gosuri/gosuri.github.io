@@ -182,3 +182,40 @@ export function homeTwin({ html, site }) {
   if (!main) throw new Error('Built homepage is missing <main>');
   return pageTwin({ title: site.title, body: main[1], permalink: '/' }, site);
 }
+
+export function llmsIndex({ site, predictions, posts, documents, sources }) {
+  const estimate = markdown => Math.ceil(Buffer.byteLength(markdown, 'utf8') / 4);
+  const number = n => n.toLocaleString('en-US');
+  const budget = doc => `~${number(estimate(doc.markdown))} tokens`;
+  const range = kind => {
+    const docs = documents.filter(doc => doc.kind === kind);
+    if (!docs.length) return '0 files';
+    const sizes = docs.map(doc => estimate(doc.markdown));
+    return `${number(docs.length)} files; ~${number(Math.min(...sizes))}–${number(Math.max(...sizes))} tokens each`;
+  };
+  const lines = [`# ${oneLine(site.title)}`, '', site.description, '',
+    `${number(predictions.length)} predictions from ${number(Number(String(sources).replace(/,/g, '')))} talks and podcasts; ${number(posts.length)} essays; ${number(documents.length)} markdown twins.`, '',
+    '## Retrieval', '',
+    `1. Choose titles in ${canonicalUrl(site, '/predictions/')}index.md or a theme index below.`,
+    '2. Fetch the selected prediction twin for its quote, date, source and timestamp.',
+    'Index twins contain titles and IDs only; leaf twins contain full content.', '',
+    '## URL rules', '',
+    `Canonical prediction: ${canonicalUrl(site, '/predictions/{theme}/{id}/')}`,
+    '`id` is the date-first `slug_id` printed in the title index; copy it exactly.',
+    'Append `index.md` to a page URL for its markdown twin. Append `card.png` to a prediction, essay, theme or theme-year URL for its social card.',
+    `Year index: ${canonicalUrl(site, '/predictions/{theme}/{year}/')}index.md`, '',
+    '## Inventory and estimated fetch budgets', '',
+    'Estimates are UTF-8 bytes / 4, rounded up; this heuristic is not a tokenizer count.',
+    'Budgets below describe individual fetched files. This inventory does not include its own size.', '',
+  ];
+  const listed = documents.filter(doc => ['home', 'page', 'prediction-index', 'theme-index', 'posts-index'].includes(doc.kind))
+    .sort((a, b) => compare(a.permalink, b.permalink));
+  for (const doc of listed) lines.push(`- ${canonicalUrl(site, doc.permalink)}index.md — ${budget(doc)}`);
+  lines.push('', `- Prediction leaf twins: ${range('prediction')}.`,
+    `- Theme-year indexes: ${range('year-index')}.`, `- Essay twins: ${range('post')}.`, '');
+  if (documents.some(doc => doc.permalink === '/citing/')) {
+    lines.push(`Citation contract and navigation guide: ${canonicalUrl(site, '/citing/')}`, '');
+  }
+  lines.push('Transcripts and the video catalog are not published.');
+  return finish(lines);
+}
