@@ -14,6 +14,28 @@ test('parseFrontMatter reads block scalars', () => {
   assert.equal(fm.title, 'x');
 });
 
+test('parseFrontMatter preserves real blank lines inside literal blocks', () => {
+  const source = '---\r\nquote: |\r\n  First.\r\n\r\n  Third.\r\ncontext: |\r\n  Editorial.\r\n\r\n  More.\r\nempty:\r\n---\r\nbody';
+  const fm = parseFrontMatter(source);
+  assert.equal(fm.quote, 'First.\n\nThird.');
+  assert.equal(fm.context, 'Editorial.\n\nMore.');
+  assert.equal(fm.empty, '');
+});
+
+test('parseFrontMatter preserves leading blank quote lines without swallowing later fields', () => {
+  const fm = parseFrontMatter('---\nquote: |\n\n  Spoken.\n  \n  Again.\ntitle: x\n---\n');
+  assert.equal(fm.quote, '\nSpoken.\n\nAgain.');
+  assert.equal(fm.title, 'x');
+});
+
+test('parseFrontMatter decodes only generated scalar quote and slash escapes', () => {
+  const fm = parseFrontMatter(String.raw`---
+title: "A \\ path and \"quoted\" title"
+---
+`);
+  assert.equal(fm.title, 'A \\ path and "quoted" title');
+});
+
 test('parseFrontMatter returns null without front matter', () => {
   assert.equal(parseFrontMatter('no front matter here'), null);
 });

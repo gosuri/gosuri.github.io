@@ -4,16 +4,28 @@
 // only ever has to handle scalars and `|` block scalars.
 
 export function parseFrontMatter(text) {
-  const m = text.match(/^---\n([\s\S]*?)\n---/);
+  const m = text.replace(/\r\n/g, '\n').match(/^---\n([\s\S]*?)\n---(?:\n|$)/);
   if (!m) return null;
   const out = {};
+  const blocks = new Map();
   let key = null;
   for (const line of m[1].split('\n')) {
-    const kv = line.match(/^([a-z_]+): (.*)$/);
-    if (kv && kv[2] !== '|') { key = null; out[kv[1]] = kv[2].replace(/^"|"$/g, '').replace(/\\"/g, '"'); }
-    else if (kv && kv[2] === '|') { key = kv[1]; out[key] = ''; }
-    else if (key && line.startsWith('  ')) { out[key] += (out[key] ? '\n' : '') + line.slice(2); }
+    const kv = line.match(/^([a-z_]+):(?: (.*))?$/);
+    if (kv) {
+      key = null;
+      const value = kv[2] ?? '';
+      if (value === '|') {
+        key = kv[1];
+        blocks.set(key, []);
+      } else {
+        out[kv[1]] = value.startsWith('"') && value.endsWith('"')
+          ? value.slice(1, -1).replace(/\\(["\\])/g, '$1') : value;
+      }
+    } else if (key && (line.startsWith('  ') || line.trim() === '')) {
+      blocks.get(key).push(line.startsWith('  ') ? line.slice(2) : '');
+    } else key = null;
   }
+  for (const [name, lines] of blocks) out[name] = lines.join('\n').replace(/\n+$/, '');
   return out;
 }
 
