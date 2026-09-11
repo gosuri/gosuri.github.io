@@ -7,7 +7,9 @@ year: "2022"
 title: "AKT price is a security function, not an investment"
 permalink: /predictions/crypto-depin/2022-10-04-akt-price-is-a-security-function-not-an-investment-xflo/
 slug_id: 2022-10-04-akt-price-is-a-security-function-not-an-investment-xflo
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"
 source_url: https://www.youtube.com/watch?v=gLzJoHmx4Js&t=2214s
 timestamp: "00:36:54"

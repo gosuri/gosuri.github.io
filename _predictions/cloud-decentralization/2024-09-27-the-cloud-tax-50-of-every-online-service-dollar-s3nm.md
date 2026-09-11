@@ -8,6 +8,8 @@ title: "The cloud tax: 50% of every online-service dollar"
 permalink: /predictions/cloud-decentralization/2024-09-27-the-cloud-tax-50-of-every-online-service-dollar-s3nm/
 slug_id: 2024-09-27-the-cloud-tax-50-of-every-online-service-dollar-s3nm
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Democratizing Access to AI Resources - TOKEN2049 Singapore 2024 (TOKEN2049)"
 source_url: https://www.youtube.com/watch?v=3Sv3EOSDnL8&t=312s
 timestamp: "00:05:12"

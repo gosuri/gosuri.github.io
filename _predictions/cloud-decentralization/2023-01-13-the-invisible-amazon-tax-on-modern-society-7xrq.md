@@ -8,6 +8,8 @@ title: "The invisible Amazon tax on modern society"
 permalink: /predictions/cloud-decentralization/2023-01-13-the-invisible-amazon-tax-on-modern-society-7xrq/
 slug_id: 2023-01-13-the-invisible-amazon-tax-on-modern-society-7xrq
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=qdQFOS-uG_A&t=1034s
 timestamp: "00:17:14"

@@ -8,6 +8,8 @@ title: "First general-purpose decentralized compute network"
 permalink: /predictions/cloud-decentralization/2024-06-11-first-general-purpose-decentralized-compute-networ-a5om/
 slug_id: 2024-06-11-first-general-purpose-decentralized-compute-networ-a5om
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Keynote from Greg Osuri: \\\"Journey to Acceleration & Beyond\\\" - Akash Accelerate '24\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=04-IN8Btp3U&t=559s
 timestamp: "00:09:19"

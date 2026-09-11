@@ -7,7 +7,9 @@ year: "2023"
 title: "The DePIN \"incentivize supply first\" thesis is false"
 permalink: /predictions/crypto-depin/2023-12-19-the-depin-incentivize-supply-first-thesis-is-false-nlb2/
 slug_id: 2023-12-19-the-depin-incentivize-supply-first-thesis-is-false-nlb2
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network founder Greg Osuri - Building a Decentralized Computing Marketplace (Crypto Nuggets)"
 source_url: https://www.youtube.com/watch?v=lwpAQjvSxRE&t=1258s
 timestamp: "00:20:58"

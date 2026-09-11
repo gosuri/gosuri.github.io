@@ -7,7 +7,9 @@ year: "2023"
 title: "Web3 is the supply, AI is the demand"
 permalink: /predictions/decentralized-ai/2023-03-30-web3-is-the-supply-ai-is-the-demand-ed4b/
 slug_id: 2023-03-30-web3-is-the-supply-ai-is-the-demand-ed4b
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Mission: DeFi EP 92 - Greg Osuri - Akash is taking on the giants in hosted processing (Mission: DeFi)"
 source_url: https://www.youtube.com/watch?v=wVH1OYhNOeE&t=2306s
 timestamp: "00:38:26"

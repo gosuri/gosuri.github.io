@@ -8,6 +8,8 @@ title: "Kardashev Type One needs 500x today's energy; AI is the new fire"
 permalink: /predictions/energy-ai/2025-06-27-kardashev-type-one-needs-500x-today-s-energy-ai-is-uuff/
 slug_id: 2025-06-27-kardashev-type-one-needs-500x-today-s-energy-ai-is-uuff
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Beyond GPUs: How Decentralization Can Solve AI's Biggest Scaling Bottleneck | Day 2 | Crypto x AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=JgD4BzHEcu4&t=4s
 timestamp: "00:00:04"

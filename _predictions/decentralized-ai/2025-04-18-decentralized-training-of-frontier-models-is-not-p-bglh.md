@@ -7,7 +7,9 @@ year: "2025"
 title: "Decentralized training of frontier models is not possible today"
 permalink: /predictions/decentralized-ai/2025-04-18-decentralized-training-of-frontier-models-is-not-p-bglh/
 slug_id: 2025-04-18-decentralized-training-of-frontier-models-is-not-p-bglh
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"
 source_url: https://www.youtube.com/watch?v=ImwkqmOSUkE&t=2585s
 timestamp: "00:43:05"

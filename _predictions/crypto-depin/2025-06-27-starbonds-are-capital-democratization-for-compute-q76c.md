@@ -7,7 +7,9 @@ year: "2025"
 title: "Starbonds are capital democratization for compute"
 permalink: /predictions/crypto-depin/2025-06-27-starbonds-are-capital-democratization-for-compute-q76c/
 slug_id: 2025-06-27-starbonds-are-capital-democratization-for-compute-q76c
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Beyond GPUs: How Decentralization Can Solve AI's Biggest Scaling Bottleneck | Day 2 | Crypto x AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=JgD4BzHEcu4&t=634s
 timestamp: "00:10:34"

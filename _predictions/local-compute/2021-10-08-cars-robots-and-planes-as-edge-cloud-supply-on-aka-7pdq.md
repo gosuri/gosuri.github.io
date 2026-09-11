@@ -7,7 +7,9 @@ year: "2021"
 title: "Cars, robots, and planes as edge cloud supply on Akash"
 permalink: /predictions/local-compute/2021-10-08-cars-robots-and-planes-as-edge-cloud-supply-on-aka-7pdq/
 slug_id: 2021-10-08-cars-robots-and-planes-as-edge-cloud-supply-on-aka-7pdq
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How do data scientist get into blockchain? Greg Osuri - The Data Scientist Show #007 (The Data Scientist Show)"
 source_url: https://www.youtube.com/watch?v=_ejhD_lNs4s&t=259s
 timestamp: "00:04:19"

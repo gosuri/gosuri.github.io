@@ -7,7 +7,9 @@ year: "2023"
 title: "Ultimate vision: Bitcoin secures Akash"
 permalink: /predictions/crypto-depin/2023-12-19-ultimate-vision-bitcoin-secures-akash-zudd/
 slug_id: 2023-12-19-ultimate-vision-bitcoin-secures-akash-zudd
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network founder Greg Osuri - Building a Decentralized Computing Marketplace (Crypto Nuggets)"
 source_url: https://www.youtube.com/watch?v=lwpAQjvSxRE&t=2909s
 timestamp: "00:48:29"

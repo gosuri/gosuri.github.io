@@ -8,6 +8,8 @@ title: "Data-center concentration is reversing; no winner-take-all for hyperscal
 permalink: /predictions/cloud-decentralization/2024-06-13-data-center-concentration-is-reversing-no-winner-t-hstj/
 slug_id: 2024-06-13-data-center-concentration-is-reversing-no-winner-t-hstj
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"
 source_url: https://www.youtube.com/watch?v=RYs9UTXv43Q&t=2268s
 timestamp: "00:37:48"

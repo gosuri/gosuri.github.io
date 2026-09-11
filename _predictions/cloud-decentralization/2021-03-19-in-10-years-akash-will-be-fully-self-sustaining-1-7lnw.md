@@ -8,6 +8,8 @@ title: "In 10 years Akash will be fully self-sustaining; 1% of cloud = $3B"
 permalink: /predictions/cloud-decentralization/2021-03-19-in-10-years-akash-will-be-fully-self-sustaining-1-7lnw/
 slug_id: 2021-03-19-in-10-years-akash-will-be-fully-self-sustaining-1-7lnw
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Sunny Aggarwal, Greg Osuri and Adam Bozanich (Akash Network)"
 source_url: https://www.youtube.com/watch?v=HiTE_qXoFvM&t=4322s
 timestamp: "01:12:02"

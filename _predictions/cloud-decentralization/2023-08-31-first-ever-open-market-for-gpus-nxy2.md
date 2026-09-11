@@ -8,6 +8,8 @@ title: "First-ever open market for GPUs"
 permalink: /predictions/cloud-decentralization/2023-08-31-first-ever-open-market-for-gpus-nxy2/
 slug_id: 2023-08-31-first-ever-open-market-for-gpus-nxy2
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Mainnet 6 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PqKYTTQUwCM&t=10168s
 timestamp: "02:49:28"

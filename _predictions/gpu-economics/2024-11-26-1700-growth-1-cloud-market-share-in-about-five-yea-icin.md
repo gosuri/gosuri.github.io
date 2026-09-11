@@ -7,7 +7,9 @@ year: "2024"
 title: "1700% growth; 1% cloud market share in about five years"
 permalink: /predictions/gpu-economics/2024-11-26-1700-growth-1-cloud-market-share-in-about-five-yea-icin/
 slug_id: 2024-11-26-1700-growth-1-cloud-market-share-in-about-five-yea-icin
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"
 source_url: https://www.youtube.com/watch?v=GwKZIY2aBe0&t=4055s
 timestamp: "01:07:35"

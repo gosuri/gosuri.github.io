@@ -8,6 +8,8 @@ title: "Airbnb for cloud compute — 95% of data center capacity sits unused"
 permalink: /predictions/cloud-decentralization/2022-07-01-airbnb-for-cloud-compute-95-of-data-center-capacit-urbb/
 slug_id: 2022-07-01-airbnb-for-cloud-compute-95-of-data-center-capacit-urbb
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "WCEF 2022: Infrastructure for the New Internet - Web3 (World Crypto Economic Forum (WCEF))"
 source_url: https://www.youtube.com/watch?v=8RlL9feMiNk&t=472s
 timestamp: "00:07:52"

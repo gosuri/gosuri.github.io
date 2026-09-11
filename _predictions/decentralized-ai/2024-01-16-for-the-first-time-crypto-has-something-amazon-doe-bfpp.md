@@ -7,7 +7,9 @@ year: "2024"
 title: "For the first time, crypto has something Amazon doesn't"
 permalink: /predictions/decentralized-ai/2024-01-16-for-the-first-time-crypto-has-something-amazon-doe-bfpp/
 slug_id: 2024-01-16-for-the-first-time-crypto-has-something-amazon-doe-bfpp
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akash: The Crypto-Powered Decentralized Supercloud\" (The Edge Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294
 timestamp: "01:05:51"

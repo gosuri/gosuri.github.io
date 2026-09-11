@@ -8,6 +8,8 @@ title: "50MW today, 250MW in 2026, 1.2GW the year after"
 permalink: /predictions/energy-ai/2025-01-02-50mw-today-250mw-in-2026-1-2gw-the-year-after-76yh/
 slug_id: 2025-01-02-50mw-today-250mw-in-2026-1-2gw-the-year-after-76yh
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"AI Sovereignty: Building the Path to Individual AI with Greg Osuri\" (The Outpost Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476
 timestamp: "00:29:23"

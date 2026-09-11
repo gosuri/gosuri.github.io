@@ -8,6 +8,8 @@ title: "AI is intelligence; mobile was convenience"
 permalink: /predictions/local-ai/2023-06-12-ai-is-intelligence-mobile-was-convenience-zysk/
 slug_id: 2023-06-12-ai-is-intelligence-mobile-was-convenience-zysk
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"
 source_url: https://www.youtube.com/watch?v=pSCkBP7Pw6Y&t=864s
 timestamp: "00:14:24"

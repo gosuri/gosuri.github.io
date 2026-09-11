@@ -8,6 +8,8 @@ title: "Open technologies are the future — governments must escape centralized
 permalink: /predictions/cloud-decentralization/2022-09-15-open-technologies-are-the-future-governments-must-zyh7/
 slug_id: 2022-09-15-open-technologies-are-the-future-governments-must-zyh7
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 14th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Ckp4eQ94ojM&t=174s
 timestamp: "00:02:54"

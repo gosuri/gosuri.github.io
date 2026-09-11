@@ -8,6 +8,8 @@ title: "Amazon's redundancy ends at the data center"
 permalink: /predictions/cloud-decentralization/2022-06-28-amazon-s-redundancy-ends-at-the-data-center-5hgh/
 slug_id: 2022-06-28-amazon-s-redundancy-ends-at-the-data-center-5hgh
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralized Cloud - DCENTRAL Austin 2022 (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=yfBYYjtzsX0&t=301s
 timestamp: "00:05:01"

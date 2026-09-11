@@ -7,7 +7,9 @@ year: "2022"
 title: "SEC enforcement will hit DeFi, not Akash"
 permalink: /predictions/other/2022-06-16-sec-enforcement-will-hit-defi-not-akash-7gci/
 slug_id: 2022-06-16-sec-enforcement-will-hit-defi-not-akash-7gci
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 15th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=y5_GlfUj5to&t=2553s
 timestamp: "00:42:33"

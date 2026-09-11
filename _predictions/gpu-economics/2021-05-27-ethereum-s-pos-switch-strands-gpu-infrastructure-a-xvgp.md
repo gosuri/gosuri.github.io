@@ -7,7 +7,9 @@ year: "2021"
 title: "Ethereum's PoS switch strands GPU infrastructure — a huge AI opportunity"
 permalink: /predictions/gpu-economics/2021-05-27-ethereum-s-pos-switch-strands-gpu-infrastructure-a-xvgp/
 slug_id: 2021-05-27-ethereum-s-pos-switch-strands-gpu-infrastructure-a-xvgp
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Почему дорого запускать стартап в централизованных облаках? Интервью с Greg Osuri, CEO Akash Network (S3XYBTC)"
 source_url: https://www.youtube.com/watch?v=HNfu9hCsVwU&t=947s
 timestamp: "00:15:47"

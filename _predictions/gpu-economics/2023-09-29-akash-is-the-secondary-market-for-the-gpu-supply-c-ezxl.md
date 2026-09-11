@@ -7,7 +7,9 @@ year: "2023"
 title: "Akash is the secondary market for the GPU supply crunch"
 permalink: /predictions/gpu-economics/2023-09-29-akash-is-the-secondary-market-for-the-gpu-supply-c-ezxl/
 slug_id: 2023-09-29-akash-is-the-secondary-market-for-the-gpu-supply-c-ezxl
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"
 source_url: https://www.youtube.com/watch?v=FDA9wqZmsY8&t=2202s
 timestamp: "00:36:42"

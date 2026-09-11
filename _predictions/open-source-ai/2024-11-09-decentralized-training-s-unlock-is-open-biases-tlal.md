@@ -8,6 +8,8 @@ title: "Decentralized training's unlock is open biases"
 permalink: /predictions/open-source-ai/2024-11-09-decentralized-training-s-unlock-is-open-biases-tlal/
 slug_id: 2024-11-09-decentralized-training-s-unlock-is-open-biases-tlal
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"
 source_url: https://www.youtube.com/watch?v=3_gGBRqzxrQ&t=1794s
 timestamp: "00:29:54"

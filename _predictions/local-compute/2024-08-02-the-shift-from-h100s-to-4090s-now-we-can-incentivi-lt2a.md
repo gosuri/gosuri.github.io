@@ -7,7 +7,9 @@ year: "2024"
 title: "The shift from H100s to 4090s: \"now we can incentivize home computers... eventually mobile phones\""
 permalink: /predictions/local-compute/2024-08-02-the-shift-from-h100s-to-4090s-now-we-can-incentivi-lt2a/
 slug_id: 2024-08-02-the-shift-from-h100s-to-4090s-now-we-can-incentivi-lt2a
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, Marko Stokic, Michael Heinrich & Luki Song on Can User-Owned AI Compete with Big Tech? (Nebular)"
 source_url: https://www.youtube.com/watch?v=9bEi1i2c12E&t=609s
 timestamp: "00:10:09"

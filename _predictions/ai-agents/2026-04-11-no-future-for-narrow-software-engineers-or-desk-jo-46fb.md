@@ -8,6 +8,8 @@ title: "No future for narrow software engineers or desk jobs"
 permalink: /predictions/ai-agents/2026-04-11-no-future-for-narrow-software-engineers-or-desk-jo-46fb/
 slug_id: 2026-04-11-no-future-for-narrow-software-engineers-or-desk-jo-46fb
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=7774s
 timestamp: "02:09:34"

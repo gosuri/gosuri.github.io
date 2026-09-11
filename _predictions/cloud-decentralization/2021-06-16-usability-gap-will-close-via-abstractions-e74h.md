@@ -8,6 +8,8 @@ title: "Usability gap will close via abstractions"
 permalink: /predictions/cloud-decentralization/2021-06-16-usability-gap-will-close-via-abstractions-e74h/
 slug_id: 2021-06-16-usability-gap-will-close-via-abstractions-e74h
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeFi Summit - Conference Day 1 - June 15th (Tuesday) (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=V3b3aoKEnEA&t=22633s
 timestamp: "06:17:13"

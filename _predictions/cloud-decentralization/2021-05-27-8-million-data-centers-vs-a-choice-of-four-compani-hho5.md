@@ -8,6 +8,8 @@ title: "8 million data centers vs. a choice of four companies"
 permalink: /predictions/cloud-decentralization/2021-05-27-8-million-data-centers-vs-a-choice-of-four-compani-hho5/
 slug_id: 2021-05-27-8-million-data-centers-vs-a-choice-of-four-compani-hho5
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Почему дорого запускать стартап в централизованных облаках? Интервью с Greg Osuri, CEO Akash Network (S3XYBTC)"
 source_url: https://www.youtube.com/watch?v=HNfu9hCsVwU&t=499s
 timestamp: "00:08:19"

@@ -7,7 +7,9 @@ year: "2023"
 title: "Akash GPU market to launch with at least 20,000 GPUs"
 permalink: /predictions/gpu-economics/2023-02-18-akash-gpu-market-to-launch-with-at-least-20-000-gp-azwa/
 slug_id: 2023-02-18-akash-gpu-market-to-launch-with-at-least-20-000-gp-azwa
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"
 source_url: https://www.youtube.com/watch?v=FwJ4-Q27CRM&t=2495s
 timestamp: "00:41:35"

@@ -7,7 +7,9 @@ year: "2023"
 title: "GPUs are next on Akash"
 permalink: /predictions/gpu-economics/2023-02-01-gpus-are-next-on-akash-yykm/
 slug_id: 2023-02-01-gpus-are-next-on-akash-yykm
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Messari Happy Hour Ep11 (Messari)"
 source_url: https://www.youtube.com/watch?v=q9cuO5P42i4&t=1777s
 timestamp: "00:29:37"

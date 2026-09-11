@@ -8,6 +8,8 @@ title: "Ten-year vision: thousands of regions and self-coordinating agents payin
 permalink: /predictions/ai-agents/2024-09-10-ten-year-vision-thousands-of-regions-and-self-coor-ctcy/
 slug_id: 2024-09-10-ten-year-vision-thousands-of-regions-and-self-coor-ctcy
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))"
 source_url: https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512
 timestamp: "00:33:32"

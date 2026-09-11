@@ -8,6 +8,8 @@ title: "Akash as the fastest cloud, a thousand regions vs Amazon's 17"
 permalink: /predictions/cloud-decentralization/2022-07-25-akash-as-the-fastest-cloud-a-thousand-regions-vs-a-w2wr/
 slug_id: 2022-07-25-akash-as-the-fastest-cloud-a-thousand-regions-vs-a-w2wr
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Adoption Plan (Akash Network)"
 source_url: https://www.youtube.com/watch?v=CINPrJmIV9s&t=253s
 timestamp: "00:04:13"

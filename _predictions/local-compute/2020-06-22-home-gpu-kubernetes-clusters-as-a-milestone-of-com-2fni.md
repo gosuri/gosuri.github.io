@@ -7,7 +7,9 @@ year: "2020"
 title: "Home GPU Kubernetes clusters as a milestone of computing's evolution"
 permalink: /predictions/local-compute/2020-06-22-home-gpu-kubernetes-clusters-as-a-milestone-of-com-2fni/
 slug_id: 2020-06-22-home-gpu-kubernetes-clusters-as-a-milestone-of-com-2fni
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akashian Challenge Phase 1 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=L3JjJldfU3o&t=3442s
 timestamp: "00:57:22"

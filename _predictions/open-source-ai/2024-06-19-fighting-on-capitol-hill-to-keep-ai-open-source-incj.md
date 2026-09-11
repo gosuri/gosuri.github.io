@@ -8,6 +8,8 @@ title: "Fighting on Capitol Hill to keep AI open source"
 permalink: /predictions/open-source-ai/2024-06-19-fighting-on-capitol-hill-to-keep-ai-open-source-incj/
 slug_id: 2024-06-19-fighting-on-capitol-hill-to-keep-ai-open-source-incj
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=jyGP_9A1SVs&t=2537s
 timestamp: "00:42:17"

@@ -8,6 +8,8 @@ title: "Data is doubling every two years but the cloud isn't keeping up"
 permalink: /predictions/cloud-decentralization/2018-06-15-data-is-doubling-every-two-years-but-the-cloud-isn-eebq/
 slug_id: 2018-06-15-data-is-doubling-every-two-years-but-the-cloud-isn-eebq
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "S1E2 - Greg Osuri (CryptoChange.News)"
 source_url: https://archive.org/details/CryptoEp2GregOsuri
 timestamp: "00:04:51"

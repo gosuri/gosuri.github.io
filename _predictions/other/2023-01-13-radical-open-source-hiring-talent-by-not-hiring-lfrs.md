@@ -7,7 +7,9 @@ year: "2023"
 title: "Radical open source: \"hiring talent by not hiring\""
 permalink: /predictions/other/2023-01-13-radical-open-source-hiring-talent-by-not-hiring-lfrs/
 slug_id: 2023-01-13-radical-open-source-hiring-talent-by-not-hiring-lfrs
-theme_page: /predictions/other/
+theme_page: /predictions/other/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=qdQFOS-uG_A&t=305s
 timestamp: "00:05:05"

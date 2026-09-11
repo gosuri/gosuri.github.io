@@ -7,7 +7,9 @@ year: "2024"
 title: "The US Department of Defense runs a fork of Akash"
 permalink: /predictions/other/2024-03-19-the-us-department-of-defense-runs-a-fork-of-akash-jerr/
 slug_id: 2024-03-19-the-us-department-of-defense-runs-a-fork-of-akash-jerr
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"
 source_url: https://www.youtube.com/watch?v=uUoePJrzyDQ&t=1888s
 timestamp: "00:31:28"

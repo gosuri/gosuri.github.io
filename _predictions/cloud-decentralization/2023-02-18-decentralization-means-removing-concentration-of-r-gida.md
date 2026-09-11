@@ -8,6 +8,8 @@ title: "Decentralization means removing concentration of risk"
 permalink: /predictions/cloud-decentralization/2023-02-18-decentralization-means-removing-concentration-of-r-gida/
 slug_id: 2023-02-18-decentralization-means-removing-concentration-of-r-gida
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"
 source_url: https://www.youtube.com/watch?v=FwJ4-Q27CRM&t=3270s
 timestamp: "00:54:30"

@@ -8,6 +8,8 @@ title: "Ethereum full node: ~$25k on Infura vs one-third on DeCloud"
 permalink: /predictions/cloud-decentralization/2021-06-16-ethereum-full-node-25k-on-infura-vs-one-third-on-d-vyvv/
 slug_id: 2021-06-16-ethereum-full-node-25k-on-infura-vs-one-third-on-d-vyvv
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeFi Summit - Conference Day 1 - June 15th (Tuesday) (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=V3b3aoKEnEA&t=23412s
 timestamp: "06:30:12"

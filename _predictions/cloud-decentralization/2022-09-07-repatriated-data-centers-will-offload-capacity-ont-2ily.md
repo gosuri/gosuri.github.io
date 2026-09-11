@@ -8,6 +8,8 @@ title: "Repatriated data centers will offload capacity onto Akash"
 permalink: /predictions/cloud-decentralization/2022-09-07-repatriated-data-centers-will-offload-capacity-ont-2ily/
 slug_id: 2022-09-07-repatriated-data-centers-will-offload-capacity-ont-2ily
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - The Return of the Datacenter (Akash Network)"
 source_url: https://www.youtube.com/watch?v=6hLxObUgwDA&t=43s
 timestamp: "00:00:43"

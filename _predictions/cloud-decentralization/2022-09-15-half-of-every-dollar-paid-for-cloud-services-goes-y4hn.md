@@ -8,6 +8,8 @@ title: "Half of every dollar paid for cloud services goes to \"Uncle Jeff\""
 permalink: /predictions/cloud-decentralization/2022-09-15-half-of-every-dollar-paid-for-cloud-services-goes-y4hn/
 slug_id: 2022-09-15-half-of-every-dollar-paid-for-cloud-services-goes-y4hn
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 14th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Ckp4eQ94ojM&t=824s
 timestamp: "00:13:44"

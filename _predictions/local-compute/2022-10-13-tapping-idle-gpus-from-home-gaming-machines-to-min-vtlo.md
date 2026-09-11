@@ -7,7 +7,9 @@ year: "2022"
 title: "Tapping idle GPUs from home gaming machines to mining data centers"
 permalink: /predictions/local-compute/2022-10-13-tapping-idle-gpus-from-home-gaming-machines-to-min-vtlo/
 slug_id: 2022-10-13-tapping-idle-gpus-from-home-gaming-machines-to-min-vtlo
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 12th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=6r_OON8CNPs&t=435s
 timestamp: "00:07:15"

@@ -8,6 +8,8 @@ title: "AI power needs grow half an order of magnitude per year — beyond 1GW m
 permalink: /predictions/energy-ai/2024-11-09-ai-power-needs-grow-half-an-order-of-magnitude-per-nofg/
 slug_id: 2024-11-09-ai-power-needs-grow-half-an-order-of-magnitude-per-nofg
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"
 source_url: https://www.youtube.com/watch?v=3_gGBRqzxrQ&t=2396s
 timestamp: "00:39:56"

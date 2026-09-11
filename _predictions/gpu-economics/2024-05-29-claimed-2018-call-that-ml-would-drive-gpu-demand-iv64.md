@@ -7,7 +7,9 @@ year: "2024"
 title: "Claimed 2018 call that ML would drive GPU demand"
 permalink: /predictions/gpu-economics/2024-05-29-claimed-2018-call-that-ml-would-drive-gpu-demand-iv64/
 slug_id: 2024-05-29-claimed-2018-call-that-ml-would-drive-gpu-demand-iv64
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=60mmj3bNzB0&t=543s
 timestamp: "00:09:03"

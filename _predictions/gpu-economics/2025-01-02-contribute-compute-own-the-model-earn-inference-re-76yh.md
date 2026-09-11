@@ -7,7 +7,9 @@ year: "2025"
 title: "Contribute compute, own the model, earn inference revenue"
 permalink: /predictions/gpu-economics/2025-01-02-contribute-compute-own-the-model-earn-inference-re-76yh/
 slug_id: 2025-01-02-contribute-compute-own-the-model-earn-inference-re-76yh
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"AI Sovereignty: Building the Path to Individual AI with Greg Osuri\" (The Outpost Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476
 timestamp: "00:38:15"

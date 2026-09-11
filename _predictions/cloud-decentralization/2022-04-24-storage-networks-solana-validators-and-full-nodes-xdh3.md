@@ -8,6 +8,8 @@ title: "Storage networks, Solana validators, and full nodes will run on Akash"
 permalink: /predictions/cloud-decentralization/2022-04-24-storage-networks-solana-validators-and-full-nodes-xdh3/
 slug_id: 2022-04-24-storage-networks-solana-validators-and-full-nodes-xdh3
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akash Weekly: Testnet 3, Week 1 Challenges\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=197CuLD5Ahw&t=1025s
 timestamp: "00:17:05"

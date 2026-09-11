@@ -7,7 +7,9 @@ year: "2024"
 title: "Specialization is a myth"
 permalink: /predictions/other/2024-05-20-specialization-is-a-myth-2com/
 slug_id: 2024-05-20-specialization-is-a-myth-2com
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO of Overclock Labs & Akash N... (Techpost)"
 source_url: https://www.youtube.com/watch?v=C_MLHtkyyxw&t=1855s
 timestamp: "00:30:55"

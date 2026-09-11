@@ -8,6 +8,8 @@ title: "300-500 providers beats Amazon on geo-presence"
 permalink: /predictions/cloud-decentralization/2022-06-16-300-500-providers-beats-amazon-on-geo-presence-ymrd/
 slug_id: 2022-06-16-300-500-providers-beats-amazon-on-geo-presence-ymrd
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 15th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=y5_GlfUj5to&t=1928s
 timestamp: "00:32:08"

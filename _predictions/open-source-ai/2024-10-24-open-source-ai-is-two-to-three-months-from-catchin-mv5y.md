@@ -8,6 +8,8 @@ title: "Open source AI is two to three months from catching closed AI"
 permalink: /predictions/open-source-ai/2024-10-24-open-source-ai-is-two-to-three-months-from-catchin-mv5y/
 slug_id: 2024-10-24-open-source-ai-is-two-to-three-months-from-catchin-mv5y
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=OHQnZEaMEHU&t=480s
 timestamp: "00:08:00"

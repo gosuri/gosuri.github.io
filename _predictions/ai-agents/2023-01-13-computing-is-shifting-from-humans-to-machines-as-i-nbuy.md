@@ -8,6 +8,8 @@ title: "Computing is shifting from humans to machines as its users"
 permalink: /predictions/ai-agents/2023-01-13-computing-is-shifting-from-humans-to-machines-as-i-nbuy/
 slug_id: 2023-01-13-computing-is-shifting-from-humans-to-machines-as-i-nbuy
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=qdQFOS-uG_A&t=1121s
 timestamp: "00:18:41"

@@ -8,6 +8,8 @@ title: "The invisible cloud tax on every online service"
 permalink: /predictions/cloud-decentralization/2024-10-24-the-invisible-cloud-tax-on-every-online-service-3mtm/
 slug_id: 2024-10-24-the-invisible-cloud-tax-on-every-online-service-3mtm
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Supercloud - by Greg Osuri, Akash (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=pmEVbRTw_5k&t=313s
 timestamp: "00:05:13"

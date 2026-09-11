@@ -7,7 +7,9 @@ year: "2025"
 title: "Phase 3: homes, schools, communities — every GPU earns in the new compute economy"
 permalink: /predictions/local-compute/2025-07-01-phase-3-homes-schools-communities-every-gpu-earns-gxw3/
 slug_id: 2025-07-01-phase-3-homes-schools-communities-every-gpu-earns-gxw3
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=FBHsD1bgtvc&t=631s
 timestamp: "00:10:31"

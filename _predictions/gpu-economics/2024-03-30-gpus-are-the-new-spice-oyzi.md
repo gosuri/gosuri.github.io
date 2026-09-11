@@ -7,7 +7,9 @@ year: "2024"
 title: "GPUs are the new spice"
 permalink: /predictions/gpu-economics/2024-03-30-gpus-are-the-new-spice-oyzi/
 slug_id: 2024-03-30-gpus-are-the-new-spice-oyzi
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "X Spaces with Akash Network: Democratizing Compute on Subnet 27 (Nodexo)"
 source_url: https://www.youtube.com/watch?v=77HfFvrhmsQ&t=571s
 timestamp: "00:09:31"

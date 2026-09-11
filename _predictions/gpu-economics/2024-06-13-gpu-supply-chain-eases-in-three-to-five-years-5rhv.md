@@ -7,7 +7,9 @@ year: "2024"
 title: "GPU supply chain eases in three to five years"
 permalink: /predictions/gpu-economics/2024-06-13-gpu-supply-chain-eases-in-three-to-five-years-5rhv/
 slug_id: 2024-06-13-gpu-supply-chain-eases-in-three-to-five-years-5rhv
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"
 source_url: https://www.youtube.com/watch?v=RYs9UTXv43Q&t=2225s
 timestamp: "00:37:05"

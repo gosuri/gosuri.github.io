@@ -7,7 +7,9 @@ year: "2025"
 title: "Anything with \"GPT\" in the title is generally a scam"
 permalink: /predictions/other/2025-04-18-anything-with-gpt-in-the-title-is-generally-a-scam-mlx7/
 slug_id: 2025-04-18-anything-with-gpt-in-the-title-is-generally-a-scam-mlx7
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"
 source_url: https://www.youtube.com/watch?v=ImwkqmOSUkE&t=1037s
 timestamp: "00:17:17"

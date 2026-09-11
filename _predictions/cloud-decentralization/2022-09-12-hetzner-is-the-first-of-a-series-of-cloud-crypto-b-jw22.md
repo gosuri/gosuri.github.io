@@ -8,6 +8,8 @@ title: "Hetzner is the first of a series of cloud crypto bans"
 permalink: /predictions/cloud-decentralization/2022-09-12-hetzner-is-the-first-of-a-series-of-cloud-crypto-b-jw22/
 slug_id: 2022-09-12-hetzner-is-the-first-of-a-series-of-cloud-crypto-b-jw22
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - What the Hetzner ban means for Akash (Akash Network)"
 source_url: https://www.youtube.com/watch?v=ezIAHMU_Cxw&t=0s
 timestamp: "00:00:00"

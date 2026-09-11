@@ -7,7 +7,9 @@ year: "2024"
 title: "AI can't embed in everyday products — not enough chips"
 permalink: /predictions/gpu-economics/2024-06-13-ai-can-t-embed-in-everyday-products-not-enough-chi-pcqz/
 slug_id: 2024-06-13-ai-can-t-embed-in-everyday-products-not-enough-chi-pcqz
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"
 source_url: https://www.youtube.com/watch?v=RYs9UTXv43Q&t=2576s
 timestamp: "00:42:56"

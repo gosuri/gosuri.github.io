@@ -7,7 +7,9 @@ year: "2024"
 title: "Host a model, pay with Bitcoin, secure on Bitcoin — bringing intelligence to Bitcoin"
 permalink: /predictions/decentralized-ai/2024-11-19-host-a-model-pay-with-bitcoin-secure-on-bitcoin-br-arnn/
 slug_id: 2024-11-19-host-a-model-pay-with-bitcoin-secure-on-bitcoin-br-arnn
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Bitcoin Renaissance - Greg Osuri of Akash Network (Bigeye Studios)"
 source_url: https://www.youtube.com/watch?v=q8bZj9_HQXY&t=298s
 timestamp: "00:04:58"

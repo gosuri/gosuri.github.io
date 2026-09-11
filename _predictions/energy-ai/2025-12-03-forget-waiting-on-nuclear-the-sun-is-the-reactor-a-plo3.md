@@ -8,6 +8,8 @@ title: "Forget waiting on nuclear — the sun is the reactor, and homes are the 
 permalink: /predictions/energy-ai/2025-12-03-forget-waiting-on-nuclear-the-sun-is-the-reactor-a-plo3/
 slug_id: 2025-12-03-forget-waiting-on-nuclear-the-sun-is-the-reactor-a-plo3
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=608s
 timestamp: "00:10:08"

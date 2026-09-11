@@ -7,7 +7,9 @@ year: "2026"
 title: "AI-crypto convergence forced by energy and privacy crises"
 permalink: /predictions/crypto-depin/2026-03-28-ai-crypto-convergence-forced-by-energy-and-privacy-7zc2/
 slug_id: 2026-03-28-ai-crypto-convergence-forced-by-energy-and-privacy-7zc2
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=3856s
 timestamp: "01:04:16"

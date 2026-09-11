@@ -8,6 +8,8 @@ title: "Never trust intimate data leaving your own network"
 permalink: /predictions/local-ai/2026-02-24-never-trust-intimate-data-leaving-your-own-network-wrdl/
 slug_id: 2026-02-24-never-trust-intimate-data-leaving-your-own-network-wrdl
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=11752s
 timestamp: "03:15:52"

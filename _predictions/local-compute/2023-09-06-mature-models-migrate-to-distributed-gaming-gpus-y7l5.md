@@ -7,7 +7,9 @@ year: "2023"
 title: "Mature models migrate to distributed gaming GPUs"
 permalink: /predictions/local-compute/2023-09-06-mature-models-migrate-to-distributed-gaming-gpus-y7l5/
 slug_id: 2023-09-06-mature-models-migrate-to-distributed-gaming-gpus-y7l5
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"#3 - Akash Network with Greg Osuri\" (Weapons of Mass Adoption)"
 source_url: https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051
 timestamp: "00:41:37"

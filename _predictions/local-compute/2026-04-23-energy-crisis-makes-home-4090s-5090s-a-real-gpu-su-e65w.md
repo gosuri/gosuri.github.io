@@ -7,7 +7,9 @@ year: "2026"
 title: "Energy crisis makes home 4090s/5090s a real GPU supply source"
 permalink: /predictions/local-compute/2026-04-23-energy-crisis-makes-home-4090s-5090s-a-real-gpu-su-e65w/
 slug_id: 2026-04-23-energy-crisis-makes-home-4090s-5090s-a-real-gpu-su-e65w
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=1352s
 timestamp: "00:22:32"

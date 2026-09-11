@@ -7,7 +7,9 @@ year: "2021"
 title: "The world's workloads are going ML/AI — that's where the Teslas come in"
 permalink: /predictions/local-compute/2021-04-09-the-world-s-workloads-are-going-ml-ai-that-s-where-g7qt/
 slug_id: 2021-04-09-the-world-s-workloads-are-going-ml-ai-that-s-where-g7qt
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (Cosmos)"
 source_url: https://www.youtube.com/watch?v=4xlOVeUXd90&t=3617s
 timestamp: "01:00:17"

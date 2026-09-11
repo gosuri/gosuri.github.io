@@ -8,6 +8,8 @@ title: "States that don't innovate on energy policy will be left behind"
 permalink: /predictions/energy-ai/2025-06-24-states-that-don-t-innovate-on-energy-policy-will-b-yacd/
 slug_id: 2025-06-24-states-that-don-t-innovate-on-energy-policy-will-b-yacd
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=17548s
 timestamp: "04:52:28"

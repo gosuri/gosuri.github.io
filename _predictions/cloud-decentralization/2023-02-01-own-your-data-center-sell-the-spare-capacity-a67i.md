@@ -8,6 +8,8 @@ title: "Own your data center, sell the spare capacity"
 permalink: /predictions/cloud-decentralization/2023-02-01-own-your-data-center-sell-the-spare-capacity-a67i/
 slug_id: 2023-02-01-own-your-data-center-sell-the-spare-capacity-a67i
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Messari Happy Hour Ep11 (Messari)"
 source_url: https://www.youtube.com/watch?v=q9cuO5P42i4&t=1434s
 timestamp: "00:23:54"

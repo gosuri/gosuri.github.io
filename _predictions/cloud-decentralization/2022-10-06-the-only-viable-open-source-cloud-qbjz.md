@@ -8,6 +8,8 @@ title: "The only viable open source cloud"
 permalink: /predictions/cloud-decentralization/2022-10-06-the-only-viable-open-source-cloud-qbjz/
 slug_id: 2022-10-06-the-only-viable-open-source-cloud-qbjz
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 5th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=_NZhdhw5f4s&t=179s
 timestamp: "00:02:59"

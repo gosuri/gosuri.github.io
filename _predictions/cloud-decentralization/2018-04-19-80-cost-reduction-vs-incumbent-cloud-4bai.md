@@ -8,6 +8,8 @@ title: "80% cost reduction vs. incumbent cloud"
 permalink: /predictions/cloud-decentralization/2018-04-19-80-cost-reduction-vs-incumbent-cloud-4bai/
 slug_id: 2018-04-19-80-cost-reduction-vs-incumbent-cloud-4bai
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri: The Akash Network (Block 2thefuture)"
 source_url: https://www.youtube.com/watch?v=fVVvEFkIaUU&t=45s
 timestamp: "00:00:45"

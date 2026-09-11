@@ -8,6 +8,8 @@ title: "DAOs will deploy cloud workloads directly via smart contracts"
 permalink: /predictions/cloud-decentralization/2022-07-28-daos-will-deploy-cloud-workloads-directly-via-smar-j6ed/
 slug_id: 2022-07-28-daos-will-deploy-cloud-workloads-directly-via-smar-j6ed
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 27th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Iom_BfWzk40&t=861s
 timestamp: "00:14:21"

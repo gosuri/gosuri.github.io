@@ -7,7 +7,9 @@ year: "2021"
 title: "85-90% of data centers are idle; Akash costs one-third of Amazon"
 permalink: /predictions/gpu-economics/2021-07-14-85-90-of-data-centers-are-idle-akash-costs-one-thi-2fvx/
 slug_id: 2021-07-14-85-90-of-data-centers-are-idle-akash-costs-one-thi-2fvx
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 1 OF 2 (Crypto Rich)"
 source_url: https://www.youtube.com/watch?v=g7fFyRgivoU&t=300s
 timestamp: "00:05:00"

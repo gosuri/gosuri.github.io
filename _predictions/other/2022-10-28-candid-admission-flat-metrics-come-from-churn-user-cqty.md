@@ -7,7 +7,9 @@ year: "2022"
 title: "Candid admission: flat metrics come from churn — users simply run out of escrow"
 permalink: /predictions/other/2022-10-28-candid-admission-flat-metrics-come-from-churn-user-cqty/
 slug_id: 2022-10-28-candid-admission-flat-metrics-come-from-churn-user-cqty
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=c0SEzEtNZ8k&t=2210s
 timestamp: "00:36:50"

@@ -8,6 +8,8 @@ title: "Agent meetings beat employee meetings"
 permalink: /predictions/ai-agents/2026-02-24-agent-meetings-beat-employee-meetings-e6bk/
 slug_id: 2026-02-24-agent-meetings-beat-employee-meetings-e6bk
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=12094s
 timestamp: "03:21:34"

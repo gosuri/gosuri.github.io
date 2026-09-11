@@ -8,6 +8,8 @@ title: "A viable open-source cloud already exists"
 permalink: /predictions/cloud-decentralization/2023-05-09-a-viable-open-source-cloud-already-exists-o6lb/
 slug_id: 2023-05-09-a-viable-open-source-cloud-already-exists-o6lb
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG (April 26, 2023) (The Bittensor Hub)"
 source_url: https://www.youtube.com/watch?v=1wJUY7jNDXQ&t=2714s
 timestamp: "00:45:14"

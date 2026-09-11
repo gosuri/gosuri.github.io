@@ -8,6 +8,8 @@ title: "The 50% \"Uncle Jeff tax\" on online services"
 permalink: /predictions/cloud-decentralization/2022-10-04-the-50-uncle-jeff-tax-on-online-services-qslk/
 slug_id: 2022-10-04-the-50-uncle-jeff-tax-on-online-services-qslk
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"
 source_url: https://www.youtube.com/watch?v=gLzJoHmx4Js&t=513s
 timestamp: "00:08:33"

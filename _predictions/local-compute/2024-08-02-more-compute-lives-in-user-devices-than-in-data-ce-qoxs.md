@@ -7,7 +7,9 @@ year: "2024"
 title: "More compute lives in user devices than in data centers"
 permalink: /predictions/local-compute/2024-08-02-more-compute-lives-in-user-devices-than-in-data-ce-qoxs/
 slug_id: 2024-08-02-more-compute-lives-in-user-devices-than-in-data-ce-qoxs
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, Marko Stokic, Michael Heinrich & Luki Song on Can User-Owned AI Compete with Big Tech? (Nebular)"
 source_url: https://www.youtube.com/watch?v=9bEi1i2c12E&t=135s
 timestamp: "00:02:15"

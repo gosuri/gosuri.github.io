@@ -8,6 +8,8 @@ title: "Clouds stifle open-source innovation"
 permalink: /predictions/cloud-decentralization/2018-04-19-clouds-stifle-open-source-innovation-h6iq/
 slug_id: 2018-04-19-clouds-stifle-open-source-innovation-h6iq
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri: The Akash Network (Block 2thefuture)"
 source_url: https://www.youtube.com/watch?v=fVVvEFkIaUU&t=220s
 timestamp: "00:03:40"

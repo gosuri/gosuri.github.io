@@ -7,7 +7,9 @@ year: "2024"
 title: "Nvidia won't stay dominant — \"I don't want to live in a digital feudalism\""
 permalink: /predictions/gpu-economics/2024-09-27-nvidia-won-t-stay-dominant-i-don-t-want-to-live-in-rdvc/
 slug_id: 2024-09-27-nvidia-won-t-stay-dominant-i-don-t-want-to-live-in-rdvc
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "IOSG OFR 13th Panel | GPU Symphony: Decentralized Compute Power (IOSG Ventures)"
 source_url: https://www.youtube.com/watch?v=_UG21_OaZLo&t=1396s
 timestamp: "00:23:16"

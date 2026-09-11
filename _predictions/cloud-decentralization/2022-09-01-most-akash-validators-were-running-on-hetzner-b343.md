@@ -8,6 +8,8 @@ title: "Most Akash validators were running on Hetzner"
 permalink: /predictions/cloud-decentralization/2022-09-01-most-akash-validators-were-running-on-hetzner-b343/
 slug_id: 2022-09-01-most-akash-validators-were-running-on-hetzner-b343
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Ask Akash - How Decentralized are Akashs Validator Nodes? (Akash Network)"
 source_url: https://www.youtube.com/watch?v=J078p6BzLK0&t=0s
 timestamp: "00:00:00"

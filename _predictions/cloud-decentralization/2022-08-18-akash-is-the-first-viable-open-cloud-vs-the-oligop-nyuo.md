@@ -8,6 +8,8 @@ title: "Akash is the first viable open cloud vs. the oligopoly"
 permalink: /predictions/cloud-decentralization/2022-08-18-akash-is-the-first-viable-open-cloud-vs-the-oligop-nyuo/
 slug_id: 2022-08-18-akash-is-the-first-viable-open-cloud-vs-the-oligop-nyuo
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 17th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=YjZFaKHqVqQ&t=2522s
 timestamp: "00:42:02"

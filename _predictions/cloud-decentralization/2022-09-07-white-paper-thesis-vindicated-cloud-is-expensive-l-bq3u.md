@@ -8,6 +8,8 @@ title: "White-paper thesis vindicated: cloud is expensive long-term"
 permalink: /predictions/cloud-decentralization/2022-09-07-white-paper-thesis-vindicated-cloud-is-expensive-l-bq3u/
 slug_id: 2022-09-07-white-paper-thesis-vindicated-cloud-is-expensive-l-bq3u
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - The Return of the Datacenter (Akash Network)"
 source_url: https://www.youtube.com/watch?v=6hLxObUgwDA&t=0s
 timestamp: "00:00:00"

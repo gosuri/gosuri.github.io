@@ -8,6 +8,8 @@ title: "Decentralization will take center stage"
 permalink: /predictions/cloud-decentralization/2022-09-15-decentralization-will-take-center-stage-wwrt/
 slug_id: 2022-09-15-decentralization-will-take-center-stage-wwrt
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 14th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Ckp4eQ94ojM&t=217s
 timestamp: "00:03:37"

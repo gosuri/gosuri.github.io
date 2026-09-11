@@ -7,7 +7,9 @@ year: "2024"
 title: "AI compute to 5% of global GDP by 2030; supply chain eases in 3-5 years"
 permalink: /predictions/gpu-economics/2024-06-19-ai-compute-to-5-of-global-gdp-by-2030-supply-chain-fu4u/
 slug_id: 2024-06-19-ai-compute-to-5-of-global-gdp-by-2030-supply-chain-fu4u
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=jyGP_9A1SVs&t=1768s
 timestamp: "00:29:28"

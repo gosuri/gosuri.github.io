@@ -8,6 +8,8 @@ title: "Four players control the cloud — what happens when few control the man
 permalink: /predictions/cloud-decentralization/2021-11-19-four-players-control-the-cloud-what-happens-when-f-inzr/
 slug_id: 2021-11-19-four-players-control-the-cloud-what-happens-when-f-inzr
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Priv8 Virtual Summit: Greg Osuri, Tor Bair, Ari Paul's Take on the Decentralized Future (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=hf6MlnDl6Rs&t=131s
 timestamp: "00:02:11"

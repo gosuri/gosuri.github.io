@@ -8,6 +8,8 @@ title: "Everyone pays an invisible Amazon tax"
 permalink: /predictions/cloud-decentralization/2021-07-15-everyone-pays-an-invisible-amazon-tax-625u/
 slug_id: 2021-07-15-everyone-pays-an-invisible-amazon-tax-625u
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Everyone Pays an Amazon Tax with Greg Osuri, Founder of Akash Network (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=1LIqYGgu8cQ&t=86s
 timestamp: "00:01:26"

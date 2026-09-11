@@ -7,7 +7,9 @@ year: "2024"
 title: "Ideally supply comes from homes — idle PS5s and Xboxes"
 permalink: /predictions/local-compute/2024-11-26-ideally-supply-comes-from-homes-idle-ps5s-and-xbox-2r5a/
 slug_id: 2024-11-26-ideally-supply-comes-from-homes-idle-ps5s-and-xbox-2r5a
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"
 source_url: https://www.youtube.com/watch?v=GwKZIY2aBe0&t=1859s
 timestamp: "00:30:59"

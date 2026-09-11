@@ -7,7 +7,9 @@ year: "2024"
 title: "Fractionalized model ownership will kick-start a revolution"
 permalink: /predictions/crypto-depin/2024-11-09-fractionalized-model-ownership-will-kick-start-a-r-adxs/
 slug_id: 2024-11-09-fractionalized-model-ownership-will-kick-start-a-r-adxs
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"
 source_url: https://www.youtube.com/watch?v=3_gGBRqzxrQ&t=1749s
 timestamp: "00:29:09"

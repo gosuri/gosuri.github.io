@@ -7,7 +7,9 @@ year: "2023"
 title: "Letting Akash borrow security from Bitcoin"
 permalink: /predictions/crypto-depin/2023-02-25-letting-akash-borrow-security-from-bitcoin-ngzr/
 slug_id: 2023-02-25-letting-akash-borrow-security-from-bitcoin-ngzr
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Live with Greg Osuri: Akash's progress in 2023, open community development, and more (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Oz-Oara8i78&t=647s
 timestamp: "00:10:47"

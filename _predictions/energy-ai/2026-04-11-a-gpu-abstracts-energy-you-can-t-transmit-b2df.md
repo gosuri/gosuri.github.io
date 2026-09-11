@@ -8,6 +8,8 @@ title: "A GPU abstracts energy you can't transmit"
 permalink: /predictions/energy-ai/2026-04-11-a-gpu-abstracts-energy-you-can-t-transmit-b2df/
 slug_id: 2026-04-11-a-gpu-abstracts-energy-you-can-t-transmit-b2df
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=8541s
 timestamp: "02:22:21"

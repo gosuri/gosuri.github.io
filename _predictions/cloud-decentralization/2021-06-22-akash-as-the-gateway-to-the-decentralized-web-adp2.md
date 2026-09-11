@@ -8,6 +8,8 @@ title: "Akash as the gateway to the decentralized web"
 permalink: /predictions/cloud-decentralization/2021-06-22-akash-as-the-gateway-to-the-decentralized-web-adp2/
 slug_id: 2021-06-22-akash-as-the-gateway-to-the-decentralized-web-adp2
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Live AMA featuring Greg Osuri from the Akash Network! (Bittrex Global)"
 source_url: https://www.youtube.com/watch?v=FqVgxTCWPgc&t=2303s
 timestamp: "00:38:23"

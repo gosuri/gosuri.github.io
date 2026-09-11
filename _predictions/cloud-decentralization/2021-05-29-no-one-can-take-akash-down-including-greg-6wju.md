@@ -8,6 +8,8 @@ title: "No one can take Akash down — including Greg"
 permalink: /predictions/cloud-decentralization/2021-05-29-no-one-can-take-akash-down-including-greg-6wju/
 slug_id: 2021-05-29-no-one-can-take-akash-down-including-greg-6wju
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Biz Call: 20210428 GregOsuri AkashNetwork (robfrankel)"
 source_url: https://www.youtube.com/watch?v=rqVL8W57O6k&t=338s
 timestamp: "00:05:38"

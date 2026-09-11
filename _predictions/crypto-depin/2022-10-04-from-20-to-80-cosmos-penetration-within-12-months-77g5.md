@@ -7,7 +7,9 @@ year: "2022"
 title: "From 20% to 80% Cosmos penetration within 12 months; DoD and drug-design users"
 permalink: /predictions/crypto-depin/2022-10-04-from-20-to-80-cosmos-penetration-within-12-months-77g5/
 slug_id: 2022-10-04-from-20-to-80-cosmos-penetration-within-12-months-77g5
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "It Just Works: Letting Mainstream Firms Plug Into Crypto - Messari Mainnet 2022 (Messari)"
 source_url: https://www.youtube.com/watch?v=Vvn-WmSXB7c&t=221s
 timestamp: "00:03:41"

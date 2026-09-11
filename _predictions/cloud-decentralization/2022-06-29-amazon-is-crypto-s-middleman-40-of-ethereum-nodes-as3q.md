@@ -8,6 +8,8 @@ title: "Amazon is crypto's middleman — 40% of Ethereum nodes"
 permalink: /predictions/cloud-decentralization/2022-06-29-amazon-is-crypto-s-middleman-40-of-ethereum-nodes-as3q/
 slug_id: 2022-06-29-amazon-is-crypto-s-middleman-40-of-ethereum-nodes-as3q
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 29th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=M6-8x4WUMjo&t=475s
 timestamp: "00:07:55"

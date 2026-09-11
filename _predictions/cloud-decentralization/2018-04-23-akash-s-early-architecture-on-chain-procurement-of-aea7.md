@@ -8,6 +8,8 @@ title: "Akash's early architecture: on-chain procurement, off-chain deployment"
 permalink: /predictions/cloud-decentralization/2018-04-23-akash-s-early-architecture-on-chain-procurement-of-aea7/
 slug_id: 2018-04-23-akash-s-early-architecture-on-chain-procurement-of-aea7
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Panel: Decentralized Storage (Block 2thefuture)"
 source_url: https://www.youtube.com/watch?v=nTHa7tr277g&t=307s
 timestamp: "00:05:07"

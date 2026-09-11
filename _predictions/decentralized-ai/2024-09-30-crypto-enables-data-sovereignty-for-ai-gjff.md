@@ -7,7 +7,9 @@ year: "2024"
 title: "Crypto enables data sovereignty for AI"
 permalink: /predictions/decentralized-ai/2024-09-30-crypto-enables-data-sovereignty-for-ai-gjff/
 slug_id: 2024-09-30-crypto-enables-data-sovereignty-for-ai-gjff
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Akash Network founder/CEO Greg Osuri at deAI Summit TOKEN2049 (Pundi X Labs)"
 source_url: https://www.youtube.com/watch?v=0WXiGaybt0M&t=89s
 timestamp: "00:01:29"

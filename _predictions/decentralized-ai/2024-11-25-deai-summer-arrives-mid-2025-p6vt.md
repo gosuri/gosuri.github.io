@@ -7,7 +7,9 @@ year: "2024"
 title: "\"DeAI summer\" arrives mid-2025"
 permalink: /predictions/decentralized-ai/2024-11-25-deai-summer-arrives-mid-2025-p6vt/
 slug_id: 2024-11-25-deai-summer-arrives-mid-2025-p6vt
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=1693s
 timestamp: "00:28:13"

@@ -8,6 +8,8 @@ title: "Unstoppable networks where agents self-replicate"
 permalink: /predictions/ai-agents/2024-03-19-unstoppable-networks-where-agents-self-replicate-hedd/
 slug_id: 2024-03-19-unstoppable-networks-where-agents-self-replicate-hedd
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"
 source_url: https://www.youtube.com/watch?v=uUoePJrzyDQ&t=1330s
 timestamp: "00:22:10"

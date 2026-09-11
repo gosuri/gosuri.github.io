@@ -8,6 +8,8 @@ title: "Everyone eventually outgrows shared infrastructure"
 permalink: /predictions/cloud-decentralization/2022-10-04-everyone-eventually-outgrows-shared-infrastructure-3rcn/
 slug_id: 2022-10-04-everyone-eventually-outgrows-shared-infrastructure-3rcn
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"
 source_url: https://www.youtube.com/watch?v=gLzJoHmx4Js&t=2860s
 timestamp: "00:47:40"

@@ -7,7 +7,9 @@ year: "2020"
 title: "DeFi front-ends will be shut down — Akash shifts liability to users"
 permalink: /predictions/crypto-depin/2020-12-10-defi-front-ends-will-be-shut-down-akash-shifts-lia-oxic/
 slug_id: 2020-12-10-defi-front-ends-will-be-shut-down-akash-shifts-lia-oxic
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"The Akashian Challenge Livestream: Phase 3 Week 1\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=7x1ct2eC_Nw&t=2105s
 timestamp: "00:35:05"

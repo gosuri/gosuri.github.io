@@ -8,6 +8,8 @@ title: "China adds a nuclear reactor of solar every 36 hours; the US can't catch
 permalink: /predictions/energy-ai/2026-03-28-china-adds-a-nuclear-reactor-of-solar-every-36-hou-kbuk/
 slug_id: 2026-03-28-china-adds-a-nuclear-reactor-of-solar-every-36-hou-kbuk
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=1717s
 timestamp: "00:28:37"

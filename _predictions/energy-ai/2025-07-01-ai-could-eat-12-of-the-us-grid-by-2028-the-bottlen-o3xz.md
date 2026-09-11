@@ -8,6 +8,8 @@ title: "AI could eat 12% of the US grid by 2028 — the bottleneck is electricit
 permalink: /predictions/energy-ai/2025-07-01-ai-could-eat-12-of-the-us-grid-by-2028-the-bottlen-o3xz/
 slug_id: 2025-07-01-ai-could-eat-12-of-the-us-grid-by-2028-the-bottlen-o3xz
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=FBHsD1bgtvc&t=88s
 timestamp: "00:01:28"

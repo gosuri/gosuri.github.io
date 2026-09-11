@@ -8,6 +8,8 @@ title: "Privacy becomes the most important factor for local AI agents"
 permalink: /predictions/local-ai/2026-03-28-privacy-becomes-the-most-important-factor-for-loca-dc34/
 slug_id: 2026-03-28-privacy-becomes-the-most-important-factor-for-loca-dc34
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=773s
 timestamp: "00:12:53"

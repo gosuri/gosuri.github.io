@@ -8,6 +8,8 @@ title: "The rise of DWS — decentralized web services"
 permalink: /predictions/cloud-decentralization/2022-07-01-the-rise-of-dws-decentralized-web-services-jk4r/
 slug_id: 2022-07-01-the-rise-of-dws-decentralized-web-services-jk4r
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "WCEF 2022: Infrastructure for the New Internet - Web3 (World Crypto Economic Forum (WCEF))"
 source_url: https://www.youtube.com/watch?v=8RlL9feMiNk&t=601s
 timestamp: "00:10:01"

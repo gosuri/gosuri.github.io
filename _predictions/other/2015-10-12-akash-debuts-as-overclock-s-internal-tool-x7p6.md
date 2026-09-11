@@ -7,7 +7,9 @@ year: "2015"
 title: "\"Akash\" debuts as Overclock's internal tool"
 permalink: /predictions/other/2015-10-12-akash-debuts-as-overclock-s-internal-tool-x7p6/
 slug_id: 2015-10-12-akash-debuts-as-overclock-s-internal-tool-x7p6
-theme_page: /predictions/other/
+theme_page: /predictions/other/2015/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "OvrClk Demo 1 – Cluster's Lifecycle (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Z-JSQpScYck&t=90s
 timestamp: "00:01:30"

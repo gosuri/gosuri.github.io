@@ -8,6 +8,8 @@ title: "He will never give remote model providers access to his life"
 permalink: /predictions/local-ai/2026-03-28-he-will-never-give-remote-model-providers-access-t-bhci/
 slug_id: 2026-03-28-he-will-never-give-remote-model-providers-access-t-bhci
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=2233s
 timestamp: "00:37:13"

@@ -7,7 +7,9 @@ year: "2023"
 title: "1% of global GDP will go to machine learning"
 permalink: /predictions/gpu-economics/2023-09-28-1-of-global-gdp-will-go-to-machine-learning-qs2i/
 slug_id: 2023-09-28-1-of-global-gdp-will-go-to-machine-learning-qs2i
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)"
 source_url: https://www.youtube.com/watch?v=GVrfHDg30-M&t=1213s
 timestamp: "00:20:13"

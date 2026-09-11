@@ -7,7 +7,9 @@ year: "2021"
 title: "\"Akash is primed to take off — there's no other possible solution\""
 permalink: /predictions/other/2021-01-30-akash-is-primed-to-take-off-there-s-no-other-possi-ugaf/
 slug_id: 2021-01-30-akash-is-primed-to-take-off-there-s-no-other-possi-ugaf
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"
 source_url: https://www.youtube.com/watch?v=-Kkj0veGYJU&t=4442s
 timestamp: "01:14:02"

@@ -7,7 +7,9 @@ year: "2024"
 title: "Post-ETF, fundamentals will reprice crypto"
 permalink: /predictions/crypto-depin/2024-01-16-post-etf-fundamentals-will-reprice-crypto-bfpp/
 slug_id: 2024-01-16-post-etf-fundamentals-will-reprice-crypto-bfpp
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akash: The Crypto-Powered Decentralized Supercloud\" (The Edge Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294
 timestamp: "00:46:08"

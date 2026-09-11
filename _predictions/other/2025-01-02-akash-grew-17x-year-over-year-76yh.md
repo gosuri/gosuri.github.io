@@ -7,7 +7,9 @@ year: "2025"
 title: "Akash grew 17x year-over-year"
 permalink: /predictions/other/2025-01-02-akash-grew-17x-year-over-year-76yh/
 slug_id: 2025-01-02-akash-grew-17x-year-over-year-76yh
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"AI Sovereignty: Building the Path to Individual AI with Greg Osuri\" (The Outpost Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476
 timestamp: "00:19:48"

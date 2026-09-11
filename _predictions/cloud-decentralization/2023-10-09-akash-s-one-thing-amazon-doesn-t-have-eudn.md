@@ -8,6 +8,8 @@ title: "Akash's one thing Amazon doesn't have"
 permalink: /predictions/cloud-decentralization/2023-10-09-akash-s-one-thing-amazon-doesn-t-have-eudn/
 slug_id: 2023-10-09-akash-s-one-thing-amazon-doesn-t-have-eudn
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri: Redefining Success Against All Odds | BTC Ep.7 (Michael Huynh)"
 source_url: https://www.youtube.com/watch?v=sV7J8rBI2yk&t=3271s
 timestamp: "00:54:31"

@@ -7,7 +7,9 @@ year: "2023"
 title: "Home supercomputers doing local inference and training"
 permalink: /predictions/local-compute/2023-05-17-home-supercomputers-doing-local-inference-and-trai-63ul/
 slug_id: 2023-05-17-home-supercomputers-doing-local-inference-and-trai-63ul
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Mission: DeFi EP 98 - Can Akash be a major player in AI with their GPU market? Founder Greg Osuri (Mission: DeFi)"
 source_url: https://www.youtube.com/watch?v=ci_r_fOVT04&t=2341s
 timestamp: "00:39:01"

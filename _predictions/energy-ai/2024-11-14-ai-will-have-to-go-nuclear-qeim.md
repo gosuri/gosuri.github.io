@@ -8,6 +8,8 @@ title: "AI will have to go nuclear"
 permalink: /predictions/energy-ai/2024-11-14-ai-will-have-to-go-nuclear-qeim/
 slug_id: 2024-11-14-ai-will-have-to-go-nuclear-qeim
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network: A New Era of Affordable, Decentralized Cloud Computing with Greg Osuri | Varuni (Thecoinrepublic)"
 source_url: https://www.youtube.com/watch?v=JE-7d8tU3WQ&t=1090s
 timestamp: "00:18:10"

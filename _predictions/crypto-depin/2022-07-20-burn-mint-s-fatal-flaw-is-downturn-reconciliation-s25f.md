@@ -7,7 +7,9 @@ year: "2022"
 title: "Burn-mint's fatal flaw is downturn reconciliation"
 permalink: /predictions/crypto-depin/2022-07-20-burn-mint-s-fatal-flaw-is-downturn-reconciliation-s25f/
 slug_id: 2022-07-20-burn-mint-s-fatal-flaw-is-downturn-reconciliation-s25f
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ask Akash: July updates on Stable Settlements? (Akash Network)"
 source_url: https://www.youtube.com/watch?v=3sE2AHvq95Y&t=42s
 timestamp: "00:00:42"

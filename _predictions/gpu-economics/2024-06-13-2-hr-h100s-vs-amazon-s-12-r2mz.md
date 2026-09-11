@@ -7,7 +7,9 @@ year: "2024"
 title: "$2/hr H100s vs Amazon's $12"
 permalink: /predictions/gpu-economics/2024-06-13-2-hr-h100s-vs-amazon-s-12-r2mz/
 slug_id: 2024-06-13-2-hr-h100s-vs-amazon-s-12-r2mz
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "A Decentralized Compute Marketplace with Greg Osuri (Software Engineering Daily)"
 source_url: https://www.youtube.com/watch?v=8O3HfvHSfqk&t=1522s
 timestamp: "00:25:22"

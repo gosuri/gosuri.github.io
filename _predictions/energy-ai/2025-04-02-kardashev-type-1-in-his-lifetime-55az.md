@@ -8,6 +8,8 @@ title: "Kardashev Type 1 in his lifetime"
 permalink: /predictions/energy-ai/2025-04-02-kardashev-type-1-in-his-lifetime-55az/
 slug_id: 2025-04-02-kardashev-type-1-in-his-lifetime-55az
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"
 source_url: https://www.youtube.com/watch?v=k0HPDluOlsQ&t=1769s
 timestamp: "00:29:29"

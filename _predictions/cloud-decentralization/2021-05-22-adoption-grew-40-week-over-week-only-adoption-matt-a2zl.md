@@ -8,6 +8,8 @@ title: "Adoption grew 40% week-over-week; only adoption matters"
 permalink: /predictions/cloud-decentralization/2021-05-22-adoption-grew-40-week-over-week-only-adoption-matt-a2zl/
 slug_id: 2021-05-22-adoption-grew-40-week-over-week-only-adoption-matt-a2zl
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Livestream: exiledsurfer and Greg Osuri (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PUBL4eguqq4&t=255s
 timestamp: "00:04:15"

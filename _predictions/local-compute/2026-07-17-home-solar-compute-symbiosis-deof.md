@@ -7,7 +7,9 @@ year: "2026"
 title: "Home solar + compute symbiosis"
 permalink: /predictions/local-compute/2026-07-17-home-solar-compute-symbiosis-deof/
 slug_id: 2026-07-17-home-solar-compute-symbiosis-deof
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=2097s
 timestamp: "00:34:57"

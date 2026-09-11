@@ -8,6 +8,8 @@ title: "Goal: cloud parity with Amazon"
 permalink: /predictions/cloud-decentralization/2024-09-10-goal-cloud-parity-with-amazon-yz36/
 slug_id: 2024-09-10-goal-cloud-parity-with-amazon-yz36
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralized solutions for cloud computing and AI  📌 Greg Osuri, Akash @ DePIN Day Austin (Fluence)"
 source_url: https://www.youtube.com/watch?v=5g9vJCIV1lo&t=647s
 timestamp: "00:10:47"

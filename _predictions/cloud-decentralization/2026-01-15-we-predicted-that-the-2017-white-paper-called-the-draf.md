@@ -8,6 +8,8 @@ title: "\"We predicted that\" — the 2017 white paper called the cloud's cost a
 permalink: /predictions/cloud-decentralization/2026-01-15-we-predicted-that-the-2017-white-paper-called-the-draf/
 slug_id: 2026-01-15-we-predicted-that-the-2017-white-paper-called-the-draf
 theme_page: /predictions/cloud-decentralization/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Remote Work Tribe Podcast: Greg Osuri (The Remote Work Tribe Podcast)"
 source_url: https://www.theremoteworktribe.com/2026/01/15/the-remote-work-tribe-podcast-greg-osuri/
 timestamp: "00:01:40"

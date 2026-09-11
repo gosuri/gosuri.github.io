@@ -8,6 +8,8 @@ title: "85% of server capacity sits unused"
 permalink: /predictions/cloud-decentralization/2018-10-11-85-of-server-capacity-sits-unused-uflr/
 slug_id: 2018-10-11-85-of-server-capacity-sits-unused-uflr
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "E04 - Decentralizing the Cloud with Greg Osuri (HackerNoon)"
 source_url: https://www.youtube.com/watch?v=Nvj2ruVPfYQ&t=349s
 timestamp: "00:05:49"

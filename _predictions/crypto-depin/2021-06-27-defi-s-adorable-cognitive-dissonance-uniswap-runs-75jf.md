@@ -7,7 +7,9 @@ year: "2021"
 title: "DeFi's \"adorable\" cognitive dissonance — Uniswap runs on Amazon and Cloudflare"
 permalink: /predictions/crypto-depin/2021-06-27-defi-s-adorable-cognitive-dissonance-uniswap-runs-75jf/
 slug_id: 2021-06-27-defi-s-adorable-cognitive-dissonance-uniswap-runs-75jf
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Enter Decentralized Cloud & Unstoppable Web with Akash Network & Deeper - DeFi Conference Day 1 (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=iV6Zu5_AVKA&t=1109s
 timestamp: "00:18:29"

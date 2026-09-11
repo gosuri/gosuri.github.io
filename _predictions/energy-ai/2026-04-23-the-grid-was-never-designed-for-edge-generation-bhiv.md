@@ -8,6 +8,8 @@ title: "The grid was never designed for edge generation"
 permalink: /predictions/energy-ai/2026-04-23-the-grid-was-never-designed-for-edge-generation-bhiv/
 slug_id: 2026-04-23-the-grid-was-never-designed-for-edge-generation-bhiv
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=3202s
 timestamp: "00:53:22"

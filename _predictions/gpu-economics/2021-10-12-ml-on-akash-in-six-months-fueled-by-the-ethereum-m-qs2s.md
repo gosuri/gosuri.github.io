@@ -7,7 +7,9 @@ year: "2021"
 title: "ML on Akash in six months, fueled by the Ethereum merge's stranded GPUs"
 permalink: /predictions/gpu-economics/2021-10-12-ml-on-akash-in-six-months-fueled-by-the-ethereum-m-qs2s/
 slug_id: 2021-10-12-ml-on-akash-in-six-months-fueled-by-the-ethereum-m-qs2s
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"
 source_url: https://www.youtube.com/watch?v=PO-UpAZx-KM&t=1789s
 timestamp: "00:29:49"

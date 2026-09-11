@@ -7,7 +7,9 @@ year: "2020"
 title: "85%+ of data-center capacity sits idle across ~8.2 million data centers"
 permalink: /predictions/gpu-economics/2020-12-16-85-of-data-center-capacity-sits-idle-across-8-2-mi-eace/
 slug_id: 2020-12-16-85-of-data-center-capacity-sits-idle-across-8-2-mi-eace
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - AKASH Network (At Stake)"
 source_url: https://podcasts.apple.com/us/podcast/greg-osuri-akash-network/id1543138052?i=1000502539042
 timestamp: "00:06:02"

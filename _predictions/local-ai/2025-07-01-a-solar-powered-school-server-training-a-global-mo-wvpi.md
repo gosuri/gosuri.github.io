@@ -8,6 +8,8 @@ title: "A solar-powered school server training a global model"
 permalink: /predictions/local-ai/2025-07-01-a-solar-powered-school-server-training-a-global-mo-wvpi/
 slug_id: 2025-07-01-a-solar-powered-school-server-training-a-global-mo-wvpi
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Starcluster (Akash Network)"
 source_url: https://www.youtube.com/watch?v=zAj41xSNPeI&t=86s
 timestamp: "00:01:26"

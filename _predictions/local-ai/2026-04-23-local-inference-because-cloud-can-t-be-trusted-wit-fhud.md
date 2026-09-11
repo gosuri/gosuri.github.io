@@ -8,6 +8,8 @@ title: "Local inference because cloud can't be trusted with private data"
 permalink: /predictions/local-ai/2026-04-23-local-inference-because-cloud-can-t-be-trusted-wit-fhud/
 slug_id: 2026-04-23-local-inference-because-cloud-can-t-be-trusted-wit-fhud
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"
 source_url: https://www.youtube.com/watch?v=0fBYZPHOQds&t=2272s
 timestamp: "00:37:52"

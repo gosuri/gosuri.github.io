@@ -7,7 +7,9 @@ year: "2022"
 title: "The bear market will get worse and be prolonged"
 permalink: /predictions/other/2022-11-18-the-bear-market-will-get-worse-and-be-prolonged-yp6w/
 slug_id: 2022-11-18-the-bear-market-will-get-worse-and-be-prolonged-yp6w
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Founders Reflect on Why Akash was Created (Akash Network)"
 source_url: https://www.youtube.com/watch?v=pp_eAqIb8Jw&t=264s
 timestamp: "00:04:24"

@@ -8,6 +8,8 @@ title: "Decentralized apps must not run on Amazon"
 permalink: /predictions/cloud-decentralization/2022-02-17-decentralized-apps-must-not-run-on-amazon-4jtu/
 slug_id: 2022-02-17-decentralized-apps-must-not-run-on-amazon-4jtu
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Splitting ATOMs: How decentralized is Cosmos? ⚛️ (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=ump9HeOdi-w&t=2567s
 timestamp: "00:42:47"

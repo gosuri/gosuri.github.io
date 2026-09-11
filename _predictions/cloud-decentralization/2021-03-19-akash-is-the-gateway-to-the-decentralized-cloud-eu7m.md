@@ -8,6 +8,8 @@ title: "Akash is the gateway to the decentralized cloud"
 permalink: /predictions/cloud-decentralization/2021-03-19-akash-is-the-gateway-to-the-decentralized-cloud-eu7m/
 slug_id: 2021-03-19-akash-is-the-gateway-to-the-decentralized-cloud-eu7m
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Sunny Aggarwal, Greg Osuri and Adam Bozanich (Akash Network)"
 source_url: https://www.youtube.com/watch?v=HiTE_qXoFvM&t=3385s
 timestamp: "00:56:25"

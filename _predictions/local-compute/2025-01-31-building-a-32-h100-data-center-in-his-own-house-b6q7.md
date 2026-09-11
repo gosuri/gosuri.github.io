@@ -7,7 +7,9 @@ year: "2025"
 title: "Building a 32-H100 data center in his own house"
 permalink: /predictions/local-compute/2025-01-31-building-a-32-h100-data-center-in-his-own-house-b6q7/
 slug_id: 2025-01-31-building-a-32-h100-data-center-in-his-own-house-b6q7
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"
 source_url: https://www.youtube.com/watch?v=Eb-XhauNLNE&t=1238s
 timestamp: "00:20:38"

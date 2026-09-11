@@ -8,6 +8,8 @@ title: "Musk's 50 million GPUs make every official forecast look quaint"
 permalink: /predictions/energy-ai/2025-07-31-musk-s-50-million-gpus-make-every-official-forecas-p7mv/
 slug_id: 2025-07-31-musk-s-50-million-gpus-make-every-official-forecas-p7mv
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134
 timestamp: "00:08:45"

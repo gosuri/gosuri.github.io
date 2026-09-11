@@ -8,6 +8,8 @@ title: "Next 12 months: managed-services marketplace makes Akash a \"network of 
 permalink: /predictions/cloud-decentralization/2024-09-10-next-12-months-managed-services-marketplace-makes-ctcy/
 slug_id: 2024-09-10-next-12-months-managed-services-marketplace-makes-ctcy
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))"
 source_url: https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512
 timestamp: "00:29:26"

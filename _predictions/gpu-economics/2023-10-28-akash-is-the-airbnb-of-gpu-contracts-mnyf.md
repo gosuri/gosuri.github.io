@@ -7,7 +7,9 @@ year: "2023"
 title: "Akash is the Airbnb of GPU contracts"
 permalink: /predictions/gpu-economics/2023-10-28-akash-is-the-airbnb-of-gpu-contracts-mnyf/
 slug_id: 2023-10-28-akash-is-the-airbnb-of-gpu-contracts-mnyf
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"
 source_url: https://www.youtube.com/watch?v=ubYh3RfdQHA&t=2297s
 timestamp: "00:38:17"

@@ -8,6 +8,8 @@ title: "Akash: four years, zero unplanned downtime; AWS down ~200 times a year"
 permalink: /predictions/cloud-decentralization/2024-12-06-akash-four-years-zero-unplanned-downtime-aws-down-wije/
 slug_id: 2024-12-06-akash-four-years-zero-unplanned-downtime-aws-down-wije
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)"
 source_url: https://www.youtube.com/watch?v=VKDw4KZ23G4&t=830s
 timestamp: "00:13:50"

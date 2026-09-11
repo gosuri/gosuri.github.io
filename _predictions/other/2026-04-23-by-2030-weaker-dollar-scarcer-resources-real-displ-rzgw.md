@@ -7,7 +7,9 @@ year: "2026"
 title: "By 2030: weaker dollar, scarcer resources, real displacement"
 permalink: /predictions/other/2026-04-23-by-2030-weaker-dollar-scarcer-resources-real-displ-rzgw/
 slug_id: 2026-04-23-by-2030-weaker-dollar-scarcer-resources-real-displ-rzgw
-theme_page: /predictions/other/
+theme_page: /predictions/other/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"
 source_url: https://www.youtube.com/watch?v=0fBYZPHOQds&t=3393s
 timestamp: "00:56:33"

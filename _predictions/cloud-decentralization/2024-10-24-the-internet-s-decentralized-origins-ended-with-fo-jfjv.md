@@ -8,6 +8,8 @@ title: "The internet's decentralized origins ended with four companies in contro
 permalink: /predictions/cloud-decentralization/2024-10-24-the-internet-s-decentralized-origins-ended-with-fo-jfjv/
 slug_id: 2024-10-24-the-internet-s-decentralized-origins-ended-with-fo-jfjv
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Supercloud - by Greg Osuri, Akash (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=pmEVbRTw_5k&t=45s
 timestamp: "00:00:45"

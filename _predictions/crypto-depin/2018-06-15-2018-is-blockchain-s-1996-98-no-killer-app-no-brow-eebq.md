@@ -7,7 +7,9 @@ year: "2018"
 title: "2018 is blockchain's 1996-98: no killer app, no browser yet"
 permalink: /predictions/crypto-depin/2018-06-15-2018-is-blockchain-s-1996-98-no-killer-app-no-brow-eebq/
 slug_id: 2018-06-15-2018-is-blockchain-s-1996-98-no-killer-app-no-brow-eebq
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "S1E2 - Greg Osuri (CryptoChange.News)"
 source_url: https://archive.org/details/CryptoEp2GregOsuri
 timestamp: "00:17:34"

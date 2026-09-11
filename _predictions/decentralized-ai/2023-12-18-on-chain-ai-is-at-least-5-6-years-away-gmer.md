@@ -7,7 +7,9 @@ year: "2023"
 title: "On-chain AI is at least 5-6 years away"
 permalink: /predictions/decentralized-ai/2023-12-18-on-chain-ai-is-at-least-5-6-years-away-gmer/
 slug_id: 2023-12-18-on-chain-ai-is-at-least-5-6-years-away-gmer
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=3418s
 timestamp: "00:56:58"

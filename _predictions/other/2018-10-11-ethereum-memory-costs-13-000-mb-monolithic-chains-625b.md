@@ -7,7 +7,9 @@ year: "2018"
 title: "Ethereum memory costs $13,000/MB — monolithic chains can't scale"
 permalink: /predictions/other/2018-10-11-ethereum-memory-costs-13-000-mb-monolithic-chains-625b/
 slug_id: 2018-10-11-ethereum-memory-costs-13-000-mb-monolithic-chains-625b
-theme_page: /predictions/other/
+theme_page: /predictions/other/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "E04 - Decentralizing the Cloud with Greg Osuri (HackerNoon)"
 source_url: https://www.youtube.com/watch?v=Nvj2ruVPfYQ&t=479s
 timestamp: "00:07:59"

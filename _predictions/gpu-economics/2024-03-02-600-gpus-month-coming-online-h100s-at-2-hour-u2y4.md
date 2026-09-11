@@ -7,7 +7,9 @@ year: "2024"
 title: "600 GPUs/month coming online; H100s at $2/hour"
 permalink: /predictions/gpu-economics/2024-03-02-600-gpus-month-coming-online-h100s-at-2-hour-u2y4/
 slug_id: 2024-03-02-600-gpus-month-coming-online-h100s-at-2-hour-u2y4
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Revolutionizing GPU Access for AI Workloads | Greg Osuri - Akash Network (ETHDenver)"
 source_url: https://www.youtube.com/watch?v=S6AGsyg8v-I&t=849s
 timestamp: "00:14:09"

@@ -8,6 +8,8 @@ title: "Akash as the gateway to a decentralized cloud"
 permalink: /predictions/cloud-decentralization/2020-12-20-akash-as-the-gateway-to-a-decentralized-cloud-esch/
 slug_id: 2020-12-20-akash-as-the-gateway-to-a-decentralized-cloud-esch
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"The Akashian Challenge: Closing Live Stream\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=RXW6N4R6j80&t=3016s
 timestamp: "00:50:16"

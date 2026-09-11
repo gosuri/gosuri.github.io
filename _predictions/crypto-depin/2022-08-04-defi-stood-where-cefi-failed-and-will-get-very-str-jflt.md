@@ -7,7 +7,9 @@ year: "2022"
 title: "DeFi stood where CeFi failed — and will get very strong"
 permalink: /predictions/crypto-depin/2022-08-04-defi-stood-where-cefi-failed-and-will-get-very-str-jflt/
 slug_id: 2022-08-04-defi-stood-where-cefi-failed-and-will-get-very-str-jflt
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akask Weekly - Aug 3rd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=ZJsBvlHOIb4&t=2231s
 timestamp: "00:37:11"

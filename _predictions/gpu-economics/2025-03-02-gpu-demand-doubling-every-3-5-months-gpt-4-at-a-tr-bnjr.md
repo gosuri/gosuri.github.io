@@ -7,7 +7,9 @@ year: "2025"
 title: "GPU demand doubling every 3.5 months; GPT-4 at a trillion parameters"
 permalink: /predictions/gpu-economics/2025-03-02-gpu-demand-doubling-every-3-5-months-gpt-4-at-a-tr-bnjr/
 slug_id: 2025-03-02-gpu-demand-doubling-every-3-5-months-gpt-4-at-a-tr-bnjr
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network (AKT) Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"
 source_url: https://www.youtube.com/watch?v=328BxcY4ec4&t=1271s
 timestamp: "00:21:11"

@@ -8,6 +8,8 @@ title: "A hyperscaler will be an Akash provider within three years"
 permalink: /predictions/cloud-decentralization/2022-10-04-a-hyperscaler-will-be-an-akash-provider-within-thr-w7by/
 slug_id: 2022-10-04-a-hyperscaler-will-be-an-akash-provider-within-thr-w7by
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"
 source_url: https://www.youtube.com/watch?v=gLzJoHmx4Js&t=3284s
 timestamp: "00:54:44"

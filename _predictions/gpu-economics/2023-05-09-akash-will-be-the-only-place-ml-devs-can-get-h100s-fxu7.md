@@ -7,7 +7,9 @@ year: "2023"
 title: "Akash will be the only place ML devs can get H100s"
 permalink: /predictions/gpu-economics/2023-05-09-akash-will-be-the-only-place-ml-devs-can-get-h100s-fxu7/
 slug_id: 2023-05-09-akash-will-be-the-only-place-ml-devs-can-get-h100s-fxu7
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG (April 26, 2023) (The Bittensor Hub)"
 source_url: https://www.youtube.com/watch?v=1wJUY7jNDXQ&t=2281s
 timestamp: "00:38:01"

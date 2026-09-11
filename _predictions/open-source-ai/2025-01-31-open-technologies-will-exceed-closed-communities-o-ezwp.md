@@ -8,6 +8,8 @@ title: "Open technologies will exceed closed; communities overpower companies"
 permalink: /predictions/open-source-ai/2025-01-31-open-technologies-will-exceed-closed-communities-o-ezwp/
 slug_id: 2025-01-31-open-technologies-will-exceed-closed-communities-o-ezwp
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"
 source_url: https://www.youtube.com/watch?v=Eb-XhauNLNE&t=511s
 timestamp: "00:08:31"

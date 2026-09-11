@@ -7,7 +7,9 @@ year: "2025"
 title: "Decentralization is how you disrupt OpenAI"
 permalink: /predictions/decentralized-ai/2025-03-17-decentralization-is-how-you-disrupt-openai-pnus/
 slug_id: 2025-03-17-decentralization-is-how-you-disrupt-openai-pnus
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why the Future of AI Depends on Decentralized Cloud Platforms (Eye on AI)"
 source_url: https://www.youtube.com/watch?v=Rq0UByMDUv4&t=3394s
 timestamp: "00:56:34"

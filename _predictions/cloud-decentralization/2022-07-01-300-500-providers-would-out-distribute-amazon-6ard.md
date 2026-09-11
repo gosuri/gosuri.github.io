@@ -8,6 +8,8 @@ title: "300-500 providers would out-distribute Amazon"
 permalink: /predictions/cloud-decentralization/2022-07-01-300-500-providers-would-out-distribute-amazon-6ard/
 slug_id: 2022-07-01-300-500-providers-would-out-distribute-amazon-6ard
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ask Akash: Why not focus on Web 2 adoption for Akash? (Akash Network)"
 source_url: https://www.youtube.com/watch?v=kSEJzxGmFj4&t=214s
 timestamp: "00:03:34"

@@ -7,7 +7,9 @@ year: "2023"
 title: "Nvidia is deliberately depowering the big clouds"
 permalink: /predictions/gpu-economics/2023-10-28-nvidia-is-deliberately-depowering-the-big-clouds-bwko/
 slug_id: 2023-10-28-nvidia-is-deliberately-depowering-the-big-clouds-bwko
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"
 source_url: https://www.youtube.com/watch?v=ubYh3RfdQHA&t=2211s
 timestamp: "00:36:51"

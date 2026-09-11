@@ -7,7 +7,9 @@ year: "2024"
 title: "Trial wallets will be a bigger unlock than GPUs"
 permalink: /predictions/other/2024-07-22-trial-wallets-will-be-a-bigger-unlock-than-gpus-d7oo/
 slug_id: 2024-07-22-trial-wallets-will-be-a-bigger-unlock-than-gpus-d7oo
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "[Solo Talk] Decentralization is saving AI where centralization failed by Greg Osuri (Kryptoplanet[Official])"
 source_url: https://www.youtube.com/watch?v=YAOp0b8Bb6k&t=1258s
 timestamp: "00:20:58"

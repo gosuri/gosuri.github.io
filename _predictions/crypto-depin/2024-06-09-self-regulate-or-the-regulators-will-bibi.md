@@ -7,7 +7,9 @@ year: "2024"
 title: "Self-regulate or the regulators will"
 permalink: /predictions/crypto-depin/2024-06-09-self-regulate-or-the-regulators-will-bibi/
 slug_id: 2024-06-09-self-regulate-or-the-regulators-will-bibi
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fVYeAVvuNLI&t=15430s
 timestamp: "04:17:10"

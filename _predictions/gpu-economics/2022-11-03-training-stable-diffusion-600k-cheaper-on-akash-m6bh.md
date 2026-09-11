@@ -7,7 +7,9 @@ year: "2022"
 title: "Training Stable Diffusion: ~$600k, cheaper on Akash"
 permalink: /predictions/gpu-economics/2022-11-03-training-stable-diffusion-600k-cheaper-on-akash-m6bh/
 slug_id: 2022-11-03-training-stable-diffusion-600k-cheaper-on-akash-m6bh
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 2nd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=XQVGt-fdKPY&t=2097s
 timestamp: "00:34:57"

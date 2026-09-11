@@ -7,7 +7,9 @@ year: "2026"
 title: "Take compute to where the power is"
 permalink: /predictions/local-compute/2026-07-17-take-compute-to-where-the-power-is-gfxc/
 slug_id: 2026-07-17-take-compute-to-where-the-power-is-gfxc
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1970s
 timestamp: "00:32:50"

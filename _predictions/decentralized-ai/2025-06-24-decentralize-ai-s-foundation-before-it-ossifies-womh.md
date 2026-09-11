@@ -7,7 +7,9 @@ year: "2025"
 title: "Decentralize AI's foundation before it ossifies"
 permalink: /predictions/decentralized-ai/2025-06-24-decentralize-ai-s-foundation-before-it-ossifies-womh/
 slug_id: 2025-06-24-decentralize-ai-s-foundation-before-it-ossifies-womh
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=16007s
 timestamp: "04:26:47"

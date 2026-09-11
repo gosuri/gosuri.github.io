@@ -1,7 +1,8 @@
 # Per-video analysis spec (for analysis agents)
 
-You are processing transcripts of public video appearances by **Greg Osuri**
-(founder/CEO of Akash Network, formerly Overclock Labs; also founded AngelHack).
+You are processing transcripts of public video appearances involving **Greg Osuri**
+(founder and CEO of Overclock Labs, the team behind Akash Network; he also founded
+AngelHack).
 Goal: build a searchable archive of his statements, **especially predictions about
 local compute and local AI powering the future**.
 
@@ -36,6 +37,9 @@ What was discussed, Greg's main arguments, anything notable or dated.>
 ## Predictions & Notable Claims
 
 ### [<theme>] <short label>
+**Speaker:** <Greg Osuri | another speaker's full name | Unknown>
+**Attribution:** <attributed | uncertain>
+
 > "<verbatim quote from transcript — trim filler words but do not paraphrase>"
 > — [HH:MM:SS](https://www.youtube.com/watch?v=<id>&t=<seconds>s)
 
@@ -59,11 +63,14 @@ consumer devices running models, personal AI, home GPUs earning income, data sov
 add sensible punctuation/casing but keep the words). Timestamp = the `[HH:MM:SS]` block
 containing the quote; the `t=` param is that timestamp in integer seconds.
 
-**Speaker caution:** captions are not diarized. Attribute a quote to Greg only when
-context makes it clear he's speaking (host questions vs. answers, keynote = him, panels —
-be careful). If it's another speaker or ambiguous, either skip it or note
-`**Speaker:** possibly not Greg` in Context. In `third-party` videos (reviews about
-Akash without him), `greg_speaks: no`, extract nothing unless they quote him directly.
+**Speaker caution:** captions are not diarized. Every extracted record must have both
+top-level speaker fields. Use `Greg Osuri` / `attributed` only when context makes it
+clear he is speaking (host questions vs. answers, keynote = him, panels — be careful).
+Use a clearly identified other speaker's full name / `attributed` for their quote. Use
+`Unknown` / `uncertain` whenever identity is ambiguous; do not put the attribution only
+in Context. In `third-party` videos (reviews about Akash without him), set
+`greg_speaks: no` and extract nothing unless the quoted speaker can be identified under
+these rules.
 
 Work through your whole assigned list. Do not skip long transcripts — chunk-read them.
 When done, reply ONLY with: `<n> pages written; <m> predictions extracted; issues: <anything odd, or "none">`

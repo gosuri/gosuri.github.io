@@ -8,6 +8,8 @@ title: "A thousand providers, then \"superiority\" over the public cloud"
 permalink: /predictions/cloud-decentralization/2022-10-13-a-thousand-providers-then-superiority-over-the-pub-ihta/
 slug_id: 2022-10-13-a-thousand-providers-then-superiority-over-the-pub-ihta
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 12th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=6r_OON8CNPs&t=479s
 timestamp: "00:07:59"

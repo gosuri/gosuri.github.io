@@ -7,7 +7,9 @@ year: "2024"
 title: "Crack distributed training and we crack AGI much sooner"
 permalink: /predictions/decentralized-ai/2024-07-17-crack-distributed-training-and-we-crack-agi-much-s-kxug/
 slug_id: 2024-07-17-crack-distributed-training-and-we-crack-agi-much-s-kxug
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Evolution to AGI Panel at Web3_AI Day | Encode Club | Linera, Ritual, Nillion, Akash Network (Linera: Real-Time Blockchain)"
 source_url: https://www.youtube.com/watch?v=-XfPrBtBiKA&t=825s
 timestamp: "00:13:45"

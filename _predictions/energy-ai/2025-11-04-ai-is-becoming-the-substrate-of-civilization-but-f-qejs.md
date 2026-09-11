@@ -8,6 +8,8 @@ title: "AI is becoming the substrate of civilization — but foundations need po
 permalink: /predictions/energy-ai/2025-11-04-ai-is-becoming-the-substrate-of-civilization-but-f-qejs/
 slug_id: 2025-11-04-ai-is-becoming-the-substrate-of-civilization-but-f-qejs
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri (PyTorch)"
 source_url: https://www.youtube.com/watch?v=T3nA1nAaLss&t=43s
 timestamp: "00:00:43"

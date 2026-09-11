@@ -7,7 +7,9 @@ year: "2023"
 title: "GPUs are 36% of all-time revenue after 90 days"
 permalink: /predictions/gpu-economics/2023-12-18-gpus-are-36-of-all-time-revenue-after-90-days-hxg7/
 slug_id: 2023-12-18-gpus-are-36-of-all-time-revenue-after-90-days-hxg7
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=1783s
 timestamp: "00:29:43"

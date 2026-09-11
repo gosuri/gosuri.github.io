@@ -7,7 +7,9 @@ year: "2025"
 title: "AGI is possible on-chain, not in private labs"
 permalink: /predictions/decentralized-ai/2025-01-31-agi-is-possible-on-chain-not-in-private-labs-h3np/
 slug_id: 2025-01-31-agi-is-possible-on-chain-not-in-private-labs-h3np
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"
 source_url: https://www.youtube.com/watch?v=Eb-XhauNLNE&t=2605s
 timestamp: "00:43:25"

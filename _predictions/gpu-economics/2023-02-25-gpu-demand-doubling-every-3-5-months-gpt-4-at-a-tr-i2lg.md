@@ -7,7 +7,9 @@ year: "2023"
 title: "GPU demand doubling every 3.5 months; GPT-4 at a trillion parameters"
 permalink: /predictions/gpu-economics/2023-02-25-gpu-demand-doubling-every-3-5-months-gpt-4-at-a-tr-i2lg/
 slug_id: 2023-02-25-gpu-demand-doubling-every-3-5-months-gpt-4-at-a-tr-i2lg
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Live with Greg Osuri: Akash's progress in 2023, open community development, and more (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Oz-Oara8i78&t=1295s
 timestamp: "00:21:35"

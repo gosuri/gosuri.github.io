@@ -7,7 +7,9 @@ year: "2018"
 title: "Ten million servers sit comatose while 76% struggle with cloud costs"
 permalink: /predictions/gpu-economics/2018-06-15-ten-million-servers-sit-comatose-while-76-struggle-eebq/
 slug_id: 2018-06-15-ten-million-servers-sit-comatose-while-76-struggle-eebq
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "S1E2 - Greg Osuri (CryptoChange.News)"
 source_url: https://archive.org/details/CryptoEp2GregOsuri
 timestamp: "00:41:31"

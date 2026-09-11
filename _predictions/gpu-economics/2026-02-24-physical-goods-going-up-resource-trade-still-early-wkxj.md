@@ -7,7 +7,9 @@ year: "2026"
 title: "Physical goods going up; resource trade still early"
 permalink: /predictions/gpu-economics/2026-02-24-physical-goods-going-up-resource-trade-still-early-wkxj/
 slug_id: 2026-02-24-physical-goods-going-up-resource-trade-still-early-wkxj
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=11495s
 timestamp: "03:11:35"

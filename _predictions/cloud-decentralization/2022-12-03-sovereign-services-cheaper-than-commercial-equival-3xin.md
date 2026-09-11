@@ -8,6 +8,8 @@ title: "Sovereign services cheaper than commercial equivalents"
 permalink: /predictions/cloud-decentralization/2022-12-03-sovereign-services-cheaper-than-commercial-equival-3xin/
 slug_id: 2022-12-03-sovereign-services-cheaper-than-commercial-equival-3xin
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - VPN use case (Akash Network)"
 source_url: https://www.youtube.com/watch?v=7uplv-KnVas&t=0s
 timestamp: "00:00:00"

@@ -7,7 +7,9 @@ year: "2021"
 title: "GPU support on Akash coming in about six months"
 permalink: /predictions/gpu-economics/2021-10-08-gpu-support-on-akash-coming-in-about-six-months-z27c/
 slug_id: 2021-10-08-gpu-support-on-akash-coming-in-about-six-months-z27c
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How do data scientist get into blockchain? Greg Osuri - The Data Scientist Show #007 (The Data Scientist Show)"
 source_url: https://www.youtube.com/watch?v=_ejhD_lNs4s&t=216s
 timestamp: "00:03:36"

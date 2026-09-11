@@ -8,6 +8,8 @@ title: "Akash's services economy will make open source sustainable"
 permalink: /predictions/open-source-ai/2025-03-17-akash-s-services-economy-will-make-open-source-sus-gsve/
 slug_id: 2025-03-17-akash-s-services-economy-will-make-open-source-sus-gsve
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why the Future of AI Depends on Decentralized Cloud Platforms (Eye on AI)"
 source_url: https://www.youtube.com/watch?v=Rq0UByMDUv4&t=2876s
 timestamp: "00:47:56"

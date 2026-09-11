@@ -8,6 +8,8 @@ title: "14-year turbine lead times are pausing mega-projects"
 permalink: /predictions/energy-ai/2026-07-17-14-year-turbine-lead-times-are-pausing-mega-projec-xszb/
 slug_id: 2026-07-17-14-year-turbine-lead-times-are-pausing-mega-projec-xszb
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1669s
 timestamp: "00:27:49"

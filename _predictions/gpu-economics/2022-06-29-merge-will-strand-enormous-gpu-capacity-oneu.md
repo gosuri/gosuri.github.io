@@ -7,7 +7,9 @@ year: "2022"
 title: "Merge will strand enormous GPU capacity"
 permalink: /predictions/gpu-economics/2022-06-29-merge-will-strand-enormous-gpu-capacity-oneu/
 slug_id: 2022-06-29-merge-will-strand-enormous-gpu-capacity-oneu
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 29th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=M6-8x4WUMjo&t=302s
 timestamp: "00:05:02"

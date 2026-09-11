@@ -7,7 +7,9 @@ year: "2020"
 title: "\"Ownerless services\": nodes that pay for their own hosting"
 permalink: /predictions/crypto-depin/2020-12-10-ownerless-services-nodes-that-pay-for-their-own-ho-qque/
 slug_id: 2020-12-10-ownerless-services-nodes-that-pay-for-their-own-ho-qque
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"The Akashian Challenge Livestream: Phase 3 Week 1\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=7x1ct2eC_Nw&t=2871s
 timestamp: "00:47:51"

@@ -8,6 +8,8 @@ title: "5,000 providers in 5,000 locations — low-latency compute impossible on
 permalink: /predictions/cloud-decentralization/2022-07-14-5-000-providers-in-5-000-locations-low-latency-com-mpfd/
 slug_id: 2022-07-14-5-000-providers-in-5-000-locations-low-latency-com-mpfd
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 13th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=D-CIXpfW13A&t=3124s
 timestamp: "00:52:04"

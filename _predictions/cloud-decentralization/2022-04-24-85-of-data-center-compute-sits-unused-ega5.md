@@ -8,6 +8,8 @@ title: "85% of data-center compute sits unused"
 permalink: /predictions/cloud-decentralization/2022-04-24-85-of-data-center-compute-sits-unused-ega5/
 slug_id: 2022-04-24-85-of-data-center-compute-sits-unused-ega5
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly: Chia (Akash Network)"
 source_url: https://www.youtube.com/watch?v=KVwZr7s92f8&t=264s
 timestamp: "00:04:24"

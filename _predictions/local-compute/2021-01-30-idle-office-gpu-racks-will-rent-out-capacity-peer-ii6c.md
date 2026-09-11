@@ -7,7 +7,9 @@ year: "2021"
 title: "Idle office GPU racks will rent out capacity peer-to-peer"
 permalink: /predictions/local-compute/2021-01-30-idle-office-gpu-racks-will-rent-out-capacity-peer-ii6c/
 slug_id: 2021-01-30-idle-office-gpu-racks-will-rent-out-capacity-peer-ii6c
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"
 source_url: https://www.youtube.com/watch?v=-Kkj0veGYJU&t=2653s
 timestamp: "00:44:13"

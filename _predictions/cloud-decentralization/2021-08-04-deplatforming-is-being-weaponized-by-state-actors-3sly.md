@@ -8,6 +8,8 @@ title: "Deplatforming is being weaponized by state actors"
 permalink: /predictions/cloud-decentralization/2021-08-04-deplatforming-is-being-weaponized-by-state-actors-3sly/
 slug_id: 2021-08-04-deplatforming-is-being-weaponized-by-state-actors-3sly
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Is The Airbnb Of Cloud (TFiR)"
 source_url: https://www.youtube.com/watch?v=MvQUKoM_1ME&t=1323s
 timestamp: "00:22:03"

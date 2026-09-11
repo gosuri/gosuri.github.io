@@ -8,6 +8,8 @@ title: "AI-empowered doctors: 10 patients a day becomes 100"
 permalink: /predictions/local-ai/2023-10-28-ai-empowered-doctors-10-patients-a-day-becomes-100-773i/
 slug_id: 2023-10-28-ai-empowered-doctors-10-patients-a-day-becomes-100-773i
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"
 source_url: https://www.youtube.com/watch?v=ubYh3RfdQHA&t=1627s
 timestamp: "00:27:07"

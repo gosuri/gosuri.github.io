@@ -7,7 +7,9 @@ year: "2023"
 title: "Fake video becomes indistinguishable within a year"
 permalink: /predictions/other/2023-09-25-fake-video-becomes-indistinguishable-within-a-year-adn4/
 slug_id: 2023-09-25-fake-video-becomes-indistinguishable-within-a-year-adn4
-theme_page: /predictions/other/
+theme_page: /predictions/other/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)"
 source_url: https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449
 timestamp: "00:29:03"

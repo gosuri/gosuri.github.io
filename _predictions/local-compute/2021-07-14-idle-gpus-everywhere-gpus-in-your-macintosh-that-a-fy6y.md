@@ -7,7 +7,9 @@ year: "2021"
 title: "Idle GPUs everywhere — \"GPUs in your Macintosh that are not used\" and Ethereum's soon-to-be-free mining fleet"
 permalink: /predictions/local-compute/2021-07-14-idle-gpus-everywhere-gpus-in-your-macintosh-that-a-fy6y/
 slug_id: 2021-07-14-idle-gpus-everywhere-gpus-in-your-macintosh-that-a-fy6y
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 2 OF 2 (Crypto Rich)"
 source_url: https://www.youtube.com/watch?v=mbT06K1zjZc&t=848s
 timestamp: "00:14:08"

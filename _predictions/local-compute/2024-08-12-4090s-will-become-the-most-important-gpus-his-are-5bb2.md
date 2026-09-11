@@ -7,7 +7,9 @@ year: "2024"
 title: "4090s will become the most important GPUs; his are earning $250 at home"
 permalink: /predictions/local-compute/2024-08-12-4090s-will-become-the-most-important-gpus-his-are-5bb2/
 slug_id: 2024-08-12-4090s-will-become-the-most-important-gpus-his-are-5bb2
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "BASS 2024 10 Ben Fielding, Greg Osuri, Guy Wuollet, Steven Willinger (Stanford Blockchain Club)"
 source_url: https://www.youtube.com/watch?v=FQZZiUAmLLI&t=1345s
 timestamp: "00:22:25"

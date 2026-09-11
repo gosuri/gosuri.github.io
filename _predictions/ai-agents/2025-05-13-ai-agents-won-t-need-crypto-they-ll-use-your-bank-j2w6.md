@@ -8,6 +8,8 @@ title: "AI agents won't need crypto — they'll use your bank account"
 permalink: /predictions/ai-agents/2025-05-13-ai-agents-won-t-need-crypto-they-ll-use-your-bank-j2w6/
 slug_id: 2025-05-13-ai-agents-won-t-need-crypto-they-ll-use-your-bank-j2w6
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)"
 source_url: https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733
 timestamp: "00:43:23"

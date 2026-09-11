@@ -7,7 +7,9 @@ year: "2021"
 title: "Half to one-fifth the cost of Amazon"
 permalink: /predictions/gpu-economics/2021-10-12-half-to-one-fifth-the-cost-of-amazon-pkwh/
 slug_id: 2021-10-12-half-to-one-fifth-the-cost-of-amazon-pkwh
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"
 source_url: https://www.youtube.com/watch?v=PO-UpAZx-KM&t=976s
 timestamp: "00:16:16"

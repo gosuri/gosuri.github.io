@@ -8,6 +8,8 @@ title: "Data centers now face 10-year interconnection queues"
 permalink: /predictions/energy-ai/2025-07-04-data-centers-now-face-10-year-interconnection-queu-i2zv/
 slug_id: 2025-07-04-data-centers-now-face-10-year-interconnection-queu-i2zv
 theme_page: /predictions/energy-ai/
+speaker: "Jason Badeaux"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Jason Badeaux from Daylight on Decentralized Energy (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Ln1nLMPnxlk&t=687s
 timestamp: "00:11:27"

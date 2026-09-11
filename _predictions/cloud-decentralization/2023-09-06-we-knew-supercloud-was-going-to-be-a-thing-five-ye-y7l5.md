@@ -8,6 +8,8 @@ title: "\"We knew supercloud was going to be a thing\" — five years early"
 permalink: /predictions/cloud-decentralization/2023-09-06-we-knew-supercloud-was-going-to-be-a-thing-five-ye-y7l5/
 slug_id: 2023-09-06-we-knew-supercloud-was-going-to-be-a-thing-five-ye-y7l5
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"#3 - Akash Network with Greg Osuri\" (Weapons of Mass Adoption)"
 source_url: https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051
 timestamp: "00:56:31"

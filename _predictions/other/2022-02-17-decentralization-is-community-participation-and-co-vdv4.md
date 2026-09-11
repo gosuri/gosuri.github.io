@@ -7,7 +7,9 @@ year: "2022"
 title: "Decentralization is community participation and continuity of operations"
 permalink: /predictions/other/2022-02-17-decentralization-is-community-participation-and-co-vdv4/
 slug_id: 2022-02-17-decentralization-is-community-participation-and-co-vdv4
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Splitting ATOMs: How decentralized is Cosmos? ⚛️ (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=ump9HeOdi-w&t=2482s
 timestamp: "00:41:22"

@@ -7,7 +7,9 @@ year: "2022"
 title: "Save incentives for growth — don't incentivize product-market fit"
 permalink: /predictions/crypto-depin/2022-08-12-save-incentives-for-growth-don-t-incentivize-produ-whol/
 slug_id: 2022-08-12-save-incentives-for-growth-don-t-incentivize-produ-whol
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 10th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=eqwoP7iMh7g&t=3365s
 timestamp: "00:56:05"

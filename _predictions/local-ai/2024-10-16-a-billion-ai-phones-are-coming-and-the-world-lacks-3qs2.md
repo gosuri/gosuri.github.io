@@ -8,6 +8,8 @@ title: "A billion AI phones are coming and the world lacks infrastructure — 8 
 permalink: /predictions/local-ai/2024-10-16-a-billion-ai-phones-are-coming-and-the-world-lacks-3qs2/
 slug_id: 2024-10-16-a-billion-ai-phones-are-coming-and-the-world-lacks-3qs2
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network's Greg Osuri on AI Fueling 1,729% Growth (Coinage)"
 source_url: https://www.youtube.com/watch?v=P8F-Ac0mitI&t=913s
 timestamp: "00:15:13"

@@ -7,7 +7,9 @@ year: "2023"
 title: "Milestone: $1 million a day in network spend"
 permalink: /predictions/gpu-economics/2023-12-19-milestone-1-million-a-day-in-network-spend-wqt4/
 slug_id: 2023-12-19-milestone-1-million-a-day-in-network-spend-wqt4
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network founder Greg Osuri - Building a Decentralized Computing Marketplace (Crypto Nuggets)"
 source_url: https://www.youtube.com/watch?v=lwpAQjvSxRE&t=3560s
 timestamp: "00:59:20"

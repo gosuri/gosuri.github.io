@@ -8,6 +8,8 @@ title: "Cloud is modern society's fabric, 80% controlled by four companies"
 permalink: /predictions/cloud-decentralization/2023-05-17-cloud-is-modern-society-s-fabric-80-controlled-by-wqz5/
 slug_id: 2023-05-17-cloud-is-modern-society-s-fabric-80-controlled-by-wqz5
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Mission: DeFi EP 98 - Can Akash be a major player in AI with their GPU market? Founder Greg Osuri (Mission: DeFi)"
 source_url: https://www.youtube.com/watch?v=ci_r_fOVT04&t=1785s
 timestamp: "00:29:45"

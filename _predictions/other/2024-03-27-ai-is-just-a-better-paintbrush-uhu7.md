@@ -7,7 +7,9 @@ year: "2024"
 title: "AI is just a better paintbrush"
 permalink: /predictions/other/2024-03-27-ai-is-just-a-better-paintbrush-uhu7/
 slug_id: 2024-03-27-ai-is-just-a-better-paintbrush-uhu7
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AtomDenver panel: AI 🤝 Crypto (Secret Network)"
 source_url: https://www.youtube.com/watch?v=999NHrdnGEo&t=445s
 timestamp: "00:07:25"

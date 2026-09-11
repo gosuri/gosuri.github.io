@@ -7,7 +7,9 @@ year: "2021"
 title: "Decentralized cloud is having its \"DeFi moment of 2018\" — big things in 2021"
 permalink: /predictions/crypto-depin/2021-02-08-decentralized-cloud-is-having-its-defi-moment-of-2-wn2e/
 slug_id: 2021-02-08-decentralized-cloud-is-having-its-defi-moment-of-2-wn2e
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"
 source_url: https://www.youtube.com/watch?v=f3tZLp2CNgI&t=2755s
 timestamp: "00:45:55"

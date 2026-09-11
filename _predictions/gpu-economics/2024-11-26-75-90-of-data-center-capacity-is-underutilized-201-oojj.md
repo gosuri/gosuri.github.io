@@ -7,7 +7,9 @@ year: "2024"
 title: "75-90% of data center capacity is underutilized (2017 supercloud paper)"
 permalink: /predictions/gpu-economics/2024-11-26-75-90-of-data-center-capacity-is-underutilized-201-oojj/
 slug_id: 2024-11-26-75-90-of-data-center-capacity-is-underutilized-201-oojj
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "What is Akash Network? Greg Osuri on Decentralized Cloud Computing | Greg Osuri - Founder of Akash (Genzio)"
 source_url: https://www.youtube.com/watch?v=pIX9lYr57fE&t=135s
 timestamp: "00:02:15"

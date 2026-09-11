@@ -7,7 +7,9 @@ year: "2022"
 title: "Incentivizing pre-product-market-fit ruins the data"
 permalink: /predictions/crypto-depin/2022-09-26-incentivizing-pre-product-market-fit-ruins-the-dat-3to4/
 slug_id: 2022-09-26-incentivizing-pre-product-market-fit-ruins-the-dat-3to4
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - Incentives/Product Market Fit (Akash Network)"
 source_url: https://www.youtube.com/watch?v=SwfTiRrH8WU&t=42s
 timestamp: "00:00:42"

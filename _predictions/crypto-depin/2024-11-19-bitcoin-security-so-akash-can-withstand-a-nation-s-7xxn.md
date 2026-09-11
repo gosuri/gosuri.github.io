@@ -7,7 +7,9 @@ year: "2024"
 title: "Bitcoin security so Akash can withstand a nation-state attack"
 permalink: /predictions/crypto-depin/2024-11-19-bitcoin-security-so-akash-can-withstand-a-nation-s-7xxn/
 slug_id: 2024-11-19-bitcoin-security-so-akash-can-withstand-a-nation-s-7xxn
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Bitcoin Renaissance - Greg Osuri of Akash Network (Bigeye Studios)"
 source_url: https://www.youtube.com/watch?v=q8bZj9_HQXY&t=50s
 timestamp: "00:00:50"

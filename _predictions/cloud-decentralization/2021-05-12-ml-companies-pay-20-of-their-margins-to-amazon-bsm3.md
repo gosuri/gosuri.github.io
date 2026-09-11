@@ -8,6 +8,8 @@ title: "ML companies pay ~20% of their margins to Amazon"
 permalink: /predictions/cloud-decentralization/2021-05-12-ml-companies-pay-20-of-their-margins-to-amazon-bsm3/
 slug_id: 2021-05-12-ml-companies-pay-20-of-their-margins-to-amazon-bsm3
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute\" (Base Layer)"
 source_url: https://podcasts.apple.com/us/podcast/base-layer-episode-209-greg-osuri-founder-of-akash/id1445373535?i=1000521492647
 timestamp: "00:11:46"

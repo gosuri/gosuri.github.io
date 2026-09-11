@@ -7,7 +7,9 @@ year: "2021"
 title: "The ultimate interoperable future: services paying for compute in their own tokens"
 permalink: /predictions/crypto-depin/2021-07-14-the-ultimate-interoperable-future-services-paying-abaa/
 slug_id: 2021-07-14-the-ultimate-interoperable-future-services-paying-abaa
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 2 OF 2 (Crypto Rich)"
 source_url: https://www.youtube.com/watch?v=mbT06K1zjZc&t=719s
 timestamp: "00:11:59"

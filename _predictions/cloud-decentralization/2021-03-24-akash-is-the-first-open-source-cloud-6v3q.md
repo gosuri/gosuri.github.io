@@ -8,6 +8,8 @@ title: "Akash is the first open source cloud"
 permalink: /predictions/cloud-decentralization/2021-03-24-akash-is-the-first-open-source-cloud-6v3q/
 slug_id: 2021-03-24-akash-is-the-first-open-source-cloud-6v3q
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK (AKT) - Decentralized clouds, Staking, Cosmos & more!  - Interview with CEO Greg Osuri (Michaël van de Poppe)"
 source_url: https://www.youtube.com/watch?v=XY33CFNI-OE&t=780s
 timestamp: "00:13:00"

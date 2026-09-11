@@ -7,7 +7,9 @@ year: "2026"
 title: "Home node program: gaming rigs earning dollars while idle"
 permalink: /predictions/local-compute/2026-04-23-home-node-program-gaming-rigs-earning-dollars-whil-jij7/
 slug_id: 2026-04-23-home-node-program-gaming-rigs-earning-dollars-whil-jij7
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=1436s
 timestamp: "00:23:56"

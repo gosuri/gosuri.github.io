@@ -7,7 +7,9 @@ year: "2022"
 title: "Enterprise churn comes from missing web3-native, non-custodial infrastructure"
 permalink: /predictions/crypto-depin/2022-10-04-enterprise-churn-comes-from-missing-web3-native-no-ppl5/
 slug_id: 2022-10-04-enterprise-churn-comes-from-missing-web3-native-no-ppl5
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "It Just Works: Letting Mainstream Firms Plug Into Crypto - Messari Mainnet 2022 (Messari)"
 source_url: https://www.youtube.com/watch?v=Vvn-WmSXB7c&t=433s
 timestamp: "00:07:13"

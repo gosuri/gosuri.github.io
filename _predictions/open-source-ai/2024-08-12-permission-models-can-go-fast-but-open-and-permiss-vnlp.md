@@ -8,6 +8,8 @@ title: "\"Permission models can go fast, but open and permissionless models can 
 permalink: /predictions/open-source-ai/2024-08-12-permission-models-can-go-fast-but-open-and-permiss-vnlp/
 slug_id: 2024-08-12-permission-models-can-go-fast-but-open-and-permiss-vnlp
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "BASS 2024 10 Ben Fielding, Greg Osuri, Guy Wuollet, Steven Willinger (Stanford Blockchain Club)"
 source_url: https://www.youtube.com/watch?v=FQZZiUAmLLI&t=878s
 timestamp: "00:14:38"

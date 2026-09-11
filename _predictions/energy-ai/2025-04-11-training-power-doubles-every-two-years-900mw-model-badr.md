@@ -8,6 +8,8 @@ title: "Training power doubles every two years — 900MW models by 2028"
 permalink: /predictions/energy-ai/2025-04-11-training-power-doubles-every-two-years-900mw-model-badr/
 slug_id: 2025-04-11-training-power-doubles-every-two-years-900mw-model-badr
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"
 source_url: https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=459s
 timestamp: "00:07:39"

@@ -7,7 +7,9 @@ year: "2021"
 title: "Censorship resistance and privacy are foundational pillars of a liberal society"
 permalink: /predictions/other/2021-01-21-censorship-resistance-and-privacy-are-foundational-y5k3/
 slug_id: 2021-01-21-censorship-resistance-and-privacy-are-foundational-y5k3
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"
 source_url: https://www.youtube.com/watch?v=sRtkAUdqNFs&t=1715s
 timestamp: "00:28:35"

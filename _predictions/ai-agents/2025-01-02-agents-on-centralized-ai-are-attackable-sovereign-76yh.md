@@ -8,6 +8,8 @@ title: "Agents on centralized AI are attackable — sovereign agents are coming"
 permalink: /predictions/ai-agents/2025-01-02-agents-on-centralized-ai-are-attackable-sovereign-76yh/
 slug_id: 2025-01-02-agents-on-centralized-ai-are-attackable-sovereign-76yh
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"AI Sovereignty: Building the Path to Individual AI with Greg Osuri\" (The Outpost Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476
 timestamp: "00:41:43"

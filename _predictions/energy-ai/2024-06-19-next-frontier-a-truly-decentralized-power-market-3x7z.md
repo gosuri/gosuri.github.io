@@ -8,6 +8,8 @@ title: "Next frontier: a truly decentralized power market"
 permalink: /predictions/energy-ai/2024-06-19-next-frontier-a-truly-decentralized-power-market-3x7z/
 slug_id: 2024-06-19-next-frontier-a-truly-decentralized-power-market-3x7z
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=jyGP_9A1SVs&t=2881s
 timestamp: "00:48:01"

@@ -7,7 +7,9 @@ year: "2026"
 title: "Distributed training becomes a thing in 6 months to a year"
 permalink: /predictions/decentralized-ai/2026-03-28-distributed-training-becomes-a-thing-in-6-months-t-xvxn/
 slug_id: 2026-03-28-distributed-training-becomes-a-thing-in-6-months-t-xvxn
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=2060s
 timestamp: "00:34:20"

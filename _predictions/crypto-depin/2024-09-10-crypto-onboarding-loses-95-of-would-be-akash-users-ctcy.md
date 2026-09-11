@@ -7,7 +7,9 @@ year: "2024"
 title: "Crypto onboarding loses 95% of would-be Akash users"
 permalink: /predictions/crypto-depin/2024-09-10-crypto-onboarding-loses-95-of-would-be-akash-users-ctcy/
 slug_id: 2024-09-10-crypto-onboarding-loses-95-of-would-be-akash-users-ctcy
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))"
 source_url: https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512
 timestamp: "00:27:22"

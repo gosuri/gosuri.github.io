@@ -8,6 +8,8 @@ title: "Ecosystem partners will replace the core team as the growth engine"
 permalink: /predictions/cloud-decentralization/2022-09-22-ecosystem-partners-will-replace-the-core-team-as-t-jorx/
 slug_id: 2022-09-22-ecosystem-partners-will-replace-the-core-team-as-t-jorx
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 21st 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=1SjcSAQKY7g&t=1807s
 timestamp: "00:30:07"

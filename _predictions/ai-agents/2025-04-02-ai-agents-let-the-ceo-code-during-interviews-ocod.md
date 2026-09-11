@@ -8,6 +8,8 @@ title: "AI agents let the CEO code during interviews"
 permalink: /predictions/ai-agents/2025-04-02-ai-agents-let-the-ceo-code-during-interviews-ocod/
 slug_id: 2025-04-02-ai-agents-let-the-ceo-code-during-interviews-ocod
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"
 source_url: https://www.youtube.com/watch?v=k0HPDluOlsQ&t=2321s
 timestamp: "00:38:41"

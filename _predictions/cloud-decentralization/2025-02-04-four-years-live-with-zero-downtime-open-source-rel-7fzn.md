@@ -8,6 +8,8 @@ title: "Four years live with zero downtime — open source reliability"
 permalink: /predictions/cloud-decentralization/2025-02-04-four-years-live-with-zero-downtime-open-source-rel-7fzn/
 slug_id: 2025-02-04-four-years-live-with-zero-downtime-open-source-rel-7fzn
 theme_page: /predictions/cloud-decentralization/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"
 source_url: https://www.youtube.com/watch?v=T43OCZf2LO0&t=614s
 timestamp: "00:10:14"

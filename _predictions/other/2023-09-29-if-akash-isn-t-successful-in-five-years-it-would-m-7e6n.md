@@ -7,7 +7,9 @@ year: "2023"
 title: "If Akash isn't successful in five years, it would move to Solana"
 permalink: /predictions/other/2023-09-29-if-akash-isn-t-successful-in-five-years-it-would-m-7e6n/
 slug_id: 2023-09-29-if-akash-isn-t-successful-in-five-years-it-would-m-7e6n
-theme_page: /predictions/other/
+theme_page: /predictions/other/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"
 source_url: https://www.youtube.com/watch?v=FDA9wqZmsY8&t=1158s
 timestamp: "00:19:18"

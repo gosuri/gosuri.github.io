@@ -7,7 +7,9 @@ year: "2023"
 title: "From cheap cloud to access cloud"
 permalink: /predictions/gpu-economics/2023-06-12-from-cheap-cloud-to-access-cloud-ngoh/
 slug_id: 2023-06-12-from-cheap-cloud-to-access-cloud-ngoh
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"
 source_url: https://www.youtube.com/watch?v=pSCkBP7Pw6Y&t=1509s
 timestamp: "00:25:09"

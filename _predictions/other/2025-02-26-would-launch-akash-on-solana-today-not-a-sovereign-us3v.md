@@ -7,7 +7,9 @@ year: "2025"
 title: "Would launch Akash on Solana today, not a sovereign chain"
 permalink: /predictions/other/2025-02-26-would-launch-akash-on-solana-today-not-a-sovereign-us3v/
 slug_id: 2025-02-26-would-launch-akash-on-solana-today-not-a-sovereign-us3v
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Everything Bagel: Open Source AI, Security, and Decentralization with Greg Osuri, Founder at Akash (The Index Podcast)"
 source_url: https://www.youtube.com/watch?v=VTJaABZMi9c&t=742s
 timestamp: "00:12:22"

@@ -8,6 +8,8 @@ title: "Akash vs AWS is Airbnb vs Hilton"
 permalink: /predictions/cloud-decentralization/2022-04-24-akash-vs-aws-is-airbnb-vs-hilton-eoty/
 slug_id: 2022-04-24-akash-vs-aws-is-airbnb-vs-hilton-eoty
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly: Introducing new VP of Engineering, Chanda Dharap (Akash Network)"
 source_url: https://www.youtube.com/watch?v=vXOJlsI_CX0&t=2495s
 timestamp: "00:41:35"

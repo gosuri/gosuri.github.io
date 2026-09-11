@@ -8,6 +8,8 @@ title: "Super Mini — a GPU for the home, because AI must remain sovereign"
 permalink: /predictions/local-ai/2023-12-11-super-mini-a-gpu-for-the-home-because-ai-must-rema-t6ni/
 slug_id: 2023-12-11-super-mini-a-gpu-for-the-home-because-ai-must-rema-t6ni
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"
 source_url: https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791
 timestamp: "00:13:08"

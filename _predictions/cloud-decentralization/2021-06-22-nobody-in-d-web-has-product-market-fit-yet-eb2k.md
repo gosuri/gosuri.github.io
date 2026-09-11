@@ -8,6 +8,8 @@ title: "Nobody in d-web has product-market fit yet"
 permalink: /predictions/cloud-decentralization/2021-06-22-nobody-in-d-web-has-product-market-fit-yet-eb2k/
 slug_id: 2021-06-22-nobody-in-d-web-has-product-market-fit-yet-eb2k
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Live AMA featuring Greg Osuri from the Akash Network! (Bittrex Global)"
 source_url: https://www.youtube.com/watch?v=FqVgxTCWPgc&t=2090s
 timestamp: "00:34:50"

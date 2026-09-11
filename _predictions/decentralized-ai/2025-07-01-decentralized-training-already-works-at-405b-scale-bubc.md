@@ -7,7 +7,9 @@ year: "2025"
 title: "Decentralized training already works at 405B scale"
 permalink: /predictions/decentralized-ai/2025-07-01-decentralized-training-already-works-at-405b-scale-bubc/
 slug_id: 2025-07-01-decentralized-training-already-works-at-405b-scale-bubc
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025  -  Greg Osuri Keynote (Akash Network)"
 source_url: https://www.youtube.com/watch?v=0BIIiQquYFI&t=437s
 timestamp: "00:07:17"

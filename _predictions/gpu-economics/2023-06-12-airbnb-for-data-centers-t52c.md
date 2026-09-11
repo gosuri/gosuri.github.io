@@ -7,7 +7,9 @@ year: "2023"
 title: "Airbnb for data centers"
 permalink: /predictions/gpu-economics/2023-06-12-airbnb-for-data-centers-t52c/
 slug_id: 2023-06-12-airbnb-for-data-centers-t52c
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"
 source_url: https://www.youtube.com/watch?v=pSCkBP7Pw6Y&t=434s
 timestamp: "00:07:14"

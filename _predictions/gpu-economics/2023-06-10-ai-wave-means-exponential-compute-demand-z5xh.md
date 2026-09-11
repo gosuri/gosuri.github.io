@@ -7,7 +7,9 @@ year: "2023"
 title: "AI wave means exponential compute demand"
 permalink: /predictions/gpu-economics/2023-06-10-ai-wave-means-exponential-compute-demand-z5xh/
 slug_id: 2023-06-10-ai-wave-means-exponential-compute-demand-z5xh
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"
 source_url: https://www.youtube.com/watch?v=3AvWFwSfbaU&t=2322s
 timestamp: "00:38:42"

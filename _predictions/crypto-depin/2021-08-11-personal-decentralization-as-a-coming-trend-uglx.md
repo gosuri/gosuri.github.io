@@ -7,7 +7,9 @@ year: "2021"
 title: "Personal decentralization as a coming trend"
 permalink: /predictions/crypto-depin/2021-08-11-personal-decentralization-as-a-coming-trend-uglx/
 slug_id: 2021-08-11-personal-decentralization-as-a-coming-trend-uglx
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)"
 source_url: https://www.podpage.com/the-index-podcast/blog/unstoppable-cloud-and-building-a/
 timestamp: "00:16:44"

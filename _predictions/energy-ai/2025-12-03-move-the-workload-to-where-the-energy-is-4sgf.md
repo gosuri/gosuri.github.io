@@ -8,6 +8,8 @@ title: "Move the workload to where the energy is"
 permalink: /predictions/energy-ai/2025-12-03-move-the-workload-to-where-the-energy-is-4sgf/
 slug_id: 2025-12-03-move-the-workload-to-where-the-energy-is-4sgf
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=263s
 timestamp: "00:04:23"

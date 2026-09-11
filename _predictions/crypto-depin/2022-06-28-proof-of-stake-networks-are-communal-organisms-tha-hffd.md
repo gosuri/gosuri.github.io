@@ -7,7 +7,9 @@ year: "2022"
 title: "Proof-of-stake networks are communal organisms that resist takeover"
 permalink: /predictions/crypto-depin/2022-06-28-proof-of-stake-networks-are-communal-organisms-tha-hffd/
 slug_id: 2022-06-28-proof-of-stake-networks-are-communal-organisms-tha-hffd
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralized Cloud - DCENTRAL Austin 2022 (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=yfBYYjtzsX0&t=1498s
 timestamp: "00:24:58"

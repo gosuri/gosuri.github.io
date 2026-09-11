@@ -7,7 +7,9 @@ year: "2024"
 title: "Full-stack decentralization, not one layer"
 permalink: /predictions/decentralized-ai/2024-03-19-full-stack-decentralization-not-one-layer-virq/
 slug_id: 2024-03-19-full-stack-decentralization-not-one-layer-virq
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"
 source_url: https://www.youtube.com/watch?v=uUoePJrzyDQ&t=818s
 timestamp: "00:13:38"

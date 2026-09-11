@@ -7,7 +7,9 @@ year: "2024"
 title: "Regulation, not competition, killed American railroads — a warning for AI"
 permalink: /predictions/other/2024-10-02-regulation-not-competition-killed-american-railroa-tra3/
 slug_id: 2024-10-02-regulation-not-competition-killed-american-railroa-tra3
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out.\" (Block Fuel)"
 source_url: https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211
 timestamp: "00:19:48"

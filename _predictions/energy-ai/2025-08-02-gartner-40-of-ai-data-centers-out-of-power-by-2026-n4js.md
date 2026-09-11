@@ -8,6 +8,8 @@ title: "Gartner: 40% of AI data centers out of power by 2026"
 permalink: /predictions/energy-ai/2025-08-02-gartner-40-of-ai-data-centers-out-of-power-by-2026-n4js/
 slug_id: 2025-08-02-gartner-40-of-ai-data-centers-out-of-power-by-2026-n4js
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=176s
 timestamp: "00:02:56"

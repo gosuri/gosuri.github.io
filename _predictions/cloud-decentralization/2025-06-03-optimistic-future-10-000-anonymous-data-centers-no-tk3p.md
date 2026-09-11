@@ -8,6 +8,8 @@ title: "Optimistic future: 10,000 anonymous data centers, not 20"
 permalink: /predictions/cloud-decentralization/2025-06-03-optimistic-future-10-000-anonymous-data-centers-no-tk3p/
 slug_id: 2025-06-03-optimistic-future-10-000-anonymous-data-centers-no-tk3p
 theme_page: /predictions/cloud-decentralization/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=2606s
 timestamp: "00:43:26"

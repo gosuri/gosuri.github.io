@@ -7,7 +7,9 @@ year: "2024"
 title: "Closed stacks go fast; open systems go far"
 permalink: /predictions/other/2024-03-30-closed-stacks-go-fast-open-systems-go-far-g3zu/
 slug_id: 2024-03-30-closed-stacks-go-fast-open-systems-go-far-g3zu
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "X Spaces with Akash Network: Democratizing Compute on Subnet 27 (Nodexo)"
 source_url: https://www.youtube.com/watch?v=77HfFvrhmsQ&t=1006s
 timestamp: "00:16:46"

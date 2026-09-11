@@ -8,6 +8,8 @@ title: "The future of inference is the home"
 permalink: /predictions/local-ai/2026-07-17-the-future-of-inference-is-the-home-nfcm/
 slug_id: 2026-07-17-the-future-of-inference-is-the-home-nfcm
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=2270s
 timestamp: "00:37:50"

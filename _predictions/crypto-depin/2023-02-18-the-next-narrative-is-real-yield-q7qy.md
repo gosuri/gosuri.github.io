@@ -7,7 +7,9 @@ year: "2023"
 title: "The next narrative is \"real yield\""
 permalink: /predictions/crypto-depin/2023-02-18-the-next-narrative-is-real-yield-q7qy/
 slug_id: 2023-02-18-the-next-narrative-is-real-yield-q7qy
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"
 source_url: https://www.youtube.com/watch?v=FwJ4-Q27CRM&t=3873s
 timestamp: "01:04:33"

@@ -8,6 +8,8 @@ title: "Akash is 8x cheaper than Amazon today"
 permalink: /predictions/cloud-decentralization/2021-04-09-akash-is-8x-cheaper-than-amazon-today-eznt/
 slug_id: 2021-04-09-akash-is-8x-cheaper-than-amazon-today-eznt
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (Cosmos)"
 source_url: https://www.youtube.com/watch?v=4xlOVeUXd90&t=510s
 timestamp: "00:08:30"

@@ -8,6 +8,8 @@ title: "Private deplatforming power is intolerable"
 permalink: /predictions/cloud-decentralization/2021-08-11-private-deplatforming-power-is-intolerable-uglx/
 slug_id: 2021-08-11-private-deplatforming-power-is-intolerable-uglx
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)"
 source_url: https://www.podpage.com/the-index-podcast/blog/unstoppable-cloud-and-building-a/
 timestamp: "00:09:24"

@@ -7,7 +7,9 @@ year: "2024"
 title: "Akash is the only network offering on-demand H100s at reasonable prices"
 permalink: /predictions/decentralized-ai/2024-07-22-akash-is-the-only-network-offering-on-demand-h100s-4hyy/
 slug_id: 2024-07-22-akash-is-the-only-network-offering-on-demand-h100s-4hyy
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "[Solo Talk] Decentralization is saving AI where centralization failed by Greg Osuri (Kryptoplanet[Official])"
 source_url: https://www.youtube.com/watch?v=YAOp0b8Bb6k&t=690s
 timestamp: "00:11:30"

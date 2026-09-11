@@ -7,7 +7,9 @@ year: "2025"
 title: "AI cannot replace a human — but AI users will replace non-users"
 permalink: /predictions/other/2025-08-02-ai-cannot-replace-a-human-but-ai-users-will-replac-nhtz/
 slug_id: 2025-08-02-ai-cannot-replace-a-human-but-ai-users-will-replac-nhtz
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=5803s
 timestamp: "01:36:43"

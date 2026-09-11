@@ -7,7 +7,9 @@ year: "2024"
 title: "\"The notion that decentralized systems cannot be fast is just wrong\" — and real products already prove it"
 permalink: /predictions/decentralized-ai/2024-08-02-the-notion-that-decentralized-systems-cannot-be-fa-sqao/
 slug_id: 2024-08-02-the-notion-that-decentralized-systems-cannot-be-fa-sqao
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, Marko Stokic, Michael Heinrich & Luki Song on Can User-Owned AI Compete with Big Tech? (Nebular)"
 source_url: https://www.youtube.com/watch?v=9bEi1i2c12E&t=915s
 timestamp: "00:15:15"

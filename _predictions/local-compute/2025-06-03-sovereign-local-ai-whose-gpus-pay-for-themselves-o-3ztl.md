@@ -7,7 +7,9 @@ year: "2025"
 title: "Sovereign local AI whose GPUs pay for themselves on Akash"
 permalink: /predictions/local-compute/2025-06-03-sovereign-local-ai-whose-gpus-pay-for-themselves-o-3ztl/
 slug_id: 2025-06-03-sovereign-local-ai-whose-gpus-pay-for-themselves-o-3ztl
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=1699s
 timestamp: "00:28:19"

@@ -7,7 +7,9 @@ year: "2018"
 title: "85% of server capacity sits underutilized"
 permalink: /predictions/gpu-economics/2018-11-09-85-of-server-capacity-sits-underutilized-wydh/
 slug_id: 2018-11-09-85-of-server-capacity-sits-underutilized-wydh
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Serverless Panel: Komal Mangtani, Greg Osuri, Guillermo Rauch, Gwen Shapira (Kong)"
 source_url: https://www.youtube.com/watch?v=8GOaS_SQWuE&t=1096s
 timestamp: "00:18:16"

@@ -7,7 +7,9 @@ year: "2024"
 title: "Nvidia is deprioritizing hyperscalers by design"
 permalink: /predictions/gpu-economics/2024-05-20-nvidia-is-deprioritizing-hyperscalers-by-design-iho5/
 slug_id: 2024-05-20-nvidia-is-deprioritizing-hyperscalers-by-design-iho5
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Hash Rate - Ep 050 - Akash Decentralized Cloud - Greg Osury (Hash Rate Podcast)"
 source_url: https://www.youtube.com/watch?v=S6niawECR8A&t=389s
 timestamp: "00:06:29"

@@ -8,6 +8,8 @@ title: "Centralized systems will absolutely fail at this scale"
 permalink: /predictions/cloud-decentralization/2023-05-17-centralized-systems-will-absolutely-fail-at-this-s-yeuo/
 slug_id: 2023-05-17-centralized-systems-will-absolutely-fail-at-this-s-yeuo
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Mission: DeFi EP 98 - Can Akash be a major player in AI with their GPU market? Founder Greg Osuri (Mission: DeFi)"
 source_url: https://www.youtube.com/watch?v=ci_r_fOVT04&t=2428s
 timestamp: "00:40:28"

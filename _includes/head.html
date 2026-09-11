@@ -3,12 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }} · {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  {% capture page_description %}{%- if page.description -%}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{%- elsif page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{%- endif -%}{% endcapture %}
-  {% assign page_description = page_description | strip %}
-  {% if page_description == "" %}
-    {% assign page_description = site.description | strip_newlines | truncate: 160 %}
-  {% endif %}
+  {% include metadata.html %}
+  <title>{{ page_title | escape }}</title>
   <meta name="description" content="{{ page_description | escape }}">
 
   <link rel="preload" href="{{ "/assets/fonts/newsreader-latin-vf.woff2" | prepend: site.baseurl }}" as="font" type="font/woff2" crossorigin>
@@ -19,8 +15,7 @@
   {%- assign css_version = site.time | date: "%s" -%}
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?v={{ css_version }}">
   <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" sizes="any">
-  {%- assign local_url = page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url -%}
-  <link rel="canonical" href="{{ page.canonical_url | default: local_url | escape }}">
+  <link rel="canonical" href="{{ canonical_url | escape }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="text/markdown" href="{{ page.url | replace: 'index.html', '' | append: 'index.md' | prepend: site.baseurl | prepend: site.url }}">
 
@@ -30,10 +25,9 @@
   a branch here without a matching source in the renderer ships a 404 og:image.
   {%- endcomment -%}
   {%- capture abs_url %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endcapture -%}
-  {%- assign og_title = page.title -%}
+  {%- assign og_title = page.seo_title | default: page.title -%}
   {%- if page.collection == "predictions" -%}
     {%- assign og_image = abs_url | append: "card.png" -%}
-    {%- capture og_desc %}“{{ page.quote | normalize_whitespace | strip | truncate: 140 }}” — Greg Osuri, {{ page.date | date: '%-d %b %Y' }}{% endcapture -%}
   {%- elsif page.layout == "post" -%}
     {%- assign og_image = abs_url | append: "card.png" -%}
   {%- elsif page.theme_slug -%}
@@ -49,11 +43,18 @@
   <meta property="og:type" content="{% if page.layout == 'post' or page.collection == 'predictions' %}article{% else %}website{% endif %}">
   <meta property="og:site_name" content="{{ site.title | escape }}">
   <meta property="og:title" content="{{ og_title | escape }}">
-  <meta property="og:description" content="{{ og_desc | default: page_description | escape }}">
+  <meta property="og:description" content="{{ page_description | escape }}">
   <meta property="og:url" content="{{ abs_url }}">
   <meta property="og:image" content="{{ og_image }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@gregosuri">
+  <meta name="twitter:description" content="{{ page_description | escape }}">
+  {% if page.layout == 'post' %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:author" content="{{ '/about/' | prepend: site.baseurl | prepend: site.url }}">
+  {% if page.last_modified_at %}<meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+  {% endif %}
+  {% include structured-data.html %}
 </head>

@@ -8,6 +8,8 @@ title: "Most global compute sits idle — bring it to market"
 permalink: /predictions/cloud-decentralization/2018-03-16-most-global-compute-sits-idle-bring-it-to-market-dg3c/
 slug_id: 2018-03-16-most-global-compute-sits-idle-bring-it-to-market-dg3c
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Decentralized Future of Cloud Infrastructure (Outlyer)"
 source_url: https://www.youtube.com/watch?v=JUGjvs6IsrU&t=400s
 timestamp: "00:06:40"

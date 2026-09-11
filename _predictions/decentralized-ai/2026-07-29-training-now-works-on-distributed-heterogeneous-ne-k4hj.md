@@ -7,7 +7,9 @@ year: "2026"
 title: "Training now works on distributed, heterogeneous networks"
 permalink: /predictions/decentralized-ai/2026-07-29-training-now-works-on-distributed-heterogeneous-ne-k4hj/
 slug_id: 2026-07-29-training-now-works-on-distributed-heterogeneous-ne-k4hj
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)"
 source_url: https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way
 timestamp: "00:39:02"

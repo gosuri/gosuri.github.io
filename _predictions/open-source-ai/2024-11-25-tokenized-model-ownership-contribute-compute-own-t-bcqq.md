@@ -8,6 +8,8 @@ title: "Tokenized model ownership: contribute compute, own the model, earn on in
 permalink: /predictions/open-source-ai/2024-11-25-tokenized-model-ownership-contribute-compute-own-t-bcqq/
 slug_id: 2024-11-25-tokenized-model-ownership-contribute-compute-own-t-bcqq
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=1606s
 timestamp: "00:26:46"

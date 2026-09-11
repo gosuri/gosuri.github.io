@@ -7,7 +7,9 @@ year: "2024"
 title: "Five unelected people controlled the world's most powerful AI"
 permalink: /predictions/decentralized-ai/2024-10-16-five-unelected-people-controlled-the-world-s-most-4w5l/
 slug_id: 2024-10-16-five-unelected-people-controlled-the-world-s-most-4w5l
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network's Greg Osuri on AI Fueling 1,729% Growth (Coinage)"
 source_url: https://www.youtube.com/watch?v=P8F-Ac0mitI&t=393s
 timestamp: "00:06:33"

@@ -7,7 +7,9 @@ year: "2022"
 title: "GPUs will be Akash's \"Netflix moment\""
 permalink: /predictions/gpu-economics/2022-10-28-gpus-will-be-akash-s-netflix-moment-ppuz/
 slug_id: 2022-10-28-gpus-will-be-akash-s-netflix-moment-ppuz
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=c0SEzEtNZ8k&t=2730s
 timestamp: "00:45:30"

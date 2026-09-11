@@ -7,7 +7,9 @@ year: "2024"
 title: "LLM costs are limiting adoption — new product cuts time and cost"
 permalink: /predictions/other/2024-11-26-llm-costs-are-limiting-adoption-new-product-cuts-t-c62c/
 slug_id: 2024-11-26-llm-costs-are-limiting-adoption-new-product-cuts-t-c62c
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "What is Akash Network? Greg Osuri on Decentralized Cloud Computing | Greg Osuri - Founder of Akash (Genzio)"
 source_url: https://www.youtube.com/watch?v=pIX9lYr57fE&t=999s
 timestamp: "00:16:39"

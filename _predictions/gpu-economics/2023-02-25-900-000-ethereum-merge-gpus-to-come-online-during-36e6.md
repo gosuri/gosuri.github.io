@@ -7,7 +7,9 @@ year: "2023"
 title: "900,000 Ethereum-merge GPUs to come online during 2023"
 permalink: /predictions/gpu-economics/2023-02-25-900-000-ethereum-merge-gpus-to-come-online-during-36e6/
 slug_id: 2023-02-25-900-000-ethereum-merge-gpus-to-come-online-during-36e6
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Live with Greg Osuri: Akash's progress in 2023, open community development, and more (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Oz-Oara8i78&t=2890s
 timestamp: "00:48:10"

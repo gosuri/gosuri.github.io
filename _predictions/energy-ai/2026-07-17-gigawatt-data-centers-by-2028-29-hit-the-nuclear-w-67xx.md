@@ -8,6 +8,8 @@ title: "Gigawatt data centers by 2028-29 hit the nuclear wall"
 permalink: /predictions/energy-ai/2026-07-17-gigawatt-data-centers-by-2028-29-hit-the-nuclear-w-67xx/
 slug_id: 2026-07-17-gigawatt-data-centers-by-2028-29-hit-the-nuclear-w-67xx
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1885s
 timestamp: "00:31:25"

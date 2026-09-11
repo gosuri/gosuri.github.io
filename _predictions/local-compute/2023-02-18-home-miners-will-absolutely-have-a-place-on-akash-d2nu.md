@@ -7,7 +7,9 @@ year: "2023"
 title: "Home miners will absolutely have a place on Akash soon"
 permalink: /predictions/local-compute/2023-02-18-home-miners-will-absolutely-have-a-place-on-akash-d2nu/
 slug_id: 2023-02-18-home-miners-will-absolutely-have-a-place-on-akash-d2nu
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"
 source_url: https://www.youtube.com/watch?v=FwJ4-Q27CRM&t=2538s
 timestamp: "00:42:18"

@@ -8,6 +8,8 @@ title: "Sovereign AI in the home — \"I'm building that\""
 permalink: /predictions/local-ai/2025-03-17-sovereign-ai-in-the-home-i-m-building-that-cses/
 slug_id: 2025-03-17-sovereign-ai-in-the-home-i-m-building-that-cses
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why the Future of AI Depends on Decentralized Cloud Platforms (Eye on AI)"
 source_url: https://www.youtube.com/watch?v=Rq0UByMDUv4&t=1352s
 timestamp: "00:22:32"

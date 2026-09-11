@@ -7,7 +7,9 @@ year: "2024"
 title: "Data centers are 85-90% underutilized"
 permalink: /predictions/gpu-economics/2024-11-14-data-centers-are-85-90-underutilized-bjtc/
 slug_id: 2024-11-14-data-centers-are-85-90-underutilized-bjtc
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network: A New Era of Affordable, Decentralized Cloud Computing with Greg Osuri | Varuni (Thecoinrepublic)"
 source_url: https://www.youtube.com/watch?v=JE-7d8tU3WQ&t=182s
 timestamp: "00:03:02"

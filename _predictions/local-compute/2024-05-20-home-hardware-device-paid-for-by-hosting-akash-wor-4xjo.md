@@ -7,7 +7,9 @@ year: "2024"
 title: "Home hardware device paid for by hosting Akash workloads"
 permalink: /predictions/local-compute/2024-05-20-home-hardware-device-paid-for-by-hosting-akash-wor-4xjo/
 slug_id: 2024-05-20-home-hardware-device-paid-for-by-hosting-akash-wor-4xjo
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO of Overclock Labs & Akash N... (Techpost)"
 source_url: https://www.youtube.com/watch?v=C_MLHtkyyxw&t=582s
 timestamp: "00:09:42"

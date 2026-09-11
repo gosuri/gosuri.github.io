@@ -8,6 +8,8 @@ title: "85-95% of compute is not being used"
 permalink: /predictions/cloud-decentralization/2021-01-21-85-95-of-compute-is-not-being-used-wwvl/
 slug_id: 2021-01-21-85-95-of-compute-is-not-being-used-wwvl
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"
 source_url: https://www.youtube.com/watch?v=sRtkAUdqNFs&t=2099s
 timestamp: "00:34:59"

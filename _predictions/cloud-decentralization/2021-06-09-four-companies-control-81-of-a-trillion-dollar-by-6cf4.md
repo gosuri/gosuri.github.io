@@ -8,6 +8,8 @@ title: "Four companies control 81% of a trillion-dollar-by-2025 market — the \
 permalink: /predictions/cloud-decentralization/2021-06-09-four-companies-control-81-of-a-trillion-dollar-by-6cf4/
 slug_id: 2021-06-09-four-companies-control-81-of-a-trillion-dollar-by-6cf4
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=i2AE257OCMA&t=552s
 timestamp: "00:09:12"

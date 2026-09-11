@@ -8,6 +8,8 @@ title: "Open source is keeping the lights on — and is the foundation for decen
 permalink: /predictions/open-source-ai/2025-07-31-open-source-is-keeping-the-lights-on-and-is-the-fo-p7mv/
 slug_id: 2025-07-31-open-source-is-keeping-the-lights-on-and-is-the-fo-p7mv
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134
 timestamp: "00:42:25"

@@ -8,6 +8,8 @@ title: "Only 9 of 91 testnet nodes were on AWS, vs Ethereum's 60%+"
 permalink: /predictions/cloud-decentralization/2020-06-22-only-9-of-91-testnet-nodes-were-on-aws-vs-ethereum-w5z4/
 slug_id: 2020-06-22-only-9-of-91-testnet-nodes-were-on-aws-vs-ethereum-w5z4
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akashian Challenge Phase 1 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=L3JjJldfU3o&t=403s
 timestamp: "00:06:43"

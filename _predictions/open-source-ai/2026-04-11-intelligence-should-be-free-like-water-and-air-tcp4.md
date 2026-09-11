@@ -8,6 +8,8 @@ title: "Intelligence should be free like water and air"
 permalink: /predictions/open-source-ai/2026-04-11-intelligence-should-be-free-like-water-and-air-tcp4/
 slug_id: 2026-04-11-intelligence-should-be-free-like-water-and-air-tcp4
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=8330s
 timestamp: "02:18:50"

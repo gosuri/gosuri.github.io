@@ -8,6 +8,8 @@ title: "85% of data center capacity unused; Akash 95% cheaper"
 permalink: /predictions/cloud-decentralization/2022-06-28-85-of-data-center-capacity-unused-akash-95-cheaper-4a5y/
 slug_id: 2022-06-28-85-of-data-center-capacity-unused-akash-95-cheaper-4a5y
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralized Cloud - DCENTRAL Austin 2022 (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=yfBYYjtzsX0&t=172s
 timestamp: "00:02:52"

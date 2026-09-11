@@ -8,6 +8,8 @@ title: "If AWS does what Akash does, we won — open systems always win"
 permalink: /predictions/cloud-decentralization/2021-05-22-if-aws-does-what-akash-does-we-won-open-systems-al-dnsi/
 slug_id: 2021-05-22-if-aws-does-what-akash-does-we-won-open-systems-al-dnsi
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Livestream: exiledsurfer and Greg Osuri (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PUBL4eguqq4&t=3277s
 timestamp: "00:54:37"

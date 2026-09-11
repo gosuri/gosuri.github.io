@@ -8,6 +8,8 @@ title: "A Type 1 civilization emerges from a network of millions, not one cloud 
 permalink: /predictions/energy-ai/2025-07-01-a-type-1-civilization-emerges-from-a-network-of-mi-ai5b/
 slug_id: 2025-07-01-a-type-1-civilization-emerges-from-a-network-of-mi-ai5b
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=FBHsD1bgtvc&t=1164s
 timestamp: "00:19:24"

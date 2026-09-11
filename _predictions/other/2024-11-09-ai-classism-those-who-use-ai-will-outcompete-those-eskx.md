@@ -7,7 +7,9 @@ year: "2024"
 title: "AI classism: those who use AI will outcompete those who don't"
 permalink: /predictions/other/2024-11-09-ai-classism-those-who-use-ai-will-outcompete-those-eskx/
 slug_id: 2024-11-09-ai-classism-those-who-use-ai-will-outcompete-those-eskx
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"
 source_url: https://www.youtube.com/watch?v=3_gGBRqzxrQ&t=3177s
 timestamp: "00:52:57"

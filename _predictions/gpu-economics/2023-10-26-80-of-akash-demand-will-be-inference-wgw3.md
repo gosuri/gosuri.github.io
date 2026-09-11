@@ -7,7 +7,9 @@ year: "2023"
 title: "80% of Akash demand will be inference"
 permalink: /predictions/gpu-economics/2023-10-26-80-of-akash-demand-will-be-inference-wgw3/
 slug_id: 2023-10-26-80-of-akash-demand-will-be-inference-wgw3
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"
 source_url: https://www.youtube.com/watch?v=CRA0yN28Dw8&t=1822s
 timestamp: "00:30:22"

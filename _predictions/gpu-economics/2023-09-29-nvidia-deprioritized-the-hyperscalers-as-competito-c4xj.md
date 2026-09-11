@@ -7,7 +7,9 @@ year: "2023"
 title: "Nvidia deprioritized the hyperscalers as competitors"
 permalink: /predictions/gpu-economics/2023-09-29-nvidia-deprioritized-the-hyperscalers-as-competito-c4xj/
 slug_id: 2023-09-29-nvidia-deprioritized-the-hyperscalers-as-competito-c4xj
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"
 source_url: https://www.youtube.com/watch?v=FDA9wqZmsY8&t=1942s
 timestamp: "00:32:22"

@@ -8,6 +8,8 @@ title: "Sovereign AI at home: agents everywhere, data never leaves"
 permalink: /predictions/local-ai/2025-04-11-sovereign-ai-at-home-agents-everywhere-data-never-q3za/
 slug_id: 2025-04-11-sovereign-ai-at-home-agents-everywhere-data-never-q3za
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"
 source_url: https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=1620s
 timestamp: "00:27:00"

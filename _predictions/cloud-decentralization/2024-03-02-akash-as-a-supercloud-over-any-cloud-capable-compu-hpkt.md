@@ -8,6 +8,8 @@ title: "Akash as a supercloud over any cloud-capable computer"
 permalink: /predictions/cloud-decentralization/2024-03-02-akash-as-a-supercloud-over-any-cloud-capable-compu-hpkt/
 slug_id: 2024-03-02-akash-as-a-supercloud-over-any-cloud-capable-compu-hpkt
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Revolutionizing GPU Access for AI Workloads | Greg Osuri - Akash Network (ETHDenver)"
 source_url: https://www.youtube.com/watch?v=S6AGsyg8v-I&t=396s
 timestamp: "00:06:36"

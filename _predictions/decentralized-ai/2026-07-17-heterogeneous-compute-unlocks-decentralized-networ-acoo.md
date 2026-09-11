@@ -7,7 +7,9 @@ year: "2026"
 title: "Heterogeneous compute unlocks decentralized networks"
 permalink: /predictions/decentralized-ai/2026-07-17-heterogeneous-compute-unlocks-decentralized-networ-acoo/
 slug_id: 2026-07-17-heterogeneous-compute-unlocks-decentralized-networ-acoo
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=2055s
 timestamp: "00:34:15"

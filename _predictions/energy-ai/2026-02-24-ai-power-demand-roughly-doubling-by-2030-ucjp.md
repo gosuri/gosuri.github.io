@@ -8,6 +8,8 @@ title: "AI power demand roughly doubling by 2030"
 permalink: /predictions/energy-ai/2026-02-24-ai-power-demand-roughly-doubling-by-2030-ucjp/
 slug_id: 2026-02-24-ai-power-demand-roughly-doubling-by-2030-ucjp
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=11366s
 timestamp: "03:09:26"

@@ -8,6 +8,8 @@ title: "85% of data center capacity is unused; Akash is one-third Amazon's price
 permalink: /predictions/cloud-decentralization/2021-06-10-85-of-data-center-capacity-is-unused-akash-is-one-y2xd/
 slug_id: 2021-06-10-85-of-data-center-capacity-is-unused-akash-is-one-y2xd
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Networks (And How Handshake Works Together) (SkyInclude)"
 source_url: https://www.youtube.com/watch?v=IhwTHcOwNwg&t=127s
 timestamp: "00:02:07"

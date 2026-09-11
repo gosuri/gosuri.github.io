@@ -7,7 +7,9 @@ year: "2023"
 title: "GPUs as the power of the future must be decentralized"
 permalink: /predictions/decentralized-ai/2023-05-09-gpus-as-the-power-of-the-future-must-be-decentrali-4f2k/
 slug_id: 2023-05-09-gpus-as-the-power-of-the-future-must-be-decentrali-4f2k
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG (April 26, 2023) (The Bittensor Hub)"
 source_url: https://www.youtube.com/watch?v=1wJUY7jNDXQ&t=263s
 timestamp: "00:04:23"

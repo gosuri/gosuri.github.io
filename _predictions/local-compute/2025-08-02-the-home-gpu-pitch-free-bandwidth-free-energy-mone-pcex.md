@@ -7,7 +7,9 @@ year: "2025"
 title: "The home GPU pitch: free bandwidth, free energy, money on top"
 permalink: /predictions/local-compute/2025-08-02-the-home-gpu-pitch-free-bandwidth-free-energy-mone-pcex/
 slug_id: 2025-08-02-the-home-gpu-pitch-free-bandwidth-free-energy-mone-pcex
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=3631s
 timestamp: "01:00:31"

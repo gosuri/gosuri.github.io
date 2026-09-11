@@ -7,7 +7,9 @@ year: "2021"
 title: "The largest migration from web2 to web3"
 permalink: /predictions/other/2021-12-22-the-largest-migration-from-web2-to-web3-2qni/
 slug_id: 2021-12-22-the-largest-migration-from-web2-to-web3-2qni
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Office Hours : End of Year Product Update (Akash Network)"
 source_url: https://www.youtube.com/watch?v=xhuhCng_JyA&t=3084s
 timestamp: "00:51:24"

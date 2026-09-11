@@ -7,7 +7,9 @@ year: "2018"
 title: "Cloud talent shortage lags enormous market growth"
 permalink: /predictions/other/2018-01-04-cloud-talent-shortage-lags-enormous-market-growth-ifoz/
 slug_id: 2018-01-04-cloud-talent-shortage-lags-enormous-market-growth-ifoz
-theme_page: /predictions/other/
+theme_page: /predictions/other/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri New (Digital Summit)"
 source_url: https://www.youtube.com/watch?v=gOQBZAhrRsI&t=1s
 timestamp: "00:00:01"

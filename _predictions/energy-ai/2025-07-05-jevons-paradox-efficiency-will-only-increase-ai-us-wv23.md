@@ -8,6 +8,8 @@ title: "Jevons paradox: efficiency will only increase AI usage"
 permalink: /predictions/energy-ai/2025-07-05-jevons-paradox-efficiency-will-only-increase-ai-us-wv23/
 slug_id: 2025-07-05-jevons-paradox-efficiency-will-only-increase-ai-us-wv23
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Javier Villamizar & Greg Osuri Fireside chat (Akash Network)"
 source_url: https://www.youtube.com/watch?v=F_wsWsZTaxs&t=890s
 timestamp: "00:14:50"

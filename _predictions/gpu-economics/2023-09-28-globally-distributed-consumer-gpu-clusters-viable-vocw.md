@@ -7,7 +7,9 @@ year: "2023"
 title: "Globally distributed consumer-GPU clusters viable within two years"
 permalink: /predictions/gpu-economics/2023-09-28-globally-distributed-consumer-gpu-clusters-viable-vocw/
 slug_id: 2023-09-28-globally-distributed-consumer-gpu-clusters-viable-vocw
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)"
 source_url: https://www.youtube.com/watch?v=GVrfHDg30-M&t=2511s
 timestamp: "00:41:51"

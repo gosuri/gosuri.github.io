@@ -7,7 +7,9 @@ year: "2021"
 title: "Plug in a GPU cluster and earn money"
 permalink: /predictions/local-compute/2021-05-28-plug-in-a-gpu-cluster-and-earn-money-ezpt/
 slug_id: 2021-05-28-plug-in-a-gpu-cluster-and-earn-money-ezpt
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "We're live with Greg Osuri from Akash Network (AKT) (Bittrex Global)"
 source_url: https://www.youtube.com/watch?v=BlfmFCEycW0&t=2107s
 timestamp: "00:35:07"

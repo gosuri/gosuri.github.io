@@ -7,7 +7,9 @@ year: "2025"
 title: "Synthetic data broke the data ceiling and accelerated AGI"
 permalink: /predictions/decentralized-ai/2025-01-31-synthetic-data-broke-the-data-ceiling-and-accelera-4fve/
 slug_id: 2025-01-31-synthetic-data-broke-the-data-ceiling-and-accelera-4fve
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"
 source_url: https://www.youtube.com/watch?v=Eb-XhauNLNE&t=770s
 timestamp: "00:12:50"

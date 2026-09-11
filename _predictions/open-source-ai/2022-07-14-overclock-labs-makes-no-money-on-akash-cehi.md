@@ -8,6 +8,8 @@ title: "Overclock Labs makes no money on Akash"
 permalink: /predictions/open-source-ai/2022-07-14-overclock-labs-makes-no-money-on-akash-cehi/
 slug_id: 2022-07-14-overclock-labs-makes-no-money-on-akash-cehi
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 13th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=D-CIXpfW13A&t=2227s
 timestamp: "00:37:07"

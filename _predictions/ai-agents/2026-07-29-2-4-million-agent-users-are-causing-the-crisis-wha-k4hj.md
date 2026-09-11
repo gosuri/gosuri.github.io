@@ -8,6 +8,8 @@ title: "2.4 million agent users are causing the crisis — what happens at 10x?"
 permalink: /predictions/ai-agents/2026-07-29-2-4-million-agent-users-are-causing-the-crisis-wha-k4hj/
 slug_id: 2026-07-29-2-4-million-agent-users-are-causing-the-crisis-wha-k4hj
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)"
 source_url: https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way
 timestamp: "00:05:27"

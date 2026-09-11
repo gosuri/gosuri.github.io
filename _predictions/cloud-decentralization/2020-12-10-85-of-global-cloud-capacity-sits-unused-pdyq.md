@@ -8,6 +8,8 @@ title: "85% of global cloud capacity sits unused"
 permalink: /predictions/cloud-decentralization/2020-12-10-85-of-global-cloud-capacity-sits-unused-pdyq/
 slug_id: 2020-12-10-85-of-global-cloud-capacity-sits-unused-pdyq
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"The Akashian Challenge Livestream: Phase 3 Week 1\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=7x1ct2eC_Nw&t=1975s
 timestamp: "00:32:55"

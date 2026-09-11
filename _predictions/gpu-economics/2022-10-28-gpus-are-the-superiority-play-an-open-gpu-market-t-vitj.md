@@ -7,7 +7,9 @@ year: "2022"
 title: "GPUs are the superiority play: an open GPU market the cloud doesn't have"
 permalink: /predictions/gpu-economics/2022-10-28-gpus-are-the-superiority-play-an-open-gpu-market-t-vitj/
 slug_id: 2022-10-28-gpus-are-the-superiority-play-an-open-gpu-market-t-vitj
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=c0SEzEtNZ8k&t=2603s
 timestamp: "00:43:23"

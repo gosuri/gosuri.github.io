@@ -8,6 +8,8 @@ title: "By 2030, training frontier models requires gigawatt supply — nuclear i
 permalink: /predictions/energy-ai/2025-07-05-by-2030-training-frontier-models-requires-gigawatt-exax/
 slug_id: 2025-07-05-by-2030-training-frontier-models-requires-gigawatt-exax
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Javier Villamizar & Greg Osuri Fireside chat (Akash Network)"
 source_url: https://www.youtube.com/watch?v=F_wsWsZTaxs&t=445s
 timestamp: "00:07:25"

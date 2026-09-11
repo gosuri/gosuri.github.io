@@ -7,7 +7,9 @@ year: "2022"
 title: "NFTs — digitized ownership — will be bigger than DeFi"
 permalink: /predictions/other/2022-10-06-nfts-digitized-ownership-will-be-bigger-than-defi-44x4/
 slug_id: 2022-10-06-nfts-digitized-ownership-will-be-bigger-than-defi-44x4
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 5th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=_NZhdhw5f4s&t=2654s
 timestamp: "00:44:14"

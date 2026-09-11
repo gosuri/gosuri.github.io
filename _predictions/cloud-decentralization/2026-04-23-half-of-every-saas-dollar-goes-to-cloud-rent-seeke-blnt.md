@@ -8,6 +8,8 @@ title: "Half of every SaaS dollar goes to cloud rent-seekers"
 permalink: /predictions/cloud-decentralization/2026-04-23-half-of-every-saas-dollar-goes-to-cloud-rent-seeke-blnt/
 slug_id: 2026-04-23-half-of-every-saas-dollar-goes-to-cloud-rent-seeke-blnt
 theme_page: /predictions/cloud-decentralization/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=346s
 timestamp: "00:05:46"

@@ -8,6 +8,8 @@ title: "Utility-scale AI power means a nuclear reactor, not solar"
 permalink: /predictions/energy-ai/2025-07-05-utility-scale-ai-power-means-a-nuclear-reactor-not-dkww/
 slug_id: 2025-07-05-utility-scale-ai-power-means-a-nuclear-reactor-not-dkww
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Javier Villamizar & Greg Osuri Fireside chat (Akash Network)"
 source_url: https://www.youtube.com/watch?v=F_wsWsZTaxs&t=264s
 timestamp: "00:04:24"

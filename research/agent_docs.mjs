@@ -40,18 +40,20 @@ function escapeText(value) {
 function oneLine(value) { return escapeText(String(value).replace(/\s+/g, ' ').trim()); }
 function compare(a, b) { return a < b ? -1 : a > b ? 1 : 0; }
 function finish(lines) { return `${lines.join('\n').trim()}\n`; }
+const RECOMMENDED_INDEX_TOKENS = 5000;
 
 export function predictionTwin(fm, site) {
   const url = canonicalUrl(site, fm.permalink);
   const lines = [
     `# ${oneLine(fm.title)}`, '',
-    '- **Speaker:** Greg Osuri',
+    `- **Speaker:** ${oneLine(fm.speaker)}`,
+    `- **Attribution:** ${oneLine(fm.speaker_status)}`,
     `- **Said:** ${fm.date}`,
     `- **Theme:** ${oneLine(fm.theme_title)} — ${canonicalUrl(site, fm.theme_page)}`,
     `- **Source:** ${oneLine(fm.source)}`,
     `- **Watch at:** ${fm.timestamp} — ${fm.source_url}`,
     `- **Canonical:** ${url}`,
-    `- **Cite as:** Greg Osuri, "${oneLine(fm.title)}," ${oneLine(fm.source)}, ${formatDate(fm.date)}, ${fm.timestamp}. ${fm.source_url}`,
+    `- **Cite as:** ${oneLine(fm.speaker)}, "${oneLine(fm.title)}," ${oneLine(fm.source)}, ${formatDate(fm.date)}, ${fm.timestamp}. ${fm.source_url}`,
     '', '## Quote — verbatim', '',
     ...String(fm.quote).split('\n').map(line => line ? `> ${escapeText(line)}` : '>'),
   ];
@@ -78,6 +80,20 @@ export function predictionIndex(items, { site, theme = null, year = null }) {
     if (theme) lines.push(`Years: ${years.map(y => `${y} (${group.filter(i => String(i.date).startsWith(y)).length})`).join('; ')}`, '');
     for (const item of group) lines.push(`${item.slug_id} — ${oneLine(item.title)}`);
     lines.push('');
+  }
+  return finish(lines);
+}
+
+export function recentPredictionIndex(items, site, limit = 50) {
+  const selected = [...items]
+    .sort((a, b) => compare(b.date, a.date) || compare(a.slug_id, b.slug_id))
+    .slice(0, limit);
+  const lines = [
+    `# ${selected.length} recent predictions`, '',
+    'Ordered by the date each statement was said. Same-date entries use stable ID order.', '',
+  ];
+  for (const item of selected) {
+    lines.push(`- ${item.date} — [${oneLine(item.title)}](${canonicalUrl(site, item.permalink)}index.md)`);
   }
   return finish(lines);
 }
@@ -203,11 +219,18 @@ export function llmsIndex({ site, predictions, posts, documents, sources }) {
     const sizes = docs.map(doc => estimate(doc.markdown));
     return `${number(docs.length)} files; ~${number(Math.min(...sizes))}–${number(Math.max(...sizes))} tokens each`;
   };
+  const byPermalink = (a, b) => compare(a.permalink, b.permalink);
+  const requiredSmall = documents.filter(doc => ['recent-index', 'year-index'].includes(doc.kind));
+  const oversized = requiredSmall.find(doc => estimate(doc.markdown) > RECOMMENDED_INDEX_TOKENS);
+  if (oversized) {
+    throw new Error(`Recommended index exceeds ${number(RECOMMENDED_INDEX_TOKENS)} tokens: ${canonicalUrl(site, oversized.permalink)}index.md is ${budget(oversized)}`);
+  }
   const lines = [`# ${oneLine(site.title)}`, '', site.description, '',
     `${number(predictions.length)} predictions from ${number(Number(String(sources).replace(/,/g, '')))} talks and podcasts; ${number(posts.length)} essays; ${number(documents.length)} markdown twins.`, '',
     '## Retrieval', '',
-    `1. Choose titles in ${canonicalUrl(site, '/predictions/')}index.md or a theme index below.`,
+    `1. Start with the recent index or the narrowest recommended theme/year index below.`,
     '2. Fetch the selected prediction twin for its quote, date, source and timestamp.',
+    'Avoid broad indexes as an initial fetch; they remain available for cross-theme searches.',
     'Index twins contain titles and IDs only; leaf twins contain full content.', '',
     '## URL rules', '',
     `Canonical prediction: ${canonicalUrl(site, '/predictions/{theme}/{id}/')}`,
@@ -218,9 +241,18 @@ export function llmsIndex({ site, predictions, posts, documents, sources }) {
     'Estimates are UTF-8 bytes / 4, rounded up; this heuristic is not a tokenizer count.',
     'Budgets below describe individual fetched files. This inventory does not include its own size.', '',
   ];
-  const listed = documents.filter(doc => ['home', 'page', 'prediction-index', 'theme-index', 'posts-index'].includes(doc.kind))
-    .sort((a, b) => compare(a.permalink, b.permalink));
-  for (const doc of listed) lines.push(`- ${canonicalUrl(site, doc.permalink)}index.md — ${budget(doc)}`);
+  const general = documents.filter(doc => ['home', 'page', 'posts-index'].includes(doc.kind)).sort(byPermalink);
+  for (const doc of general) lines.push(`- ${canonicalUrl(site, doc.permalink)}index.md — ${budget(doc)}`);
+  const recommended = documents.filter(doc => requiredSmall.includes(doc) ||
+    (doc.kind === 'theme-index' && estimate(doc.markdown) <= RECOMMENDED_INDEX_TOKENS))
+    .sort((a, b) => (a.kind === 'recent-index' ? -1 : b.kind === 'recent-index' ? 1 : byPermalink(a, b)));
+  lines.push('', `## Recommended title indexes (up to ~${number(RECOMMENDED_INDEX_TOKENS)} tokens each)`, '');
+  for (const doc of recommended) lines.push(`- ${canonicalUrl(site, doc.permalink)}index.md — ${budget(doc)}`);
+  const broad = documents.filter(doc => doc.kind === 'prediction-index' ||
+    (doc.kind === 'theme-index' && estimate(doc.markdown) > RECOMMENDED_INDEX_TOKENS)).sort(byPermalink);
+  lines.push('', '## Broad indexes (high cost)', '',
+    'Use these only when a cross-theme or full-theme search requires them.');
+  for (const doc of broad) lines.push(`- ${canonicalUrl(site, doc.permalink)}index.md — ${budget(doc)}`);
   lines.push('', `- Prediction leaf twins: ${range('prediction')}.`,
     `- Theme-year indexes: ${range('year-index')}.`, `- Essay twins: ${range('post')}.`, '');
   if (documents.some(doc => doc.permalink === '/citing/')) {

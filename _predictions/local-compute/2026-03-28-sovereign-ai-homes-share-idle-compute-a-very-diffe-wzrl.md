@@ -7,7 +7,9 @@ year: "2026"
 title: "Sovereign AI homes share idle compute; a very different future in 6 months"
 permalink: /predictions/local-compute/2026-03-28-sovereign-ai-homes-share-idle-compute-a-very-diffe-wzrl/
 slug_id: 2026-03-28-sovereign-ai-homes-share-idle-compute-a-very-diffe-wzrl
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=902s
 timestamp: "00:15:02"

@@ -8,6 +8,8 @@ title: "Fully decentralized stack is the only way out of the censorship regime"
 permalink: /predictions/cloud-decentralization/2022-09-08-fully-decentralized-stack-is-the-only-way-out-of-t-gxui/
 slug_id: 2022-09-08-fully-decentralized-stack-is-the-only-way-out-of-t-gxui
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 7th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=row18GzCS5w&t=945s
 timestamp: "00:15:45"

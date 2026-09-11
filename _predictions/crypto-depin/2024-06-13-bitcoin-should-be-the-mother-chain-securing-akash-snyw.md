@@ -7,7 +7,9 @@ year: "2024"
 title: "Bitcoin should be the mother chain securing Akash"
 permalink: /predictions/crypto-depin/2024-06-13-bitcoin-should-be-the-mother-chain-securing-akash-snyw/
 slug_id: 2024-06-13-bitcoin-should-be-the-mother-chain-securing-akash-snyw
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"
 source_url: https://www.youtube.com/watch?v=RYs9UTXv43Q&t=3616s
 timestamp: "01:00:16"

@@ -7,7 +7,9 @@ year: "2022"
 title: "Buy a GPU, host it at home, lease it out when idle"
 permalink: /predictions/local-compute/2022-10-06-buy-a-gpu-host-it-at-home-lease-it-out-when-idle-epkt/
 slug_id: 2022-10-06-buy-a-gpu-host-it-at-home-lease-it-out-when-idle-epkt
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 5th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=_NZhdhw5f4s&t=745s
 timestamp: "00:12:25"

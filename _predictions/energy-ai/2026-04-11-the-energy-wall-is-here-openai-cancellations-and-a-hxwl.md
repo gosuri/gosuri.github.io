@@ -8,6 +8,8 @@ title: "The energy wall is here: OpenAI cancellations and a GDP giveback"
 permalink: /predictions/energy-ai/2026-04-11-the-energy-wall-is-here-openai-cancellations-and-a-hxwl/
 slug_id: 2026-04-11-the-energy-wall-is-here-openai-cancellations-and-a-hxwl
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=8030s
 timestamp: "02:13:50"

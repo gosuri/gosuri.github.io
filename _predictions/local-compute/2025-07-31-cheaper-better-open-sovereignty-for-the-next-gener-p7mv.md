@@ -7,7 +7,9 @@ year: "2025"
 title: "Cheaper, better, open — sovereignty for the next generation"
 permalink: /predictions/local-compute/2025-07-31-cheaper-better-open-sovereignty-for-the-next-gener-p7mv/
 slug_id: 2025-07-31-cheaper-better-open-sovereignty-for-the-next-gener-p7mv
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134
 timestamp: "00:39:59"

@@ -8,6 +8,8 @@ title: "Privacy plus energy will push AI hosting into homes"
 permalink: /predictions/local-ai/2025-01-31-privacy-plus-energy-will-push-ai-hosting-into-home-ub2t/
 slug_id: 2025-01-31-privacy-plus-energy-will-push-ai-hosting-into-home-ub2t
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"
 source_url: https://www.youtube.com/watch?v=Eb-XhauNLNE&t=1281s
 timestamp: "00:21:21"

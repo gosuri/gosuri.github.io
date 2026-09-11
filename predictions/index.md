@@ -7,6 +7,8 @@ permalink: "/predictions/"
 
 _1,689 statements from 240 videos and podcasts, 2015–2026. Every quote links to the exact moment it was said._
 
+[Recent 50 statements](/predictions/recent/)
+
 <div class="theme-grid">
   <a class="theme-card" href="/predictions/local-compute/">
     <h2>Local Compute</h2>

@@ -7,7 +7,9 @@ year: "2022"
 title: "Juno users will deploy to Akash without realizing it"
 permalink: /predictions/crypto-depin/2022-07-14-juno-users-will-deploy-to-akash-without-realizing-jfyb/
 slug_id: 2022-07-14-juno-users-will-deploy-to-akash-without-realizing-jfyb
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 13th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=D-CIXpfW13A&t=2011s
 timestamp: "00:33:31"

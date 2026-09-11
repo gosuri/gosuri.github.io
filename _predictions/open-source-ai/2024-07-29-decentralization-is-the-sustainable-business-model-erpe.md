@@ -8,6 +8,8 @@ title: "Decentralization is the sustainable business model open source never had
 permalink: /predictions/open-source-ai/2024-07-29-decentralization-is-the-sustainable-business-model-erpe/
 slug_id: 2024-07-29-decentralization-is-the-sustainable-business-model-erpe
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "More than Decentralised Compute | Converge @ EthCC 2024 (Caladan)"
 source_url: https://www.youtube.com/watch?v=mPy-ZVjNU4U&t=602s
 timestamp: "00:10:02"

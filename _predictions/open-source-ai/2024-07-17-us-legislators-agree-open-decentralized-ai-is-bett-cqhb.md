@@ -8,6 +8,8 @@ title: "US legislators agree: open, decentralized AI is better for America"
 permalink: /predictions/open-source-ai/2024-07-17-us-legislators-agree-open-decentralized-ai-is-bett-cqhb/
 slug_id: 2024-07-17-us-legislators-agree-open-decentralized-ai-is-bett-cqhb
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Evolution to AGI Panel at Web3_AI Day | Encode Club | Linera, Ritual, Nillion, Akash Network (Linera: Real-Time Blockchain)"
 source_url: https://www.youtube.com/watch?v=-XfPrBtBiKA&t=477s
 timestamp: "00:07:57"

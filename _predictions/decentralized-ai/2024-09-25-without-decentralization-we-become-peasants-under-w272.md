@@ -7,7 +7,9 @@ year: "2024"
 title: "Without decentralization, we become peasants under digital lords"
 permalink: /predictions/decentralized-ai/2024-09-25-without-decentralization-we-become-peasants-under-w272/
 slug_id: 2024-09-25-without-decentralization-we-become-peasants-under-w272
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Compute: Past, Present, and Future by Akash Network founder Greg Osuri at deAI Summit 2024 (Pundi X Labs)"
 source_url: https://www.youtube.com/watch?v=CJ-4uolkTeE&t=622s
 timestamp: "00:10:22"

@@ -8,6 +8,8 @@ title: "Washington consensus: low-touch AI policy unless open source causes conc
 permalink: /predictions/open-source-ai/2024-10-02-washington-consensus-low-touch-ai-policy-unless-op-tra3/
 slug_id: 2024-10-02-washington-consensus-low-touch-ai-policy-unless-op-tra3
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out.\" (Block Fuel)"
 source_url: https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211
 timestamp: "00:15:43"

@@ -7,7 +7,9 @@ year: "2026"
 title: "Meme coins are done for; fundamentals lead the recovery"
 permalink: /predictions/crypto-depin/2026-03-28-meme-coins-are-done-for-fundamentals-lead-the-reco-vlpq/
 slug_id: 2026-03-28-meme-coins-are-done-for-fundamentals-lead-the-reco-vlpq
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=4239s
 timestamp: "01:10:39"

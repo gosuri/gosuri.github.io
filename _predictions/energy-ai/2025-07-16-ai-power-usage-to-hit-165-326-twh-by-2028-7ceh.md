@@ -8,6 +8,8 @@ title: "AI power usage to hit 165–326 TWh by 2028"
 permalink: /predictions/energy-ai/2025-07-16-ai-power-usage-to-hit-165-326-twh-by-2028-7ceh/
 slug_id: 2025-07-16-ai-power-usage-to-hit-165-326-twh-by-2028-7ceh
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Crypto World Daily)"
 source_url: https://www.youtube.com/watch?v=_4cu3b3jJgk&t=46s
 timestamp: "00:00:46"

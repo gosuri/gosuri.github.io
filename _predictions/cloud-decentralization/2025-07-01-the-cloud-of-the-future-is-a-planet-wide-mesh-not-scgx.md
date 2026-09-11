@@ -8,6 +8,8 @@ title: "The cloud of the future is a planet-wide mesh, not a place"
 permalink: /predictions/cloud-decentralization/2025-07-01-the-cloud-of-the-future-is-a-planet-wide-mesh-not-scgx/
 slug_id: 2025-07-01-the-cloud-of-the-future-is-a-planet-wide-mesh-not-scgx
 theme_page: /predictions/cloud-decentralization/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025  -  Greg Osuri Keynote (Akash Network)"
 source_url: https://www.youtube.com/watch?v=0BIIiQquYFI&t=611s
 timestamp: "00:10:11"

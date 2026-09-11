@@ -8,6 +8,8 @@ title: "Forces on Capitol Hill are fighting to keep AI closed source"
 permalink: /predictions/open-source-ai/2024-11-26-forces-on-capitol-hill-are-fighting-to-keep-ai-clo-2hit/
 slug_id: 2024-11-26-forces-on-capitol-hill-are-fighting-to-keep-ai-clo-2hit
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"
 source_url: https://www.youtube.com/watch?v=GwKZIY2aBe0&t=3579s
 timestamp: "00:59:39"

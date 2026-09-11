@@ -8,6 +8,8 @@ title: "Tomorrow Akash trains and hosts the defining models; the cloud should be
 permalink: /predictions/cloud-decentralization/2025-06-27-tomorrow-akash-trains-and-hosts-the-defining-model-aoqe/
 slug_id: 2025-06-27-tomorrow-akash-trains-and-hosts-the-defining-model-aoqe
 theme_page: /predictions/cloud-decentralization/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Beyond GPUs: How Decentralization Can Solve AI's Biggest Scaling Bottleneck | Day 2 | Crypto x AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=JgD4BzHEcu4&t=136s
 timestamp: "00:02:16"

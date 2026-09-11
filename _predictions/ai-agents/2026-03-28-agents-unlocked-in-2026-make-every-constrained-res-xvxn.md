@@ -8,6 +8,8 @@ title: "Agents, unlocked in 2026, make every constrained resource scarcer"
 permalink: /predictions/ai-agents/2026-03-28-agents-unlocked-in-2026-make-every-constrained-res-xvxn/
 slug_id: 2026-03-28-agents-unlocked-in-2026-make-every-constrained-res-xvxn
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=2060s
 timestamp: "00:34:20"

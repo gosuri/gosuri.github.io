@@ -8,6 +8,8 @@ title: "GPT-6/7 will be trained by a nuclear-powered data center"
 permalink: /predictions/energy-ai/2025-08-02-gpt-6-7-will-be-trained-by-a-nuclear-powered-data-ceg6/
 slug_id: 2025-08-02-gpt-6-7-will-be-trained-by-a-nuclear-powered-data-ceg6
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=660s
 timestamp: "00:11:00"

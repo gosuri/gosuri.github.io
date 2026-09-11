@@ -7,7 +7,9 @@ year: "2022"
 title: "Open, community-curated on-chain ban lists"
 permalink: /predictions/other/2022-08-12-open-community-curated-on-chain-ban-lists-qopl/
 slug_id: 2022-08-12-open-community-curated-on-chain-ban-lists-qopl
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 10th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=eqwoP7iMh7g&t=3106s
 timestamp: "00:51:46"

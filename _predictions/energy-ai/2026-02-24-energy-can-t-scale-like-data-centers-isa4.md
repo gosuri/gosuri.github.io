@@ -8,6 +8,8 @@ title: "Energy can't scale like data centers"
 permalink: /predictions/energy-ai/2026-02-24-energy-can-t-scale-like-data-centers-isa4/
 slug_id: 2026-02-24-energy-can-t-scale-like-data-centers-isa4
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=11195s
 timestamp: "03:06:35"

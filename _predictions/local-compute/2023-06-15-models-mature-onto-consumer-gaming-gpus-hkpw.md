@@ -7,7 +7,9 @@ year: "2023"
 title: "Models mature onto consumer gaming GPUs"
 permalink: /predictions/local-compute/2023-06-15-models-mature-onto-consumer-gaming-gpus-hkpw/
 slug_id: 2023-06-15-models-mature-onto-consumer-gaming-gpus-hkpw
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"
 source_url: https://www.youtube.com/watch?v=CCHnfFIavA8&t=2509s
 timestamp: "00:41:49"

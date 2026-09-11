@@ -7,7 +7,9 @@ year: "2025"
 title: "Most decentralized AI is junk; ignore closed source and off-chain projects"
 permalink: /predictions/decentralized-ai/2025-12-03-most-decentralized-ai-is-junk-ignore-closed-source-axah/
 slug_id: 2025-12-03-most-decentralized-ai-is-junk-ignore-closed-source-axah
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=2743s
 timestamp: "00:45:43"

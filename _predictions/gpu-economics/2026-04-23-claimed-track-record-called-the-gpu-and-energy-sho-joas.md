@@ -7,7 +7,9 @@ year: "2026"
 title: "Claimed track record: called the GPU and energy shortages"
 permalink: /predictions/gpu-economics/2026-04-23-claimed-track-record-called-the-gpu-and-energy-sho-joas/
 slug_id: 2026-04-23-claimed-track-record-called-the-gpu-and-energy-sho-joas
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"
 source_url: https://www.youtube.com/watch?v=0fBYZPHOQds&t=1225s
 timestamp: "00:20:25"

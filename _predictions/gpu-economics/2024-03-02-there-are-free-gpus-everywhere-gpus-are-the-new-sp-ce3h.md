@@ -7,7 +7,9 @@ year: "2024"
 title: "There are free GPUs everywhere; GPUs are the new spice"
 permalink: /predictions/gpu-economics/2024-03-02-there-are-free-gpus-everywhere-gpus-are-the-new-sp-ce3h/
 slug_id: 2024-03-02-there-are-free-gpus-everywhere-gpus-are-the-new-sp-ce3h
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Revolutionizing GPU Access for AI Workloads | Greg Osuri - Akash Network (ETHDenver)"
 source_url: https://www.youtube.com/watch?v=S6AGsyg8v-I&t=265s
 timestamp: "00:04:25"

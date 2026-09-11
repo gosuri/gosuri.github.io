@@ -7,7 +7,9 @@ year: "2022"
 title: "Idle compute becoming passive income for community providers"
 permalink: /predictions/local-compute/2022-07-07-idle-compute-becoming-passive-income-for-community-gtkz/
 slug_id: 2022-07-07-idle-compute-becoming-passive-income-for-community-gtkz
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 6th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=egfFJqkSCLw&t=976s
 timestamp: "00:16:16"

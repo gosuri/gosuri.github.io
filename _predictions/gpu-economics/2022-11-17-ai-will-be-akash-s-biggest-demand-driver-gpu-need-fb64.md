@@ -7,7 +7,9 @@ year: "2022"
 title: "AI will be Akash's biggest demand driver; GPU need doubling every four months"
 permalink: /predictions/gpu-economics/2022-11-17-ai-will-be-akash-s-biggest-demand-driver-gpu-need-fb64/
 slug_id: 2022-11-17-ai-will-be-akash-s-biggest-demand-driver-gpu-need-fb64
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 16th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=zftMimmn2CY&t=2301s
 timestamp: "00:38:21"

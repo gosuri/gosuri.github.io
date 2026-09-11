@@ -7,7 +7,9 @@ year: "2022"
 title: "Web3 and generative AI will converge"
 permalink: /predictions/decentralized-ai/2022-11-03-web3-and-generative-ai-will-converge-s2kn/
 slug_id: 2022-11-03-web3-and-generative-ai-will-converge-s2kn
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 2nd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=XQVGt-fdKPY&t=2267s
 timestamp: "00:37:47"

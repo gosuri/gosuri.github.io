@@ -7,7 +7,9 @@ year: "2024"
 title: "Distributed systems' challenge is experience, not technology"
 permalink: /predictions/other/2024-05-20-distributed-systems-challenge-is-experience-not-te-65mb/
 slug_id: 2024-05-20-distributed-systems-challenge-is-experience-not-te-65mb
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO of Overclock Labs & Akash N... (Techpost)"
 source_url: https://www.youtube.com/watch?v=C_MLHtkyyxw&t=757s
 timestamp: "00:12:37"

@@ -8,6 +8,8 @@ title: "Open source AI is going to be the future"
 permalink: /predictions/open-source-ai/2023-05-09-open-source-ai-is-going-to-be-the-future-zlcq/
 slug_id: 2023-05-09-open-source-ai-is-going-to-be-the-future-zlcq
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG (April 26, 2023) (The Bittensor Hub)"
 source_url: https://www.youtube.com/watch?v=1wJUY7jNDXQ&t=1210s
 timestamp: "00:20:10"

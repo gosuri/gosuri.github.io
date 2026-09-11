@@ -7,7 +7,9 @@ year: "2025"
 title: "Distributed training just broke the co-location requirement"
 permalink: /predictions/decentralized-ai/2025-05-13-distributed-training-just-broke-the-co-location-re-j2w6/
 slug_id: 2025-05-13-distributed-training-just-broke-the-co-location-re-j2w6
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)"
 source_url: https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733
 timestamp: "00:26:13"

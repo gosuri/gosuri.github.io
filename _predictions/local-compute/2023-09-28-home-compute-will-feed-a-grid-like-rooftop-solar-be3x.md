@@ -7,7 +7,9 @@ year: "2023"
 title: "Home compute will feed a grid like rooftop solar"
 permalink: /predictions/local-compute/2023-09-28-home-compute-will-feed-a-grid-like-rooftop-solar-be3x/
 slug_id: 2023-09-28-home-compute-will-feed-a-grid-like-rooftop-solar-be3x
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)"
 source_url: https://www.youtube.com/watch?v=GVrfHDg30-M&t=2724s
 timestamp: "00:45:24"

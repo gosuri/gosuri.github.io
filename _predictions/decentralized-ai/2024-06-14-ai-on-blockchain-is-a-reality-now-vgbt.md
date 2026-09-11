@@ -7,7 +7,9 @@ year: "2024"
 title: "AI on blockchain is a reality now"
 permalink: /predictions/decentralized-ai/2024-06-14-ai-on-blockchain-is-a-reality-now-vgbt/
 slug_id: 2024-06-14-ai-on-blockchain-is-a-reality-now-vgbt
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Tech Snippets Today - Greg Osuri - Founder at Akash with Joseph Raczynski (Joseph Raczynski)"
 source_url: https://www.youtube.com/watch?v=NOmzt7mv3RM&t=814s
 timestamp: "00:13:34"

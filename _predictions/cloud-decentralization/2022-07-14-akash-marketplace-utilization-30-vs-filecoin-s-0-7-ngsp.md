@@ -8,6 +8,8 @@ title: "Akash marketplace utilization ~30% vs Filecoin's 0.7%"
 permalink: /predictions/cloud-decentralization/2022-07-14-akash-marketplace-utilization-30-vs-filecoin-s-0-7-ngsp/
 slug_id: 2022-07-14-akash-marketplace-utilization-30-vs-filecoin-s-0-7-ngsp
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 13th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=D-CIXpfW13A&t=1840s
 timestamp: "00:30:40"

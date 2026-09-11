@@ -7,7 +7,9 @@ year: "2024"
 title: "Internet-scale training: 10B now, then 100B, then a trillion parameters"
 permalink: /predictions/decentralized-ai/2024-11-26-internet-scale-training-10b-now-then-100b-then-a-t-zqd2/
 slug_id: 2024-11-26-internet-scale-training-10b-now-then-100b-then-a-t-zqd2
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"
 source_url: https://www.youtube.com/watch?v=GwKZIY2aBe0&t=2247s
 timestamp: "00:37:27"

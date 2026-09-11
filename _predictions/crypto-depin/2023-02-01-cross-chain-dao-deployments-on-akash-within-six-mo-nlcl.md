@@ -7,7 +7,9 @@ year: "2023"
 title: "Cross-chain DAO deployments on Akash within six months"
 permalink: /predictions/crypto-depin/2023-02-01-cross-chain-dao-deployments-on-akash-within-six-mo-nlcl/
 slug_id: 2023-02-01-cross-chain-dao-deployments-on-akash-within-six-mo-nlcl
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Messari Happy Hour Ep11 (Messari)"
 source_url: https://www.youtube.com/watch?v=q9cuO5P42i4&t=2542s
 timestamp: "00:42:22"

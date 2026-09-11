@@ -7,7 +7,9 @@ year: "2023"
 title: "Akash out-earns Graph, Helium, and Livepeer combined — pre-incentives"
 permalink: /predictions/crypto-depin/2023-12-19-akash-out-earns-graph-helium-and-livepeer-combined-anzn/
 slug_id: 2023-12-19-akash-out-earns-graph-helium-and-livepeer-combined-anzn
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network founder Greg Osuri - Building a Decentralized Computing Marketplace (Crypto Nuggets)"
 source_url: https://www.youtube.com/watch?v=lwpAQjvSxRE&t=1302s
 timestamp: "00:21:42"

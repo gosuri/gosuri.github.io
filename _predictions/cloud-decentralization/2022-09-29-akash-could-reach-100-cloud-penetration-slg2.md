@@ -8,6 +8,8 @@ title: "Akash could reach 100% cloud penetration"
 permalink: /predictions/cloud-decentralization/2022-09-29-akash-could-reach-100-cloud-penetration-slg2/
 slug_id: 2022-09-29-akash-could-reach-100-cloud-penetration-slg2
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 28th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Zhs18DcjSKo&t=2496s
 timestamp: "00:41:36"

@@ -8,6 +8,8 @@ title: "Proof of personhood; free speech for humans, not machines"
 permalink: /predictions/ai-agents/2024-03-19-proof-of-personhood-free-speech-for-humans-not-mac-lsh6/
 slug_id: 2024-03-19-proof-of-personhood-free-speech-for-humans-not-mac-lsh6
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"
 source_url: https://www.youtube.com/watch?v=uUoePJrzyDQ&t=1416s
 timestamp: "00:23:36"

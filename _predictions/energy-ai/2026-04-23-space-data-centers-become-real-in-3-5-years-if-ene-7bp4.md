@@ -8,6 +8,8 @@ title: "Space data centers become real in 3-5 years if energy isn't solved"
 permalink: /predictions/energy-ai/2026-04-23-space-data-centers-become-real-in-3-5-years-if-ene-7bp4/
 slug_id: 2026-04-23-space-data-centers-become-real-in-3-5-years-if-ene-7bp4
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=3545s
 timestamp: "00:59:05"

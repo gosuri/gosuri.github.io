@@ -8,6 +8,8 @@ title: "Usability plus censorship resistance is the winning combo"
 permalink: /predictions/cloud-decentralization/2020-12-20-usability-plus-censorship-resistance-is-the-winnin-vnyx/
 slug_id: 2020-12-20-usability-plus-censorship-resistance-is-the-winnin-vnyx
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akashian Challenge Livestream: Phase 3 Week 2 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=2TEqq1vFPus&t=2754s
 timestamp: "00:45:54"

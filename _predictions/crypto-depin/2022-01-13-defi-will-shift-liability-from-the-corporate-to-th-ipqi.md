@@ -7,7 +7,9 @@ year: "2022"
 title: "DeFi will shift liability \"from the corporate to the common\" — censorship is already starting"
 permalink: /predictions/crypto-depin/2022-01-13-defi-will-shift-liability-from-the-corporate-to-th-ipqi/
 slug_id: 2022-01-13-defi-will-shift-liability-from-the-corporate-to-th-ipqi
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Comdex Mainnet Launch Party | Panel-1 | The rise of DeFi in the Cosmos Ecosystem (Comdex)"
 source_url: https://www.youtube.com/watch?v=c4jPJjJz0vo&t=1153s
 timestamp: "00:19:13"

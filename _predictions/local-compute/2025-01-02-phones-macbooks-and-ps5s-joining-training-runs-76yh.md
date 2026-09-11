@@ -7,7 +7,9 @@ year: "2025"
 title: "Phones, MacBooks, and PS5s joining training runs"
 permalink: /predictions/local-compute/2025-01-02-phones-macbooks-and-ps5s-joining-training-runs-76yh/
 slug_id: 2025-01-02-phones-macbooks-and-ps5s-joining-training-runs-76yh
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"AI Sovereignty: Building the Path to Individual AI with Greg Osuri\" (The Outpost Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476
 timestamp: "00:33:29"

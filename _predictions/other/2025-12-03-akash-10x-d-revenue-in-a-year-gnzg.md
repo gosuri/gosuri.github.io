@@ -7,7 +7,9 @@ year: "2025"
 title: "Akash 10x'd revenue in a year"
 permalink: /predictions/other/2025-12-03-akash-10x-d-revenue-in-a-year-gnzg/
 slug_id: 2025-12-03-akash-10x-d-revenue-in-a-year-gnzg
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=2078s
 timestamp: "00:34:38"

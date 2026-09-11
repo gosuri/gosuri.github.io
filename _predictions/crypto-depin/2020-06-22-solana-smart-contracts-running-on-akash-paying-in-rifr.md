@@ -7,7 +7,9 @@ year: "2020"
 title: "Solana smart contracts running on Akash, paying in AKT"
 permalink: /predictions/crypto-depin/2020-06-22-solana-smart-contracts-running-on-akash-paying-in-rifr/
 slug_id: 2020-06-22-solana-smart-contracts-running-on-akash-paying-in-rifr
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akashian Challenge Phase 2 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=vTzphnpjFg0&t=2173s
 timestamp: "00:36:13"

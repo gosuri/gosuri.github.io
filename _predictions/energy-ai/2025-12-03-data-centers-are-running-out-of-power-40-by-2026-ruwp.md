@@ -8,6 +8,8 @@ title: "Data centers are running out of power — 40% by 2026"
 permalink: /predictions/energy-ai/2025-12-03-data-centers-are-running-out-of-power-40-by-2026-ruwp/
 slug_id: 2025-12-03-data-centers-are-running-out-of-power-40-by-2026-ruwp
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=217s
 timestamp: "00:03:37"

@@ -8,6 +8,8 @@ title: "His home runs AI entirely locally — nothing leaves the network"
 permalink: /predictions/local-ai/2025-08-02-his-home-runs-ai-entirely-locally-nothing-leaves-t-q7py/
 slug_id: 2025-08-02-his-home-runs-ai-entirely-locally-nothing-leaves-t-q7py
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=6489s
 timestamp: "01:48:09"

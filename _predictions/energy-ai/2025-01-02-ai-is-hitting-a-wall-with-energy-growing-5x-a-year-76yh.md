@@ -8,6 +8,8 @@ title: "AI is hitting a wall with energy, growing ~5x a year"
 permalink: /predictions/energy-ai/2025-01-02-ai-is-hitting-a-wall-with-energy-growing-5x-a-year-76yh/
 slug_id: 2025-01-02-ai-is-hitting-a-wall-with-energy-growing-5x-a-year-76yh
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"AI Sovereignty: Building the Path to Individual AI with Greg Osuri\" (The Outpost Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/ai-sovereignty-building-the-path-to-individual-ai/id1779395525?i=1000682416476
 timestamp: "00:28:01"

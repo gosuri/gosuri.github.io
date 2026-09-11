@@ -7,7 +7,9 @@ year: "2022"
 title: "Akash wins because it's device-first where cloud skipped the device"
 permalink: /predictions/local-compute/2022-01-10-akash-wins-because-it-s-device-first-where-cloud-s-by5o/
 slug_id: 2022-01-10-akash-wins-because-it-s-device-first-where-cloud-s-by5o
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash (40%+ staking APY) is taking over the $Bn Cloud Computing Market by AWS? Greg Osuri EXCLUSIVE (Digital Asset Yield Summit)"
 source_url: https://www.youtube.com/watch?v=tOnFXB7L0DY&t=2998s
 timestamp: "00:49:58"

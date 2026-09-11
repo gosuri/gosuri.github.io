@@ -7,7 +7,9 @@ year: "2023"
 title: "AMD is at least two years behind Nvidia"
 permalink: /predictions/gpu-economics/2023-08-31-amd-is-at-least-two-years-behind-nvidia-ygki/
 slug_id: 2023-08-31-amd-is-at-least-two-years-behind-nvidia-ygki
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Mainnet 6 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PqKYTTQUwCM&t=7694s
 timestamp: "02:08:14"

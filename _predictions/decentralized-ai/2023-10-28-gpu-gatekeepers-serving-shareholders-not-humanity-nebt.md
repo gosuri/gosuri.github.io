@@ -7,7 +7,9 @@ year: "2023"
 title: "GPU gatekeepers serving shareholders, not humanity"
 permalink: /predictions/decentralized-ai/2023-10-28-gpu-gatekeepers-serving-shareholders-not-humanity-nebt/
 slug_id: 2023-10-28-gpu-gatekeepers-serving-shareholders-not-humanity-nebt
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"
 source_url: https://www.youtube.com/watch?v=ubYh3RfdQHA&t=929s
 timestamp: "00:15:29"

@@ -7,7 +7,9 @@ year: "2024"
 title: "The \"cloud tax\": half of every dollar for online services goes to four providers"
 permalink: /predictions/gpu-economics/2024-12-06-the-cloud-tax-half-of-every-dollar-for-online-serv-r733/
 slug_id: 2024-12-06-the-cloud-tax-half-of-every-dollar-for-online-serv-r733
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)"
 source_url: https://www.youtube.com/watch?v=VKDw4KZ23G4&t=355s
 timestamp: "00:05:55"

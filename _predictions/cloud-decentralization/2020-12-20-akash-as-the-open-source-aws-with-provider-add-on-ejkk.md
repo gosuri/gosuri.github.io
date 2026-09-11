@@ -8,6 +8,8 @@ title: "Akash as the open-source AWS with provider add-on services"
 permalink: /predictions/cloud-decentralization/2020-12-20-akash-as-the-open-source-aws-with-provider-add-on-ejkk/
 slug_id: 2020-12-20-akash-as-the-open-source-aws-with-provider-add-on-ejkk
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Adam Bozanich"
+speaker_status: "attributed"
 source: "\"The Akashian Challenge: Closing Live Stream\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=RXW6N4R6j80&t=3440s
 timestamp: "00:57:20"

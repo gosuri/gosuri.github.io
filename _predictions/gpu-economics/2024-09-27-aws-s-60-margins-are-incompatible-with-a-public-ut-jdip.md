@@ -7,7 +7,9 @@ year: "2024"
 title: "AWS's 60%+ margins are incompatible with a public utility"
 permalink: /predictions/gpu-economics/2024-09-27-aws-s-60-margins-are-incompatible-with-a-public-ut-jdip/
 slug_id: 2024-09-27-aws-s-60-margins-are-incompatible-with-a-public-ut-jdip
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Democratizing Access to AI Resources - TOKEN2049 Singapore 2024 (TOKEN2049)"
 source_url: https://www.youtube.com/watch?v=3Sv3EOSDnL8&t=572s
 timestamp: "00:09:32"

@@ -8,6 +8,8 @@ title: "A mature Akash catalog will out-scale Amazon's 250 services"
 permalink: /predictions/cloud-decentralization/2021-08-04-a-mature-akash-catalog-will-out-scale-amazon-s-250-b24r/
 slug_id: 2021-08-04-a-mature-akash-catalog-will-out-scale-amazon-s-250-b24r
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Is The Airbnb Of Cloud (TFiR)"
 source_url: https://www.youtube.com/watch?v=MvQUKoM_1ME&t=1195s
 timestamp: "00:19:55"

@@ -7,7 +7,9 @@ year: "2026"
 title: "Distributed training takes center stage"
 permalink: /predictions/decentralized-ai/2026-04-11-distributed-training-takes-center-stage-53kl/
 slug_id: 2026-04-11-distributed-training-takes-center-stage-53kl
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=8073s
 timestamp: "02:14:33"

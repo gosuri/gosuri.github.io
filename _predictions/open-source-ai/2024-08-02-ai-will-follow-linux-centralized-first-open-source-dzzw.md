@@ -8,6 +8,8 @@ title: "AI will follow Linux: centralized first, open-source and user-owned even
 permalink: /predictions/open-source-ai/2024-08-02-ai-will-follow-linux-centralized-first-open-source-dzzw/
 slug_id: 2024-08-02-ai-will-follow-linux-centralized-first-open-source-dzzw
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, Marko Stokic, Michael Heinrich & Luki Song on Can User-Owned AI Compete with Big Tech? (Nebular)"
 source_url: https://www.youtube.com/watch?v=9bEi1i2c12E&t=221s
 timestamp: "00:03:41"

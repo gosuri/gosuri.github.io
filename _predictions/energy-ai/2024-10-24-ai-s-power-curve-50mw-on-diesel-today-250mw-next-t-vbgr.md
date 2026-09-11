@@ -8,6 +8,8 @@ title: "AI's power curve: 50MW on diesel today, 250MW next, then 1.2GW — only 
 permalink: /predictions/energy-ai/2024-10-24-ai-s-power-curve-50mw-on-diesel-today-250mw-next-t-vbgr/
 slug_id: 2024-10-24-ai-s-power-curve-50mw-on-diesel-today-250mw-next-t-vbgr
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=OHQnZEaMEHU&t=697s
 timestamp: "00:11:37"

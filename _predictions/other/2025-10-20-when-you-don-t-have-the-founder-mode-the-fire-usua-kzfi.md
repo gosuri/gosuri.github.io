@@ -7,7 +7,9 @@ year: "2025"
 title: "\"When you don't have the founder mode, the fire usually dies\""
 permalink: /predictions/other/2025-10-20-when-you-don-t-have-the-founder-mode-the-fire-usua-kzfi/
 slug_id: 2025-10-20-when-you-don-t-have-the-founder-mode-the-fire-usua-kzfi
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Founder: Why We're Leaving our Sovereign L1 Behind (Akash Alpha)"
 source_url: https://www.youtube.com/watch?v=HmRIa6PhO8Q&t=644s
 timestamp: "00:10:44"

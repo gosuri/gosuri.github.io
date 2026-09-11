@@ -7,7 +7,9 @@ year: "2023"
 title: "Geo-distributed training works on Akash"
 permalink: /predictions/decentralized-ai/2023-08-31-geo-distributed-training-works-on-akash-lkdu/
 slug_id: 2023-08-31-geo-distributed-training-works-on-akash-lkdu
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Mainnet 6 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PqKYTTQUwCM&t=4848s
 timestamp: "01:20:48"

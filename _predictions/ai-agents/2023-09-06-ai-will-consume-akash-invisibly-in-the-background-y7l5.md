@@ -8,6 +8,8 @@ title: "AI will consume Akash invisibly in the background"
 permalink: /predictions/ai-agents/2023-09-06-ai-will-consume-akash-invisibly-in-the-background-y7l5/
 slug_id: 2023-09-06-ai-will-consume-akash-invisibly-in-the-background-y7l5
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"#3 - Akash Network with Greg Osuri\" (Weapons of Mass Adoption)"
 source_url: https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051
 timestamp: "00:26:49"

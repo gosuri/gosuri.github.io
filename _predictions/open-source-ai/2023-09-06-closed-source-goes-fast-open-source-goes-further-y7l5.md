@@ -8,6 +8,8 @@ title: "Closed source goes fast, open source goes further"
 permalink: /predictions/open-source-ai/2023-09-06-closed-source-goes-fast-open-source-goes-further-y7l5/
 slug_id: 2023-09-06-closed-source-goes-fast-open-source-goes-further-y7l5
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"#3 - Akash Network with Greg Osuri\" (Weapons of Mass Adoption)"
 source_url: https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051
 timestamp: "00:19:47"

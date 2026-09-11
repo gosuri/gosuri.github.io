@@ -7,7 +7,9 @@ year: "2022"
 title: "November 2022 was the bottom; Fed pivots and recovery by mid-2023"
 permalink: /predictions/other/2022-12-05-november-2022-was-the-bottom-fed-pivots-and-recove-lzq4/
 slug_id: 2022-12-05-november-2022-was-the-bottom-fed-pivots-and-recove-lzq4
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 30th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=BM-WU0TaynU&t=4317s
 timestamp: "01:11:57"

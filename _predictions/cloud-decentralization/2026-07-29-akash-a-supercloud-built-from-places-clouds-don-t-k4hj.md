@@ -8,6 +8,8 @@ title: "Akash: a supercloud built from places clouds don't go"
 permalink: /predictions/cloud-decentralization/2026-07-29-akash-a-supercloud-built-from-places-clouds-don-t-k4hj/
 slug_id: 2026-07-29-akash-a-supercloud-built-from-places-clouds-don-t-k4hj
 theme_page: /predictions/cloud-decentralization/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)"
 source_url: https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way
 timestamp: "00:37:18"

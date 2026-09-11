@@ -8,6 +8,8 @@ title: "Crypto, AI and energy converge into one load-balanced system"
 permalink: /predictions/energy-ai/2026-02-12-crypto-ai-and-energy-converge-into-one-load-balanc-zz72/
 slug_id: 2026-02-12-crypto-ai-and-energy-converge-into-one-load-balanc-zz72
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"DACM Insights: Decentralizing AI, The Akash Approach\" (DACM Insights)"
 source_url: https://www.youtube.com/watch?v=BQONg2f0zQc&t=100s
 timestamp: "00:01:40"

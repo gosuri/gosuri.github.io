@@ -7,7 +7,9 @@ year: "2022"
 title: "Pegged-rate settlement with validators as oracles"
 permalink: /predictions/crypto-depin/2022-07-20-pegged-rate-settlement-with-validators-as-oracles-kpbc/
 slug_id: 2022-07-20-pegged-rate-settlement-with-validators-as-oracles-kpbc
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ask Akash: July updates on Stable Settlements? (Akash Network)"
 source_url: https://www.youtube.com/watch?v=3sE2AHvq95Y&t=84s
 timestamp: "00:01:24"

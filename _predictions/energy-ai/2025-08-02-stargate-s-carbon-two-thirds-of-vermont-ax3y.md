@@ -8,6 +8,8 @@ title: "Stargate's carbon = two-thirds of Vermont"
 permalink: /predictions/energy-ai/2025-08-02-stargate-s-carbon-two-thirds-of-vermont-ax3y/
 slug_id: 2025-08-02-stargate-s-carbon-two-thirds-of-vermont-ax3y
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=484s
 timestamp: "00:08:04"

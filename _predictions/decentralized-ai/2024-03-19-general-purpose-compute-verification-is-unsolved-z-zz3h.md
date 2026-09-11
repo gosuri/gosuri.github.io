@@ -7,7 +7,9 @@ year: "2024"
 title: "General-purpose compute verification is unsolved; ZK is 40 minutes per image"
 permalink: /predictions/decentralized-ai/2024-03-19-general-purpose-compute-verification-is-unsolved-z-zz3h/
 slug_id: 2024-03-19-general-purpose-compute-verification-is-unsolved-z-zz3h
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"
 source_url: https://www.youtube.com/watch?v=uUoePJrzyDQ&t=2238s
 timestamp: "00:37:18"

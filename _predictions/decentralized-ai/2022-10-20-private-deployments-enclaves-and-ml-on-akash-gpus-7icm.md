@@ -7,7 +7,9 @@ year: "2022"
 title: "Private deployments, enclaves, and ML on Akash GPUs"
 permalink: /predictions/decentralized-ai/2022-10-20-private-deployments-enclaves-and-ml-on-akash-gpus-7icm/
 slug_id: 2022-10-20-private-deployments-enclaves-and-ml-on-akash-gpus-7icm
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 19th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=dJKFr9wAYwA&t=2490s
 timestamp: "00:41:30"

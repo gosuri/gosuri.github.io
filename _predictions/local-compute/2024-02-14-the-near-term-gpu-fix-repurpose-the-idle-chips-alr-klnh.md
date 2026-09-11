@@ -7,7 +7,9 @@ year: "2024"
 title: "The near-term GPU fix: repurpose the idle chips already in homes and data centers"
 permalink: /predictions/local-compute/2024-02-14-the-near-term-gpu-fix-repurpose-the-idle-chips-alr-klnh/
 slug_id: 2024-02-14-the-near-term-gpu-fix-repurpose-the-idle-chips-alr-klnh
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri\" (Finality Crypto Podcast (DeFi Times))"
 source_url: https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095
 timestamp: "00:55:00"

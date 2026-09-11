@@ -7,7 +7,9 @@ year: "2023"
 title: "A100s: five-week waits and concentrated ownership"
 permalink: /predictions/gpu-economics/2023-02-16-a100s-five-week-waits-and-concentrated-ownership-wftk/
 slug_id: 2023-02-16-a100s-five-week-waits-and-concentrated-ownership-wftk
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"
 source_url: https://www.youtube.com/watch?v=XlFnp7eUw3M&t=2036s
 timestamp: "00:33:56"

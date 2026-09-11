@@ -17,6 +17,18 @@ preserves existing URLs when a source publication date differs from the old file
 The predictions are **generated**, not authored here. `PREDICTIONS.md` is the source of
 truth; `research/export_blog.py` turns it into a Jekyll collection.
 
+The archive includes other speakers alongside Greg. Every source entry records
+`**Speaker:**` and `**Attribution:**` (`attributed` or `uncertain`). Existing
+extraction annotations supply the attribution; the fields do not imply a new
+review of every recording. Uncertain records use `Unknown` as the speaker and
+stay visibly uncertain in citations. New source entries must supply both fields.
+
+`research/compile.py` can rebuild the aggregate from per-video notes. For legacy
+notes, it carries attribution forward only when video ID, timestamp URL, quote,
+and context exactly match the authoritative record. Changed or new records need
+explicit attribution in the video note. Compilation validates the complete
+candidate before replacing either aggregate; it never defaults a speaker to Greg.
+
 ## Layout
 
 ```
@@ -50,7 +62,8 @@ preview to inspect them:
 make preview    # build + render cards and agent docs + serve without regenerating
 make cards      # render social cards into an existing _site
 make agents     # render markdown twins and llms.txt into an existing _site
-make test       # card and agent generator tests; no browser needed
+make test       # Python export/compiler and Node card/agent tests; no browser needed
+make metadata   # verify metadata against an existing production Jekyll build
 ```
 
 ## Regenerating the predictions
@@ -89,6 +102,18 @@ Third-party transcripts need both. So do the pipeline run logs — Whisper runs 
 **All absolute URLs come from `site.url`** (`https://www.gregosuri.com`). The bare apex
 only redirects, and social scrapers follow redirects unreliably, so a hardcoded apex URL
 silently breaks link previews.
+
+`_includes/metadata.html` chooses titles and descriptions once for the head,
+social tags, and JSON-LD. `_data/person.yml` holds the published identity facts
+used by `_includes/structured-data.html`; keep those facts consistent with About.
+Uncertain quotations omit `creator`. Essay schema preserves external canonicals
+and only emits modification dates from explicit `last_modified_at` metadata.
+JSON-LD is inert data and introduces no executable JavaScript.
+
+After the real Pages build, run
+`node research/verify_metadata.mjs --site-dir /path/to/build`.
+CI runs this check before publishing. It verifies descriptions,
+JSON parsing, source quotation/creator fidelity, and essay dates/canonicals.
 
 **Design tokens are locked.** Colours, type scale and spacing live in `_sass/_tokens.scss`.
 Use the custom properties; don't introduce hex values. `design/*.html` is the source of
@@ -132,6 +157,14 @@ content; prediction, theme, year, and essay indexes contain retrieval listings.
 Start at `/llms.txt` for current inventory, counts and approximate token budgets,
 and `/citing/` for the authored citation contract. Quote blocks are speech;
 context notes are site annotations.
+
+The inventory recommends theme/year title indexes and `/predictions/recent/`,
+whose twin lists the latest 50 statements by speech date, with stable ID ordering
+for ties. Full master and broad theme indexes remain available but are marked
+high-cost. The exporter creates year routes when content or title-index size
+warrants them. The agent renderer checks the actual recent/year markdown budgets
+against 5,000 estimated tokens (UTF-8 bytes divided by four, rounded up) and stops
+before writing if one exceeds that budget.
 
 `research/agent_docs.mjs` performs the pure transformations and
 `research/render_agents.mjs` writes twins and `llms.txt` after Jekyll builds.

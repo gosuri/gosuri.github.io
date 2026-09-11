@@ -8,6 +8,8 @@ title: "Cloud is the new telco"
 permalink: /predictions/cloud-decentralization/2023-06-12-cloud-is-the-new-telco-k6v3/
 slug_id: 2023-06-12-cloud-is-the-new-telco-k6v3
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"
 source_url: https://www.youtube.com/watch?v=pSCkBP7Pw6Y&t=651s
 timestamp: "00:10:51"

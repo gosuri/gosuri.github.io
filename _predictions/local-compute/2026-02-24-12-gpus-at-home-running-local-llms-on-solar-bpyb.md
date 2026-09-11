@@ -7,7 +7,9 @@ year: "2026"
 title: "12 GPUs at home running local LLMs on solar"
 permalink: /predictions/local-compute/2026-02-24-12-gpus-at-home-running-local-llms-on-solar-bpyb/
 slug_id: 2026-02-24-12-gpus-at-home-running-local-llms-on-solar-bpyb
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=11793s
 timestamp: "03:16:33"

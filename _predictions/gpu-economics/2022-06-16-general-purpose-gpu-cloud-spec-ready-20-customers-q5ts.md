@@ -7,7 +7,9 @@ year: "2022"
 title: "General-purpose GPU cloud: spec-ready, 20 customers, no one has done it"
 permalink: /predictions/gpu-economics/2022-06-16-general-purpose-gpu-cloud-spec-ready-20-customers-q5ts/
 slug_id: 2022-06-16-general-purpose-gpu-cloud-spec-ready-20-customers-q5ts
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 15th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=y5_GlfUj5to&t=1406s
 timestamp: "00:23:26"

@@ -103,6 +103,6 @@ export function predictionCard(fm, fonts) {
 .og .foot .title{font-style:italic;max-width:760px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}`,
     body: `<p class="meta"><time>${esc(formatDate(fm.date))}</time><span class="soft">${esc(fm.theme_title)}</span></p>
 <blockquote class="body">“${esc(quote)}”</blockquote>
-<p class="foot"><span class="name">Greg Osuri</span><span class="title">${esc(fm.title)}</span><span>gregosuri.com</span></p>`,
+<p class="foot"><span class="name">${esc(fm.speaker)}</span><span class="title">${esc(fm.title)}</span><span>gregosuri.com</span></p>`,
   }, fonts);
 }

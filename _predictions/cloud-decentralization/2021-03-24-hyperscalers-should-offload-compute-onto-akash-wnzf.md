@@ -8,6 +8,8 @@ title: "Hyperscalers should offload compute onto Akash"
 permalink: /predictions/cloud-decentralization/2021-03-24-hyperscalers-should-offload-compute-onto-akash-wnzf/
 slug_id: 2021-03-24-hyperscalers-should-offload-compute-onto-akash-wnzf
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK (AKT) - Decentralized clouds, Staking, Cosmos & more!  - Interview with CEO Greg Osuri (Michaël van de Poppe)"
 source_url: https://www.youtube.com/watch?v=XY33CFNI-OE&t=2154s
 timestamp: "00:35:54"

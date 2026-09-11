@@ -8,6 +8,8 @@ title: "Open source makes Akash as secure as or more secure than AWS"
 permalink: /predictions/cloud-decentralization/2021-10-26-open-source-makes-akash-as-secure-as-or-more-secur-p2sa/
 slug_id: 2021-10-26-open-source-makes-akash-as-secure-as-or-more-secur-p2sa
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network CEO on competing with Amazon AWS, decentralized cloud computing, and free speech (Yahoo Finance)"
 source_url: https://www.youtube.com/watch?v=ESTCd9nb5CM&t=216s
 timestamp: "00:03:36"

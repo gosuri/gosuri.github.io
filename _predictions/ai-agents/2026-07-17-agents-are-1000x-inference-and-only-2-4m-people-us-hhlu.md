@@ -8,6 +8,8 @@ title: "Agents are 1000x inference and only 2.4M people use them"
 permalink: /predictions/ai-agents/2026-07-17-agents-are-1000x-inference-and-only-2-4m-people-us-hhlu/
 slug_id: 2026-07-17-agents-are-1000x-inference-and-only-2-4m-people-us-hhlu
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1371s
 timestamp: "00:22:51"

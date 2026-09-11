@@ -8,6 +8,8 @@ title: "The future is a combination of centralized and decentralized systems"
 permalink: /predictions/cloud-decentralization/2018-04-23-the-future-is-a-combination-of-centralized-and-dec-glzj/
 slug_id: 2018-04-23-the-future-is-a-combination-of-centralized-and-dec-glzj
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Panel: Decentralized Storage (Block 2thefuture)"
 source_url: https://www.youtube.com/watch?v=nTHa7tr277g&t=867s
 timestamp: "00:14:27"

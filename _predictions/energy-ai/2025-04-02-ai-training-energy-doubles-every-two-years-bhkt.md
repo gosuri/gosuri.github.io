@@ -8,6 +8,8 @@ title: "AI training energy doubles every two years"
 permalink: /predictions/energy-ai/2025-04-02-ai-training-energy-doubles-every-two-years-bhkt/
 slug_id: 2025-04-02-ai-training-energy-doubles-every-two-years-bhkt
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"
 source_url: https://www.youtube.com/watch?v=k0HPDluOlsQ&t=607s
 timestamp: "00:10:07"

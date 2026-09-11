@@ -8,6 +8,8 @@ title: "What happens when Chinese labs stop shipping open models?"
 permalink: /predictions/open-source-ai/2026-04-23-what-happens-when-chinese-labs-stop-shipping-open-acbs/
 slug_id: 2026-04-23-what-happens-when-chinese-labs-stop-shipping-open-acbs
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=2085s
 timestamp: "00:34:45"

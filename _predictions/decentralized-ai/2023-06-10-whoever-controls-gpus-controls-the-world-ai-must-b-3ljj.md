@@ -7,7 +7,9 @@ year: "2023"
 title: "Whoever controls GPUs controls the world; AI must be in the hands of people"
 permalink: /predictions/decentralized-ai/2023-06-10-whoever-controls-gpus-controls-the-world-ai-must-b-3ljj/
 slug_id: 2023-06-10-whoever-controls-gpus-controls-the-world-ai-must-b-3ljj
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"
 source_url: https://www.youtube.com/watch?v=3AvWFwSfbaU&t=2712s
 timestamp: "00:45:12"

@@ -8,6 +8,8 @@ title: "500,000 data centers at ~85% underutilization"
 permalink: /predictions/cloud-decentralization/2018-04-19-500-000-data-centers-at-85-underutilization-hgvo/
 slug_id: 2018-04-19-500-000-data-centers-at-85-underutilization-hgvo
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri: The Akash Network (Block 2thefuture)"
 source_url: https://www.youtube.com/watch?v=fVVvEFkIaUU&t=87s
 timestamp: "00:01:27"

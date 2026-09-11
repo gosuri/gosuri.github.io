@@ -7,7 +7,9 @@ year: "2022"
 title: "The bear market is a build market — next bull will be a different world"
 permalink: /predictions/crypto-depin/2022-07-01-the-bear-market-is-a-build-market-next-bull-will-b-oh7t/
 slug_id: 2022-07-01-the-bear-market-is-a-build-market-next-bull-will-b-oh7t
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "WCEF 2022: Infrastructure for the New Internet - Web3 (World Crypto Economic Forum (WCEF))"
 source_url: https://www.youtube.com/watch?v=8RlL9feMiNk&t=1503s
 timestamp: "00:25:03"

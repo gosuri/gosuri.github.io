@@ -8,6 +8,8 @@ title: "A thousand providers will make Akash the most distributed cloud in the w
 permalink: /predictions/cloud-decentralization/2022-11-13-a-thousand-providers-will-make-akash-the-most-dist-ufqd/
 slug_id: 2022-11-13-a-thousand-providers-will-make-akash-the-most-dist-ufqd
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ask Akash - What is Akash's strategy going forward? (Akash Network)"
 source_url: https://www.youtube.com/watch?v=IsO-LKTI4sQ&t=221s
 timestamp: "00:03:41"

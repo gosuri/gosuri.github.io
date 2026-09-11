@@ -7,7 +7,9 @@ year: "2022"
 title: "GPU-on-Kubernetes prototype worked; timeline hostage to upstream"
 permalink: /predictions/gpu-economics/2022-09-15-gpu-on-kubernetes-prototype-worked-timeline-hostag-shgf/
 slug_id: 2022-09-15-gpu-on-kubernetes-prototype-worked-timeline-hostag-shgf
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - Akash GPU Marketplace Progress Update (Akash Network)"
 source_url: https://www.youtube.com/watch?v=LdY087ASaMg&t=44s
 timestamp: "00:00:44"

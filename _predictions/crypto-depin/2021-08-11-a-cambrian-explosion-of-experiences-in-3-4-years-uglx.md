@@ -7,7 +7,9 @@ year: "2021"
 title: "A Cambrian explosion of experiences in 3–4 years"
 permalink: /predictions/crypto-depin/2021-08-11-a-cambrian-explosion-of-experiences-in-3-4-years-uglx/
 slug_id: 2021-08-11-a-cambrian-explosion-of-experiences-in-3-4-years-uglx
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)"
 source_url: https://www.podpage.com/the-index-podcast/blog/unstoppable-cloud-and-building-a/
 timestamp: "00:21:05"

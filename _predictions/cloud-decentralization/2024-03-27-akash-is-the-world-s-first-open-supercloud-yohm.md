@@ -8,6 +8,8 @@ title: "Akash is the world's first open supercloud"
 permalink: /predictions/cloud-decentralization/2024-03-27-akash-is-the-world-s-first-open-supercloud-yohm/
 slug_id: 2024-03-27-akash-is-the-world-s-first-open-supercloud-yohm
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AtomDenver panel: AI 🤝 Crypto (Secret Network)"
 source_url: https://www.youtube.com/watch?v=999NHrdnGEo&t=137s
 timestamp: "00:02:17"

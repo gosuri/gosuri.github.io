@@ -7,7 +7,9 @@ year: "2021"
 title: "Decentralized protocols will converge into a full web stack"
 permalink: /predictions/crypto-depin/2021-01-30-decentralized-protocols-will-converge-into-a-full-f45e/
 slug_id: 2021-01-30-decentralized-protocols-will-converge-into-a-full-f45e
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"
 source_url: https://www.youtube.com/watch?v=-Kkj0veGYJU&t=2182s
 timestamp: "00:36:22"

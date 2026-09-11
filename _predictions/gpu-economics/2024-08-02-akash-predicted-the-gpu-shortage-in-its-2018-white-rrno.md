@@ -7,7 +7,9 @@ year: "2024"
 title: "Akash predicted the GPU shortage in its 2018 whitepaper"
 permalink: /predictions/gpu-economics/2024-08-02-akash-predicted-the-gpu-shortage-in-its-2018-white-rrno/
 slug_id: 2024-08-02-akash-predicted-the-gpu-shortage-in-its-2018-white-rrno
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri of Akash on Unlocking DePIN Capabilities for AI Model Training (Nebular)"
 source_url: https://www.youtube.com/watch?v=AWKVdqzUBAg&t=438s
 timestamp: "00:07:18"

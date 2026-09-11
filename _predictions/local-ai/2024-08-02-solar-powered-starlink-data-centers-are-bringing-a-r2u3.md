@@ -8,6 +8,8 @@ title: "Solar-powered Starlink data centers are bringing AI to off-grid Africa"
 permalink: /predictions/local-ai/2024-08-02-solar-powered-starlink-data-centers-are-bringing-a-r2u3/
 slug_id: 2024-08-02-solar-powered-starlink-data-centers-are-bringing-a-r2u3
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri of Akash on Unlocking DePIN Capabilities for AI Model Training (Nebular)"
 source_url: https://www.youtube.com/watch?v=AWKVdqzUBAg&t=2080s
 timestamp: "00:34:40"

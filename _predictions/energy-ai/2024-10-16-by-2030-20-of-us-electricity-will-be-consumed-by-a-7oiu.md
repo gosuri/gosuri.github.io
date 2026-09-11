@@ -8,6 +8,8 @@ title: "By 2030, 20% of US electricity will be consumed by AI"
 permalink: /predictions/energy-ai/2024-10-16-by-2030-20-of-us-electricity-will-be-consumed-by-a-7oiu/
 slug_id: 2024-10-16-by-2030-20-of-us-electricity-will-be-consumed-by-a-7oiu
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network's Greg Osuri on AI Fueling 1,729% Growth (Coinage)"
 source_url: https://www.youtube.com/watch?v=P8F-Ac0mitI&t=959s
 timestamp: "00:15:59"

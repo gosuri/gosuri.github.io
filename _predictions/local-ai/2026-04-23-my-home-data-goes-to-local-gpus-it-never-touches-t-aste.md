@@ -8,6 +8,8 @@ title: "My home data goes to local GPUs — it never touches the cloud"
 permalink: /predictions/local-ai/2026-04-23-my-home-data-goes-to-local-gpus-it-never-touches-t-aste/
 slug_id: 2026-04-23-my-home-data-goes-to-local-gpus-it-never-touches-t-aste
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=1953s
 timestamp: "00:32:33"

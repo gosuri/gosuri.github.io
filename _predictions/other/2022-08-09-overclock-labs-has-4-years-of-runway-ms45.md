@@ -7,7 +7,9 @@ year: "2022"
 title: "Overclock Labs has ~4 years of runway"
 permalink: /predictions/other/2022-08-09-overclock-labs-has-4-years-of-runway-ms45/
 slug_id: 2022-08-09-overclock-labs-has-4-years-of-runway-ms45
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "What is Overclock Labs vs Akash Network (Akash Network)"
 source_url: https://www.youtube.com/watch?v=dG6b9lgJiWQ&t=85s
 timestamp: "00:01:25"

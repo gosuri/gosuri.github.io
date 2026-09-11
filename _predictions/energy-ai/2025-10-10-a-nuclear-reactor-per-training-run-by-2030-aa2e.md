@@ -8,6 +8,8 @@ title: "A nuclear reactor per training run by 2030"
 permalink: /predictions/energy-ai/2025-10-10-a-nuclear-reactor-per-training-run-by-2030-aa2e/
 slug_id: 2025-10-10-a-nuclear-reactor-per-training-run-by-2030-aa2e
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"
 source_url: https://www.youtube.com/watch?v=xr6ZLHwuo2w&t=1106s
 timestamp: "00:18:26"

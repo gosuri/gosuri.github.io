@@ -7,7 +7,9 @@ year: "2023"
 title: "ML companies should own their own GPUs for sovereignty"
 permalink: /predictions/gpu-economics/2023-05-12-ml-companies-should-own-their-own-gpus-for-soverei-2uxj/
 slug_id: 2023-05-12-ml-companies-should-own-their-own-gpus-for-soverei-2uxj
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"
 source_url: https://www.youtube.com/watch?v=FAuW6cUWkR8&t=1708s
 timestamp: "00:28:28"

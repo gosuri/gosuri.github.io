@@ -7,7 +7,9 @@ year: "2024"
 title: "Akash is the de facto standard for decentralized AI"
 permalink: /predictions/decentralized-ai/2024-08-02-akash-is-the-de-facto-standard-for-decentralized-a-np2z/
 slug_id: 2024-08-02-akash-is-the-de-facto-standard-for-decentralized-a-np2z
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri of Akash on Unlocking DePIN Capabilities for AI Model Training (Nebular)"
 source_url: https://www.youtube.com/watch?v=AWKVdqzUBAg&t=740s
 timestamp: "00:12:20"

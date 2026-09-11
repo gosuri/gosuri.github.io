@@ -7,7 +7,9 @@ year: "2021"
 title: "Idle office GPUs earning tokens — a peer-to-peer cloud for AI"
 permalink: /predictions/local-compute/2021-06-09-idle-office-gpus-earning-tokens-a-peer-to-peer-clo-xbrd/
 slug_id: 2021-06-09-idle-office-gpus-earning-tokens-a-peer-to-peer-clo-xbrd
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=i2AE257OCMA&t=1622s
 timestamp: "00:27:02"

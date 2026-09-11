@@ -7,7 +7,9 @@ year: "2023"
 title: "Supermini: a supercomputer for the home"
 permalink: /predictions/local-compute/2023-05-12-supermini-a-supercomputer-for-the-home-76ux/
 slug_id: 2023-05-12-supermini-a-supercomputer-for-the-home-76ux
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"
 source_url: https://www.youtube.com/watch?v=FAuW6cUWkR8&t=3258s
 timestamp: "00:54:18"

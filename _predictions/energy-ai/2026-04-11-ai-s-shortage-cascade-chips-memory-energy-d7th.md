@@ -8,6 +8,8 @@ title: "AI's shortage cascade: chips → memory → energy"
 permalink: /predictions/energy-ai/2026-04-11-ai-s-shortage-cascade-chips-memory-energy-d7th/
 slug_id: 2026-04-11-ai-s-shortage-cascade-chips-memory-energy-d7th
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=7946s
 timestamp: "02:12:26"

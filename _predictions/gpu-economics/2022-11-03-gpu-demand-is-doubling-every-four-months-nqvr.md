@@ -7,7 +7,9 @@ year: "2022"
 title: "GPU demand is doubling every four months"
 permalink: /predictions/gpu-economics/2022-11-03-gpu-demand-is-doubling-every-four-months-nqvr/
 slug_id: 2022-11-03-gpu-demand-is-doubling-every-four-months-nqvr
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 2nd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=XQVGt-fdKPY&t=566s
 timestamp: "00:09:26"

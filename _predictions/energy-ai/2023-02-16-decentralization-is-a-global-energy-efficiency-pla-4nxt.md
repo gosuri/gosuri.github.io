@@ -8,6 +8,8 @@ title: "Decentralization is a global energy-efficiency play; \"web3 is greener\"
 permalink: /predictions/energy-ai/2023-02-16-decentralization-is-a-global-energy-efficiency-pla-4nxt/
 slug_id: 2023-02-16-decentralization-is-a-global-energy-efficiency-pla-4nxt
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"
 source_url: https://www.youtube.com/watch?v=XlFnp7eUw3M&t=1816s
 timestamp: "00:30:16"

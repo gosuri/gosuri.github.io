@@ -8,6 +8,8 @@ title: "The biggest decentralization risk is who controls the roadmap"
 permalink: /predictions/cloud-decentralization/2024-09-10-the-biggest-decentralization-risk-is-who-controls-4b7j/
 slug_id: 2024-09-10-the-biggest-decentralization-risk-is-who-controls-4b7j
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralized solutions for cloud computing and AI  📌 Greg Osuri, Akash @ DePIN Day Austin (Fluence)"
 source_url: https://www.youtube.com/watch?v=5g9vJCIV1lo&t=391s
 timestamp: "00:06:31"

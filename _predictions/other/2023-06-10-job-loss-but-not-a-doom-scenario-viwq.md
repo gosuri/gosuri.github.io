@@ -7,7 +7,9 @@ year: "2023"
 title: "Job loss, but not a doom scenario"
 permalink: /predictions/other/2023-06-10-job-loss-but-not-a-doom-scenario-viwq/
 slug_id: 2023-06-10-job-loss-but-not-a-doom-scenario-viwq
-theme_page: /predictions/other/
+theme_page: /predictions/other/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"
 source_url: https://www.youtube.com/watch?v=3AvWFwSfbaU&t=1932s
 timestamp: "00:32:12"

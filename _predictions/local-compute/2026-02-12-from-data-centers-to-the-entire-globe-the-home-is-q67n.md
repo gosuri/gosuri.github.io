@@ -7,7 +7,9 @@ year: "2026"
 title: "From data centers to the entire globe — the home is the holy grail"
 permalink: /predictions/local-compute/2026-02-12-from-data-centers-to-the-entire-globe-the-home-is-q67n/
 slug_id: 2026-02-12-from-data-centers-to-the-entire-globe-the-home-is-q67n
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"DACM Insights: Decentralizing AI, The Akash Approach\" (DACM Insights)"
 source_url: https://www.youtube.com/watch?v=BQONg2f0zQc&t=1608s
 timestamp: "00:26:48"

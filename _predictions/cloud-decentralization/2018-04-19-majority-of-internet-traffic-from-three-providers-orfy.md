@@ -8,6 +8,8 @@ title: "Majority of internet traffic from three providers within two years"
 permalink: /predictions/cloud-decentralization/2018-04-19-majority-of-internet-traffic-from-three-providers-orfy/
 slug_id: 2018-04-19-majority-of-internet-traffic-from-three-providers-orfy
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri: The Akash Network (Block 2thefuture)"
 source_url: https://www.youtube.com/watch?v=fVVvEFkIaUU&t=132s
 timestamp: "00:02:12"

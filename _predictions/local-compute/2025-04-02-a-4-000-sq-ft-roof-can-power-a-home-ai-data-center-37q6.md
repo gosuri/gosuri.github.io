@@ -7,7 +7,9 @@ year: "2025"
 title: "A 4,000 sq ft roof can power a home AI data center"
 permalink: /predictions/local-compute/2025-04-02-a-4-000-sq-ft-roof-can-power-a-home-ai-data-center-37q6/
 slug_id: 2025-04-02-a-4-000-sq-ft-roof-can-power-a-home-ai-data-center-37q6
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"
 source_url: https://www.youtube.com/watch?v=k0HPDluOlsQ&t=1391s
 timestamp: "00:23:11"

@@ -8,6 +8,8 @@ title: "Cloud is cheap short-term, expensive long-term (2018 whitepaper thesis)"
 permalink: /predictions/cloud-decentralization/2022-09-01-cloud-is-cheap-short-term-expensive-long-term-2018-zxoc/
 slug_id: 2022-09-01-cloud-is-cheap-short-term-expensive-long-term-2018-zxoc
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 31st 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=RVlkC2WcGvY&t=1180s
 timestamp: "00:19:40"

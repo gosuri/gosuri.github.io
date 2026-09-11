@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
 import { postDate, postPermalink, sourceCount } from './card_data.mjs';
 import {
-  readDocument, siteSettings, predictionTwin, predictionIndex, postTwin,
+  readDocument, siteSettings, predictionTwin, predictionIndex, recentPredictionIndex, postTwin,
   postsIndex, pageTwin, homeTwin, llmsIndex,
 } from './agent_docs.mjs';
 
@@ -73,6 +73,10 @@ export async function renderAgents({ root = ROOT, siteDir = join(root, '_site') 
     const { fm } = await document(path);
     if (fm.permalink === '/predictions/') {
       add(fm.permalink, predictionIndex(predictions, { site }), 'prediction-index');
+      continue;
+    }
+    if (fm.permalink === '/predictions/recent/') {
+      add(fm.permalink, recentPredictionIndex(predictions, site), 'recent-index');
       continue;
     }
     const match = fm.permalink?.match(/^\/predictions\/([a-z0-9-]+)\/(?:(\d{4})\/)?$/);

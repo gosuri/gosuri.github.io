@@ -8,6 +8,8 @@ title: "Hyperscalers will publicly work with Akash; Akash as a global compute st
 permalink: /predictions/cloud-decentralization/2023-06-10-hyperscalers-will-publicly-work-with-akash-akash-a-pj6j/
 slug_id: 2023-06-10-hyperscalers-will-publicly-work-with-akash-akash-a-pj6j
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"
 source_url: https://www.youtube.com/watch?v=3AvWFwSfbaU&t=2279s
 timestamp: "00:37:59"

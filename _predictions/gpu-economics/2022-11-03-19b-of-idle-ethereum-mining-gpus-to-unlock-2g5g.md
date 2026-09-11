@@ -7,7 +7,9 @@ year: "2022"
 title: "$19B of idle Ethereum-mining GPUs to unlock"
 permalink: /predictions/gpu-economics/2022-11-03-19b-of-idle-ethereum-mining-gpus-to-unlock-2g5g/
 slug_id: 2022-11-03-19b-of-idle-ethereum-mining-gpus-to-unlock-2g5g
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 2nd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=XQVGt-fdKPY&t=609s
 timestamp: "00:10:09"

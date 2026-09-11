@@ -8,6 +8,8 @@ title: "Hyperscalers will join a multi-cloud standard"
 permalink: /predictions/cloud-decentralization/2022-09-29-hyperscalers-will-join-a-multi-cloud-standard-43le/
 slug_id: 2022-09-29-hyperscalers-will-join-a-multi-cloud-standard-43le
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 28th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Zhs18DcjSKo&t=606s
 timestamp: "00:10:06"

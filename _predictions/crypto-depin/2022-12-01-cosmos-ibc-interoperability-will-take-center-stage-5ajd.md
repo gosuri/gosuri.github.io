@@ -7,7 +7,9 @@ year: "2022"
 title: "Cosmos IBC interoperability will take center stage"
 permalink: /predictions/crypto-depin/2022-12-01-cosmos-ibc-interoperability-will-take-center-stage-5ajd/
 slug_id: 2022-12-01-cosmos-ibc-interoperability-will-take-center-stage-5ajd
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Dcentral 2022 - DeCloud - Decentralized Cloud & Storage (Akash Network)"
 source_url: https://www.youtube.com/watch?v=uGlflVLgYjI&t=1766s
 timestamp: "00:29:26"

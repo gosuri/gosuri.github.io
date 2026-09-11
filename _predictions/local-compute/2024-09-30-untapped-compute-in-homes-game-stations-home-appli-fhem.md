@@ -7,7 +7,9 @@ year: "2024"
 title: "Untapped compute in homes, game stations, home appliances"
 permalink: /predictions/local-compute/2024-09-30-untapped-compute-in-homes-game-stations-home-appli-fhem/
 slug_id: 2024-09-30-untapped-compute-in-homes-game-stations-home-appli-fhem
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Akash Network founder/CEO Greg Osuri at deAI Summit TOKEN2049 (Pundi X Labs)"
 source_url: https://www.youtube.com/watch?v=0WXiGaybt0M&t=46s
 timestamp: "00:00:46"

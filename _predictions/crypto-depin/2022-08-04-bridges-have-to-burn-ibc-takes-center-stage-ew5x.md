@@ -7,7 +7,9 @@ year: "2022"
 title: "Bridges have to burn; IBC takes center stage"
 permalink: /predictions/crypto-depin/2022-08-04-bridges-have-to-burn-ibc-takes-center-stage-ew5x/
 slug_id: 2022-08-04-bridges-have-to-burn-ibc-takes-center-stage-ew5x
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akask Weekly - Aug 3rd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=ZJsBvlHOIb4&t=2060s
 timestamp: "00:34:20"

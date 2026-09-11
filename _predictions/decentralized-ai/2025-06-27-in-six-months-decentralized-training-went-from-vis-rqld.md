@@ -7,7 +7,9 @@ year: "2025"
 title: "In six months decentralized training went from vision to proven path"
 permalink: /predictions/decentralized-ai/2025-06-27-in-six-months-decentralized-training-went-from-vis-rqld/
 slug_id: 2025-06-27-in-six-months-decentralized-training-went-from-vis-rqld
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Beyond GPUs: How Decentralization Can Solve AI's Biggest Scaling Bottleneck | Day 2 | Crypto x AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=JgD4BzHEcu4&t=406s
 timestamp: "00:06:46"

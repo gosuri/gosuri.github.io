@@ -6,9 +6,14 @@ server:
 	@printf 'Listening on:\n  http://localhost:4000\n  http://%s:4000  (LAN)\n' "$$(ipconfig getifaddr en0 || ipconfig getifaddr en1)"
 	bundle exec jekyll server --host 0.0.0.0
 
-# Pure card/agent modules and filesystem delivery tests; Node 20, no dependencies.
+# Export, card/agent modules and filesystem delivery tests; standard libraries.
 test:
+	python3 -m unittest discover -s research -p 'test_*.py'
 	node --test research/card_data.test.mjs research/card_templates.test.mjs research/theme_card_integration.test.mjs research/agent_docs.test.mjs research/render_agents.test.mjs
+
+# Inspect real Jekyll output; run after the GitHub Pages builder.
+metadata:
+	node research/verify_metadata.mjs
 
 # Render markdown twins and llms.txt into an existing Jekyll build.
 agents: test
@@ -52,4 +57,4 @@ create:
 remove: 
 	akash deployment close $(shell cat .akash | head -1) -k $(KEY)
 
-.PHONY: server test cards agents preview installdeps deploy img img-run img-push create remove
+.PHONY: server test metadata cards agents preview installdeps deploy img img-run img-push create remove

@@ -8,6 +8,8 @@ title: "The chips are ready, the circuits aren't — watts are the new silicon"
 permalink: /predictions/energy-ai/2025-06-27-the-chips-are-ready-the-circuits-aren-t-watts-are-o3fk/
 slug_id: 2025-06-27-the-chips-are-ready-the-circuits-aren-t-watts-are-o3fk
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Beyond GPUs: How Decentralization Can Solve AI's Biggest Scaling Bottleneck | Day 2 | Crypto x AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=JgD4BzHEcu4&t=274s
 timestamp: "00:04:34"

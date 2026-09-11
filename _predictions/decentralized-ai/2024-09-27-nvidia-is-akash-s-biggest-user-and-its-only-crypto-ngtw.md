@@ -7,7 +7,9 @@ year: "2024"
 title: "Nvidia is Akash's biggest user and its only crypto protocol"
 permalink: /predictions/decentralized-ai/2024-09-27-nvidia-is-akash-s-biggest-user-and-its-only-crypto-ngtw/
 slug_id: 2024-09-27-nvidia-is-akash-s-biggest-user-and-its-only-crypto-ngtw
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Democratizing Access to AI Resources - TOKEN2049 Singapore 2024 (TOKEN2049)"
 source_url: https://www.youtube.com/watch?v=3Sv3EOSDnL8&t=745s
 timestamp: "00:12:25"

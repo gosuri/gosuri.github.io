@@ -7,7 +7,9 @@ year: "2021"
 title: "Ethereum is a proof of concept, not a scalable architecture"
 permalink: /predictions/other/2021-03-24-ethereum-is-a-proof-of-concept-not-a-scalable-arch-ujfs/
 slug_id: 2021-03-24-ethereum-is-a-proof-of-concept-not-a-scalable-arch-ujfs
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK (AKT) - Decentralized clouds, Staking, Cosmos & more!  - Interview with CEO Greg Osuri (Michaël van de Poppe)"
 source_url: https://www.youtube.com/watch?v=XY33CFNI-OE&t=1637s
 timestamp: "00:27:17"

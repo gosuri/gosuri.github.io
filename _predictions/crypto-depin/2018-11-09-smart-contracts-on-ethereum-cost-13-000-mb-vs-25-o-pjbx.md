@@ -7,7 +7,9 @@ year: "2018"
 title: "Smart contracts on Ethereum cost $13,000/MB vs ~$25 on Akash"
 permalink: /predictions/crypto-depin/2018-11-09-smart-contracts-on-ethereum-cost-13-000-mb-vs-25-o-pjbx/
 slug_id: 2018-11-09-smart-contracts-on-ethereum-cost-13-000-mb-vs-25-o-pjbx
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Serverless Panel: Komal Mangtani, Greg Osuri, Guillermo Rauch, Gwen Shapira (Kong)"
 source_url: https://www.youtube.com/watch?v=8GOaS_SQWuE&t=1227s
 timestamp: "00:20:27"

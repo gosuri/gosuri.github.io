@@ -8,6 +8,8 @@ title: "Compute should be as free as air and water"
 permalink: /predictions/cloud-decentralization/2024-11-14-compute-should-be-as-free-as-air-and-water-ilmo/
 slug_id: 2024-11-14-compute-should-be-as-free-as-air-and-water-ilmo
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network: A New Era of Affordable, Decentralized Cloud Computing with Greg Osuri | Varuni (Thecoinrepublic)"
 source_url: https://www.youtube.com/watch?v=JE-7d8tU3WQ&t=483s
 timestamp: "00:08:03"

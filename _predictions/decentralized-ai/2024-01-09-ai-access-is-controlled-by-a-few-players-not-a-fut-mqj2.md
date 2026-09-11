@@ -7,7 +7,9 @@ year: "2024"
 title: "AI access is controlled by a few players — not a future to accept"
 permalink: /predictions/decentralized-ai/2024-01-09-ai-access-is-controlled-by-a-few-players-not-a-fut-mqj2/
 slug_id: 2024-01-09-ai-access-is-controlled-by-a-few-players-not-a-fut-mqj2
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: $300 Million Incentives w/Greg Osuri | CEO of Overclock Labs,Founder & Akash Network (Bare Metal Podcast)"
 source_url: https://www.youtube.com/watch?v=9gI5CWNpDgw&t=606s
 timestamp: "00:10:06"

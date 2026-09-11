@@ -7,7 +7,9 @@ year: "2022"
 title: "Infrastructure airdrops are coming"
 permalink: /predictions/crypto-depin/2022-08-25-infrastructure-airdrops-are-coming-4msg/
 slug_id: 2022-08-25-infrastructure-airdrops-are-coming-4msg
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 24th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=nJVqxRUkxFA&t=300s
 timestamp: "00:05:00"

@@ -7,7 +7,9 @@ year: "2024"
 title: "AI accelerates everything — type one civilization in 50 years"
 permalink: /predictions/other/2024-11-26-ai-accelerates-everything-type-one-civilization-in-g35s/
 slug_id: 2024-11-26-ai-accelerates-everything-type-one-civilization-in-g35s
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"
 source_url: https://www.youtube.com/watch?v=GwKZIY2aBe0&t=3536s
 timestamp: "00:58:56"

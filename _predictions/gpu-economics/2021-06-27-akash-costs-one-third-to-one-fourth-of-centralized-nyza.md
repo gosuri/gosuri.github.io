@@ -7,7 +7,9 @@ year: "2021"
 title: "Akash costs one-third to one-fourth of centralized cloud"
 permalink: /predictions/gpu-economics/2021-06-27-akash-costs-one-third-to-one-fourth-of-centralized-nyza/
 slug_id: 2021-06-27-akash-costs-one-third-to-one-fourth-of-centralized-nyza
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Enter Decentralized Cloud & Unstoppable Web with Akash Network & Deeper - DeFi Conference Day 1 (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=iV6Zu5_AVKA&t=512s
 timestamp: "00:08:32"

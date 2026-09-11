@@ -1,13 +1,14 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readDocument, siteSettings, canonicalUrl, predictionTwin } from './agent_docs.mjs';
-import { predictionIndex, postsIndex } from './agent_docs.mjs';
+import { predictionIndex, recentPredictionIndex, postsIndex } from './agent_docs.mjs';
 import { postTwin, pageTwin, homeTwin } from './agent_docs.mjs';
 import { llmsIndex } from './agent_docs.mjs';
 
 const site = { url: 'https://www.gregosuri.com', baseurl: '', title: 'Greg Osuri', description: 'I build things.' };
 const prediction = {
   title: 'Machines will schedule other machines', date: '2022-11-03',
+  speaker: 'Greg Osuri', speaker_status: 'attributed',
   theme: 'ai-agents', theme_title: 'AI Agents', theme_page: '/predictions/ai-agents/',
   slug_id: '2022-11-03-machines-will-schedule-other-machines-rya4',
   permalink: '/predictions/ai-agents/2022-11-03-machines-will-schedule-other-machines-rya4/',
@@ -42,7 +43,23 @@ test('predictionTwin separates the quote from annotation and formats the known c
   assert.ok(md.includes('> Machines will schedule other machines.\n>\n> Permissionless compute.'));
   assert.ok(md.includes('## Context — site annotation, not spoken\n\nAn editorial note.'));
   assert.ok(md.includes('- **Cite as:** Greg Osuri, "Machines will schedule other machines," Akash Weekly - November 2nd 2022 (Akash Network), 3 Nov 2022, 00:10:54. https://www.youtube.com/watch?v=XQVGt-fdKPY&t=654s'));
+  assert.ok(md.includes('- **Attribution:** attributed'));
   assert.ok(md.includes(`- **Canonical:** ${site.url}${prediction.permalink}`));
+});
+
+test('predictionTwin credits a named other speaker in metadata and citation', () => {
+  const md = predictionTwin({ ...prediction, speaker: 'Sunny Aggarwal' }, site);
+  assert.ok(md.includes('- **Speaker:** Sunny Aggarwal'));
+  assert.ok(md.includes('- **Cite as:** Sunny Aggarwal, "Machines will schedule other machines,"'));
+  assert.ok(!md.includes('- **Speaker:** Greg Osuri'));
+});
+
+test('predictionTwin keeps an uncertain speaker neutral', () => {
+  const md = predictionTwin({ ...prediction, speaker: 'Unknown', speaker_status: 'uncertain' }, site);
+  assert.ok(md.includes('- **Speaker:** Unknown'));
+  assert.ok(md.includes('- **Attribution:** uncertain'));
+  assert.ok(md.includes('- **Cite as:** Unknown, "Machines will schedule other machines,"'));
+  assert.ok(!md.includes('- **Speaker:** Greg Osuri'));
 });
 
 test('predictionTwin escapes markdown without rewriting spoken punctuation', () => {
@@ -81,6 +98,28 @@ test('predictionIndex scopes theme and year, with measured year counts', () => {
   assert.ok(year.startsWith('# AI Agents — 2024 1 predictions'));
   assert.ok(!year.includes(prediction.slug_id));
   assert.ok(predictionIndex([], { site }).startsWith('# All 0 predictions'));
+});
+
+test('recentPredictionIndex links the newest 50 twins with a stable tie break', () => {
+  const entries = Array.from({ length: 52 }, (_, i) => ({
+    ...prediction,
+    date: i < 3 ? '2026-07-29' : new Date(Date.UTC(2026, 6, 29 - i)).toISOString().slice(0, 10),
+    slug_id: `${i < 3 ? '2026-07-29' : '2026-01-01'}-${String(51 - i).padStart(2, '0')}`,
+    title: `Statement ${i}`,
+    permalink: `/predictions/ai-agents/item-${i}/`,
+  }));
+  const copy = structuredClone(entries);
+
+  const md = recentPredictionIndex(entries, site);
+
+  assert.ok(md.startsWith('# 50 recent predictions\n'));
+  assert.equal((md.match(/^- /gm) || []).length, 50);
+  assert.ok(md.indexOf('/item-2/index.md') < md.indexOf('/item-1/index.md'));
+  assert.ok(md.indexOf('/item-1/index.md') < md.indexOf('/item-0/index.md'));
+  assert.ok(md.includes('[Statement 2](https://www.gregosuri.com/predictions/ai-agents/item-2/index.md)'));
+  assert.ok(!md.includes('/item-50/index.md)'));
+  assert.ok(!md.includes('/item-51/index.md)'));
+  assert.deepEqual(entries, copy);
 });
 
 test('postsIndex is newest-first and points external essays to a nonempty local twin', () => {
@@ -208,15 +247,22 @@ test('llmsIndex measures dynamic file counts and UTF-8 budgets without listing e
   const documents = [
     { permalink: '/', markdown: '# Home\n', kind: 'home' },
     { permalink: '/predictions/', markdown: '12345', kind: 'prediction-index' },
+    { permalink: '/predictions/recent/', markdown: '1234567', kind: 'recent-index' },
     { permalink: '/predictions/ai-agents/', markdown: 'ééé', kind: 'theme-index' },
+    { permalink: '/predictions/cloud/', markdown: 'x'.repeat(20001), kind: 'theme-index' },
     { permalink: '/predictions/ai-agents/2022/', markdown: '123456789', kind: 'year-index' },
     { permalink: prediction.permalink, markdown: '12345678', kind: 'prediction' },
     { permalink: '/citing/', markdown: '# Citing\n', kind: 'page' },
   ];
   const md = llmsIndex({ site, predictions: [prediction], posts: [], documents, sources: '2' });
-  assert.ok(md.includes('1 predictions from 2 talks and podcasts; 0 essays; 6 markdown twins.'));
+  assert.ok(md.includes('1 predictions from 2 talks and podcasts; 0 essays; 8 markdown twins.'));
+  assert.ok(md.includes('Recommended title indexes'));
+  assert.ok(md.includes('https://www.gregosuri.com/predictions/recent/index.md — ~2 tokens'));
+  assert.ok(md.includes('https://www.gregosuri.com/predictions/ai-agents/2022/index.md — ~3 tokens'));
+  assert.ok(md.includes('Broad indexes (high cost)'));
   assert.ok(md.includes('https://www.gregosuri.com/predictions/index.md — ~2 tokens'));
-  assert.ok(md.includes('https://www.gregosuri.com/predictions/ai-agents/index.md — ~2 tokens'));
+  assert.ok(md.includes('https://www.gregosuri.com/predictions/cloud/index.md — ~5,001 tokens'));
+  assert.ok(md.indexOf('/predictions/recent/index.md') < md.indexOf('/predictions/index.md'));
   assert.ok(md.includes('Prediction leaf twins: 1 files; ~2–2 tokens each.'));
   assert.ok(md.includes('Theme-year indexes: 1 files; ~3–3 tokens each.'));
   assert.ok(md.includes('UTF-8 bytes / 4'));
@@ -224,6 +270,16 @@ test('llmsIndex measures dynamic file counts and UTF-8 budgets without listing e
   assert.ok(!md.includes(prediction.slug_id));
   assert.ok(!md.includes(prediction.quote));
   assert.ok(!md.includes('1,689'));
+});
+
+test('llmsIndex fails closed when a recommended year index exceeds 5000 tokens', () => {
+  const documents = [
+    { permalink: '/predictions/ai-agents/2022/', markdown: 'x'.repeat(20001), kind: 'year-index' },
+  ];
+  assert.throws(
+    () => llmsIndex({ site, predictions: [], posts: [], documents, sources: 0 }),
+    /Recommended index exceeds 5,000 tokens.*ai-agents\/2022/s,
+  );
 });
 
 test('llmsIndex handles an empty inventory and does not advertise an absent citing page', () => {

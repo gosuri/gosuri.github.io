@@ -8,6 +8,8 @@ title: "Akash has never gone down"
 permalink: /predictions/cloud-decentralization/2022-12-05-akash-has-never-gone-down-s6vl/
 slug_id: 2022-12-05-akash-has-never-gone-down-s6vl
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 30th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=BM-WU0TaynU&t=2852s
 timestamp: "00:47:32"

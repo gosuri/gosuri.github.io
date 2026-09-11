@@ -7,7 +7,9 @@ year: "2024"
 title: "On-demand H100s at $1.50/hour, unheard of in traditional cloud"
 permalink: /predictions/gpu-economics/2024-09-10-on-demand-h100s-at-1-50-hour-unheard-of-in-traditi-4566/
 slug_id: 2024-09-10-on-demand-h100s-at-1-50-hour-unheard-of-in-traditi-4566
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralized solutions for cloud computing and AI  📌 Greg Osuri, Akash @ DePIN Day Austin (Fluence)"
 source_url: https://www.youtube.com/watch?v=5g9vJCIV1lo&t=437s
 timestamp: "00:07:17"

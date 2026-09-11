@@ -7,7 +7,9 @@ year: "2021"
 title: "Retrospective: betting on Kubernetes as the future in 2014"
 permalink: /predictions/other/2021-02-08-retrospective-betting-on-kubernetes-as-the-future-oqtc/
 slug_id: 2021-02-08-retrospective-betting-on-kubernetes-as-the-future-oqtc
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"
 source_url: https://www.youtube.com/watch?v=f3tZLp2CNgI&t=2310s
 timestamp: "00:38:30"

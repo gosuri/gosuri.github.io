@@ -7,7 +7,9 @@ year: "2026"
 title: "Electric vehicles as data centers on wheels"
 permalink: /predictions/local-compute/2026-04-23-electric-vehicles-as-data-centers-on-wheels-ps23/
 slug_id: 2026-04-23-electric-vehicles-as-data-centers-on-wheels-ps23
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"
 source_url: https://www.youtube.com/watch?v=0fBYZPHOQds&t=1705s
 timestamp: "00:28:25"

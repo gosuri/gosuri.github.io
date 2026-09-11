@@ -8,6 +8,8 @@ title: "Home inference becomes effective when Starlink hits 1-2 gigabit"
 permalink: /predictions/local-ai/2025-12-03-home-inference-becomes-effective-when-starlink-hit-j7kf/
 slug_id: 2025-12-03-home-inference-becomes-effective-when-starlink-hit-j7kf
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=869s
 timestamp: "00:14:29"

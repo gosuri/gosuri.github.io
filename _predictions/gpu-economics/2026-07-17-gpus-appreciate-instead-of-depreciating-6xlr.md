@@ -7,7 +7,9 @@ year: "2026"
 title: "GPUs appreciate instead of depreciating"
 permalink: /predictions/gpu-economics/2026-07-17-gpus-appreciate-instead-of-depreciating-6xlr/
 slug_id: 2026-07-17-gpus-appreciate-instead-of-depreciating-6xlr
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1457s
 timestamp: "00:24:17"

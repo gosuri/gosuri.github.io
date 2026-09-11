@@ -7,7 +7,9 @@ year: "2021"
 title: "A marketplace of decentralized services is the holy grail"
 permalink: /predictions/crypto-depin/2021-05-27-a-marketplace-of-decentralized-services-is-the-hol-eyf6/
 slug_id: 2021-05-27-a-marketplace-of-decentralized-services-is-the-hol-eyf6
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Почему дорого запускать стартап в централизованных облаках? Интервью с Greg Osuri, CEO Akash Network (S3XYBTC)"
 source_url: https://www.youtube.com/watch?v=HNfu9hCsVwU&t=1440s
 timestamp: "00:24:00"

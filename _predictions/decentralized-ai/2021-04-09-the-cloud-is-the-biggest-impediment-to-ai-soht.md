@@ -7,7 +7,9 @@ year: "2021"
 title: "The cloud is the biggest impediment to AI"
 permalink: /predictions/decentralized-ai/2021-04-09-the-cloud-is-the-biggest-impediment-to-ai-soht/
 slug_id: 2021-04-09-the-cloud-is-the-biggest-impediment-to-ai-soht
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (Cosmos)"
 source_url: https://www.youtube.com/watch?v=4xlOVeUXd90&t=1998s
 timestamp: "00:33:18"

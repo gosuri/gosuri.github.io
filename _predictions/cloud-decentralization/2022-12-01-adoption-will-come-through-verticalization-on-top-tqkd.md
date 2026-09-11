@@ -8,6 +8,8 @@ title: "Adoption will come through verticalization on top of the protocol"
 permalink: /predictions/cloud-decentralization/2022-12-01-adoption-will-come-through-verticalization-on-top-tqkd/
 slug_id: 2022-12-01-adoption-will-come-through-verticalization-on-top-tqkd
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Dcentral 2022 - DeCloud - Decentralized Cloud & Storage (Akash Network)"
 source_url: https://www.youtube.com/watch?v=uGlflVLgYjI&t=1080s
 timestamp: "00:18:00"

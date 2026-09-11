@@ -7,7 +7,9 @@ year: "2021"
 title: "Privacy infringement going mainstream will make privacy more valuable; ship it as a core primitive"
 permalink: /predictions/other/2021-11-15-privacy-infringement-going-mainstream-will-make-pr-p5wb/
 slug_id: 2021-11-15-privacy-infringement-going-mainstream-will-make-pr-p5wb
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Priv8 Virtual Privacy Summit 2021: Featuring Glenn Greenwald, Dr. Steven Waterhouse, and more! (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=m6eqn72dqzs&t=17220s
 timestamp: "04:47:00"

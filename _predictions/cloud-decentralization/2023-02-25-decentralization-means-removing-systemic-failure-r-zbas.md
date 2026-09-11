@@ -8,6 +8,8 @@ title: "Decentralization means removing systemic failure risk"
 permalink: /predictions/cloud-decentralization/2023-02-25-decentralization-means-removing-systemic-failure-r-zbas/
 slug_id: 2023-02-25-decentralization-means-removing-systemic-failure-r-zbas
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Live with Greg Osuri: Akash's progress in 2023, open community development, and more (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Oz-Oara8i78&t=735s
 timestamp: "00:12:15"

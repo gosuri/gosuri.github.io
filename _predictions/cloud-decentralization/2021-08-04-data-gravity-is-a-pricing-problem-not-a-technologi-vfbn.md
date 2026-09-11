@@ -8,6 +8,8 @@ title: "Data gravity is a pricing problem, not a technological one"
 permalink: /predictions/cloud-decentralization/2021-08-04-data-gravity-is-a-pricing-problem-not-a-technologi-vfbn/
 slug_id: 2021-08-04-data-gravity-is-a-pricing-problem-not-a-technologi-vfbn
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Is The Airbnb Of Cloud (TFiR)"
 source_url: https://www.youtube.com/watch?v=MvQUKoM_1ME&t=518s
 timestamp: "00:08:38"

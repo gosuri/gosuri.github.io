@@ -7,7 +7,9 @@ year: "2021"
 title: "GPUs are AI's biggest cost — ~20% of AI companies' margins go to Amazon"
 permalink: /predictions/gpu-economics/2021-07-14-gpus-are-ai-s-biggest-cost-20-of-ai-companies-marg-dgv3/
 slug_id: 2021-07-14-gpus-are-ai-s-biggest-cost-20-of-ai-companies-marg-dgv3
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 2 OF 2 (Crypto Rich)"
 source_url: https://www.youtube.com/watch?v=mbT06K1zjZc&t=805s
 timestamp: "00:13:25"

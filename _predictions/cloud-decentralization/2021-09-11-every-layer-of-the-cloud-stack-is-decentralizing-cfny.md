@@ -8,6 +8,8 @@ title: "Every layer of the cloud stack is decentralizing"
 permalink: /predictions/cloud-decentralization/2021-09-11-every-layer-of-the-cloud-stack-is-decentralizing-cfny/
 slug_id: 2021-09-11-every-layer-of-the-cloud-stack-is-decentralizing-cfny
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network’s (CRYPTO:AKT) ($AKT) interview with Mr. Greg Osuri CEO. (New to The Street TV)"
 source_url: https://www.youtube.com/watch?v=NsXA2hC9dPw&t=746s
 timestamp: "00:12:26"

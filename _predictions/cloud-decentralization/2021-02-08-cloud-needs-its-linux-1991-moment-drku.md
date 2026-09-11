@@ -8,6 +8,8 @@ title: "Cloud needs its Linux 1991 moment"
 permalink: /predictions/cloud-decentralization/2021-02-08-cloud-needs-its-linux-1991-moment-drku/
 slug_id: 2021-02-08-cloud-needs-its-linux-1991-moment-drku
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"
 source_url: https://www.youtube.com/watch?v=f3tZLp2CNgI&t=297s
 timestamp: "00:04:57"

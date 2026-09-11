@@ -7,7 +7,9 @@ year: "2023"
 title: "~1% of global GDP will go to machine learning; that's Akash's success metric"
 permalink: /predictions/decentralized-ai/2023-09-29-1-of-global-gdp-will-go-to-machine-learning-that-s-ssqz/
 slug_id: 2023-09-29-1-of-global-gdp-will-go-to-machine-learning-that-s-ssqz
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"
 source_url: https://www.youtube.com/watch?v=FDA9wqZmsY8&t=5703s
 timestamp: "01:35:03"

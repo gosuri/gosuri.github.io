@@ -8,6 +8,8 @@ title: "A state-of-the-art model trained over the internet within 12 months"
 permalink: /predictions/local-ai/2025-12-03-a-state-of-the-art-model-trained-over-the-internet-3jog/
 slug_id: 2025-12-03-a-state-of-the-art-model-trained-over-the-internet-3jog
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=696s
 timestamp: "00:11:36"

@@ -7,7 +7,9 @@ year: "2024"
 title: "Akash delivers the same compute as AWS for 80% cheaper by reaching idle capacity"
 permalink: /predictions/gpu-economics/2024-12-06-akash-delivers-the-same-compute-as-aws-for-80-chea-3xhv/
 slug_id: 2024-12-06-akash-delivers-the-same-compute-as-aws-for-80-chea-3xhv
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)"
 source_url: https://www.youtube.com/watch?v=VKDw4KZ23G4&t=701s
 timestamp: "00:11:41"

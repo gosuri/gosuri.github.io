@@ -8,6 +8,8 @@ title: "Centralized AI training hits an energy cap in two years"
 permalink: /predictions/energy-ai/2025-03-17-centralized-ai-training-hits-an-energy-cap-in-two-n6te/
 slug_id: 2025-03-17-centralized-ai-training-hits-an-energy-cap-in-two-n6te
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why the Future of AI Depends on Decentralized Cloud Platforms (Eye on AI)"
 source_url: https://www.youtube.com/watch?v=Rq0UByMDUv4&t=3353s
 timestamp: "00:55:53"

@@ -8,6 +8,8 @@ title: "Deploying to Akash will happen through chat"
 permalink: /predictions/ai-agents/2023-02-16-deploying-to-akash-will-happen-through-chat-rqv2/
 slug_id: 2023-02-16-deploying-to-akash-will-happen-through-chat-rqv2
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"
 source_url: https://www.youtube.com/watch?v=XlFnp7eUw3M&t=1599s
 timestamp: "00:26:39"

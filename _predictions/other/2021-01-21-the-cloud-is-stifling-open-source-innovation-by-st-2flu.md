@@ -7,7 +7,9 @@ year: "2021"
 title: "The cloud is stifling open-source innovation by stealing its business model"
 permalink: /predictions/other/2021-01-21-the-cloud-is-stifling-open-source-innovation-by-st-2flu/
 slug_id: 2021-01-21-the-cloud-is-stifling-open-source-innovation-by-st-2flu
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"
 source_url: https://www.youtube.com/watch?v=sRtkAUdqNFs&t=2480s
 timestamp: "00:41:20"

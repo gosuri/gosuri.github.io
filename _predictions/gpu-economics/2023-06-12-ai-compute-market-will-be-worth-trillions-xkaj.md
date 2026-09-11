@@ -7,7 +7,9 @@ year: "2023"
 title: "AI compute market will be worth trillions"
 permalink: /predictions/gpu-economics/2023-06-12-ai-compute-market-will-be-worth-trillions-xkaj/
 slug_id: 2023-06-12-ai-compute-market-will-be-worth-trillions-xkaj
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"
 source_url: https://www.youtube.com/watch?v=pSCkBP7Pw6Y&t=823s
 timestamp: "00:13:43"

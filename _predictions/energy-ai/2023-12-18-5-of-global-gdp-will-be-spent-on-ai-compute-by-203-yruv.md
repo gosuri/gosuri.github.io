@@ -8,6 +8,8 @@ title: "~5% of global GDP will be spent on AI compute by ~2030"
 permalink: /predictions/energy-ai/2023-12-18-5-of-global-gdp-will-be-spent-on-ai-compute-by-203-yruv/
 slug_id: 2023-12-18-5-of-global-gdp-will-be-spent-on-ai-compute-by-203-yruv
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=3634s
 timestamp: "01:00:34"

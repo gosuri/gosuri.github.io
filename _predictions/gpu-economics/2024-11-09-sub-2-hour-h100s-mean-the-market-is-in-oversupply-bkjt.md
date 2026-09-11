@@ -7,7 +7,9 @@ year: "2024"
 title: "Sub-$2/hour H100s mean the market is in oversupply"
 permalink: /predictions/gpu-economics/2024-11-09-sub-2-hour-h100s-mean-the-market-is-in-oversupply-bkjt/
 slug_id: 2024-11-09-sub-2-hour-h100s-mean-the-market-is-in-oversupply-bkjt
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"
 source_url: https://www.youtube.com/watch?v=3_gGBRqzxrQ&t=1317s
 timestamp: "00:21:57"

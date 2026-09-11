@@ -7,7 +7,9 @@ year: "2023"
 title: "Mobile/edge compute (robots, self-driving) requires massive compute distribution"
 permalink: /predictions/local-compute/2023-05-12-mobile-edge-compute-robots-self-driving-requires-m-xwle/
 slug_id: 2023-05-12-mobile-edge-compute-robots-self-driving-requires-m-xwle
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"
 source_url: https://www.youtube.com/watch?v=FAuW6cUWkR8&t=4212s
 timestamp: "01:10:12"

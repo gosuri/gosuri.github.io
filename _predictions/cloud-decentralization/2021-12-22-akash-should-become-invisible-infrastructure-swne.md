@@ -8,6 +8,8 @@ title: "Akash should become invisible infrastructure"
 permalink: /predictions/cloud-decentralization/2021-12-22-akash-should-become-invisible-infrastructure-swne/
 slug_id: 2021-12-22-akash-should-become-invisible-infrastructure-swne
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Office Hours : End of Year Product Update (Akash Network)"
 source_url: https://www.youtube.com/watch?v=xhuhCng_JyA&t=2446s
 timestamp: "00:40:46"

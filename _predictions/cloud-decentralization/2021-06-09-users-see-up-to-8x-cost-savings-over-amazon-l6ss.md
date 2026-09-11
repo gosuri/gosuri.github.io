@@ -8,6 +8,8 @@ title: "Users see up to 8x cost savings over Amazon"
 permalink: /predictions/cloud-decentralization/2021-06-09-users-see-up-to-8x-cost-savings-over-amazon-l6ss/
 slug_id: 2021-06-09-users-see-up-to-8x-cost-savings-over-amazon-l6ss
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=i2AE257OCMA&t=87s
 timestamp: "00:01:27"

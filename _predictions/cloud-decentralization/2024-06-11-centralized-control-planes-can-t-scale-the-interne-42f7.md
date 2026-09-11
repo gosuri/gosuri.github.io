@@ -8,6 +8,8 @@ title: "Centralized control planes can't scale — the internet's roots are the 
 permalink: /predictions/cloud-decentralization/2024-06-11-centralized-control-planes-can-t-scale-the-interne-42f7/
 slug_id: 2024-06-11-centralized-control-planes-can-t-scale-the-interne-42f7
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Keynote from Greg Osuri: \\\"Journey to Acceleration & Beyond\\\" - Akash Accelerate '24\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=04-IN8Btp3U&t=307s
 timestamp: "00:05:07"

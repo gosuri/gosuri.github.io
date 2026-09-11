@@ -7,7 +7,9 @@ year: "2021"
 title: "Akash plans a futures market for compute"
 permalink: /predictions/gpu-economics/2021-12-15-akash-plans-a-futures-market-for-compute-hs5m/
 slug_id: 2021-12-15-akash-plans-a-futures-market-for-compute-hs5m
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeFi Decoded - Greg Osuri, CEO of Akash on why DeFi needs a Decentralized Internet to succeed (Ninepoint Partners)"
 source_url: https://www.youtube.com/watch?v=7pEWlQnQ_8Q&t=1956s
 timestamp: "00:32:36"

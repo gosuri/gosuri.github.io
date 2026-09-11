@@ -7,7 +7,9 @@ year: "2022"
 title: "Web3's edge: open source software that ships with its own network"
 permalink: /predictions/other/2022-09-15-web3-s-edge-open-source-software-that-ships-with-i-gwdf/
 slug_id: 2022-09-15-web3-s-edge-open-source-software-that-ships-with-i-gwdf
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 14th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Ckp4eQ94ojM&t=2279s
 timestamp: "00:37:59"

@@ -7,7 +7,9 @@ year: "2025"
 title: "In a couple of years it will be obvious: AI can only scale decentralized"
 permalink: /predictions/decentralized-ai/2025-04-11-in-a-couple-of-years-it-will-be-obvious-ai-can-onl-tst3/
 slug_id: 2025-04-11-in-a-couple-of-years-it-will-be-obvious-ai-can-onl-tst3
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"
 source_url: https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=334s
 timestamp: "00:05:34"

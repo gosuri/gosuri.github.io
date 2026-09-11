@@ -8,6 +8,8 @@ title: "From 20% to 80% of the Cosmos ecosystem in 12 months"
 permalink: /predictions/cloud-decentralization/2022-09-22-from-20-to-80-of-the-cosmos-ecosystem-in-12-months-lgrh/
 slug_id: 2022-09-22-from-20-to-80-of-the-cosmos-ecosystem-in-12-months-lgrh
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 21st 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=1SjcSAQKY7g&t=1892s
 timestamp: "00:31:32"

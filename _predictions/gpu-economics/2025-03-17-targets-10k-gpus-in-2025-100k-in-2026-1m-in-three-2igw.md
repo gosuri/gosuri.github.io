@@ -7,7 +7,9 @@ year: "2025"
 title: "Targets: 10K GPUs in 2025, 100K in 2026, 1M in three years"
 permalink: /predictions/gpu-economics/2025-03-17-targets-10k-gpus-in-2025-100k-in-2026-1m-in-three-2igw/
 slug_id: 2025-03-17-targets-10k-gpus-in-2025-100k-in-2026-1m-in-three-2igw
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why the Future of AI Depends on Decentralized Cloud Platforms (Eye on AI)"
 source_url: https://www.youtube.com/watch?v=Rq0UByMDUv4&t=2659s
 timestamp: "00:44:19"

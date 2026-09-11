@@ -7,7 +7,9 @@ year: "2024"
 title: "Helium paid him ~$500k for a $300 box — why Akash is pre-incentives"
 permalink: /predictions/crypto-depin/2024-03-19-helium-paid-him-500k-for-a-300-box-why-akash-is-pr-3c7c/
 slug_id: 2024-03-19-helium-paid-him-500k-for-a-300-box-why-akash-is-pr-3c7c
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"
 source_url: https://www.youtube.com/watch?v=uUoePJrzyDQ&t=1288s
 timestamp: "00:21:28"

@@ -7,7 +7,9 @@ year: "2026"
 title: "Distributed training reaches state of the art in 2-3 years"
 permalink: /predictions/decentralized-ai/2026-04-23-distributed-training-reaches-state-of-the-art-in-2-6gku/
 slug_id: 2026-04-23-distributed-training-reaches-state-of-the-art-in-2-6gku
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=1609s
 timestamp: "00:26:49"

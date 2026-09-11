@@ -7,7 +7,9 @@ year: "2022"
 title: "Privacy tech will be the battleground of the next two years"
 permalink: /predictions/crypto-depin/2022-08-12-privacy-tech-will-be-the-battleground-of-the-next-vr52/
 slug_id: 2022-08-12-privacy-tech-will-be-the-battleground-of-the-next-vr52
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 10th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=eqwoP7iMh7g&t=2801s
 timestamp: "00:46:41"

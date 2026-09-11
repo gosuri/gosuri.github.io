@@ -7,7 +7,9 @@ year: "2023"
 title: "A100s at $0.50/hour vs. $4 on traditional cloud"
 permalink: /predictions/gpu-economics/2023-02-25-a100s-at-0-50-hour-vs-4-on-traditional-cloud-eumg/
 slug_id: 2023-02-25-a100s-at-0-50-hour-vs-4-on-traditional-cloud-eumg
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Live with Greg Osuri: Akash's progress in 2023, open community development, and more (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Oz-Oara8i78&t=1249s
 timestamp: "00:20:49"

@@ -8,6 +8,8 @@ title: "Decentralization is the only way out"
 permalink: /predictions/cloud-decentralization/2022-11-17-decentralization-is-the-only-way-out-bbo2/
 slug_id: 2022-11-17-decentralization-is-the-only-way-out-bbo2
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 16th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=zftMimmn2CY&t=3307s
 timestamp: "00:55:07"

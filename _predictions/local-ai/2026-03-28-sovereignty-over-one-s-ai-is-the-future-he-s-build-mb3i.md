@@ -8,6 +8,8 @@ title: "Sovereignty over one's AI is the future he's building toward"
 permalink: /predictions/local-ai/2026-03-28-sovereignty-over-one-s-ai-is-the-future-he-s-build-mb3i/
 slug_id: 2026-03-28-sovereignty-over-one-s-ai-is-the-future-he-s-build-mb3i
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=729s
 timestamp: "00:12:09"

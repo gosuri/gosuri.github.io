@@ -8,6 +8,8 @@ title: "Open access to information drives human evolution"
 permalink: /predictions/open-source-ai/2024-11-26-open-access-to-information-drives-human-evolution-enki/
 slug_id: 2024-11-26-open-access-to-information-drives-human-evolution-enki
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "What is Akash Network? Greg Osuri on Decentralized Cloud Computing | Greg Osuri - Founder of Akash (Genzio)"
 source_url: https://www.youtube.com/watch?v=pIX9lYr57fE&t=615s
 timestamp: "00:10:15"

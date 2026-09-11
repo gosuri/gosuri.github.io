@@ -8,6 +8,8 @@ title: "xAI Memphis runs on burning gas, not the grid"
 permalink: /predictions/energy-ai/2025-06-03-xai-memphis-runs-on-burning-gas-not-the-grid-slfu/
 slug_id: 2025-06-03-xai-memphis-runs-on-burning-gas-not-the-grid-slfu
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=960s
 timestamp: "00:16:00"

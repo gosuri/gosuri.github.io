@@ -7,7 +7,9 @@ year: "2024"
 title: "AI misuse will get worse before it gets better"
 permalink: /predictions/other/2024-09-10-ai-misuse-will-get-worse-before-it-gets-better-ctcy/
 slug_id: 2024-09-10-ai-misuse-will-get-worse-before-it-gets-better-ctcy
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))"
 source_url: https://podcasts.apple.com/us/podcast/akash-network-the-decentralized-compute-marketplace/id1471243424?i=1000669078512
 timestamp: "00:35:34"

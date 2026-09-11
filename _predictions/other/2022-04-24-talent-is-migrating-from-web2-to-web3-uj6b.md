@@ -7,7 +7,9 @@ year: "2022"
 title: "Talent is migrating from web2 to web3"
 permalink: /predictions/other/2022-04-24-talent-is-migrating-from-web2-to-web3-uj6b/
 slug_id: 2022-04-24-talent-is-migrating-from-web2-to-web3-uj6b
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly: Introducing new VP of Engineering, Chanda Dharap (Akash Network)"
 source_url: https://www.youtube.com/watch?v=vXOJlsI_CX0&t=2323s
 timestamp: "00:38:43"

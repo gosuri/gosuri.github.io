@@ -8,6 +8,8 @@ title: "Akash 95% cheaper; 1,000-1,500 providers expected soon"
 permalink: /predictions/cloud-decentralization/2022-09-13-akash-95-cheaper-1-000-1-500-providers-expected-so-elxn/
 slug_id: 2022-09-13-akash-95-cheaper-1-000-1-500-providers-expected-so-elxn
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Ask Akash - How will $AKT benefit from enabling Fiat Payments (Akash Network)"
 source_url: https://www.youtube.com/watch?v=mo5VD4leo4A&t=86s
 timestamp: "00:01:26"

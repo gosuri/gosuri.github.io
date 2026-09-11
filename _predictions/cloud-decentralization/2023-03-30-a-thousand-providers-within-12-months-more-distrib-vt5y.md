@@ -8,6 +8,8 @@ title: "A thousand providers within 12 months; more distributed than Amazon"
 permalink: /predictions/cloud-decentralization/2023-03-30-a-thousand-providers-within-12-months-more-distrib-vt5y/
 slug_id: 2023-03-30-a-thousand-providers-within-12-months-more-distrib-vt5y
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Mission: DeFi EP 92 - Greg Osuri - Akash is taking on the giants in hosted processing (Mission: DeFi)"
 source_url: https://www.youtube.com/watch?v=wVH1OYhNOeE&t=811s
 timestamp: "00:13:31"

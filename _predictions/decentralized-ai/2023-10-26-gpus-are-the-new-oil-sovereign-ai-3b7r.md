@@ -7,7 +7,9 @@ year: "2023"
 title: "GPUs are the new oil; sovereign AI"
 permalink: /predictions/decentralized-ai/2023-10-26-gpus-are-the-new-oil-sovereign-ai-3b7r/
 slug_id: 2023-10-26-gpus-are-the-new-oil-sovereign-ai-3b7r
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"
 source_url: https://www.youtube.com/watch?v=CRA0yN28Dw8&t=2168s
 timestamp: "00:36:08"

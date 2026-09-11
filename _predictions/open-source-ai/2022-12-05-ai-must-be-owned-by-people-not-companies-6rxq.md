@@ -8,6 +8,8 @@ title: "AI must be owned by people, not companies"
 permalink: /predictions/open-source-ai/2022-12-05-ai-must-be-owned-by-people-not-companies-6rxq/
 slug_id: 2022-12-05-ai-must-be-owned-by-people-not-companies-6rxq
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 30th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=BM-WU0TaynU&t=2293s
 timestamp: "00:38:13"

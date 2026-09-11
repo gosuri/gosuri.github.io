@@ -7,7 +7,9 @@ year: "2022"
 title: "GPU/machine-learning workloads are the next market after PMF"
 permalink: /predictions/gpu-economics/2022-07-14-gpu-machine-learning-workloads-are-the-next-market-wa2u/
 slug_id: 2022-07-14-gpu-machine-learning-workloads-are-the-next-market-wa2u
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 13th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=D-CIXpfW13A&t=3082s
 timestamp: "00:51:22"

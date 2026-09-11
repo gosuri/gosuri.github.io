@@ -8,6 +8,8 @@ title: "Existing sources won't cut it; AI takes 2-8% of global energy"
 permalink: /predictions/energy-ai/2025-04-02-existing-sources-won-t-cut-it-ai-takes-2-8-of-glob-dqo7/
 slug_id: 2025-04-02-existing-sources-won-t-cut-it-ai-takes-2-8-of-glob-dqo7
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"
 source_url: https://www.youtube.com/watch?v=k0HPDluOlsQ&t=909s
 timestamp: "00:15:09"

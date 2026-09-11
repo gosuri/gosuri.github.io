@@ -7,7 +7,9 @@ year: "2022"
 title: "Sanctioning Tornado Cash is like banning electricity because North Koreans use it"
 permalink: /predictions/other/2022-08-12-sanctioning-tornado-cash-is-like-banning-electrici-efft/
 slug_id: 2022-08-12-sanctioning-tornado-cash-is-like-banning-electrici-efft
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 10th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=eqwoP7iMh7g&t=301s
 timestamp: "00:05:01"

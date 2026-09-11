@@ -7,7 +7,9 @@ year: "2026"
 title: "Stablecoins become de facto"
 permalink: /predictions/crypto-depin/2026-04-23-stablecoins-become-de-facto-lopt/
 slug_id: 2026-04-23-stablecoins-become-de-facto-lopt
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"
 source_url: https://www.youtube.com/watch?v=0fBYZPHOQds&t=3657s
 timestamp: "01:00:57"

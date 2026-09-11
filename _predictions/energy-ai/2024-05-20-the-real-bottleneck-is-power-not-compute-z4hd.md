@@ -8,6 +8,8 @@ title: "The real bottleneck is power, not compute"
 permalink: /predictions/energy-ai/2024-05-20-the-real-bottleneck-is-power-not-compute-z4hd/
 slug_id: 2024-05-20-the-real-bottleneck-is-power-not-compute-z4hd
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Hash Rate - Ep 050 - Akash Decentralized Cloud - Greg Osury (Hash Rate Podcast)"
 source_url: https://www.youtube.com/watch?v=S6niawECR8A&t=477s
 timestamp: "00:07:57"

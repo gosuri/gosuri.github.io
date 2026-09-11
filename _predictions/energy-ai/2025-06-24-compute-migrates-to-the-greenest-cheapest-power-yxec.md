@@ -8,6 +8,8 @@ title: "Compute migrates to the greenest, cheapest power"
 permalink: /predictions/energy-ai/2025-06-24-compute-migrates-to-the-greenest-cheapest-power-yxec/
 slug_id: 2025-06-24-compute-migrates-to-the-greenest-cheapest-power-yxec
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=16810s
 timestamp: "04:40:10"

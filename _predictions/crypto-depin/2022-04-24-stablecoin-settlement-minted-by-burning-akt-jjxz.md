@@ -7,7 +7,9 @@ year: "2022"
 title: "Stablecoin settlement minted by burning AKT"
 permalink: /predictions/crypto-depin/2022-04-24-stablecoin-settlement-minted-by-burning-akt-jjxz/
 slug_id: 2022-04-24-stablecoin-settlement-minted-by-burning-akt-jjxz
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akashonomics: AKT Release Schedule\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=G_pXEAo-ZsU&t=1798s
 timestamp: "00:29:58"

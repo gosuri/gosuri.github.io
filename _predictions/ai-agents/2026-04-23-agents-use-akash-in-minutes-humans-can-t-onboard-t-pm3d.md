@@ -8,6 +8,8 @@ title: "Agents use Akash in minutes; humans can't onboard them to AWS"
 permalink: /predictions/ai-agents/2026-04-23-agents-use-akash-in-minutes-humans-can-t-onboard-t-pm3d/
 slug_id: 2026-04-23-agents-use-akash-in-minutes-humans-can-t-onboard-t-pm3d
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=2684s
 timestamp: "00:44:44"

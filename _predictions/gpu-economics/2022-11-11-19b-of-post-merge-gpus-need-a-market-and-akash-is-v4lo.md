@@ -7,7 +7,9 @@ year: "2022"
 title: "$19B of post-merge GPUs need a market — and Akash is ready"
 permalink: /predictions/gpu-economics/2022-11-11-19b-of-post-merge-gpus-need-a-market-and-akash-is-v4lo/
 slug_id: 2022-11-11-19b-of-post-merge-gpus-need-a-market-and-akash-is-v4lo
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 9th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=yWtu0y6xr7o&t=3536s
 timestamp: "00:58:56"

@@ -7,7 +7,9 @@ year: "2023"
 title: "GPUs are the oil for AI; supply chain broken for 2-5 years"
 permalink: /predictions/gpu-economics/2023-06-15-gpus-are-the-oil-for-ai-supply-chain-broken-for-2-lbkj/
 slug_id: 2023-06-15-gpus-are-the-oil-for-ai-supply-chain-broken-for-2-lbkj
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"
 source_url: https://www.youtube.com/watch?v=CCHnfFIavA8&t=1989s
 timestamp: "00:33:09"

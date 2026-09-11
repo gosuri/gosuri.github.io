@@ -7,7 +7,9 @@ year: "2024"
 title: "Bittensor's emissions already rival OpenAI's revenue"
 permalink: /predictions/decentralized-ai/2024-06-18-bittensor-s-emissions-already-rival-openai-s-reven-6evb/
 slug_id: 2024-06-18-bittensor-s-emissions-already-rival-openai-s-reven-6evb
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844
 timestamp: "01:06:22"

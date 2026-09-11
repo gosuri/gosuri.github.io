@@ -7,7 +7,9 @@ year: "2021"
 title: "85% of data center capacity sits unused"
 permalink: /predictions/gpu-economics/2021-09-11-85-of-data-center-capacity-sits-unused-zvnr/
 slug_id: 2021-09-11-85-of-data-center-capacity-sits-unused-zvnr
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network’s (CRYPTO:AKT) ($AKT) interview with Mr. Greg Osuri CEO. (New to The Street TV)"
 source_url: https://www.youtube.com/watch?v=NsXA2hC9dPw&t=135s
 timestamp: "00:02:15"

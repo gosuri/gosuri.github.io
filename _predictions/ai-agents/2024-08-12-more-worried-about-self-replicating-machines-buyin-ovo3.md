@@ -8,6 +8,8 @@ title: "More worried about self-replicating machines buying their own compute th
 permalink: /predictions/ai-agents/2024-08-12-more-worried-about-self-replicating-machines-buyin-ovo3/
 slug_id: 2024-08-12-more-worried-about-self-replicating-machines-buyin-ovo3
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "BASS 2024 10 Ben Fielding, Greg Osuri, Guy Wuollet, Steven Willinger (Stanford Blockchain Club)"
 source_url: https://www.youtube.com/watch?v=FQZZiUAmLLI&t=1090s
 timestamp: "00:18:10"

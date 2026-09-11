@@ -7,7 +7,9 @@ year: "2024"
 title: "Decentralized training is starting to work"
 permalink: /predictions/decentralized-ai/2024-05-29-decentralized-training-is-starting-to-work-mqe7/
 slug_id: 2024-05-29-decentralized-training-is-starting-to-work-mqe7
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=60mmj3bNzB0&t=5448s
 timestamp: "01:30:48"

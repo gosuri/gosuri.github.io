@@ -7,7 +7,9 @@ year: "2023"
 title: "GPU protectionism and KYC are coming — but the protocol stays permissionless"
 permalink: /predictions/crypto-depin/2023-05-17-gpu-protectionism-and-kyc-are-coming-but-the-proto-2t3f/
 slug_id: 2023-05-17-gpu-protectionism-and-kyc-are-coming-but-the-proto-2t3f
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Mission: DeFi EP 98 - Can Akash be a major player in AI with their GPU market? Founder Greg Osuri (Mission: DeFi)"
 source_url: https://www.youtube.com/watch?v=ci_r_fOVT04&t=1656s
 timestamp: "00:27:36"

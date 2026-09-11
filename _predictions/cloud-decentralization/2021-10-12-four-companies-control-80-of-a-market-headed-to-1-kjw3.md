@@ -8,6 +8,8 @@ title: "Four companies control 80% of a market headed to $1 trillion"
 permalink: /predictions/cloud-decentralization/2021-10-12-four-companies-control-80-of-a-market-headed-to-1-kjw3/
 slug_id: 2021-10-12-four-companies-control-80-of-a-market-headed-to-1-kjw3
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"
 source_url: https://www.youtube.com/watch?v=PO-UpAZx-KM&t=426s
 timestamp: "00:07:06"

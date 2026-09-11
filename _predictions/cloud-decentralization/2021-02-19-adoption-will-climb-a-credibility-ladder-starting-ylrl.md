@@ -8,6 +8,8 @@ title: "Adoption will climb a credibility ladder, starting with DeFi front-ends"
 permalink: /predictions/cloud-decentralization/2021-02-19-adoption-will-climb-a-credibility-ladder-starting-ylrl/
 slug_id: 2021-02-19-adoption-will-climb-a-credibility-ladder-starting-ylrl
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Greg Osuri and Adam Bozanich (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fUeDGAt7IUk&t=2117s
 timestamp: "00:35:17"

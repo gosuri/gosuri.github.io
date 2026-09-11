@@ -8,6 +8,8 @@ title: "Cloud parity is a multi-year journey"
 permalink: /predictions/cloud-decentralization/2022-11-21-cloud-parity-is-a-multi-year-journey-welv/
 slug_id: 2022-11-21-cloud-parity-is-a-multi-year-journey-welv
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ask Akash: Thoughts on usage metrics over the last year (Akash Network)"
 source_url: https://www.youtube.com/watch?v=oB45bmSF4uY&t=775s
 timestamp: "00:12:55"

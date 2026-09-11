@@ -7,7 +7,9 @@ year: "2023"
 title: "Anyone's GPU can join the marketplace"
 permalink: /predictions/local-compute/2023-06-15-anyone-s-gpu-can-join-the-marketplace-owlp/
 slug_id: 2023-06-15-anyone-s-gpu-can-join-the-marketplace-owlp
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"
 source_url: https://www.youtube.com/watch?v=CCHnfFIavA8&t=2422s
 timestamp: "00:40:22"

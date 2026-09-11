@@ -7,7 +7,9 @@ year: "2024"
 title: "The endgame is one H100-class GPU per user, refreshed yearly"
 permalink: /predictions/gpu-economics/2024-10-02-the-endgame-is-one-h100-class-gpu-per-user-refresh-tra3/
 slug_id: 2024-10-02-the-endgame-is-one-h100-class-gpu-per-user-refresh-tra3
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out.\" (Block Fuel)"
 source_url: https://podcasts.apple.com/us/podcast/will-demand-for-advanced-ai-chips-gpus-be-1-1-for-every/id1705468368?i=1000671509211
 timestamp: "00:05:58"

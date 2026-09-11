@@ -8,6 +8,8 @@ title: "Provider self-moderation instead of central takedowns"
 permalink: /predictions/cloud-decentralization/2021-10-26-provider-self-moderation-instead-of-central-takedo-w6sc/
 slug_id: 2021-10-26-provider-self-moderation-instead-of-central-takedo-w6sc
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network CEO on competing with Amazon AWS, decentralized cloud computing, and free speech (Yahoo Finance)"
 source_url: https://www.youtube.com/watch?v=ESTCd9nb5CM&t=345s
 timestamp: "00:05:45"

@@ -7,7 +7,9 @@ year: "2025"
 title: "Distributed training is in its GPT-3 era, limited only by compute"
 permalink: /predictions/decentralized-ai/2025-06-03-distributed-training-is-in-its-gpt-3-era-limited-o-soyr/
 slug_id: 2025-06-03-distributed-training-is-in-its-gpt-3-era-limited-o-soyr
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=1089s
 timestamp: "00:18:09"

@@ -7,7 +7,9 @@ year: "2024"
 title: "Computing reverts to power at the edge"
 permalink: /predictions/local-compute/2024-10-18-computing-reverts-to-power-at-the-edge-dx3n/
 slug_id: 2024-10-18-computing-reverts-to-power-at-the-edge-dx3n
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Sovereign AI's Battlefield: Compute, Storage, & Running On The Edge | Crypto x AI Event (Delphi Digital)"
 source_url: https://www.youtube.com/watch?v=mODQ86rJws8&t=2341s
 timestamp: "00:39:01"

@@ -7,7 +7,9 @@ year: "2022"
 title: "Globally distributed GPU clusters mean massive cost reduction from reused hardware"
 permalink: /predictions/gpu-economics/2022-10-13-globally-distributed-gpu-clusters-mean-massive-cos-glav/
 slug_id: 2022-10-13-globally-distributed-gpu-clusters-mean-massive-cos-glav
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 12th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=6r_OON8CNPs&t=392s
 timestamp: "00:06:32"

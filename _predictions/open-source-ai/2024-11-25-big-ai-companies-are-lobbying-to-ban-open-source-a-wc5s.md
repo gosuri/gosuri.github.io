@@ -8,6 +8,8 @@ title: "Big AI companies are lobbying to ban open-source AI"
 permalink: /predictions/open-source-ai/2024-11-25-big-ai-companies-are-lobbying-to-ban-open-source-a-wc5s/
 slug_id: 2024-11-25-big-ai-companies-are-lobbying-to-ban-open-source-a-wc5s
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=998s
 timestamp: "00:16:38"

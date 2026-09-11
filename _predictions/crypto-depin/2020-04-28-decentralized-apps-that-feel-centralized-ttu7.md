@@ -7,7 +7,9 @@ year: "2020"
 title: "Decentralized apps that feel centralized"
 permalink: /predictions/crypto-depin/2020-04-28-decentralized-apps-that-feel-centralized-ttu7/
 slug_id: 2020-04-28-decentralized-apps-that-feel-centralized-ttu7
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Founder of Akash Network / Solana Testimonial (Solana)"
 source_url: https://www.youtube.com/watch?v=KxJSvgW5rGA&t=90s
 timestamp: "00:01:30"

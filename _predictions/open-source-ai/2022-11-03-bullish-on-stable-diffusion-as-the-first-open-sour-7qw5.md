@@ -8,6 +8,8 @@ title: "Bullish on Stable Diffusion as the first open-source AI model"
 permalink: /predictions/open-source-ai/2022-11-03-bullish-on-stable-diffusion-as-the-first-open-sour-7qw5/
 slug_id: 2022-11-03-bullish-on-stable-diffusion-as-the-first-open-sour-7qw5
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 2nd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=XQVGt-fdKPY&t=2311s
 timestamp: "00:38:31"

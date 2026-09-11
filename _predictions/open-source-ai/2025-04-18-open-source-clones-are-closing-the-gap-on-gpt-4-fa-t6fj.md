@@ -8,6 +8,8 @@ title: "Open-source clones are closing the gap on GPT-4 fast"
 permalink: /predictions/open-source-ai/2025-04-18-open-source-clones-are-closing-the-gap-on-gpt-4-fa-t6fj/
 slug_id: 2025-04-18-open-source-clones-are-closing-the-gap-on-gpt-4-fa-t6fj
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"
 source_url: https://www.youtube.com/watch?v=ImwkqmOSUkE&t=1292s
 timestamp: "00:21:32"

@@ -7,7 +7,9 @@ year: "2021"
 title: "The future of personal data is consent and sovereignty"
 permalink: /predictions/other/2021-06-09-the-future-of-personal-data-is-consent-and-soverei-rdbo/
 slug_id: 2021-06-09-the-future-of-personal-data-is-consent-and-soverei-rdbo
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=i2AE257OCMA&t=2522s
 timestamp: "00:42:02"

@@ -7,7 +7,9 @@ year: "2021"
 title: "Regulators will come for DeFi frontends registered in founders' names"
 permalink: /predictions/crypto-depin/2021-06-27-regulators-will-come-for-defi-frontends-registered-hc24/
 slug_id: 2021-06-27-regulators-will-come-for-defi-frontends-registered-hc24
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Enter Decentralized Cloud & Unstoppable Web with Akash Network & Deeper - DeFi Conference Day 1 (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=iV6Zu5_AVKA&t=1278s
 timestamp: "00:21:18"

@@ -8,6 +8,8 @@ title: "The Amazon tax: 50 cents of every online-service dollar"
 permalink: /predictions/cloud-decentralization/2022-11-11-the-amazon-tax-50-cents-of-every-online-service-do-7bph/
 slug_id: 2022-11-11-the-amazon-tax-50-cents-of-every-online-service-do-7bph
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Problem w/Blockchains on Big Cloud (Akash Network)"
 source_url: https://www.youtube.com/watch?v=YasgYOQtxR0&t=259s
 timestamp: "00:04:19"

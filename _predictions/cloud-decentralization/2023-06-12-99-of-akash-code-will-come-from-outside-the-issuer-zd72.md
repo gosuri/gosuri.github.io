@@ -8,6 +8,8 @@ title: "99% of Akash code will come from outside the issuer"
 permalink: /predictions/cloud-decentralization/2023-06-12-99-of-akash-code-will-come-from-outside-the-issuer-zd72/
 slug_id: 2023-06-12-99-of-akash-code-will-come-from-outside-the-issuer-zd72
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"
 source_url: https://www.youtube.com/watch?v=pSCkBP7Pw6Y&t=1811s
 timestamp: "00:30:11"

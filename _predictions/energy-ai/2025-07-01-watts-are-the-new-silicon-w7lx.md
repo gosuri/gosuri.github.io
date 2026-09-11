@@ -8,6 +8,8 @@ title: "Watts are the new silicon"
 permalink: /predictions/energy-ai/2025-07-01-watts-are-the-new-silicon-w7lx/
 slug_id: 2025-07-01-watts-are-the-new-silicon-w7lx
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025  -  Greg Osuri Keynote (Akash Network)"
 source_url: https://www.youtube.com/watch?v=0BIIiQquYFI&t=265s
 timestamp: "00:04:25"

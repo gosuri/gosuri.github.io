@@ -8,6 +8,8 @@ title: "Efficiency over expansion — reuse deployed compute"
 permalink: /predictions/energy-ai/2022-12-11-efficiency-over-expansion-reuse-deployed-compute-ln7f/
 slug_id: 2022-12-11-efficiency-over-expansion-reuse-deployed-compute-ln7f
 theme_page: /predictions/energy-ai/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Ask Akash - What problem does Akash solve? Can it scale? (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Maqn563IeRY&t=175s
 timestamp: "00:02:55"

@@ -8,6 +8,8 @@ title: "Akash in 2031: a $300B market, everywhere like the cloud"
 permalink: /predictions/cloud-decentralization/2020-12-20-akash-in-2031-a-300b-market-everywhere-like-the-cl-grgt/
 slug_id: 2020-12-20-akash-in-2031-a-300b-market-everywhere-like-the-cl-grgt
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "\"The Akashian Challenge: Closing Live Stream\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=RXW6N4R6j80&t=3525s
 timestamp: "00:58:45"

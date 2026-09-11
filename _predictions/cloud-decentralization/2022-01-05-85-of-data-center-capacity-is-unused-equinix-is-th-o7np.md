@@ -8,6 +8,8 @@ title: "85% of data-center capacity is unused; Equinix is the largest supplier"
 permalink: /predictions/cloud-decentralization/2022-01-05-85-of-data-center-capacity-is-unused-equinix-is-th-o7np/
 slug_id: 2022-01-05-85-of-data-center-capacity-is-unused-equinix-is-th-o7np
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Updates From the Lab 1/5/22 W/Akash (Osmosis)"
 source_url: https://www.youtube.com/watch?v=mk1P5-n2w8k&t=3192s
 timestamp: "00:53:12"

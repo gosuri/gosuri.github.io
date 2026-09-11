@@ -8,6 +8,8 @@ title: "Flip the model: power attracts compute"
 permalink: /predictions/energy-ai/2025-07-01-flip-the-model-power-attracts-compute-lvzm/
 slug_id: 2025-07-01-flip-the-model-power-attracts-compute-lvzm
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=FBHsD1bgtvc&t=855s
 timestamp: "00:14:15"

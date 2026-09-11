@@ -7,7 +7,9 @@ year: "2024"
 title: "Crypto networks are better positioned to prevent Skynet than corporate boards"
 permalink: /predictions/decentralized-ai/2024-03-19-crypto-networks-are-better-positioned-to-prevent-s-ndur/
 slug_id: 2024-03-19-crypto-networks-are-better-positioned-to-prevent-s-ndur
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"
 source_url: https://www.youtube.com/watch?v=uUoePJrzyDQ&t=1458s
 timestamp: "00:24:18"

@@ -8,6 +8,8 @@ title: "Crypto solves open-source sustainability (Docker/Kubernetes failure)"
 permalink: /predictions/open-source-ai/2024-03-27-crypto-solves-open-source-sustainability-docker-ku-pj2o/
 slug_id: 2024-03-27-crypto-solves-open-source-sustainability-docker-ku-pj2o
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Agents Unleashed - Progress In The Decentralized AI Stack (Training, Fine-Tuning, Inference) (Olas)"
 source_url: https://www.youtube.com/watch?v=o2khlH9vX2M&t=1601s
 timestamp: "00:26:41"

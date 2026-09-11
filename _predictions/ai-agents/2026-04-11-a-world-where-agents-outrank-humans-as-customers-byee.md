@@ -8,6 +8,8 @@ title: "A world where agents outrank humans as customers"
 permalink: /predictions/ai-agents/2026-04-11-a-world-where-agents-outrank-humans-as-customers-byee/
 slug_id: 2026-04-11-a-world-where-agents-outrank-humans-as-customers-byee
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=9184s
 timestamp: "02:33:04"

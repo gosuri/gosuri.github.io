@@ -8,6 +8,8 @@ title: "60% of Ethereum nodes run on AWS — that's not decentralization"
 permalink: /predictions/cloud-decentralization/2020-01-12-60-of-ethereum-nodes-run-on-aws-that-s-not-decentr-4ojj/
 slug_id: 2020-01-12-60-of-ethereum-nodes-run-on-aws-that-s-not-decentr-4ojj
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Hashing It Out #70 - Akash Network - Greg Osuri\" (Hashing It Out (The Bitcoin Podcast Network))"
 source_url: https://podcasts.apple.com/us/podcast/hashing-it-out-70-akash-network-greg-osuri/id1000457699?i=1000462229743
 timestamp: "00:58:06"

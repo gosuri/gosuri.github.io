@@ -7,7 +7,9 @@ year: "2023"
 title: "Crypto's access and base layers are not decentralized"
 permalink: /predictions/crypto-depin/2023-02-01-crypto-s-access-and-base-layers-are-not-decentrali-pf4a/
 slug_id: 2023-02-01-crypto-s-access-and-base-layers-are-not-decentrali-pf4a
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Messari Happy Hour Ep11 (Messari)"
 source_url: https://www.youtube.com/watch?v=q9cuO5P42i4&t=225s
 timestamp: "00:03:45"

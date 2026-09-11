@@ -8,6 +8,8 @@ title: "Solar panels heating water while hashing — an early energy-compute con
 permalink: /predictions/energy-ai/2018-04-26-solar-panels-heating-water-while-hashing-an-early-p3rn/
 slug_id: 2018-04-26-solar-panels-heating-water-while-hashing-an-early-p3rn
 theme_page: /predictions/energy-ai/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Solana: The World's Fastest Blockchain (fireside chat at Node) (Solana)"
 source_url: https://www.youtube.com/watch?v=uhrU0W4J05w&t=1002s
 timestamp: "00:16:42"

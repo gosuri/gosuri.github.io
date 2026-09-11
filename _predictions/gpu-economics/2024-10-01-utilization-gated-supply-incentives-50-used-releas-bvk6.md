@@ -7,7 +7,9 @@ year: "2024"
 title: "Utilization-gated supply incentives: 50% used releases rewards to double capacity"
 permalink: /predictions/gpu-economics/2024-10-01-utilization-gated-supply-incentives-50-used-releas-bvk6/
 slug_id: 2024-10-01-utilization-gated-supply-incentives-50-used-releas-bvk6
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Leveraging Incentives to Build with Your Community | Open AGI Summit | Brussels 2024 (Open AGI)"
 source_url: https://www.youtube.com/watch?v=QD0dxndS3m4&t=486s
 timestamp: "00:08:06"

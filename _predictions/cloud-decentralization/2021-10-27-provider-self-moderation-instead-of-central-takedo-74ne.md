@@ -8,6 +8,8 @@ title: "Provider self-moderation instead of central takedowns"
 permalink: /predictions/cloud-decentralization/2021-10-27-provider-self-moderation-instead-of-central-takedo-74ne/
 slug_id: 2021-10-27-provider-self-moderation-instead-of-central-takedo-74ne
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network CEO, Greg Osuri on Yahoo Finance (Akash Network)"
 source_url: https://www.youtube.com/watch?v=9MCrtBKQYkw&t=390s
 timestamp: "00:06:30"

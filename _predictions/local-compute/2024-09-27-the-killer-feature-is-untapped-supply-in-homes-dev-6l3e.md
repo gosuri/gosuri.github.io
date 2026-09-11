@@ -7,7 +7,9 @@ year: "2024"
 title: "The killer feature is untapped supply in homes, devices, and appliances"
 permalink: /predictions/local-compute/2024-09-27-the-killer-feature-is-untapped-supply-in-homes-dev-6l3e/
 slug_id: 2024-09-27-the-killer-feature-is-untapped-supply-in-homes-dev-6l3e
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "IOSG OFR 13th Panel | GPU Symphony: Decentralized Compute Power (IOSG Ventures)"
 source_url: https://www.youtube.com/watch?v=_UG21_OaZLo&t=342s
 timestamp: "00:05:42"

@@ -7,7 +7,9 @@ year: "2023"
 title: "DePINs over-incentivized supply and under-optimized demand"
 permalink: /predictions/crypto-depin/2023-12-18-depins-over-incentivized-supply-and-under-optimize-pcsa/
 slug_id: 2023-12-18-depins-over-incentivized-supply-and-under-optimize-pcsa
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=956s
 timestamp: "00:15:56"

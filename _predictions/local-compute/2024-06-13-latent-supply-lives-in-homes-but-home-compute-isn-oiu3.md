@@ -7,7 +7,9 @@ year: "2024"
 title: "Latent supply lives in homes — but home compute isn't there yet"
 permalink: /predictions/local-compute/2024-06-13-latent-supply-lives-in-homes-but-home-compute-isn-oiu3/
 slug_id: 2024-06-13-latent-supply-lives-in-homes-but-home-compute-isn-oiu3
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"
 source_url: https://www.youtube.com/watch?v=RYs9UTXv43Q&t=708s
 timestamp: "00:11:48"

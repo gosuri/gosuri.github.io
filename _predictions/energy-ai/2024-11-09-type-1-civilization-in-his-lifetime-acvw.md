@@ -8,6 +8,8 @@ title: "Type 1 civilization in his lifetime"
 permalink: /predictions/energy-ai/2024-11-09-type-1-civilization-in-his-lifetime-acvw/
 slug_id: 2024-11-09-type-1-civilization-in-his-lifetime-acvw
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"
 source_url: https://www.youtube.com/watch?v=3_gGBRqzxrQ&t=2741s
 timestamp: "00:45:41"

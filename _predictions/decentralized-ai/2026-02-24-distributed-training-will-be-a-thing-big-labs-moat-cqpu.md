@@ -7,7 +7,9 @@ year: "2026"
 title: "Distributed training will be a thing; big labs' moat in doubt"
 permalink: /predictions/decentralized-ai/2026-02-24-distributed-training-will-be-a-thing-big-labs-moat-cqpu/
 slug_id: 2026-02-24-distributed-training-will-be-a-thing-big-labs-moat-cqpu
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=12006s
 timestamp: "03:20:06"

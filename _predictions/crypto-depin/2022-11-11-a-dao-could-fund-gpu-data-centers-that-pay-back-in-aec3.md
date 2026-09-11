@@ -7,7 +7,9 @@ year: "2022"
 title: "A DAO could fund GPU data centers that pay back in months"
 permalink: /predictions/crypto-depin/2022-11-11-a-dao-could-fund-gpu-data-centers-that-pay-back-in-aec3/
 slug_id: 2022-11-11-a-dao-could-fund-gpu-data-centers-that-pay-back-in-aec3
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 9th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=yWtu0y6xr7o&t=2457s
 timestamp: "00:40:57"

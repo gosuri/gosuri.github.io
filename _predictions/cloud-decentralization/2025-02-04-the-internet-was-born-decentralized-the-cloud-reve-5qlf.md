@@ -8,6 +8,8 @@ title: "The internet was born decentralized — the cloud reversed it"
 permalink: /predictions/cloud-decentralization/2025-02-04-the-internet-was-born-decentralized-the-cloud-reve-5qlf/
 slug_id: 2025-02-04-the-internet-was-born-decentralized-the-cloud-reve-5qlf
 theme_page: /predictions/cloud-decentralization/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"
 source_url: https://www.youtube.com/watch?v=T43OCZf2LO0&t=135s
 timestamp: "00:02:15"

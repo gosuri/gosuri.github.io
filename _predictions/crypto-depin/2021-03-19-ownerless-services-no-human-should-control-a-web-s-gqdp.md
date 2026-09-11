@@ -7,7 +7,9 @@ year: "2021"
 title: "\"Ownerless services\": no human should control a web service"
 permalink: /predictions/crypto-depin/2021-03-19-ownerless-services-no-human-should-control-a-web-s-gqdp/
 slug_id: 2021-03-19-ownerless-services-no-human-should-control-a-web-s-gqdp
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Sunny Aggarwal, Greg Osuri and Adam Bozanich (Akash Network)"
 source_url: https://www.youtube.com/watch?v=HiTE_qXoFvM&t=3638s
 timestamp: "01:00:38"

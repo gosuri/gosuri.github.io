@@ -8,6 +8,8 @@ title: "More regions than Amazon already; thousands of regions coming"
 permalink: /predictions/cloud-decentralization/2022-07-21-more-regions-than-amazon-already-thousands-of-regi-bwou/
 slug_id: 2022-07-21-more-regions-than-amazon-already-thousands-of-regi-bwou
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 20th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Xa-OsulzXAo&t=956s
 timestamp: "00:15:56"

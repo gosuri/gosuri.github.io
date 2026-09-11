@@ -7,7 +7,9 @@ year: "2021"
 title: "Equinix as Akash's first anchor provider"
 permalink: /predictions/other/2021-01-21-equinix-as-akash-s-first-anchor-provider-bc6q/
 slug_id: 2021-01-21-equinix-as-akash-s-first-anchor-provider-bc6q
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"
 source_url: https://www.youtube.com/watch?v=sRtkAUdqNFs&t=1199s
 timestamp: "00:19:59"

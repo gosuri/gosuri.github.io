@@ -8,6 +8,8 @@ title: "Training compute is scaling to gigawatt clusters — it is going to be n
 permalink: /predictions/energy-ai/2024-10-16-training-compute-is-scaling-to-gigawatt-clusters-i-rnhv/
 slug_id: 2024-10-16-training-compute-is-scaling-to-gigawatt-clusters-i-rnhv
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network's Greg Osuri on AI Fueling 1,729% Growth (Coinage)"
 source_url: https://www.youtube.com/watch?v=P8F-Ac0mitI&t=1043s
 timestamp: "00:17:23"

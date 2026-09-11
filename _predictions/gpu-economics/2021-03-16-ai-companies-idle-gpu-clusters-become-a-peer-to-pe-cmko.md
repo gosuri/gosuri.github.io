@@ -7,7 +7,9 @@ year: "2021"
 title: "AI companies' idle GPU clusters become a peer-to-peer cloud"
 permalink: /predictions/gpu-economics/2021-03-16-ai-companies-idle-gpu-clusters-become-a-peer-to-pe-cmko/
 slug_id: 2021-03-16-ai-companies-idle-gpu-clusters-become-a-peer-to-pe-cmko
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, Decentralized Cloud | Blockchain Interviews (Crypto Coin Show)"
 source_url: https://www.youtube.com/watch?v=0JrIenhz0fQ&t=343s
 timestamp: "00:05:43"

@@ -8,6 +8,8 @@ title: "The risk is a return to feudalism — including secret AGI captured by t
 permalink: /predictions/cloud-decentralization/2024-12-06-the-risk-is-a-return-to-feudalism-including-secret-wbue/
 slug_id: 2024-12-06-the-risk-is-a-return-to-feudalism-including-secret-wbue
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)"
 source_url: https://www.youtube.com/watch?v=VKDw4KZ23G4&t=528s
 timestamp: "00:08:48"

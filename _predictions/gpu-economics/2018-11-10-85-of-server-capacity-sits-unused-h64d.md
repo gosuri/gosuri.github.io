@@ -7,7 +7,9 @@ year: "2018"
 title: "85% of server capacity sits unused"
 permalink: /predictions/gpu-economics/2018-11-10-85-of-server-capacity-sits-unused-h64d/
 slug_id: 2018-11-10-85-of-server-capacity-sits-unused-h64d
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "CEO of Overclock Labs On the World of Blockchain & Upcoming Technology In Development (CoinBundle)"
 source_url: https://www.youtube.com/watch?v=Don1slbJlMQ&t=574s
 timestamp: "00:09:34"

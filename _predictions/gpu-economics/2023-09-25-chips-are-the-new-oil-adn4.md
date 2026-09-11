@@ -7,7 +7,9 @@ year: "2023"
 title: "Chips are the new oil"
 permalink: /predictions/gpu-economics/2023-09-25-chips-are-the-new-oil-adn4/
 slug_id: 2023-09-25-chips-are-the-new-oil-adn4
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)"
 source_url: https://podcasts.apple.com/us/podcast/greg-osuri-founder-and-ceo-of-akash-network/id1645459705?i=1000629088449
 timestamp: "00:29:03"

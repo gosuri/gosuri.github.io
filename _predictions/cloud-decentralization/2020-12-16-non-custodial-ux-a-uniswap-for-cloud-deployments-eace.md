@@ -8,6 +8,8 @@ title: "Non-custodial UX: a \"Uniswap for cloud deployments\""
 permalink: /predictions/cloud-decentralization/2020-12-16-non-custodial-ux-a-uniswap-for-cloud-deployments-eace/
 slug_id: 2020-12-16-non-custodial-ux-a-uniswap-for-cloud-deployments-eace
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - AKASH Network (At Stake)"
 source_url: https://podcasts.apple.com/us/podcast/greg-osuri-akash-network/id1543138052?i=1000502539042
 timestamp: "00:13:13"

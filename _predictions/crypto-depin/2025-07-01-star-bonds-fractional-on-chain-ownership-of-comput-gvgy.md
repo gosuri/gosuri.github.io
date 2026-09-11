@@ -7,7 +7,9 @@ year: "2025"
 title: "Star Bonds: fractional on-chain ownership of compute"
 permalink: /predictions/crypto-depin/2025-07-01-star-bonds-fractional-on-chain-ownership-of-comput-gvgy/
 slug_id: 2025-07-01-star-bonds-fractional-on-chain-ownership-of-comput-gvgy
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2025/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Accelerate 2025 - Star Bonds (Akash Network)"
 source_url: https://www.youtube.com/watch?v=G92_-4vWWt0&t=1s
 timestamp: "00:00:01"

@@ -8,6 +8,8 @@ title: "Agents fundamentally redefine user experience"
 permalink: /predictions/ai-agents/2026-02-24-agents-fundamentally-redefine-user-experience-hgx4/
 slug_id: 2026-02-24-agents-fundamentally-redefine-user-experience-hgx4
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=12049s
 timestamp: "03:20:49"

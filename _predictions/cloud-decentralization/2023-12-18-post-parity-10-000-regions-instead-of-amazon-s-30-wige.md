@@ -8,6 +8,8 @@ title: "Post-parity: 10,000 regions instead of Amazon's 30"
 permalink: /predictions/cloud-decentralization/2023-12-18-post-parity-10-000-regions-instead-of-amazon-s-30-wige/
 slug_id: 2023-12-18-post-parity-10-000-regions-instead-of-amazon-s-30-wige
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=3549s
 timestamp: "00:59:09"

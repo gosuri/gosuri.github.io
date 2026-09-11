@@ -8,6 +8,8 @@ title: "Extending residential solar to AI training is the winning move"
 permalink: /predictions/energy-ai/2026-03-28-extending-residential-solar-to-ai-training-is-the-e67q/
 slug_id: 2026-03-28-extending-residential-solar-to-ai-training-is-the-e67q
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=1761s
 timestamp: "00:29:21"

@@ -8,6 +8,8 @@ title: "Cloud parity: moving Walmart off Amazon \"in a few years\""
 permalink: /predictions/cloud-decentralization/2024-06-09-cloud-parity-moving-walmart-off-amazon-in-a-few-ye-v3ng/
 slug_id: 2024-06-09-cloud-parity-moving-walmart-off-amazon-in-a-few-ye-v3ng
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fVYeAVvuNLI&t=1548s
 timestamp: "00:25:48"

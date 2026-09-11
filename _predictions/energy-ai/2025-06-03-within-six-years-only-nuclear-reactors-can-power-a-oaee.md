@@ -8,6 +8,8 @@ title: "Within six years, only nuclear reactors can power a frontier training ru
 permalink: /predictions/energy-ai/2025-06-03-within-six-years-only-nuclear-reactors-can-power-a-oaee/
 slug_id: 2025-06-03-within-six-years-only-nuclear-reactors-can-power-a-oaee
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=744s
 timestamp: "00:12:24"

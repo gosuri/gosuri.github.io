@@ -8,6 +8,8 @@ title: "Protocols cooperating is the only way to beat the oligopoly"
 permalink: /predictions/cloud-decentralization/2018-08-31-protocols-cooperating-is-the-only-way-to-beat-the-xekn/
 slug_id: 2018-08-31-protocols-cooperating-is-the-only-way-to-beat-the-xekn
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "\"Crypto Stories: A Primer on Distributed Computing with Dani Grant, Dan Desjardins, Chandler Song, and Greg Osuri\" (Village Global's Venture Stories)"
 source_url: https://podcasts.apple.com/us/podcast/crypto-stories-a-primer-on-distributed-computing/id1316769266?i=1000499161936
 timestamp: "00:38:54"

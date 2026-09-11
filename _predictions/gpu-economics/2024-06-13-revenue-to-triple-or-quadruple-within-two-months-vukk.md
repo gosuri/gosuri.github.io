@@ -7,7 +7,9 @@ year: "2024"
 title: "Revenue to triple or quadruple within two months"
 permalink: /predictions/gpu-economics/2024-06-13-revenue-to-triple-or-quadruple-within-two-months-vukk/
 slug_id: 2024-06-13-revenue-to-triple-or-quadruple-within-two-months-vukk
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "A Decentralized Compute Marketplace with Greg Osuri (Software Engineering Daily)"
 source_url: https://www.youtube.com/watch?v=8O3HfvHSfqk&t=1437s
 timestamp: "00:23:57"

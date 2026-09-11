@@ -7,7 +7,9 @@ year: "2021"
 title: "Every home device and Tesla should sell spare compute to the market"
 permalink: /predictions/local-compute/2021-04-09-every-home-device-and-tesla-should-sell-spare-comp-ezvx/
 slug_id: 2021-04-09-every-home-device-and-tesla-should-sell-spare-comp-ezvx
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (Cosmos)"
 source_url: https://www.youtube.com/watch?v=4xlOVeUXd90&t=1909s
 timestamp: "00:31:49"

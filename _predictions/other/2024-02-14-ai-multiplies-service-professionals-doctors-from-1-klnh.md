@@ -7,7 +7,9 @@ year: "2024"
 title: "AI multiplies service professionals: doctors from 10 to 50 patients a day"
 permalink: /predictions/other/2024-02-14-ai-multiplies-service-professionals-doctors-from-1-klnh/
 slug_id: 2024-02-14-ai-multiplies-service-professionals-doctors-from-1-klnh
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri\" (Finality Crypto Podcast (DeFi Times))"
 source_url: https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095
 timestamp: "00:51:12"

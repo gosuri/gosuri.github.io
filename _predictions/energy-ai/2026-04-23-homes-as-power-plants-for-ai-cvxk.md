@@ -8,6 +8,8 @@ title: "Homes as power plants for AI"
 permalink: /predictions/energy-ai/2026-04-23-homes-as-power-plants-for-ai-cvxk/
 slug_id: 2026-04-23-homes-as-power-plants-for-ai-cvxk
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"
 source_url: https://www.youtube.com/watch?v=0fBYZPHOQds&t=2141s
 timestamp: "00:35:41"

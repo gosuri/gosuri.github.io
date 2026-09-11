@@ -7,7 +7,9 @@ year: "2020"
 title: "\"Plug and earn\" — getting cloud into consumers' homes with the Supermini"
 permalink: /predictions/local-compute/2020-12-16-plug-and-earn-getting-cloud-into-consumers-homes-w-eace/
 slug_id: 2020-12-16-plug-and-earn-getting-cloud-into-consumers-homes-w-eace
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - AKASH Network (At Stake)"
 source_url: https://podcasts.apple.com/us/podcast/greg-osuri-akash-network/id1543138052?i=1000502539042
 timestamp: "00:19:34"

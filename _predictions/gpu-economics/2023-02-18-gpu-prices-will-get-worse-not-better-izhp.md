@@ -7,7 +7,9 @@ year: "2023"
 title: "GPU prices will get worse, not better"
 permalink: /predictions/gpu-economics/2023-02-18-gpu-prices-will-get-worse-not-better-izhp/
 slug_id: 2023-02-18-gpu-prices-will-get-worse-not-better-izhp
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"
 source_url: https://www.youtube.com/watch?v=FwJ4-Q27CRM&t=1467s
 timestamp: "00:24:27"

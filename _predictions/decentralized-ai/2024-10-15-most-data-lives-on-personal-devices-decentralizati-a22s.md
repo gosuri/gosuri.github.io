@@ -7,7 +7,9 @@ year: "2024"
 title: "Most data lives on personal devices; decentralization unlocks it without breaking privacy"
 permalink: /predictions/decentralized-ai/2024-10-15-most-data-lives-on-personal-devices-decentralizati-a22s/
 slug_id: 2024-10-15-most-data-lives-on-personal-devices-decentralizati-a22s
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Key Challenges in Building Decentralized AI Infrastructure | AI / ALL Summit (Sahara AI)"
 source_url: https://www.youtube.com/watch?v=7z6pynSNjmw&t=515s
 timestamp: "00:08:35"

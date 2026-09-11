@@ -7,7 +7,9 @@ year: "2021"
 title: "Launch pricing 2-3x below market on bare metal"
 permalink: /predictions/gpu-economics/2021-01-20-launch-pricing-2-3x-below-market-on-bare-metal-53rw/
 slug_id: 2021-01-20-launch-pricing-2-3x-below-market-on-bare-metal-53rw
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Conversations with Jack ft Greg Osuri - S1E1 - by OmniFlix Network & Citizen Cosmos (OmniFlix Network)"
 source_url: https://www.youtube.com/watch?v=21oNz5O1qzk&t=1063s
 timestamp: "00:17:43"

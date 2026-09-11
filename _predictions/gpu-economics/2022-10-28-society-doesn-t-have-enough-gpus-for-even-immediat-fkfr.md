@@ -7,7 +7,9 @@ year: "2022"
 title: "Society doesn't have enough GPUs for even immediate AI adoption"
 permalink: /predictions/gpu-economics/2022-10-28-society-doesn-t-have-enough-gpus-for-even-immediat-fkfr/
 slug_id: 2022-10-28-society-doesn-t-have-enough-gpus-for-even-immediat-fkfr
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=c0SEzEtNZ8k&t=349s
 timestamp: "00:05:49"

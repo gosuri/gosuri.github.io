@@ -8,6 +8,8 @@ title: "IBC removes the last obstacle to replacing centralized cloud"
 permalink: /predictions/cloud-decentralization/2021-01-20-ibc-removes-the-last-obstacle-to-replacing-central-mpqh/
 slug_id: 2021-01-20-ibc-removes-the-last-obstacle-to-replacing-central-mpqh
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Conversations with Jack ft Greg Osuri - S1E1 - by OmniFlix Network & Citizen Cosmos (OmniFlix Network)"
 source_url: https://www.youtube.com/watch?v=21oNz5O1qzk&t=1359s
 timestamp: "00:22:39"

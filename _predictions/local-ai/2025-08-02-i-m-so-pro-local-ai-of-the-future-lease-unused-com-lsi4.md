@@ -8,6 +8,8 @@ title: "\"I'm so pro local AI of the future\" — lease unused compute back to a
 permalink: /predictions/local-ai/2025-08-02-i-m-so-pro-local-ai-of-the-future-lease-unused-com-lsi4/
 slug_id: 2025-08-02-i-m-so-pro-local-ai-of-the-future-lease-unused-com-lsi4
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=6701s
 timestamp: "01:51:41"

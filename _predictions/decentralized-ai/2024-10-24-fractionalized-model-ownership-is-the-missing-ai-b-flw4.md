@@ -7,7 +7,9 @@ year: "2024"
 title: "Fractionalized model ownership is the missing AI business model"
 permalink: /predictions/decentralized-ai/2024-10-24-fractionalized-model-ownership-is-the-missing-ai-b-flw4/
 slug_id: 2024-10-24-fractionalized-model-ownership-is-the-missing-ai-b-flw4
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=OHQnZEaMEHU&t=1693s
 timestamp: "00:28:13"

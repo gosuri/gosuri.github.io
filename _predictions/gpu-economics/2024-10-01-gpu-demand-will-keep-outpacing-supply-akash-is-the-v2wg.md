@@ -7,7 +7,9 @@ year: "2024"
 title: "GPU demand will keep outpacing supply; Akash is the only on-demand source"
 permalink: /predictions/gpu-economics/2024-10-01-gpu-demand-will-keep-outpacing-supply-akash-is-the-v2wg/
 slug_id: 2024-10-01-gpu-demand-will-keep-outpacing-supply-akash-is-the-v2wg
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Leveraging Incentives to Build with Your Community | Open AGI Summit | Brussels 2024 (Open AGI)"
 source_url: https://www.youtube.com/watch?v=QD0dxndS3m4&t=93s
 timestamp: "00:01:33"

@@ -8,6 +8,8 @@ title: "A fully verifiable software supply chain, from source code to deployment
 permalink: /predictions/cloud-decentralization/2022-09-15-a-fully-verifiable-software-supply-chain-from-sour-wv2r/
 slug_id: 2022-09-15-a-fully-verifiable-software-supply-chain-from-sour-wv2r
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 14th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Ckp4eQ94ojM&t=3010s
 timestamp: "00:50:10"

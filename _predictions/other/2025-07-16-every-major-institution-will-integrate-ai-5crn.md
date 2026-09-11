@@ -7,7 +7,9 @@ year: "2025"
 title: "Every major institution will integrate AI"
 permalink: /predictions/other/2025-07-16-every-major-institution-will-integrate-ai-5crn/
 slug_id: 2025-07-16-every-major-institution-will-integrate-ai-5crn
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Crypto World Daily)"
 source_url: https://www.youtube.com/watch?v=_4cu3b3jJgk&t=1s
 timestamp: "00:00:01"

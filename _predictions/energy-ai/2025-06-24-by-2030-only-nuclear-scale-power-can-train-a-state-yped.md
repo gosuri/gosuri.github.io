@@ -8,6 +8,8 @@ title: "By 2030 only nuclear-scale power can train a state-of-the-art model"
 permalink: /predictions/energy-ai/2025-06-24-by-2030-only-nuclear-scale-power-can-train-a-state-yped/
 slug_id: 2025-06-24-by-2030-only-nuclear-scale-power-can-train-a-state-yped
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=5974s
 timestamp: "01:39:34"

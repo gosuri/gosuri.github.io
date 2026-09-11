@@ -8,6 +8,8 @@ title: "Nvidia and grassroots engineers are driving local AI"
 permalink: /predictions/local-ai/2026-07-17-nvidia-and-grassroots-engineers-are-driving-local-2ubx/
 slug_id: 2026-07-17-nvidia-and-grassroots-engineers-are-driving-local-2ubx
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1077s
 timestamp: "00:17:57"

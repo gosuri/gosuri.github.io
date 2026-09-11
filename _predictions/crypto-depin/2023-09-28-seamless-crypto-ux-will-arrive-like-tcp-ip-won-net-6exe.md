@@ -7,7 +7,9 @@ year: "2023"
 title: "Seamless crypto UX will arrive like TCP/IP won networking"
 permalink: /predictions/crypto-depin/2023-09-28-seamless-crypto-ux-will-arrive-like-tcp-ip-won-net-6exe/
 slug_id: 2023-09-28-seamless-crypto-ux-will-arrive-like-tcp-ip-won-net-6exe
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)"
 source_url: https://www.youtube.com/watch?v=GVrfHDg30-M&t=3552s
 timestamp: "00:59:12"

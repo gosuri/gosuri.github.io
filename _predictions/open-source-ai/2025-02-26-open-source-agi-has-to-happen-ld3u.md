@@ -8,6 +8,8 @@ title: "Open-source AGI has to happen"
 permalink: /predictions/open-source-ai/2025-02-26-open-source-agi-has-to-happen-ld3u/
 slug_id: 2025-02-26-open-source-agi-has-to-happen-ld3u
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Everything Bagel: Open Source AI, Security, and Decentralization with Greg Osuri, Founder at Akash (The Index Podcast)"
 source_url: https://www.youtube.com/watch?v=VTJaABZMi9c&t=2686s
 timestamp: "00:44:46"

@@ -8,6 +8,8 @@ title: "Data centers to 12% of US electricity by 2028; 44% of new grid load"
 permalink: /predictions/energy-ai/2025-06-27-data-centers-to-12-of-us-electricity-by-2028-44-of-uj4n/
 slug_id: 2025-06-27-data-centers-to-12-of-us-electricity-by-2028-44-of-uj4n
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Beyond GPUs: How Decentralization Can Solve AI's Biggest Scaling Bottleneck | Day 2 | Crypto x AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=JgD4BzHEcu4&t=181s
 timestamp: "00:03:01"

@@ -8,6 +8,8 @@ title: "The OpenAI board crisis proves corporate AI is fragile"
 permalink: /predictions/open-source-ai/2024-01-16-the-openai-board-crisis-proves-corporate-ai-is-fra-bfpp/
 slug_id: 2024-01-16-the-openai-board-crisis-proves-corporate-ai-is-fra-bfpp
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akash: The Crypto-Powered Decentralized Supercloud\" (The Edge Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/akash-the-crypto-powered-decentralized-supercloud/id1671489227?i=1000641868294
 timestamp: "00:35:57"

@@ -8,6 +8,8 @@ title: "The world is ready for a decentralized Amazon"
 permalink: /predictions/cloud-decentralization/2021-07-15-the-world-is-ready-for-a-decentralized-amazon-ngpi/
 slug_id: 2021-07-15-the-world-is-ready-for-a-decentralized-amazon-ngpi
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akash Network Deep Dive: The Unstoppable Cloud, Powered by Cosmos!\" (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=K0iInoQojyg&t=1025s
 timestamp: "00:17:05"

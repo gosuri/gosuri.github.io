@@ -1,0 +1,113 @@
+{%- assign site_home = '/' | prepend: site.baseurl | prepend: site.url -%}
+{%- assign person_id = site_home | append: '#person' -%}
+{%- assign website_id = site_home | append: '#website' -%}
+{%- assign organization_id = site_home | append: '#overclock-labs' -%}
+{%- assign webpage_id = local_url | append: '#webpage' -%}
+{%- assign article_id = canonical_url | append: '#article' -%}
+{%- assign quotation_id = local_url | append: '#quotation' -%}
+{%- assign breadcrumb_id = local_url | append: '#breadcrumbs' -%}
+{%- capture structured_data -%}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "name": {{ person.name | jsonify }},
+      "url": {{ site_home | jsonify }},
+      "description": {{ person.description | jsonify }},
+      "jobTitle": {{ person.job_title | jsonify }},
+      "worksFor": {"@id": {{ organization_id | jsonify }}},
+      "sameAs": {{ person.same_as | jsonify }}
+    },
+    {
+      "@type": "Organization",
+      "@id": {{ organization_id | jsonify }},
+      "name": {{ person.organization_name | jsonify }},
+      "url": {{ person.organization_url | jsonify }},
+      "founder": {"@id": {{ person_id | jsonify }}}
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | jsonify }},
+      "url": {{ site_home | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "publisher": {"@id": {{ person_id | jsonify }}}
+    },
+    {
+      "@type": {% if page.layout == 'predictions' %}"CollectionPage"{% elsif page.url == '/about/' %}"ProfilePage"{% else %}"WebPage"{% endif %},
+      "@id": {{ webpage_id | jsonify }},
+      "url": {{ local_url | jsonify }},
+      "name": {{ page_title | jsonify }},
+      "description": {{ page_description | jsonify }},
+      "isPartOf": {"@id": {{ website_id | jsonify }}}
+      {%- if page.layout == 'post' -%},
+      "mainEntity": {"@id": {{ article_id | jsonify }}}
+      {%- elsif page.collection == 'predictions' -%},
+      "mainEntity": {"@id": {{ quotation_id | jsonify }}}
+      {%- elsif page.layout == 'predictions' -%},
+      "breadcrumb": {"@id": {{ breadcrumb_id | jsonify }}}
+      {%- elsif page.url == '/about/' -%},
+      "mainEntity": {"@id": {{ person_id | jsonify }}}
+      {%- elsif page.url == '/' -%},
+      "about": {"@id": {{ person_id | jsonify }}}
+      {%- endif %}
+    }
+    {%- if page.layout == 'post' -%},
+    {
+      "@type": "BlogPosting",
+      "@id": {{ article_id | jsonify }},
+      "url": {{ canonical_url | jsonify }},
+      "mainEntityOfPage": {{ canonical_url | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page_description | jsonify }},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "author": {"@id": {{ person_id | jsonify }}, "name": {{ person.name | jsonify }}},
+      "image": {{ og_image | jsonify }}
+      {%- if page.last_modified_at -%},
+      "dateModified": {{ page.last_modified_at | date_to_xmlschema | jsonify }}
+      {%- endif %}
+    }
+    {%- elsif page.collection == 'predictions' -%},
+    {
+      "@type": "Quotation",
+      "@id": {{ quotation_id | jsonify }},
+      "url": {{ local_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "text": {{ page.quote | strip | jsonify }},
+      "dateCreated": {{ page.date | date: '%Y-%m-%d' | jsonify }},
+      "isBasedOn": {{ page.source_url | jsonify }},
+      "image": {{ og_image | jsonify }}
+      {%- if page.speaker_status == 'attributed' -%},
+      "creator": {
+        "@type": "Person",
+        "name": {{ page.speaker | jsonify }}
+        {%- if page.speaker == person.name -%}, "@id": {{ person_id | jsonify }}{%- endif %}
+      }
+      {%- endif %}
+    }
+    {%- elsif page.layout == 'predictions' -%},
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ breadcrumb_id | jsonify }},
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": {{ site_home | jsonify }}},
+        {"@type": "ListItem", "position": 2, "name": "Predictions", "item": {{ '/predictions/' | prepend: site.baseurl | prepend: site.url | jsonify }}}
+        {%- if page.theme -%},
+        {"@type": "ListItem", "position": 3, "name": {{ page.theme | jsonify }}, "item": {{ metadata_theme | prepend: '/predictions/' | append: '/' | prepend: site.baseurl | prepend: site.url | jsonify }}}
+        {%- if page.year -%},
+        {"@type": "ListItem", "position": 4, "name": {{ page.year | jsonify }}, "item": {{ local_url | jsonify }}}
+        {%- endif -%}
+        {%- elsif page.url != '/predictions/' -%},
+        {"@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": {{ local_url | jsonify }}}
+        {%- endif %}
+      ]
+    }
+    {%- endif %}
+  ]
+}
+{%- endcapture -%}
+{%- comment -%}Prevent source text closing the inert script element. JSON
+decoding restores the exact original quote; HTML escaping would corrupt it.
+{%- endcomment -%}
+<script type="application/ld+json">{{ structured_data | replace: '<', '\u003c' }}</script>

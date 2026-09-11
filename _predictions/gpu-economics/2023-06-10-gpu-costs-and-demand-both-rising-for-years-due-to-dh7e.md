@@ -7,7 +7,9 @@ year: "2023"
 title: "GPU costs and demand both rising for years due to geopolitics"
 permalink: /predictions/gpu-economics/2023-06-10-gpu-costs-and-demand-both-rising-for-years-due-to-dh7e/
 slug_id: 2023-06-10-gpu-costs-and-demand-both-rising-for-years-due-to-dh7e
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"
 source_url: https://www.youtube.com/watch?v=3AvWFwSfbaU&t=2925s
 timestamp: "00:48:45"

@@ -7,7 +7,9 @@ year: "2022"
 title: "Wanting the bear market to last as long as possible"
 permalink: /predictions/other/2022-07-21-wanting-the-bear-market-to-last-as-long-as-possibl-i553/
 slug_id: 2022-07-21-wanting-the-bear-market-to-last-as-long-as-possibl-i553
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 20th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Xa-OsulzXAo&t=2524s
 timestamp: "00:42:04"

@@ -8,6 +8,8 @@ title: "Akash is a \"supercloud\""
 permalink: /predictions/cloud-decentralization/2023-02-16-akash-is-a-supercloud-hayz/
 slug_id: 2023-02-16-akash-is-a-supercloud-hayz
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"
 source_url: https://www.youtube.com/watch?v=XlFnp7eUw3M&t=993s
 timestamp: "00:16:33"

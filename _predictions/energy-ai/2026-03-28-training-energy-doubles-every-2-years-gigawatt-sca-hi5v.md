@@ -8,6 +8,8 @@ title: "Training energy doubles every ~2 years; gigawatt-scale training by 2030"
 permalink: /predictions/energy-ai/2026-03-28-training-energy-doubles-every-2-years-gigawatt-sca-hi5v/
 slug_id: 2026-03-28-training-energy-doubles-every-2-years-gigawatt-sca-hi5v
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=1029s
 timestamp: "00:17:09"

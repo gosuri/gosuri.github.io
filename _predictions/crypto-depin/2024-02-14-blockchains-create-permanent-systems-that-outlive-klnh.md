@@ -7,7 +7,9 @@ year: "2024"
 title: "Blockchains create permanent systems that outlive their creators"
 permalink: /predictions/crypto-depin/2024-02-14-blockchains-create-permanent-systems-that-outlive-klnh/
 slug_id: 2024-02-14-blockchains-create-permanent-systems-that-outlive-klnh
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri\" (Finality Crypto Podcast (DeFi Times))"
 source_url: https://podcasts.apple.com/us/podcast/how-to-pivot-your-career-in-crypto-and-ai-builders/id1541829695?i=1000645292095
 timestamp: "00:18:08"

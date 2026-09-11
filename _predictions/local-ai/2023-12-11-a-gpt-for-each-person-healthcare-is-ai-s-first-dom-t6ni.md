@@ -8,6 +8,8 @@ title: "A GPT for each person — healthcare is AI's first dominant application"
 permalink: /predictions/local-ai/2023-12-11-a-gpt-for-each-person-healthcare-is-ai-s-first-dom-t6ni/
 slug_id: 2023-12-11-a-gpt-for-each-person-healthcare-is-ai-s-first-dom-t6ni
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"
 source_url: https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791
 timestamp: "01:01:00"

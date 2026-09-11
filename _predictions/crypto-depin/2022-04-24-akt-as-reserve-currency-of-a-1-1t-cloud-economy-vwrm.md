@@ -7,7 +7,9 @@ year: "2022"
 title: "AKT as reserve currency of a $1.1T cloud economy"
 permalink: /predictions/crypto-depin/2022-04-24-akt-as-reserve-currency-of-a-1-1t-cloud-economy-vwrm/
 slug_id: 2022-04-24-akt-as-reserve-currency-of-a-1-1t-cloud-economy-vwrm
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akashonomics: AKT Release Schedule\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=G_pXEAo-ZsU&t=1498s
 timestamp: "00:24:58"

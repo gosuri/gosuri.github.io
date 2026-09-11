@@ -7,7 +7,9 @@ year: "2020"
 title: "Giving away 5% of the network to developers as the bootstrap mechanism"
 permalink: /predictions/crypto-depin/2020-07-06-giving-away-5-of-the-network-to-developers-as-the-2slt/
 slug_id: 2020-07-06-giving-away-5-of-the-network-to-developers-as-the-2slt
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash AMA Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=shFtDmsCGNc&t=1781s
 timestamp: "00:29:41"

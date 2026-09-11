@@ -7,7 +7,9 @@ year: "2025"
 title: "\"Let's build a cloud no one can shut down\" — meet at Kardashev 1"
 permalink: /predictions/other/2025-06-24-let-s-build-a-cloud-no-one-can-shut-down-meet-at-k-ti5a/
 slug_id: 2025-06-24-let-s-build-a-cloud-no-one-can-shut-down-meet-at-k-ti5a
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=17070s
 timestamp: "04:44:30"

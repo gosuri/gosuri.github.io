@@ -8,6 +8,8 @@ title: "\"We underpredicted\" the AI energy crunch"
 permalink: /predictions/energy-ai/2026-07-29-we-underpredicted-the-ai-energy-crunch-k4hj/
 slug_id: 2026-07-29-we-underpredicted-the-ai-energy-crunch-k4hj
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)"
 source_url: https://www.buzzsprout.com/2440361/episodes/19568316-ai-data-centers-are-eating-the-grid-is-there-another-way
 timestamp: "00:02:23"

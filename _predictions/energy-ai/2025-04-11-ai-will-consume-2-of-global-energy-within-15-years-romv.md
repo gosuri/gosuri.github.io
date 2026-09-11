@@ -8,6 +8,8 @@ title: "AI will consume 2% of global energy within 15 years — conservatively"
 permalink: /predictions/energy-ai/2025-04-11-ai-will-consume-2-of-global-energy-within-15-years-romv/
 slug_id: 2025-04-11-ai-will-consume-2-of-global-energy-within-15-years-romv
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"
 source_url: https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=1364s
 timestamp: "00:22:44"

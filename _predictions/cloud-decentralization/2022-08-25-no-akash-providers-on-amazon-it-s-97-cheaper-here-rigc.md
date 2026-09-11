@@ -8,6 +8,8 @@ title: "No Akash providers on Amazon — it's 97% cheaper here"
 permalink: /predictions/cloud-decentralization/2022-08-25-no-akash-providers-on-amazon-it-s-97-cheaper-here-rigc/
 slug_id: 2022-08-25-no-akash-providers-on-amazon-it-s-97-cheaper-here-rigc
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 24th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=nJVqxRUkxFA&t=1863s
 timestamp: "00:31:03"

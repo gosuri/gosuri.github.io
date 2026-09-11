@@ -7,7 +7,9 @@ year: "2024"
 title: "Decentralized training works — and it's happening on Akash"
 permalink: /predictions/decentralized-ai/2024-10-24-decentralized-training-works-and-it-s-happening-on-6lqv/
 slug_id: 2024-10-24-decentralized-training-works-and-it-s-happening-on-6lqv
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=OHQnZEaMEHU&t=567s
 timestamp: "00:09:27"

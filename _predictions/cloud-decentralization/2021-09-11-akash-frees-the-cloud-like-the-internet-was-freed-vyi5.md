@@ -8,6 +8,8 @@ title: "Akash frees the cloud like the internet was freed from AOL"
 permalink: /predictions/cloud-decentralization/2021-09-11-akash-frees-the-cloud-like-the-internet-was-freed-vyi5/
 slug_id: 2021-09-11-akash-frees-the-cloud-like-the-internet-was-freed-vyi5
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network’s (CRYPTO:AKT) ($AKT) interview with Mr. Greg Osuri CEO. (New to The Street TV)"
 source_url: https://www.youtube.com/watch?v=NsXA2hC9dPw&t=440s
 timestamp: "00:07:20"

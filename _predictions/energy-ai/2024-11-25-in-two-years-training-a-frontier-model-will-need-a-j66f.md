@@ -8,6 +8,8 @@ title: "In two years, training a frontier model will need a nuclear reactor"
 permalink: /predictions/energy-ai/2024-11-25-in-two-years-training-a-frontier-model-will-need-a-j66f/
 slug_id: 2024-11-25-in-two-years-training-a-frontier-model-will-need-a-j66f
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=1349s
 timestamp: "00:22:29"

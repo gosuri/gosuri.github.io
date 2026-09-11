@@ -8,6 +8,8 @@ title: "DOE's 12%-by-2028 data-center forecast is conservative; reality is 30-35
 permalink: /predictions/energy-ai/2025-07-31-doe-s-12-by-2028-data-center-forecast-is-conservat-p7mv/
 slug_id: 2025-07-31-doe-s-12-by-2028-data-center-forecast-is-conservat-p7mv
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/solving-ais-energy-crisis-with-decentralized-compute-w/id1792518750?i=1000720143134
 timestamp: "00:06:28"

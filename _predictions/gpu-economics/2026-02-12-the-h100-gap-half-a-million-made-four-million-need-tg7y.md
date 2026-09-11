@@ -7,7 +7,9 @@ year: "2026"
 title: "The H100 gap: half a million made, four million needed"
 permalink: /predictions/gpu-economics/2026-02-12-the-h100-gap-half-a-million-made-four-million-need-tg7y/
 slug_id: 2026-02-12-the-h100-gap-half-a-million-made-four-million-need-tg7y
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"DACM Insights: Decentralizing AI, The Akash Approach\" (DACM Insights)"
 source_url: https://www.youtube.com/watch?v=BQONg2f0zQc&t=707s
 timestamp: "00:11:47"

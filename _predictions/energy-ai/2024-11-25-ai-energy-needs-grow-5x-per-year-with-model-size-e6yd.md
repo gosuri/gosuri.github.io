@@ -8,6 +8,8 @@ title: "AI energy needs grow 5x per year with model size"
 permalink: /predictions/energy-ai/2024-11-25-ai-energy-needs-grow-5x-per-year-with-model-size-e6yd/
 slug_id: 2024-11-25-ai-energy-needs-grow-5x-per-year-with-model-size-e6yd
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=1261s
 timestamp: "00:21:01"

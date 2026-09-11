@@ -7,7 +7,9 @@ year: "2024"
 title: "By Cosmoverse 2025: a 100B-to-1T parameter decentralized model, and reactors under construction"
 permalink: /predictions/decentralized-ai/2024-10-24-by-cosmoverse-2025-a-100b-to-1t-parameter-decentra-clra/
 slug_id: 2024-10-24-by-cosmoverse-2025-a-100b-to-1t-parameter-decentra-clra
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=OHQnZEaMEHU&t=1779s
 timestamp: "00:29:39"

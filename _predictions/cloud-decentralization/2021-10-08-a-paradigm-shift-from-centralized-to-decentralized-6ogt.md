@@ -8,6 +8,8 @@ title: "A paradigm shift from centralized to decentralized architectures"
 permalink: /predictions/cloud-decentralization/2021-10-08-a-paradigm-shift-from-centralized-to-decentralized-6ogt/
 slug_id: 2021-10-08-a-paradigm-shift-from-centralized-to-decentralized-6ogt
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How do data scientist get into blockchain? Greg Osuri - The Data Scientist Show #007 (The Data Scientist Show)"
 source_url: https://www.youtube.com/watch?v=_ejhD_lNs4s&t=4657s
 timestamp: "01:17:37"

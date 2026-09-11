@@ -8,6 +8,8 @@ title: "AI centralization is spiking energy prices; only decentralization can co
 permalink: /predictions/energy-ai/2025-10-10-ai-centralization-is-spiking-energy-prices-only-de-45f2/
 slug_id: 2025-10-10-ai-centralization-is-spiking-energy-prices-only-de-45f2
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"
 source_url: https://www.youtube.com/watch?v=xr6ZLHwuo2w&t=2358s
 timestamp: "00:39:18"

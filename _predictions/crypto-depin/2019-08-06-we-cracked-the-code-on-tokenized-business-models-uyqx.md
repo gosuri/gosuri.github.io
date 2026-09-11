@@ -7,7 +7,9 @@ year: "2019"
 title: "\"We cracked the code\" on tokenized business models"
 permalink: /predictions/crypto-depin/2019-08-06-we-cracked-the-code-on-tokenized-business-models-uyqx/
 slug_id: 2019-08-06-we-cracked-the-code-on-tokenized-business-models-uyqx
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2019/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO Overclock Labs & Akash Network (Techpost)"
 source_url: https://www.youtube.com/watch?v=WKvrKWdc9OA&t=2786s
 timestamp: "00:46:26"

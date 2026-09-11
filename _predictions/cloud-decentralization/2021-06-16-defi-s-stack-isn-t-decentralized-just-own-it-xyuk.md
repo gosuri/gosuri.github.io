@@ -8,6 +8,8 @@ title: "DeFi's stack isn't decentralized — \"just own it\""
 permalink: /predictions/cloud-decentralization/2021-06-16-defi-s-stack-isn-t-decentralized-just-own-it-xyuk/
 slug_id: 2021-06-16-defi-s-stack-isn-t-decentralized-just-own-it-xyuk
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeFi Summit - Conference Day 1 - June 15th (Tuesday) (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=V3b3aoKEnEA&t=23194s
 timestamp: "06:26:34"

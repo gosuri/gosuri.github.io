@@ -7,7 +7,9 @@ year: "2024"
 title: "AI needs crypto more than crypto needs AI"
 permalink: /predictions/crypto-depin/2024-03-27-ai-needs-crypto-more-than-crypto-needs-ai-ygr4/
 slug_id: 2024-03-27-ai-needs-crypto-more-than-crypto-needs-ai-ygr4
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AtomDenver panel: AI 🤝 Crypto (Secret Network)"
 source_url: https://www.youtube.com/watch?v=999NHrdnGEo&t=924s
 timestamp: "00:15:24"

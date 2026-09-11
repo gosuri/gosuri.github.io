@@ -8,6 +8,8 @@ title: "Congress testimony: distributed data centers as the fix"
 permalink: /predictions/energy-ai/2026-07-17-congress-testimony-distributed-data-centers-as-the-lnag/
 slug_id: 2026-07-17-congress-testimony-distributed-data-centers-as-the-lnag
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=1754s
 timestamp: "00:29:14"

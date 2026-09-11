@@ -7,7 +7,9 @@ year: "2024"
 title: "Federated learning on distributed clusters is live via Prime Intellect and DiLoCo"
 permalink: /predictions/decentralized-ai/2024-07-22-federated-learning-on-distributed-clusters-is-live-wobc/
 slug_id: 2024-07-22-federated-learning-on-distributed-clusters-is-live-wobc
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "[Solo Talk] Decentralization is saving AI where centralization failed by Greg Osuri (Kryptoplanet[Official])"
 source_url: https://www.youtube.com/watch?v=YAOp0b8Bb6k&t=861s
 timestamp: "00:14:21"

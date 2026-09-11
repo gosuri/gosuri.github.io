@@ -8,6 +8,8 @@ title: "No free nuclear reactors left — and no way to build new ones in time"
 permalink: /predictions/energy-ai/2025-04-11-no-free-nuclear-reactors-left-and-no-way-to-build-5bro/
 slug_id: 2025-04-11-no-free-nuclear-reactors-left-and-no-way-to-build-5bro
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"
 source_url: https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=547s
 timestamp: "00:09:07"

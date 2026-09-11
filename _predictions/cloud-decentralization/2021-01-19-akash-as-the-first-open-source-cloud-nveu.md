@@ -8,6 +8,8 @@ title: "Akash as the first open-source cloud"
 permalink: /predictions/cloud-decentralization/2021-01-19-akash-as-the-first-open-source-cloud-nveu/
 slug_id: 2021-01-19-akash-as-the-first-open-source-cloud-nveu
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Citizen Cosmos and OmniFlix Network: Conversations with Jack ft. Greg Osuri Akash Network, S1E1 (Citizen Web3)"
 source_url: https://www.youtube.com/watch?v=lCRG5sAp_Sc&t=127s
 timestamp: "00:02:07"

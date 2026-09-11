@@ -8,6 +8,8 @@ title: "The 20-year-old advice to specialize is now backwards"
 permalink: /predictions/ai-agents/2026-04-11-the-20-year-old-advice-to-specialize-is-now-backwa-dije/
 slug_id: 2026-04-11-the-20-year-old-advice-to-specialize-is-now-backwa-dije
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=7860s
 timestamp: "02:11:00"

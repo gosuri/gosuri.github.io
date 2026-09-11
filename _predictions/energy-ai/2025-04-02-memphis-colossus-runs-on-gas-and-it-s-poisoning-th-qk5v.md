@@ -8,6 +8,8 @@ title: "Memphis Colossus runs on gas, and it's poisoning the city"
 permalink: /predictions/energy-ai/2025-04-02-memphis-colossus-runs-on-gas-and-it-s-poisoning-th-qk5v/
 slug_id: 2025-04-02-memphis-colossus-runs-on-gas-and-it-s-poisoning-th-qk5v
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"
 source_url: https://www.youtube.com/watch?v=k0HPDluOlsQ&t=651s
 timestamp: "00:10:51"

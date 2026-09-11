@@ -8,6 +8,8 @@ title: "The future of DeFi is full supply-chain decentralization"
 permalink: /predictions/cloud-decentralization/2022-09-08-the-future-of-defi-is-full-supply-chain-decentrali-hwa6/
 slug_id: 2022-09-08-the-future-of-defi-is-full-supply-chain-decentrali-hwa6
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 7th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=row18GzCS5w&t=901s
 timestamp: "00:15:01"

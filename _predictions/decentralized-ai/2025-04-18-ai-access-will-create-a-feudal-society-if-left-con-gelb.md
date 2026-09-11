@@ -7,7 +7,9 @@ year: "2025"
 title: "AI access will create a feudal society if left concentrated"
 permalink: /predictions/decentralized-ai/2025-04-18-ai-access-will-create-a-feudal-society-if-left-con-gelb/
 slug_id: 2025-04-18-ai-access-will-create-a-feudal-society-if-left-con-gelb
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"
 source_url: https://www.youtube.com/watch?v=ImwkqmOSUkE&t=1166s
 timestamp: "00:19:26"

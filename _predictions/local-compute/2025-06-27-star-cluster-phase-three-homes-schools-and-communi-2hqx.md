@@ -7,7 +7,9 @@ year: "2025"
 title: "Star Cluster phase three: homes, schools, and communities"
 permalink: /predictions/local-compute/2025-06-27-star-cluster-phase-three-homes-schools-and-communi-2hqx/
 slug_id: 2025-06-27-star-cluster-phase-three-homes-schools-and-communi-2hqx
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Beyond GPUs: How Decentralization Can Solve AI's Biggest Scaling Bottleneck | Day 2 | Crypto x AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=JgD4BzHEcu4&t=536s
 timestamp: "00:08:56"

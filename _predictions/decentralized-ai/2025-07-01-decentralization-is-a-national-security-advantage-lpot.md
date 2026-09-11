@@ -7,7 +7,9 @@ year: "2025"
 title: "Decentralization is a national-security advantage"
 permalink: /predictions/decentralized-ai/2025-07-01-decentralization-is-a-national-security-advantage-lpot/
 slug_id: 2025-07-01-decentralization-is-a-national-security-advantage-lpot
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=FBHsD1bgtvc&t=943s
 timestamp: "00:15:43"

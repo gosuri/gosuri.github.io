@@ -7,7 +7,9 @@ year: "2021"
 title: "Osmosis ends the liquidity-vs-usability trade-off for appchains"
 permalink: /predictions/crypto-depin/2021-06-26-osmosis-ends-the-liquidity-vs-usability-trade-off-7tdf/
 slug_id: 2021-06-26-osmosis-ends-the-liquidity-vs-usability-trade-off-7tdf
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Livestream w/ Sunny Aggarwal & Greg Osuri (Akash Network)"
 source_url: https://www.youtube.com/watch?v=-1tcbW9WZOQ&t=1856s
 timestamp: "00:30:56"

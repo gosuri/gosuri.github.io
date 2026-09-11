@@ -7,7 +7,9 @@ year: "2022"
 title: "A deliberately hobbled AKT stablecoin, designed against death spirals"
 permalink: /predictions/crypto-depin/2022-06-16-a-deliberately-hobbled-akt-stablecoin-designed-aga-c5zs/
 slug_id: 2022-06-16-a-deliberately-hobbled-akt-stablecoin-designed-aga-c5zs
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 15th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=y5_GlfUj5to&t=1318s
 timestamp: "00:21:58"

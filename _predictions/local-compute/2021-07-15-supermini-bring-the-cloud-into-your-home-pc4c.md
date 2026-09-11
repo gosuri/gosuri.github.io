@@ -7,7 +7,9 @@ year: "2021"
 title: "Supermini: bring the cloud into your home"
 permalink: /predictions/local-compute/2021-07-15-supermini-bring-the-cloud-into-your-home-pc4c/
 slug_id: 2021-07-15-supermini-bring-the-cloud-into-your-home-pc4c
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akash Network Deep Dive: The Unstoppable Cloud, Powered by Cosmos!\" (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=K0iInoQojyg&t=2776s
 timestamp: "00:46:16"

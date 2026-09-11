@@ -8,6 +8,8 @@ title: "Akash as the first open-source cloud"
 permalink: /predictions/cloud-decentralization/2021-01-20-akash-as-the-first-open-source-cloud-jify/
 slug_id: 2021-01-20-akash-as-the-first-open-source-cloud-jify
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Conversations with Jack ft Greg Osuri - S1E1 - by OmniFlix Network & Citizen Cosmos (OmniFlix Network)"
 source_url: https://www.youtube.com/watch?v=21oNz5O1qzk&t=126s
 timestamp: "00:02:06"

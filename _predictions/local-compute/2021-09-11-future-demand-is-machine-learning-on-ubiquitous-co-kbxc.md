@@ -7,7 +7,9 @@ year: "2021"
 title: "Future demand is machine learning on ubiquitous compute — gaming PCs to self-driving cars"
 permalink: /predictions/local-compute/2021-09-11-future-demand-is-machine-learning-on-ubiquitous-co-kbxc/
 slug_id: 2021-09-11-future-demand-is-machine-learning-on-ubiquitous-co-kbxc
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network’s (CRYPTO:AKT) ($AKT) interview with Mr. Greg Osuri CEO. (New to The Street TV)"
 source_url: https://www.youtube.com/watch?v=NsXA2hC9dPw&t=959s
 timestamp: "00:15:59"

@@ -7,7 +7,9 @@ year: "2023"
 title: "Centralized AI leads to feudalism; make sure everyone has chips"
 permalink: /predictions/decentralized-ai/2023-09-29-centralized-ai-leads-to-feudalism-make-sure-everyo-e7xz/
 slug_id: 2023-09-29-centralized-ai-leads-to-feudalism-make-sure-everyo-e7xz
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"
 source_url: https://www.youtube.com/watch?v=FDA9wqZmsY8&t=5916s
 timestamp: "01:38:36"

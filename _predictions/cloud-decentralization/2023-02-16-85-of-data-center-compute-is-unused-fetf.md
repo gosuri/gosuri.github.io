@@ -8,6 +8,8 @@ title: "85% of data-center compute is unused"
 permalink: /predictions/cloud-decentralization/2023-02-16-85-of-data-center-compute-is-unused-fetf/
 slug_id: 2023-02-16-85-of-data-center-compute-is-unused-fetf
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"
 source_url: https://www.youtube.com/watch?v=XlFnp7eUw3M&t=777s
 timestamp: "00:12:57"

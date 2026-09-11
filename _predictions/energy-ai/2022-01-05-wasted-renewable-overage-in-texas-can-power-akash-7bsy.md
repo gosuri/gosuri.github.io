@@ -8,6 +8,8 @@ title: "Wasted renewable overage in Texas can power Akash data centers"
 permalink: /predictions/energy-ai/2022-01-05-wasted-renewable-overage-in-texas-can-power-akash-7bsy/
 slug_id: 2022-01-05-wasted-renewable-overage-in-texas-can-power-akash-7bsy
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Updates From the Lab 1/5/22 W/Akash (Osmosis)"
 source_url: https://www.youtube.com/watch?v=mk1P5-n2w8k&t=3365s
 timestamp: "00:56:05"

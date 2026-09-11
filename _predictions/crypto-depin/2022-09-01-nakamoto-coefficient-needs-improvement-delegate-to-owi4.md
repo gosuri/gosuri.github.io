@@ -7,7 +7,9 @@ year: "2022"
 title: "Nakamoto coefficient needs improvement — delegate to smaller validators"
 permalink: /predictions/crypto-depin/2022-09-01-nakamoto-coefficient-needs-improvement-delegate-to-owi4/
 slug_id: 2022-09-01-nakamoto-coefficient-needs-improvement-delegate-to-owi4
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Ask Akash - How Decentralized are Akashs Validator Nodes? (Akash Network)"
 source_url: https://www.youtube.com/watch?v=J078p6BzLK0&t=175s
 timestamp: "00:02:55"

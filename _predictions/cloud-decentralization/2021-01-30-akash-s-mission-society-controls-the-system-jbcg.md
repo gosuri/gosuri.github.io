@@ -8,6 +8,8 @@ title: "Akash's mission: society controls the system"
 permalink: /predictions/cloud-decentralization/2021-01-30-akash-s-mission-society-controls-the-system-jbcg/
 slug_id: 2021-01-30-akash-s-mission-society-controls-the-system-jbcg
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"
 source_url: https://www.youtube.com/watch?v=-Kkj0veGYJU&t=551s
 timestamp: "00:09:11"

@@ -7,7 +7,9 @@ year: "2026"
 title: "Farmland + solar + a home node is the ultimate safety bet"
 permalink: /predictions/local-compute/2026-04-11-farmland-solar-a-home-node-is-the-ultimate-safety-oiq4/
 slug_id: 2026-04-11-farmland-solar-a-home-node-is-the-ultimate-safety-oiq4
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=7988s
 timestamp: "02:13:08"

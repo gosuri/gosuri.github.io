@@ -7,7 +7,9 @@ year: "2022"
 title: "US military as preferred first government user of Akash"
 permalink: /predictions/other/2022-09-19-us-military-as-preferred-first-government-user-of-2s32/
 slug_id: 2022-09-19-us-military-as-preferred-first-government-user-of-2s32
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - Why decentralization is important (Akash Network)"
 source_url: https://www.youtube.com/watch?v=5zESYdtwsyQ&t=131s
 timestamp: "00:02:11"

@@ -8,6 +8,8 @@ title: "Only China can build reactors fast enough; energy is the ignored bottlen
 permalink: /predictions/energy-ai/2024-11-25-only-china-can-build-reactors-fast-enough-energy-i-5mh4/
 slug_id: 2024-11-25-only-china-can-build-reactors-fast-enough-energy-i-5mh4
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=1735s
 timestamp: "00:28:55"

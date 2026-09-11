@@ -8,6 +8,8 @@ title: "~70% of blockchain nodes run on Amazon — with their keys"
 permalink: /predictions/cloud-decentralization/2021-06-27-70-of-blockchain-nodes-run-on-amazon-with-their-ke-ikie/
 slug_id: 2021-06-27-70-of-blockchain-nodes-run-on-amazon-with-their-ke-ikie
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Enter Decentralized Cloud & Unstoppable Web with Akash Network & Deeper - DeFi Conference Day 1 (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=iV6Zu5_AVKA&t=765s
 timestamp: "00:12:45"

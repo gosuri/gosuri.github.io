@@ -8,6 +8,8 @@ title: "Centralized data centers are a national-security liability"
 permalink: /predictions/energy-ai/2025-04-02-centralized-data-centers-are-a-national-security-l-q34p/
 slug_id: 2025-04-02-centralized-data-centers-are-a-national-security-l-q34p
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"
 source_url: https://www.youtube.com/watch?v=k0HPDluOlsQ&t=2062s
 timestamp: "00:34:22"

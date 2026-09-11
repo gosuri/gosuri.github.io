@@ -7,7 +7,9 @@ year: "2023"
 title: "AI demand grows 10x every six months; decentralize or few companies control AI"
 permalink: /predictions/gpu-economics/2023-02-16-ai-demand-grows-10x-every-six-months-decentralize-oh3q/
 slug_id: 2023-02-16-ai-demand-grows-10x-every-six-months-decentralize-oh3q
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"
 source_url: https://www.youtube.com/watch?v=XlFnp7eUw3M&t=2079s
 timestamp: "00:34:39"

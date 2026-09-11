@@ -8,6 +8,8 @@ title: "Browsers blocking URLs is a nearer threat than regulators"
 permalink: /predictions/cloud-decentralization/2022-02-17-browsers-blocking-urls-is-a-nearer-threat-than-reg-hxhl/
 slug_id: 2022-02-17-browsers-blocking-urls-is-a-nearer-threat-than-reg-hxhl
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Splitting ATOMs: How decentralized is Cosmos? ⚛️ (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=ump9HeOdi-w&t=2785s
 timestamp: "00:46:25"

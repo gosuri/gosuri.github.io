@@ -8,6 +8,8 @@ title: "An interoperable decentralized cloud with better UX than today's cloud"
 permalink: /predictions/cloud-decentralization/2021-01-21-an-interoperable-decentralized-cloud-with-better-u-awlt/
 slug_id: 2021-01-21-an-interoperable-decentralized-cloud-with-better-u-awlt
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"
 source_url: https://www.youtube.com/watch?v=sRtkAUdqNFs&t=2354s
 timestamp: "00:39:14"

@@ -7,7 +7,9 @@ year: "2024"
 title: "Compute futures markets within a year"
 permalink: /predictions/gpu-economics/2024-11-26-compute-futures-markets-within-a-year-wnyu/
 slug_id: 2024-11-26-compute-futures-markets-within-a-year-wnyu
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"
 source_url: https://www.youtube.com/watch?v=GwKZIY2aBe0&t=3924s
 timestamp: "01:05:24"

@@ -8,6 +8,8 @@ title: "Decentralizing compute decentralizes energy consumption"
 permalink: /predictions/energy-ai/2021-06-09-decentralizing-compute-decentralizes-energy-consum-eind/
 slug_id: 2021-06-09-decentralizing-compute-decentralizes-energy-consum-eind
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=i2AE257OCMA&t=2346s
 timestamp: "00:39:06"

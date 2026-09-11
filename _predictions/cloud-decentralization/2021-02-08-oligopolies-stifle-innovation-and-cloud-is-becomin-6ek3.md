@@ -8,6 +8,8 @@ title: "Oligopolies stifle innovation — and cloud is becoming one"
 permalink: /predictions/cloud-decentralization/2021-02-08-oligopolies-stifle-innovation-and-cloud-is-becomin-6ek3/
 slug_id: 2021-02-08-oligopolies-stifle-innovation-and-cloud-is-becomin-6ek3
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"
 source_url: https://www.youtube.com/watch?v=f3tZLp2CNgI&t=391s
 timestamp: "00:06:31"

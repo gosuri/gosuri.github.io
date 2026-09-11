@@ -7,7 +7,9 @@ year: "2024"
 title: "Breaking Nvidia's monopoly via AMD — first tinybox will run on Akash"
 permalink: /predictions/gpu-economics/2024-07-22-breaking-nvidia-s-monopoly-via-amd-first-tinybox-w-tdym/
 slug_id: 2024-07-22-breaking-nvidia-s-monopoly-via-amd-first-tinybox-w-tdym
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"[Panel] ​“Decentralized Computing as a Business”\" (Kryptoplanet[Official])"
 source_url: https://www.youtube.com/watch?v=FXMqaH_0LCg&t=872s
 timestamp: "00:14:32"

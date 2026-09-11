@@ -7,7 +7,9 @@ year: "2025"
 title: "Enterprise data centers sit at ~15% utilization"
 permalink: /predictions/gpu-economics/2025-03-17-enterprise-data-centers-sit-at-15-utilization-zwe7/
 slug_id: 2025-03-17-enterprise-data-centers-sit-at-15-utilization-zwe7
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why the Future of AI Depends on Decentralized Cloud Platforms (Eye on AI)"
 source_url: https://www.youtube.com/watch?v=Rq0UByMDUv4&t=439s
 timestamp: "00:07:19"

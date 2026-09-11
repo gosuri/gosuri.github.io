@@ -7,7 +7,9 @@ year: "2021"
 title: "Long-term goal: devices talk to the cloud and earn income"
 permalink: /predictions/local-compute/2021-05-29-long-term-goal-devices-talk-to-the-cloud-and-earn-t3tf/
 slug_id: 2021-05-29-long-term-goal-devices-talk-to-the-cloud-and-earn-t3tf
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Biz Call: 20210428 GregOsuri AkashNetwork (robfrankel)"
 source_url: https://www.youtube.com/watch?v=rqVL8W57O6k&t=679s
 timestamp: "00:11:19"

@@ -8,6 +8,8 @@ title: "The grid is so fragile he's going fully off-grid"
 permalink: /predictions/energy-ai/2025-08-02-the-grid-is-so-fragile-he-s-going-fully-off-grid-tm6n/
 slug_id: 2025-08-02-the-grid-is-so-fragile-he-s-going-fully-off-grid-tm6n
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=1441s
 timestamp: "00:24:01"

@@ -8,6 +8,8 @@ title: "1,000 providers = the most distributed cloud in the world"
 permalink: /predictions/cloud-decentralization/2022-10-28-1-000-providers-the-most-distributed-cloud-in-the-5bbz/
 slug_id: 2022-10-28-1-000-providers-the-most-distributed-cloud-in-the-5bbz
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=c0SEzEtNZ8k&t=3200s
 timestamp: "00:53:20"

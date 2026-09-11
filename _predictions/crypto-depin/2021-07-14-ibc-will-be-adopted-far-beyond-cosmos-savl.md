@@ -7,7 +7,9 @@ year: "2021"
 title: "IBC will be adopted far beyond Cosmos"
 permalink: /predictions/crypto-depin/2021-07-14-ibc-will-be-adopted-far-beyond-cosmos-savl/
 slug_id: 2021-07-14-ibc-will-be-adopted-far-beyond-cosmos-savl
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 2 OF 2 (Crypto Rich)"
 source_url: https://www.youtube.com/watch?v=mbT06K1zjZc&t=1310s
 timestamp: "00:21:50"

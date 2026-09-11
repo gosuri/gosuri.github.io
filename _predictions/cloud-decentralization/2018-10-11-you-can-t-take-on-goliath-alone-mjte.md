@@ -8,6 +8,8 @@ title: "You can't take on Goliath alone"
 permalink: /predictions/cloud-decentralization/2018-10-11-you-can-t-take-on-goliath-alone-mjte/
 slug_id: 2018-10-11-you-can-t-take-on-goliath-alone-mjte
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "E04 - Decentralizing the Cloud with Greg Osuri (HackerNoon)"
 source_url: https://www.youtube.com/watch?v=Nvj2ruVPfYQ&t=1688s
 timestamp: "00:28:08"

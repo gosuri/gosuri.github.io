@@ -7,7 +7,9 @@ year: "2021"
 title: "A futures market and HFT bots for compute"
 permalink: /predictions/gpu-economics/2021-04-09-a-futures-market-and-hft-bots-for-compute-pytg/
 slug_id: 2021-04-09-a-futures-market-and-hft-bots-for-compute-pytg
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (Cosmos)"
 source_url: https://www.youtube.com/watch?v=4xlOVeUXd90&t=3957s
 timestamp: "01:05:57"

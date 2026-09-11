@@ -7,7 +7,9 @@ year: "2024"
 title: "First foundation model trained on a decentralized network"
 permalink: /predictions/decentralized-ai/2024-05-20-first-foundation-model-trained-on-a-decentralized-fk56/
 slug_id: 2024-05-20-first-foundation-model-trained-on-a-decentralized-fk56
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Hash Rate - Ep 050 - Akash Decentralized Cloud - Greg Osury (Hash Rate Podcast)"
 source_url: https://www.youtube.com/watch?v=S6niawECR8A&t=990s
 timestamp: "00:16:30"

@@ -8,6 +8,8 @@ title: "GPUs were the tip of the iceberg — memory, storage, energy next"
 permalink: /predictions/energy-ai/2026-02-12-gpus-were-the-tip-of-the-iceberg-memory-storage-en-pppy/
 slug_id: 2026-02-12-gpus-were-the-tip-of-the-iceberg-memory-storage-en-pppy
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"DACM Insights: Decentralizing AI, The Akash Approach\" (DACM Insights)"
 source_url: https://www.youtube.com/watch?v=BQONg2f0zQc&t=750s
 timestamp: "00:12:30"

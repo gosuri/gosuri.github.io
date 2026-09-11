@@ -8,6 +8,8 @@ title: "AI at home becomes a very common thing in a few years"
 permalink: /predictions/local-ai/2026-03-28-ai-at-home-becomes-a-very-common-thing-in-a-few-ye-375e/
 slug_id: 2026-03-28-ai-at-home-becomes-a-very-common-thing-in-a-few-ye-375e
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=2147s
 timestamp: "00:35:47"

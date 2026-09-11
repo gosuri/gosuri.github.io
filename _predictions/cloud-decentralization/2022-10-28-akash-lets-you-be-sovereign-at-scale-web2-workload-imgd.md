@@ -8,6 +8,8 @@ title: "\"Akash lets you be sovereign at scale\" — web2 workloads will follow 
 permalink: /predictions/cloud-decentralization/2022-10-28-akash-lets-you-be-sovereign-at-scale-web2-workload-imgd/
 slug_id: 2022-10-28-akash-lets-you-be-sovereign-at-scale-web2-workload-imgd
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=c0SEzEtNZ8k&t=1083s
 timestamp: "00:18:03"

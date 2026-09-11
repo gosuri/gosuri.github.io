@@ -8,6 +8,8 @@ title: "Kardashev math: civilization needs 500x today's energy"
 permalink: /predictions/energy-ai/2025-06-24-kardashev-math-civilization-needs-500x-today-s-ene-jurk/
 slug_id: 2025-06-24-kardashev-math-civilization-needs-500x-today-s-ene-jurk
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=15833s
 timestamp: "04:23:53"

@@ -7,7 +7,9 @@ year: "2025"
 title: "Star Cluster: distributed training across homes via telecom partners"
 permalink: /predictions/local-compute/2025-08-02-star-cluster-distributed-training-across-homes-via-yuvp/
 slug_id: 2025-08-02-star-cluster-distributed-training-across-homes-via-yuvp
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=3371s
 timestamp: "00:56:11"

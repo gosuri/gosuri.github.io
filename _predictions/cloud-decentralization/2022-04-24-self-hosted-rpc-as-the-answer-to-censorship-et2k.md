@@ -8,6 +8,8 @@ title: "Self-hosted RPC as the answer to censorship"
 permalink: /predictions/cloud-decentralization/2022-04-24-self-hosted-rpc-as-the-answer-to-censorship-et2k/
 slug_id: 2022-04-24-self-hosted-rpc-as-the-answer-to-censorship-et2k
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly: Chia (Akash Network)"
 source_url: https://www.youtube.com/watch?v=KVwZr7s92f8&t=1927s
 timestamp: "00:32:07"

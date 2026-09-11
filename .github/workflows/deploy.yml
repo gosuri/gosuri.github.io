@@ -42,8 +42,10 @@ jobs:
       - name: Restore cached cards
         if: steps.cards.outputs.cache-hit == 'true'
         run: cp -R .card-cache/. _site/
-      - name: Test card and agent modules
+      - name: Test export, card, and agent modules
         run: make test
+      - name: Verify built metadata and attribution
+        run: node research/verify_metadata.mjs
       - name: Render social cards
         if: steps.cards.outputs.cache-hit != 'true'
         run: |

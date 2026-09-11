@@ -8,6 +8,8 @@ title: "80% of cloud controlled by four companies"
 permalink: /predictions/cloud-decentralization/2021-10-26-80-of-cloud-controlled-by-four-companies-jbl4/
 slug_id: 2021-10-26-80-of-cloud-controlled-by-four-companies-jbl4
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network CEO on competing with Amazon AWS, decentralized cloud computing, and free speech (Yahoo Finance)"
 source_url: https://www.youtube.com/watch?v=ESTCd9nb5CM&t=89s
 timestamp: "00:01:29"

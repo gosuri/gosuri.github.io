@@ -7,7 +7,9 @@ year: "2022"
 title: "\"Akash costs about 95% cheaper than your traditional Amazon\""
 permalink: /predictions/gpu-economics/2022-10-04-akash-costs-about-95-cheaper-than-your-traditional-77g5/
 slug_id: 2022-10-04-akash-costs-about-95-cheaper-than-your-traditional-77g5
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "It Just Works: Letting Mainstream Firms Plug Into Crypto - Messari Mainnet 2022 (Messari)"
 source_url: https://www.youtube.com/watch?v=Vvn-WmSXB7c&t=221s
 timestamp: "00:03:41"

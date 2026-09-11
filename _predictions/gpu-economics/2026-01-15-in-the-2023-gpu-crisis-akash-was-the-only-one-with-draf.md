@@ -7,7 +7,9 @@ year: "2026"
 title: "In the 2023 GPU crisis, Akash was the only one with GPUs"
 permalink: /predictions/gpu-economics/2026-01-15-in-the-2023-gpu-crisis-akash-was-the-only-one-with-draf/
 slug_id: 2026-01-15-in-the-2023-gpu-crisis-akash-was-the-only-one-with-draf
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Remote Work Tribe Podcast: Greg Osuri (The Remote Work Tribe Podcast)"
 source_url: https://www.theremoteworktribe.com/2026/01/15/the-remote-work-tribe-podcast-greg-osuri/
 timestamp: "00:04:43"

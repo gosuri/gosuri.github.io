@@ -7,7 +7,9 @@ year: "2024"
 title: "Akash is eBay for GPUs"
 permalink: /predictions/gpu-economics/2024-11-09-akash-is-ebay-for-gpus-iycn/
 slug_id: 2024-11-09-akash-is-ebay-for-gpus-iycn
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"
 source_url: https://www.youtube.com/watch?v=3_gGBRqzxrQ&t=488s
 timestamp: "00:08:08"

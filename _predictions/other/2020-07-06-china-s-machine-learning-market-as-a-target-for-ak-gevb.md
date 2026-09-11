@@ -7,7 +7,9 @@ year: "2020"
 title: "China's machine-learning market as a target for Akash capacity"
 permalink: /predictions/other/2020-07-06-china-s-machine-learning-market-as-a-target-for-ak-gevb/
 slug_id: 2020-07-06-china-s-machine-learning-market-as-a-target-for-ak-gevb
-theme_page: /predictions/other/
+theme_page: /predictions/other/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash AMA Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=shFtDmsCGNc&t=527s
 timestamp: "00:08:47"

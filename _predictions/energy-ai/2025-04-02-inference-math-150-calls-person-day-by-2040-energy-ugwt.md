@@ -8,6 +8,8 @@ title: "Inference math: ~150 calls/person/day by 2040, energy growing 37%/year"
 permalink: /predictions/energy-ai/2025-04-02-inference-math-150-calls-person-day-by-2040-energy-ugwt/
 slug_id: 2025-04-02-inference-math-150-calls-person-day-by-2040-energy-ugwt
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"
 source_url: https://www.youtube.com/watch?v=k0HPDluOlsQ&t=868s
 timestamp: "00:14:28"

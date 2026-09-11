@@ -8,6 +8,8 @@ title: "Akash is the first commercial implementation of the supercloud"
 permalink: /predictions/cloud-decentralization/2022-11-13-akash-is-the-first-commercial-implementation-of-th-wrsl/
 slug_id: 2022-11-13-akash-is-the-first-commercial-implementation-of-th-wrsl
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ask Akash - What is Akash's strategy going forward? (Akash Network)"
 source_url: https://www.youtube.com/watch?v=IsO-LKTI4sQ&t=479s
 timestamp: "00:07:59"

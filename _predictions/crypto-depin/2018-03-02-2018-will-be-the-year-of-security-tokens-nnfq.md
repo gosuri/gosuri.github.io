@@ -7,7 +7,9 @@ year: "2018"
 title: "2018 will be the year of security tokens"
 permalink: /predictions/crypto-depin/2018-03-02-2018-will-be-the-year-of-security-tokens-nnfq/
 slug_id: 2018-03-02-2018-will-be-the-year-of-security-tokens-nnfq
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)"
 source_url: https://omny.fm/shows/the-silicon-valley-insider-show/sv-insider-3-2-18-podcast
 timestamp: "00:23:19"

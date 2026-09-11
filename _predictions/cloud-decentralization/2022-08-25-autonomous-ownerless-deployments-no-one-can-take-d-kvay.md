@@ -8,6 +8,8 @@ title: "Autonomous, ownerless deployments no one can take down"
 permalink: /predictions/cloud-decentralization/2022-08-25-autonomous-ownerless-deployments-no-one-can-take-d-kvay/
 slug_id: 2022-08-25-autonomous-ownerless-deployments-no-one-can-take-d-kvay
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 24th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=nJVqxRUkxFA&t=215s
 timestamp: "00:03:35"

@@ -8,6 +8,8 @@ title: "An AI could take over the GPU market"
 permalink: /predictions/ai-agents/2023-08-31-an-ai-could-take-over-the-gpu-market-aqt3/
 slug_id: 2023-08-31-an-ai-could-take-over-the-gpu-market-aqt3
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Mainnet 6 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PqKYTTQUwCM&t=7523s
 timestamp: "02:05:23"

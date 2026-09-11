@@ -7,7 +7,9 @@ year: "2024"
 title: "AI buys you time, it won't replace humans"
 permalink: /predictions/other/2024-12-18-ai-buys-you-time-it-won-t-replace-humans-yxpj/
 slug_id: 2024-12-18-ai-buys-you-time-it-won-t-replace-humans-yxpj
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri Founder Akash Network | Cosmoverse Dubai 2024! (pinoyweb3TV)"
 source_url: https://www.youtube.com/watch?v=9zIidH8Cr2w&t=176s
 timestamp: "00:02:56"

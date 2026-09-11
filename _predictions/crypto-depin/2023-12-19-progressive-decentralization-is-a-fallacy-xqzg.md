@@ -7,7 +7,9 @@ year: "2023"
 title: "Progressive decentralization is a fallacy"
 permalink: /predictions/crypto-depin/2023-12-19-progressive-decentralization-is-a-fallacy-xqzg/
 slug_id: 2023-12-19-progressive-decentralization-is-a-fallacy-xqzg
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network founder Greg Osuri - Building a Decentralized Computing Marketplace (Crypto Nuggets)"
 source_url: https://www.youtube.com/watch?v=lwpAQjvSxRE&t=3343s
 timestamp: "00:55:43"

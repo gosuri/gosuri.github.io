@@ -7,7 +7,9 @@ year: "2023"
 title: "~$19B of Ethereum-mining GPUs sit idle post-merge — Akash will target them"
 permalink: /predictions/gpu-economics/2023-01-13-19b-of-ethereum-mining-gpus-sit-idle-post-merge-ak-mjs7/
 slug_id: 2023-01-13-19b-of-ethereum-mining-gpus-sit-idle-post-merge-ak-mjs7
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=qdQFOS-uG_A&t=1210s
 timestamp: "00:20:10"

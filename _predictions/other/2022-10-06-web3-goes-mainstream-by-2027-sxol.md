@@ -7,7 +7,9 @@ year: "2022"
 title: "Web3 goes mainstream by 2027"
 permalink: /predictions/other/2022-10-06-web3-goes-mainstream-by-2027-sxol/
 slug_id: 2022-10-06-web3-goes-mainstream-by-2027-sxol
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 5th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=_NZhdhw5f4s&t=2430s
 timestamp: "00:40:30"

@@ -7,7 +7,9 @@ year: "2025"
 title: "H200s are 100% utilized on Akash (DeepSeek demand)"
 permalink: /predictions/gpu-economics/2025-02-26-h200s-are-100-utilized-on-akash-deepseek-demand-ynj2/
 slug_id: 2025-02-26-h200s-are-100-utilized-on-akash-deepseek-demand-ynj2
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Everything Bagel: Open Source AI, Security, and Decentralization with Greg Osuri, Founder at Akash (The Index Podcast)"
 source_url: https://www.youtube.com/watch?v=VTJaABZMi9c&t=957s
 timestamp: "00:15:57"

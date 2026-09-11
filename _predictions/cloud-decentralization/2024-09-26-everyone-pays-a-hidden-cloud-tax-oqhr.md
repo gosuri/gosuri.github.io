@@ -8,6 +8,8 @@ title: "Everyone pays a hidden cloud tax"
 permalink: /predictions/cloud-decentralization/2024-09-26-everyone-pays-a-hidden-cloud-tax-oqhr/
 slug_id: 2024-09-26-everyone-pays-a-hidden-cloud-tax-oqhr
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"
 source_url: https://www.youtube.com/watch?v=Esawduwv7AA&t=645s
 timestamp: "00:10:45"

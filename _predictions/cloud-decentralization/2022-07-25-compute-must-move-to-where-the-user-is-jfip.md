@@ -8,6 +8,8 @@ title: "Compute must move to where the user is"
 permalink: /predictions/cloud-decentralization/2022-07-25-compute-must-move-to-where-the-user-is-jfip/
 slug_id: 2022-07-25-compute-must-move-to-where-the-user-is-jfip
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Adoption Plan (Akash Network)"
 source_url: https://www.youtube.com/watch?v=CINPrJmIV9s&t=211s
 timestamp: "00:03:31"

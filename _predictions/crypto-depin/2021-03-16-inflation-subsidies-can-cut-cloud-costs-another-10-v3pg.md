@@ -7,7 +7,9 @@ year: "2021"
 title: "Inflation subsidies can cut cloud costs another 10x"
 permalink: /predictions/crypto-depin/2021-03-16-inflation-subsidies-can-cut-cloud-costs-another-10-v3pg/
 slug_id: 2021-03-16-inflation-subsidies-can-cut-cloud-costs-another-10-v3pg
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, Decentralized Cloud | Blockchain Interviews (Crypto Coin Show)"
 source_url: https://www.youtube.com/watch?v=0JrIenhz0fQ&t=898s
 timestamp: "00:14:58"

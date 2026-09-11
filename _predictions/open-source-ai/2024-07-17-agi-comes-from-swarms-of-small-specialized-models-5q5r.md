@@ -8,6 +8,8 @@ title: "AGI comes from swarms of small specialized models, not bigger ones"
 permalink: /predictions/open-source-ai/2024-07-17-agi-comes-from-swarms-of-small-specialized-models-5q5r/
 slug_id: 2024-07-17-agi-comes-from-swarms-of-small-specialized-models-5q5r
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Evolution to AGI Panel at Web3_AI Day | Encode Club | Linera, Ritual, Nillion, Akash Network (Linera: Real-Time Blockchain)"
 source_url: https://www.youtube.com/watch?v=-XfPrBtBiKA&t=1588s
 timestamp: "00:26:28"

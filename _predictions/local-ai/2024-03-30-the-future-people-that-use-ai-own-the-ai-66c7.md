@@ -8,6 +8,8 @@ title: "The future: people that use AI own the AI"
 permalink: /predictions/local-ai/2024-03-30-the-future-people-that-use-ai-own-the-ai-66c7/
 slug_id: 2024-03-30-the-future-people-that-use-ai-own-the-ai-66c7
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "X Spaces with Akash Network: Democratizing Compute on Subnet 27 (Nodexo)"
 source_url: https://www.youtube.com/watch?v=77HfFvrhmsQ&t=439s
 timestamp: "00:07:19"

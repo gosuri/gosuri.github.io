@@ -8,6 +8,8 @@ title: "Skeptical of hyperscale buildout; growth is in sub-10MW data centers"
 permalink: /predictions/energy-ai/2025-03-17-skeptical-of-hyperscale-buildout-growth-is-in-sub-trnh/
 slug_id: 2025-03-17-skeptical-of-hyperscale-buildout-growth-is-in-sub-trnh
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Why the Future of AI Depends on Decentralized Cloud Platforms (Eye on AI)"
 source_url: https://www.youtube.com/watch?v=Rq0UByMDUv4&t=1224s
 timestamp: "00:20:24"

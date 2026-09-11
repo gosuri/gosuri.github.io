@@ -7,7 +7,9 @@ year: "2023"
 title: "OpenAI can't buy GPUs — proof of demand"
 permalink: /predictions/gpu-economics/2023-08-31-openai-can-t-buy-gpus-proof-of-demand-wnvv/
 slug_id: 2023-08-31-openai-can-t-buy-gpus-proof-of-demand-wnvv
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Mainnet 6 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PqKYTTQUwCM&t=7084s
 timestamp: "01:58:04"

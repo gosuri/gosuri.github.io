@@ -8,6 +8,8 @@ title: "A managed-services marketplace where open-source authors cut out the mid
 permalink: /predictions/open-source-ai/2024-12-06-a-managed-services-marketplace-where-open-source-a-s4up/
 slug_id: 2024-12-06-a-managed-services-marketplace-where-open-source-a-s4up
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)"
 source_url: https://www.youtube.com/watch?v=VKDw4KZ23G4&t=1545s
 timestamp: "00:25:45"

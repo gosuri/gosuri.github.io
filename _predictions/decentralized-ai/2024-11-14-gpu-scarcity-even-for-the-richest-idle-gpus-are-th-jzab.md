@@ -7,7 +7,9 @@ year: "2024"
 title: "GPU scarcity even for the richest; idle GPUs are the answer"
 permalink: /predictions/decentralized-ai/2024-11-14-gpu-scarcity-even-for-the-richest-idle-gpus-are-th-jzab/
 slug_id: 2024-11-14-gpu-scarcity-even-for-the-richest-idle-gpus-are-th-jzab
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network: A New Era of Affordable, Decentralized Cloud Computing with Greg Osuri | Varuni (Thecoinrepublic)"
 source_url: https://www.youtube.com/watch?v=JE-7d8tU3WQ&t=397s
 timestamp: "00:06:37"

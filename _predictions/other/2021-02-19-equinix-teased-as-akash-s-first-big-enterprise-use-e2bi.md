@@ -7,7 +7,9 @@ year: "2021"
 title: "Equinix teased as Akash's first big enterprise user"
 permalink: /predictions/other/2021-02-19-equinix-teased-as-akash-s-first-big-enterprise-use-e2bi/
 slug_id: 2021-02-19-equinix-teased-as-akash-s-first-big-enterprise-use-e2bi
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Greg Osuri and Adam Bozanich (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fUeDGAt7IUk&t=2286s
 timestamp: "00:38:06"

@@ -8,6 +8,8 @@ title: "GPUs are a wrapper on energy"
 permalink: /predictions/energy-ai/2025-06-03-gpus-are-a-wrapper-on-energy-rp4n/
 slug_id: 2025-06-03-gpus-are-a-wrapper-on-energy-rp4n
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=1960s
 timestamp: "00:32:40"

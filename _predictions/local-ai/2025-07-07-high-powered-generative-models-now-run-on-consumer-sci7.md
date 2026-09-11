@@ -8,6 +8,8 @@ title: "High-powered generative models now run on consumer hardware"
 permalink: /predictions/local-ai/2025-07-07-high-powered-generative-models-now-run-on-consumer-sci7/
 slug_id: 2025-07-07-high-powered-generative-models-now-run-on-consumer-sci7
 theme_page: /predictions/local-ai/
+speaker: "Zack Abrams"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Zack Abrams on AI Content Generation (Akash Network)"
 source_url: https://www.youtube.com/watch?v=HJ45pnrON2Y&t=257s
 timestamp: "00:04:17"

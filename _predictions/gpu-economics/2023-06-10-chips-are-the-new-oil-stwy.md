@@ -7,7 +7,9 @@ year: "2023"
 title: "Chips are the new oil"
 permalink: /predictions/gpu-economics/2023-06-10-chips-are-the-new-oil-stwy/
 slug_id: 2023-06-10-chips-are-the-new-oil-stwy
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"
 source_url: https://www.youtube.com/watch?v=3AvWFwSfbaU&t=2969s
 timestamp: "00:49:29"

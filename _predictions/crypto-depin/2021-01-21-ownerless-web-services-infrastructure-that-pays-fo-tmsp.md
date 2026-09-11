@@ -7,7 +7,9 @@ year: "2021"
 title: "Ownerless web services — infrastructure that pays for itself"
 permalink: /predictions/crypto-depin/2021-01-21-ownerless-web-services-infrastructure-that-pays-fo-tmsp/
 slug_id: 2021-01-21-ownerless-web-services-infrastructure-that-pays-fo-tmsp
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"
 source_url: https://www.youtube.com/watch?v=sRtkAUdqNFs&t=2227s
 timestamp: "00:37:07"

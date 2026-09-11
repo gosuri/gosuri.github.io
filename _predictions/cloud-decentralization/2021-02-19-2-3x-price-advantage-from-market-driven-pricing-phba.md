@@ -8,6 +8,8 @@ title: "2–3x price advantage from market-driven pricing"
 permalink: /predictions/cloud-decentralization/2021-02-19-2-3x-price-advantage-from-market-driven-pricing-phba/
 slug_id: 2021-02-19-2-3x-price-advantage-from-market-driven-pricing-phba
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Greg Osuri and Adam Bozanich (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fUeDGAt7IUk&t=254s
 timestamp: "00:04:14"

@@ -7,7 +7,9 @@ year: "2023"
 title: "Solidity is a poorly designed language — hence the exploits"
 permalink: /predictions/other/2023-10-09-solidity-is-a-poorly-designed-language-hence-the-e-nd2i/
 slug_id: 2023-10-09-solidity-is-a-poorly-designed-language-hence-the-e-nd2i
-theme_page: /predictions/other/
+theme_page: /predictions/other/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri: Redefining Success Against All Odds | BTC Ep.7 (Michael Huynh)"
 source_url: https://www.youtube.com/watch?v=sV7J8rBI2yk&t=1276s
 timestamp: "00:21:16"

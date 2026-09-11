@@ -8,6 +8,8 @@ title: "Society must take compute back"
 permalink: /predictions/cloud-decentralization/2018-03-02-society-must-take-compute-back-nnfq/
 slug_id: 2018-03-02-society-must-take-compute-back-nnfq
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)"
 source_url: https://omny.fm/shows/the-silicon-valley-insider-show/sv-insider-3-2-18-podcast
 timestamp: "00:28:01"

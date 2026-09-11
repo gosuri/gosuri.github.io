@@ -8,6 +8,8 @@ title: "Akash Network translates to Skynet — an unstoppable layer for agents"
 permalink: /predictions/ai-agents/2024-03-27-akash-network-translates-to-skynet-an-unstoppable-uwxl/
 slug_id: 2024-03-27-akash-network-translates-to-skynet-an-unstoppable-uwxl
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AtomDenver panel: AI 🤝 Crypto (Secret Network)"
 source_url: https://www.youtube.com/watch?v=999NHrdnGEo&t=791s
 timestamp: "00:13:11"

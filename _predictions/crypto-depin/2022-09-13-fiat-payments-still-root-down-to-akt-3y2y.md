@@ -7,7 +7,9 @@ year: "2022"
 title: "Fiat payments still root down to AKT"
 permalink: /predictions/crypto-depin/2022-09-13-fiat-payments-still-root-down-to-akt-3y2y/
 slug_id: 2022-09-13-fiat-payments-still-root-down-to-akt-3y2y
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Ask Akash - How will $AKT benefit from enabling Fiat Payments (Akash Network)"
 source_url: https://www.youtube.com/watch?v=mo5VD4leo4A&t=173s
 timestamp: "00:02:53"

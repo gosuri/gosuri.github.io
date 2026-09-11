@@ -8,6 +8,8 @@ title: "Akash as a token-governed \"Skynet\" where AI writes code no one can sto
 permalink: /predictions/ai-agents/2023-02-16-akash-as-a-token-governed-skynet-where-ai-writes-c-4hwc/
 slug_id: 2023-02-16-akash-as-a-token-governed-skynet-where-ai-writes-c-4hwc
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"
 source_url: https://www.youtube.com/watch?v=XlFnp7eUw3M&t=1641s
 timestamp: "00:27:21"

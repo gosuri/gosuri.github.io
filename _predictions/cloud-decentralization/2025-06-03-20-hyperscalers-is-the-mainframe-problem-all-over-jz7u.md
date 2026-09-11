@@ -8,6 +8,8 @@ title: "20 hyperscalers is the mainframe problem all over again"
 permalink: /predictions/cloud-decentralization/2025-06-03-20-hyperscalers-is-the-mainframe-problem-all-over-jz7u/
 slug_id: 2025-06-03-20-hyperscalers-is-the-mainframe-problem-all-over-jz7u
 theme_page: /predictions/cloud-decentralization/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=2436s
 timestamp: "00:40:36"

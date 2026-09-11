@@ -7,7 +7,9 @@ year: "2024"
 title: "2024 will be a deepfake election"
 permalink: /predictions/other/2024-03-30-2024-will-be-a-deepfake-election-ccee/
 slug_id: 2024-03-30-2024-will-be-a-deepfake-election-ccee
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "X Spaces with Akash Network: Democratizing Compute on Subnet 27 (Nodexo)"
 source_url: https://www.youtube.com/watch?v=77HfFvrhmsQ&t=2532s
 timestamp: "00:42:12"

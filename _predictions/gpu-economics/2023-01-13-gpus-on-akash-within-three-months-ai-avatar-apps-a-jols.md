@@ -7,7 +7,9 @@ year: "2023"
 title: "GPUs on Akash within three months; AI avatar apps as first killer demand"
 permalink: /predictions/gpu-economics/2023-01-13-gpus-on-akash-within-three-months-ai-avatar-apps-a-jols/
 slug_id: 2023-01-13-gpus-on-akash-within-three-months-ai-avatar-apps-a-jols
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=qdQFOS-uG_A&t=1382s
 timestamp: "00:23:02"

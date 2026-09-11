@@ -8,6 +8,8 @@ title: "Agents consume 10-40x more tokens than humans"
 permalink: /predictions/ai-agents/2026-02-24-agents-consume-10-40x-more-tokens-than-humans-5cnf/
 slug_id: 2026-02-24-agents-consume-10-40x-more-tokens-than-humans-5cnf
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=11538s
 timestamp: "03:12:18"

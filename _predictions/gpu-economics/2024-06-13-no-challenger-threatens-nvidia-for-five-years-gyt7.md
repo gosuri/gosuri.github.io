@@ -7,7 +7,9 @@ year: "2024"
 title: "No challenger threatens Nvidia for five years"
 permalink: /predictions/gpu-economics/2024-06-13-no-challenger-threatens-nvidia-for-five-years-gyt7/
 slug_id: 2024-06-13-no-challenger-threatens-nvidia-for-five-years-gyt7
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"
 source_url: https://www.youtube.com/watch?v=RYs9UTXv43Q&t=2441s
 timestamp: "00:40:41"

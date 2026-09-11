@@ -8,6 +8,8 @@ title: "Governance-based content takedowns would mean censorship"
 permalink: /predictions/cloud-decentralization/2020-12-20-governance-based-content-takedowns-would-mean-cens-zucd/
 slug_id: 2020-12-20-governance-based-content-takedowns-would-mean-cens-zucd
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akashian Challenge Livestream: Phase 3 Week 2 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=2TEqq1vFPus&t=3180s
 timestamp: "00:53:00"

@@ -8,6 +8,8 @@ title: "Decentralization will unlock small, untapped energy sources"
 permalink: /predictions/energy-ai/2025-06-24-decentralization-will-unlock-small-untapped-energy-4suk/
 slug_id: 2025-06-24-decentralization-will-unlock-small-untapped-energy-4suk
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=7420s
 timestamp: "02:03:40"

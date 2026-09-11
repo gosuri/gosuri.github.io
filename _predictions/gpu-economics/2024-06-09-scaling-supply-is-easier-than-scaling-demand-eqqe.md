@@ -7,7 +7,9 @@ year: "2024"
 title: "Scaling supply is easier than scaling demand"
 permalink: /predictions/gpu-economics/2024-06-09-scaling-supply-is-easier-than-scaling-demand-eqqe/
 slug_id: 2024-06-09-scaling-supply-is-easier-than-scaling-demand-eqqe
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fVYeAVvuNLI&t=14818s
 timestamp: "04:06:58"

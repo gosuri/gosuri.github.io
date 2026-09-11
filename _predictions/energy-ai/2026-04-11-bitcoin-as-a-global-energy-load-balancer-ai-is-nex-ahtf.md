@@ -8,6 +8,8 @@ title: "Bitcoin as a global energy load balancer — AI is next"
 permalink: /predictions/energy-ai/2026-04-11-bitcoin-as-a-global-energy-load-balancer-ai-is-nex-ahtf/
 slug_id: 2026-04-11-bitcoin-as-a-global-energy-load-balancer-ai-is-nex-ahtf
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=8584s
 timestamp: "02:23:04"

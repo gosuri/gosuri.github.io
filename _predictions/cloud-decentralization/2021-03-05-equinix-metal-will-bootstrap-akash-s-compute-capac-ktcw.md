@@ -8,6 +8,8 @@ title: "Equinix Metal will bootstrap Akash's compute capacity"
 permalink: /predictions/cloud-decentralization/2021-03-05-equinix-metal-will-bootstrap-akash-s-compute-capac-ktcw/
 slug_id: 2021-03-05-equinix-metal-will-bootstrap-akash-s-compute-capac-ktcw
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Alessio Treglia, Jack Zampolin, Greg Osuri and Adam Bozanich (Akash Network)"
 source_url: https://www.youtube.com/watch?v=KAOqIm4Mfu8&t=172s
 timestamp: "00:02:52"

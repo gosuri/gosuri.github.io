@@ -7,7 +7,9 @@ year: "2024"
 title: "\"The spice must flow\" — GPUs sell themselves without demand incentives"
 permalink: /predictions/gpu-economics/2024-06-09-the-spice-must-flow-gpus-sell-themselves-without-d-jim6/
 slug_id: 2024-06-09-the-spice-must-flow-gpus-sell-themselves-without-d-jim6
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fVYeAVvuNLI&t=14429s
 timestamp: "04:00:29"

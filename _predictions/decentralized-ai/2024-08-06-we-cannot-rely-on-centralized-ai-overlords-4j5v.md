@@ -7,7 +7,9 @@ year: "2024"
 title: "We cannot rely on centralized AI overlords"
 permalink: /predictions/decentralized-ai/2024-08-06-we-cannot-rely-on-centralized-ai-overlords-4j5v/
 slug_id: 2024-08-06-we-cannot-rely-on-centralized-ai-overlords-4j5v
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building a React App live with AI (Greg Osuri)"
 source_url: https://www.youtube.com/watch?v=8JupQI6jnRs&t=4390s
 timestamp: "01:13:10"

@@ -7,7 +7,9 @@ year: "2022"
 title: "The future is inter-chain"
 permalink: /predictions/crypto-depin/2022-07-14-the-future-is-inter-chain-jcfd/
 slug_id: 2022-07-14-the-future-is-inter-chain-jcfd
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 13th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=D-CIXpfW13A&t=3554s
 timestamp: "00:59:14"

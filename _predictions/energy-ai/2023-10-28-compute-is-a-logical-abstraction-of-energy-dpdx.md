@@ -8,6 +8,8 @@ title: "Compute is a logical abstraction of energy"
 permalink: /predictions/energy-ai/2023-10-28-compute-is-a-logical-abstraction-of-energy-dpdx/
 slug_id: 2023-10-28-compute-is-a-logical-abstraction-of-energy-dpdx
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"
 source_url: https://www.youtube.com/watch?v=ubYh3RfdQHA&t=223s
 timestamp: "00:03:43"

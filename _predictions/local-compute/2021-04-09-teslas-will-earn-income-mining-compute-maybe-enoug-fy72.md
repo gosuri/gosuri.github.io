@@ -7,7 +7,9 @@ year: "2021"
 title: "Teslas will earn income mining compute — maybe enough to pay for the car"
 permalink: /predictions/local-compute/2021-04-09-teslas-will-earn-income-mining-compute-maybe-enoug-fy72/
 slug_id: 2021-04-09-teslas-will-earn-income-mining-compute-maybe-enoug-fy72
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (Cosmos)"
 source_url: https://www.youtube.com/watch?v=4xlOVeUXd90&t=1953s
 timestamp: "00:32:33"

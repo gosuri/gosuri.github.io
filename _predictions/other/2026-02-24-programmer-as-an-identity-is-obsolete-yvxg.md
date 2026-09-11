@@ -7,7 +7,9 @@ year: "2026"
 title: "\"Programmer\" as an identity is obsolete"
 permalink: /predictions/other/2026-02-24-programmer-as-an-identity-is-obsolete-yvxg/
 slug_id: 2026-02-24-programmer-as-an-identity-is-obsolete-yvxg
-theme_page: /predictions/other/
+theme_page: /predictions/other/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=12136s
 timestamp: "03:22:16"

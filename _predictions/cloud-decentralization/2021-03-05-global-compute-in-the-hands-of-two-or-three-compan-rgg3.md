@@ -8,6 +8,8 @@ title: "Global compute in the hands of two or three companies is dangerous"
 permalink: /predictions/cloud-decentralization/2021-03-05-global-compute-in-the-hands-of-two-or-three-compan-rgg3/
 slug_id: 2021-03-05-global-compute-in-the-hands-of-two-or-three-compan-rgg3
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Adam Bozanich"
+speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Alessio Treglia, Jack Zampolin, Greg Osuri and Adam Bozanich (Akash Network)"
 source_url: https://www.youtube.com/watch?v=KAOqIm4Mfu8&t=2044s
 timestamp: "00:34:04"

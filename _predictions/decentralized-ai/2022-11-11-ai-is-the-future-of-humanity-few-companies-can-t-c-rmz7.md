@@ -7,7 +7,9 @@ year: "2022"
 title: "AI is the future of humanity — few companies can't control its supply"
 permalink: /predictions/decentralized-ai/2022-11-11-ai-is-the-future-of-humanity-few-companies-can-t-c-rmz7/
 slug_id: 2022-11-11-ai-is-the-future-of-humanity-few-companies-can-t-c-rmz7
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 9th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=yWtu0y6xr7o&t=2501s
 timestamp: "00:41:41"

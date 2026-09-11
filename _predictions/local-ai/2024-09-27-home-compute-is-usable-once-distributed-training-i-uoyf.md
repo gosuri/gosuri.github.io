@@ -8,6 +8,8 @@ title: "Home compute is usable once distributed training/inference is cracked"
 permalink: /predictions/local-ai/2024-09-27-home-compute-is-usable-once-distributed-training-i-uoyf/
 slug_id: 2024-09-27-home-compute-is-usable-once-distributed-training-i-uoyf
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "IOSG OFR 13th Panel | GPU Symphony: Decentralized Compute Power (IOSG Ventures)"
 source_url: https://www.youtube.com/watch?v=_UG21_OaZLo&t=428s
 timestamp: "00:07:08"

@@ -7,7 +7,9 @@ year: "2025"
 title: "Distributed training becomes reality this year; state-of-the-art by ~2027"
 permalink: /predictions/decentralized-ai/2025-08-02-distributed-training-becomes-reality-this-year-sta-53mo/
 slug_id: 2025-08-02-distributed-training-becomes-reality-this-year-sta-53mo
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=1310s
 timestamp: "00:21:50"

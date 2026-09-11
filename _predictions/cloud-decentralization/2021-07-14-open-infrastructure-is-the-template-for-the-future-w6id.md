@@ -8,6 +8,8 @@ title: "Open infrastructure is the template for the future"
 permalink: /predictions/cloud-decentralization/2021-07-14-open-infrastructure-is-the-template-for-the-future-w6id/
 slug_id: 2021-07-14-open-infrastructure-is-the-template-for-the-future-w6id
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 1 OF 2 (Crypto Rich)"
 source_url: https://www.youtube.com/watch?v=g7fFyRgivoU&t=1150s
 timestamp: "00:19:10"

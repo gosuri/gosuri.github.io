@@ -7,7 +7,9 @@ year: "2023"
 title: "Akash as the world's first open GPU secondary market"
 permalink: /predictions/gpu-economics/2023-06-15-akash-as-the-world-s-first-open-gpu-secondary-mark-wd7a/
 slug_id: 2023-06-15-akash-as-the-world-s-first-open-gpu-secondary-mark-wd7a
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"
 source_url: https://www.youtube.com/watch?v=CCHnfFIavA8&t=2116s
 timestamp: "00:35:16"

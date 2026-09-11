@@ -7,7 +7,9 @@ year: "2024"
 title: "Home machines need asynchronous designs to serve production AI"
 permalink: /predictions/local-compute/2024-08-12-home-machines-need-asynchronous-designs-to-serve-p-2cr5/
 slug_id: 2024-08-12-home-machines-need-asynchronous-designs-to-serve-p-2cr5
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "BASS 2024 10 Ben Fielding, Greg Osuri, Guy Wuollet, Steven Willinger (Stanford Blockchain Club)"
 source_url: https://www.youtube.com/watch?v=FQZZiUAmLLI&t=320s
 timestamp: "00:05:20"

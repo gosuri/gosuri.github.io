@@ -8,6 +8,8 @@ title: "Sufficiently successful software must be open source — the cloud went 
 permalink: /predictions/open-source-ai/2024-11-26-sufficiently-successful-software-must-be-open-sour-aaxh/
 slug_id: 2024-11-26-sufficiently-successful-software-must-be-open-sour-aaxh
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "What is Akash Network? Greg Osuri on Decentralized Cloud Computing | Greg Osuri - Founder of Akash (Genzio)"
 source_url: https://www.youtube.com/watch?v=pIX9lYr57fE&t=48s
 timestamp: "00:00:48"

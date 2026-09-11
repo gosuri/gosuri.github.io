@@ -7,7 +7,9 @@ year: "2024"
 title: "The unbanked billion will be Akash's next users"
 permalink: /predictions/crypto-depin/2024-05-20-the-unbanked-billion-will-be-akash-s-next-users-5bup/
 slug_id: 2024-05-20-the-unbanked-billion-will-be-akash-s-next-users-5bup
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Hash Rate - Ep 050 - Akash Decentralized Cloud - Greg Osury (Hash Rate Podcast)"
 source_url: https://www.youtube.com/watch?v=S6niawECR8A&t=1864s
 timestamp: "00:31:04"

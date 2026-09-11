@@ -8,6 +8,8 @@ title: "AI will consume ~8% of global energy by 2040"
 permalink: /predictions/energy-ai/2025-06-03-ai-will-consume-8-of-global-energy-by-2040-2hzi/
 slug_id: 2025-06-03-ai-will-consume-8-of-global-energy-by-2040-2hzi
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=832s
 timestamp: "00:13:52"

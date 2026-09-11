@@ -8,6 +8,8 @@ title: "Sovereign cloud services are the future"
 permalink: /predictions/cloud-decentralization/2022-08-18-sovereign-cloud-services-are-the-future-7jx4/
 slug_id: 2022-08-18-sovereign-cloud-services-are-the-future-7jx4
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 17th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=YjZFaKHqVqQ&t=555s
 timestamp: "00:09:15"

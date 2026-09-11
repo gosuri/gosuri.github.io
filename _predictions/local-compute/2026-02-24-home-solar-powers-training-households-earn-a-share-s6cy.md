@@ -7,7 +7,9 @@ year: "2026"
 title: "Home solar powers training; households earn a share of the model"
 permalink: /predictions/local-compute/2026-02-24-home-solar-powers-training-households-earn-a-share-s6cy/
 slug_id: 2026-02-24-home-solar-powers-training-households-earn-a-share-s6cy
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"
 source_url: https://www.youtube.com/watch?v=oQ93LgM1N-o&t=11964s
 timestamp: "03:19:24"

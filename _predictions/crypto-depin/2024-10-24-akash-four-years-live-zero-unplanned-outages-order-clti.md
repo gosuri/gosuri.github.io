@@ -7,7 +7,9 @@ year: "2024"
 title: "Akash: four years live, zero unplanned outages, order-of-magnitude yearly growth"
 permalink: /predictions/crypto-depin/2024-10-24-akash-four-years-live-zero-unplanned-outages-order-clti/
 slug_id: 2024-10-24-akash-four-years-live-zero-unplanned-outages-order-clti
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=OHQnZEaMEHU&t=173s
 timestamp: "00:02:53"

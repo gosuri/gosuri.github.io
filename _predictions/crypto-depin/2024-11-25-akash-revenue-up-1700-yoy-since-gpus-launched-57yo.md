@@ -7,7 +7,9 @@ year: "2024"
 title: "Akash revenue up 1700% YoY since GPUs launched"
 permalink: /predictions/crypto-depin/2024-11-25-akash-revenue-up-1700-yoy-since-gpus-launched-57yo/
 slug_id: 2024-11-25-akash-revenue-up-1700-yoy-since-gpus-launched-57yo
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=2076s
 timestamp: "00:34:36"

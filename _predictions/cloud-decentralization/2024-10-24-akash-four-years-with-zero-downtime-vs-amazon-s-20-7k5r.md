@@ -8,6 +8,8 @@ title: "Akash: four years with zero downtime vs Amazon's ~200 outages a year"
 permalink: /predictions/cloud-decentralization/2024-10-24-akash-four-years-with-zero-downtime-vs-amazon-s-20-7k5r/
 slug_id: 2024-10-24-akash-four-years-with-zero-downtime-vs-amazon-s-20-7k5r
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Supercloud - by Greg Osuri, Akash (Cosmoverse)"
 source_url: https://www.youtube.com/watch?v=pmEVbRTw_5k&t=659s
 timestamp: "00:10:59"

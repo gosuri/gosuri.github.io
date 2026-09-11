@@ -7,7 +7,9 @@ year: "2022"
 title: "Stable settlement coming to AKT within months"
 permalink: /predictions/crypto-depin/2022-08-04-stable-settlement-coming-to-akt-within-months-6nps/
 slug_id: 2022-08-04-stable-settlement-coming-to-akt-within-months-6nps
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akask Weekly - Aug 3rd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=ZJsBvlHOIb4&t=3003s
 timestamp: "00:50:03"

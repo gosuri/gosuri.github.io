@@ -8,6 +8,8 @@ title: "Chips quadruple yearly; energy has 4-14 year lead times"
 permalink: /predictions/energy-ai/2026-04-23-chips-quadruple-yearly-energy-has-4-14-year-lead-t-gz2g/
 slug_id: 2026-04-23-chips-quadruple-yearly-energy-has-4-14-year-lead-t-gz2g
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=3413s
 timestamp: "00:56:53"

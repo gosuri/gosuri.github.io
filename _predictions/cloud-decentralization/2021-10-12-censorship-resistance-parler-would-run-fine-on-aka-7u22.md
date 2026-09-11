@@ -8,6 +8,8 @@ title: "Censorship resistance: Parler would run fine on Akash"
 permalink: /predictions/cloud-decentralization/2021-10-12-censorship-resistance-parler-would-run-fine-on-aka-7u22/
 slug_id: 2021-10-12-censorship-resistance-parler-would-run-fine-on-aka-7u22
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"
 source_url: https://www.youtube.com/watch?v=PO-UpAZx-KM&t=1533s
 timestamp: "00:25:33"

@@ -8,6 +8,8 @@ title: "Skynet: an unstoppable GPU network for humans and machines"
 permalink: /predictions/ai-agents/2023-06-12-skynet-an-unstoppable-gpu-network-for-humans-and-m-feps/
 slug_id: 2023-06-12-skynet-an-unstoppable-gpu-network-for-humans-and-m-feps
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"
 source_url: https://www.youtube.com/watch?v=pSCkBP7Pw6Y&t=2420s
 timestamp: "00:40:20"

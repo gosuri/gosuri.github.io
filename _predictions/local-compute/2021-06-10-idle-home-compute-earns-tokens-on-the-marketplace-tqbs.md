@@ -7,7 +7,9 @@ year: "2021"
 title: "Idle home compute earns tokens on the marketplace"
 permalink: /predictions/local-compute/2021-06-10-idle-home-compute-earns-tokens-on-the-marketplace-tqbs/
 slug_id: 2021-06-10-idle-home-compute-earns-tokens-on-the-marketplace-tqbs
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Networks (And How Handshake Works Together) (SkyInclude)"
 source_url: https://www.youtube.com/watch?v=IhwTHcOwNwg&t=553s
 timestamp: "00:09:13"

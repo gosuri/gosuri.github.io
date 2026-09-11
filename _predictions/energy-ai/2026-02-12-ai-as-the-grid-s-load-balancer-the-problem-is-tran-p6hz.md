@@ -8,6 +8,8 @@ title: "AI as the grid's load balancer — the problem is transmission, not gene
 permalink: /predictions/energy-ai/2026-02-12-ai-as-the-grid-s-load-balancer-the-problem-is-tran-p6hz/
 slug_id: 2026-02-12-ai-as-the-grid-s-load-balancer-the-problem-is-tran-p6hz
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"DACM Insights: Decentralizing AI, The Akash Approach\" (DACM Insights)"
 source_url: https://www.youtube.com/watch?v=BQONg2f0zQc&t=963s
 timestamp: "00:16:03"

@@ -8,6 +8,8 @@ title: "Bots and agents will come to permissionless compute"
 permalink: /predictions/ai-agents/2023-12-18-bots-and-agents-will-come-to-permissionless-comput-omru/
 slug_id: 2023-12-18-bots-and-agents-will-come-to-permissionless-comput-omru
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=3249s
 timestamp: "00:54:09"

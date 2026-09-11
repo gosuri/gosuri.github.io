@@ -7,7 +7,9 @@ year: "2021"
 title: "Permissionless composability applied to compute will produce unimaginable apps"
 permalink: /predictions/crypto-depin/2021-10-12-permissionless-composability-applied-to-compute-wi-vxpu/
 slug_id: 2021-10-12-permissionless-composability-applied-to-compute-wi-vxpu
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"
 source_url: https://www.youtube.com/watch?v=PO-UpAZx-KM&t=1448s
 timestamp: "00:24:08"

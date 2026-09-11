@@ -7,7 +7,9 @@ year: "2026"
 title: "Home nodes: solar-powered training from Greg's own house"
 permalink: /predictions/local-compute/2026-02-12-home-nodes-solar-powered-training-from-greg-s-own-z23e/
 slug_id: 2026-02-12-home-nodes-solar-powered-training-from-greg-s-own-z23e
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"DACM Insights: Decentralizing AI, The Akash Approach\" (DACM Insights)"
 source_url: https://www.youtube.com/watch?v=BQONg2f0zQc&t=921s
 timestamp: "00:15:21"

@@ -8,6 +8,8 @@ title: "Home node clusters will run inference for household robots"
 permalink: /predictions/local-ai/2025-12-03-home-node-clusters-will-run-inference-for-househol-ht3w/
 slug_id: 2025-12-03-home-node-clusters-will-run-inference-for-househol-ht3w
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=828s
 timestamp: "00:13:48"

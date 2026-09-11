@@ -7,7 +7,9 @@ year: "2018"
 title: "Akash can cut cloud prices 50% now, 90% at scale"
 permalink: /predictions/gpu-economics/2018-11-10-akash-can-cut-cloud-prices-50-now-90-at-scale-m7ub/
 slug_id: 2018-11-10-akash-can-cut-cloud-prices-50-now-90-at-scale-m7ub
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "CEO of Overclock Labs On the World of Blockchain & Upcoming Technology In Development (CoinBundle)"
 source_url: https://www.youtube.com/watch?v=Don1slbJlMQ&t=1358s
 timestamp: "00:22:38"

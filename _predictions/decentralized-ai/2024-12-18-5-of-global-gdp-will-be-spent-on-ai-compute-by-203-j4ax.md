@@ -7,7 +7,9 @@ year: "2024"
 title: "5% of global GDP will be spent on AI compute by 2030"
 permalink: /predictions/decentralized-ai/2024-12-18-5-of-global-gdp-will-be-spent-on-ai-compute-by-203-j4ax/
 slug_id: 2024-12-18-5-of-global-gdp-will-be-spent-on-ai-compute-by-203-j4ax
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri Founder Akash Network | Cosmoverse Dubai 2024! (pinoyweb3TV)"
 source_url: https://www.youtube.com/watch?v=9zIidH8Cr2w&t=89s
 timestamp: "00:01:29"

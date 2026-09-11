@@ -7,7 +7,9 @@ year: "2023"
 title: "Akash is the most capable GPU cloud"
 permalink: /predictions/gpu-economics/2023-08-31-akash-is-the-most-capable-gpu-cloud-p3ap/
 slug_id: 2023-08-31-akash-is-the-most-capable-gpu-cloud-p3ap
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Mainnet 6 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PqKYTTQUwCM&t=6867s
 timestamp: "01:54:27"

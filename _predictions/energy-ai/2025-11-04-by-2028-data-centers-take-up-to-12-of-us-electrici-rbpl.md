@@ -8,6 +8,8 @@ title: "By 2028, data centers take up to 12% of US electricity; 40% of AI data c
 permalink: /predictions/energy-ai/2025-11-04-by-2028-data-centers-take-up-to-12-of-us-electrici-rbpl/
 slug_id: 2025-11-04-by-2028-data-centers-take-up-to-12-of-us-electrici-rbpl
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri (PyTorch)"
 source_url: https://www.youtube.com/watch?v=T3nA1nAaLss&t=131s
 timestamp: "00:02:11"

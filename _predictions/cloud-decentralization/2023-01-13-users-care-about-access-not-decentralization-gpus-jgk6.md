@@ -8,6 +8,8 @@ title: "Users care about access, not decentralization — GPUs are the wedge"
 permalink: /predictions/cloud-decentralization/2023-01-13-users-care-about-access-not-decentralization-gpus-jgk6/
 slug_id: 2023-01-13-users-care-about-access-not-decentralization-gpus-jgk6
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=qdQFOS-uG_A&t=1293s
 timestamp: "00:21:33"

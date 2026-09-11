@@ -7,7 +7,9 @@ year: "2023"
 title: "What happens with access to a million GPUs"
 permalink: /predictions/gpu-economics/2023-10-28-what-happens-with-access-to-a-million-gpus-fp7f/
 slug_id: 2023-10-28-what-happens-with-access-to-a-million-gpus-fp7f
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"
 source_url: https://www.youtube.com/watch?v=ubYh3RfdQHA&t=1541s
 timestamp: "00:25:41"

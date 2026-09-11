@@ -8,6 +8,8 @@ title: "A war between privacy and surveillance; centralized databases always lea
 permalink: /predictions/cloud-decentralization/2022-12-05-a-war-between-privacy-and-surveillance-centralized-d3z2/
 slug_id: 2022-12-05-a-war-between-privacy-and-surveillance-centralized-d3z2
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 30th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=BM-WU0TaynU&t=170s
 timestamp: "00:02:50"

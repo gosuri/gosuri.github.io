@@ -8,6 +8,8 @@ title: "OpenAI is the modern AOL"
 permalink: /predictions/open-source-ai/2025-01-31-openai-is-the-modern-aol-eczi/
 slug_id: 2025-01-31-openai-is-the-modern-aol-eczi
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"
 source_url: https://www.youtube.com/watch?v=Eb-XhauNLNE&t=425s
 timestamp: "00:07:05"

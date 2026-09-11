@@ -7,7 +7,9 @@ year: "2024"
 title: "Quantum computing breaks crypto within ~3 years; Akash is quantum-proofing"
 permalink: /predictions/other/2024-11-26-quantum-computing-breaks-crypto-within-3-years-aka-kotv/
 slug_id: 2024-11-26-quantum-computing-breaks-crypto-within-3-years-aka-kotv
-theme_page: /predictions/other/
+theme_page: /predictions/other/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"
 source_url: https://www.youtube.com/watch?v=GwKZIY2aBe0&t=3491s
 timestamp: "00:58:11"

@@ -8,6 +8,8 @@ title: "The energy demand cannot be met — the only solution is distribution"
 permalink: /predictions/energy-ai/2025-06-03-the-energy-demand-cannot-be-met-the-only-solution-qjor/
 slug_id: 2025-06-03-the-energy-demand-cannot-be-met-the-only-solution-qjor
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=918s
 timestamp: "00:15:18"

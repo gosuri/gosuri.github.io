@@ -7,7 +7,9 @@ year: "2024"
 title: "Block rewards will buy the network properties you want, Helium-style"
 permalink: /predictions/crypto-depin/2024-08-02-block-rewards-will-buy-the-network-properties-you-ryon/
 slug_id: 2024-08-02-block-rewards-will-buy-the-network-properties-you-ryon
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri of Akash on Unlocking DePIN Capabilities for AI Model Training (Nebular)"
 source_url: https://www.youtube.com/watch?v=AWKVdqzUBAg&t=2038s
 timestamp: "00:33:58"

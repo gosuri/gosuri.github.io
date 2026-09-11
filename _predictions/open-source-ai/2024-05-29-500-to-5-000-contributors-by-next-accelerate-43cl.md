@@ -8,6 +8,8 @@ title: "500 to 5,000 contributors by next Accelerate"
 permalink: /predictions/open-source-ai/2024-05-29-500-to-5-000-contributors-by-next-accelerate-43cl/
 slug_id: 2024-05-29-500-to-5-000-contributors-by-next-accelerate-43cl
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=60mmj3bNzB0&t=23919s
 timestamp: "06:38:39"

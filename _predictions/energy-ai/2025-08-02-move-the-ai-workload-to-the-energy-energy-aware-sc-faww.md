@@ -8,6 +8,8 @@ title: "Move the AI workload to the energy: energy-aware scheduling on Akash"
 permalink: /predictions/energy-ai/2025-08-02-move-the-ai-workload-to-the-energy-energy-aware-sc-faww/
 slug_id: 2025-08-02-move-the-ai-workload-to-the-energy-energy-aware-sc-faww
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=2809s
 timestamp: "00:46:49"

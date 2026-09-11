@@ -7,7 +7,9 @@ year: "2025"
 title: "Remove export controls; state intervention backfires"
 permalink: /predictions/other/2025-01-31-remove-export-controls-state-intervention-backfire-krme/
 slug_id: 2025-01-31-remove-export-controls-state-intervention-backfire-krme
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"
 source_url: https://www.youtube.com/watch?v=Eb-XhauNLNE&t=2782s
 timestamp: "00:46:22"

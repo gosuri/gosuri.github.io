@@ -7,7 +7,9 @@ year: "2023"
 title: "Crypto's inverted problem: high demand, not enough GPU supply"
 permalink: /predictions/gpu-economics/2023-10-26-crypto-s-inverted-problem-high-demand-not-enough-g-l4xp/
 slug_id: 2023-10-26-crypto-s-inverted-problem-high-demand-not-enough-g-l4xp
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"
 source_url: https://www.youtube.com/watch?v=CRA0yN28Dw8&t=614s
 timestamp: "00:10:14"

@@ -8,6 +8,8 @@ title: "Cloud should be priced like a utility — by a free market, not the stat
 permalink: /predictions/cloud-decentralization/2026-04-11-cloud-should-be-priced-like-a-utility-by-a-free-ma-ffyw/
 slug_id: 2026-04-11-cloud-should-be-priced-like-a-utility-by-a-free-ma-ffyw
 theme_page: /predictions/cloud-decentralization/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=8498s
 timestamp: "02:21:38"

@@ -7,7 +7,9 @@ year: "2024"
 title: "On-device keys would change the game forever"
 permalink: /predictions/crypto-depin/2024-09-26-on-device-keys-would-change-the-game-forever-sav4/
 slug_id: 2024-09-26-on-device-keys-would-change-the-game-forever-sav4
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"
 source_url: https://www.youtube.com/watch?v=Esawduwv7AA&t=1346s
 timestamp: "00:22:26"

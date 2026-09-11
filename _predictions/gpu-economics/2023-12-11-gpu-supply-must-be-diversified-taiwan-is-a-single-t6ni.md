@@ -7,7 +7,9 @@ year: "2023"
 title: "GPU supply must be diversified — Taiwan is a single point of failure"
 permalink: /predictions/gpu-economics/2023-12-11-gpu-supply-must-be-diversified-taiwan-is-a-single-t6ni/
 slug_id: 2023-12-11-gpu-supply-must-be-diversified-taiwan-is-a-single-t6ni
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"
 source_url: https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791
 timestamp: "00:57:54"

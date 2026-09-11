@@ -8,6 +8,8 @@ title: "Compute should be a public utility like air and water"
 permalink: /predictions/cloud-decentralization/2024-09-25-compute-should-be-a-public-utility-like-air-and-wa-nccv/
 slug_id: 2024-09-25-compute-should-be-a-public-utility-like-air-and-wa-nccv
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Compute: Past, Present, and Future by Akash Network founder Greg Osuri at deAI Summit 2024 (Pundi X Labs)"
 source_url: https://www.youtube.com/watch?v=CJ-4uolkTeE&t=665s
 timestamp: "00:11:05"

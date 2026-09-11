@@ -8,6 +8,8 @@ title: "We are burning fossil fuels to make AI — xAI Memphis"
 permalink: /predictions/energy-ai/2025-04-11-we-are-burning-fossil-fuels-to-make-ai-xai-memphis-g55k/
 slug_id: 2025-04-11-we-are-burning-fossil-fuels-to-make-ai-xai-memphis-g55k
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"
 source_url: https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=892s
 timestamp: "00:14:52"

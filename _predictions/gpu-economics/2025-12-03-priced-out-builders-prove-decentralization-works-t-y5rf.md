@@ -7,7 +7,9 @@ year: "2025"
 title: "Priced-out builders prove decentralization works — the Cornell-to-Nvidia story"
 permalink: /predictions/gpu-economics/2025-12-03-priced-out-builders-prove-decentralization-works-t-y5rf/
 slug_id: 2025-12-03-priced-out-builders-prove-decentralization-works-t-y5rf
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=438s
 timestamp: "00:07:18"

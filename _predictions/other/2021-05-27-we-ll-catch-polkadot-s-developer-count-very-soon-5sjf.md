@@ -7,7 +7,9 @@ year: "2021"
 title: "We'll catch Polkadot's developer count — very soon"
 permalink: /predictions/other/2021-05-27-we-ll-catch-polkadot-s-developer-count-very-soon-5sjf/
 slug_id: 2021-05-27-we-ll-catch-polkadot-s-developer-count-very-soon-5sjf
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Почему дорого запускать стартап в централизованных облаках? Интервью с Greg Osuri, CEO Akash Network (S3XYBTC)"
 source_url: https://www.youtube.com/watch?v=HNfu9hCsVwU&t=1037s
 timestamp: "00:17:17"

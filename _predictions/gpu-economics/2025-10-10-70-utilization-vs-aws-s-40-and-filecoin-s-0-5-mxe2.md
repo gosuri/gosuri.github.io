@@ -7,7 +7,9 @@ year: "2025"
 title: "70% utilization vs. AWS's 40% and Filecoin's 0.5%"
 permalink: /predictions/gpu-economics/2025-10-10-70-utilization-vs-aws-s-40-and-filecoin-s-0-5-mxe2/
 slug_id: 2025-10-10-70-utilization-vs-aws-s-40-and-filecoin-s-0-5-mxe2
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"
 source_url: https://www.youtube.com/watch?v=xr6ZLHwuo2w&t=1840s
 timestamp: "00:30:40"

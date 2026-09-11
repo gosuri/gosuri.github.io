@@ -8,6 +8,8 @@ title: "Giving IoT devices intelligence at the edge with home compute"
 permalink: /predictions/local-ai/2020-06-22-giving-iot-devices-intelligence-at-the-edge-with-h-b3nz/
 slug_id: 2020-06-22-giving-iot-devices-intelligence-at-the-edge-with-h-b3nz
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akashian Challenge Phase 1 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=L3JjJldfU3o&t=3315s
 timestamp: "00:55:15"

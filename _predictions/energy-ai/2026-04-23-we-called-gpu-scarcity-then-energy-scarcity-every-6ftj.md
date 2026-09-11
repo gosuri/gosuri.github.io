@@ -8,6 +8,8 @@ title: "We called GPU scarcity, then energy scarcity — every resource AI touch
 permalink: /predictions/energy-ai/2026-04-23-we-called-gpu-scarcity-then-energy-scarcity-every-6ftj/
 slug_id: 2026-04-23-we-called-gpu-scarcity-then-energy-scarcity-every-6ftj
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=911s
 timestamp: "00:15:11"

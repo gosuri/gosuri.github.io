@@ -8,6 +8,8 @@ title: "Over 85% of data-center capacity is unused; any data center can become a
 permalink: /predictions/cloud-decentralization/2021-12-15-over-85-of-data-center-capacity-is-unused-any-data-hnnu/
 slug_id: 2021-12-15-over-85-of-data-center-capacity-is-unused-any-data-hnnu
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeFi Decoded - Greg Osuri, CEO of Akash on why DeFi needs a Decentralized Internet to succeed (Ninepoint Partners)"
 source_url: https://www.youtube.com/watch?v=7pEWlQnQ_8Q&t=422s
 timestamp: "00:07:02"

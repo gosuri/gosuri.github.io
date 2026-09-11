@@ -8,6 +8,8 @@ title: "Faster: low-latency delivery from 500,000 nodes worldwide"
 permalink: /predictions/cloud-decentralization/2022-06-16-faster-low-latency-delivery-from-500-000-nodes-wor-2j6r/
 slug_id: 2022-06-16-faster-low-latency-delivery-from-500-000-nodes-wor-2j6r
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 15th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=y5_GlfUj5to&t=2055s
 timestamp: "00:34:15"

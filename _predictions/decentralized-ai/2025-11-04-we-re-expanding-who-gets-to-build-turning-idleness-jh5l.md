@@ -7,7 +7,9 @@ year: "2025"
 title: "We're expanding who gets to build — turning idleness into intelligence"
 permalink: /predictions/decentralized-ai/2025-11-04-we-re-expanding-who-gets-to-build-turning-idleness-jh5l/
 slug_id: 2025-11-04-we-re-expanding-who-gets-to-build-turning-idleness-jh5l
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri (PyTorch)"
 source_url: https://www.youtube.com/watch?v=T3nA1nAaLss&t=1150s
 timestamp: "00:19:10"

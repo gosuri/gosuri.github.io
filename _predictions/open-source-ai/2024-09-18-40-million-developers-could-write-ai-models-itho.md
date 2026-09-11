@@ -8,6 +8,8 @@ title: "40 million developers could write AI models"
 permalink: /predictions/open-source-ai/2024-09-18-40-million-developers-could-write-ai-models-itho/
 slug_id: 2024-09-18-40-million-developers-could-write-ai-models-itho
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Interview with Akash Network founder/CEO Greg Osuri at deAI Summit TOKEN2049 (Pundi AI)"
 source_url: https://www.youtube.com/watch?v=pz6mvbr-qYc&t=134s
 timestamp: "00:02:14"

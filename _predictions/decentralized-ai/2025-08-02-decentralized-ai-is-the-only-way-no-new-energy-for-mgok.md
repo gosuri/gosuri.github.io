@@ -7,7 +7,9 @@ year: "2025"
 title: "Decentralized AI is the only way — no new energy for four years"
 permalink: /predictions/decentralized-ai/2025-08-02-decentralized-ai-is-the-only-way-no-new-energy-for-mgok/
 slug_id: 2025-08-02-decentralized-ai-is-the-only-way-no-new-energy-for-mgok
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=2430s
 timestamp: "00:40:30"

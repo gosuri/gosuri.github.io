@@ -8,6 +8,8 @@ title: "Unstoppable, borderless workloads as a core use case"
 permalink: /predictions/cloud-decentralization/2020-06-22-unstoppable-borderless-workloads-as-a-core-use-cas-gjoh/
 slug_id: 2020-06-22-unstoppable-borderless-workloads-as-a-core-use-cas-gjoh
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akashian Challenge Phase 1 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=L3JjJldfU3o&t=3145s
 timestamp: "00:52:25"

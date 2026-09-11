@@ -7,7 +7,9 @@ year: "2024"
 title: "Decentralization and transparency are needed to understand model bias"
 permalink: /predictions/decentralized-ai/2024-10-15-decentralization-and-transparency-are-needed-to-un-myvv/
 slug_id: 2024-10-15-decentralization-and-transparency-are-needed-to-un-myvv
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Key Challenges in Building Decentralized AI Infrastructure | AI / ALL Summit (Sahara AI)"
 source_url: https://www.youtube.com/watch?v=7z6pynSNjmw&t=1082s
 timestamp: "00:18:02"

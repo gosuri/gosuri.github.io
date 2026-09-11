@@ -8,6 +8,8 @@ title: "Enterprises will adopt decentralized cloud in five to six years"
 permalink: /predictions/cloud-decentralization/2021-12-15-enterprises-will-adopt-decentralized-cloud-in-five-34sh/
 slug_id: 2021-12-15-enterprises-will-adopt-decentralized-cloud-in-five-34sh
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeFi Decoded - Greg Osuri, CEO of Akash on why DeFi needs a Decentralized Internet to succeed (Ninepoint Partners)"
 source_url: https://www.youtube.com/watch?v=7pEWlQnQ_8Q&t=2127s
 timestamp: "00:35:27"

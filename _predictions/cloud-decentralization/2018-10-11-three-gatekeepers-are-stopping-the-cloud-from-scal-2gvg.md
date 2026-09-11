@@ -8,6 +8,8 @@ title: "Three gatekeepers are stopping the cloud from scaling"
 permalink: /predictions/cloud-decentralization/2018-10-11-three-gatekeepers-are-stopping-the-cloud-from-scal-2gvg/
 slug_id: 2018-10-11-three-gatekeepers-are-stopping-the-cloud-from-scal-2gvg
 theme_page: /predictions/cloud-decentralization/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "E04 - Decentralizing the Cloud with Greg Osuri (HackerNoon)"
 source_url: https://www.youtube.com/watch?v=Nvj2ruVPfYQ&t=262s
 timestamp: "00:04:22"

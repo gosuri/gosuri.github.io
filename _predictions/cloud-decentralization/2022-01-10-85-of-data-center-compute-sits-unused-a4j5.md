@@ -8,6 +8,8 @@ title: "~85% of data-center compute sits unused"
 permalink: /predictions/cloud-decentralization/2022-01-10-85-of-data-center-compute-sits-unused-a4j5/
 slug_id: 2022-01-10-85-of-data-center-compute-sits-unused-a4j5
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash (40%+ staking APY) is taking over the $Bn Cloud Computing Market by AWS? Greg Osuri EXCLUSIVE (Digital Asset Yield Summit)"
 source_url: https://www.youtube.com/watch?v=tOnFXB7L0DY&t=1456s
 timestamp: "00:24:16"

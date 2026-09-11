@@ -8,6 +8,8 @@ title: "Crypto nodes concentrated on Amazon — Thorchain bounty"
 permalink: /predictions/cloud-decentralization/2021-01-20-crypto-nodes-concentrated-on-amazon-thorchain-boun-v43g/
 slug_id: 2021-01-20-crypto-nodes-concentrated-on-amazon-thorchain-boun-v43g
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Conversations with Jack ft Greg Osuri - S1E1 - by OmniFlix Network & Citizen Cosmos (OmniFlix Network)"
 source_url: https://www.youtube.com/watch?v=21oNz5O1qzk&t=811s
 timestamp: "00:13:31"

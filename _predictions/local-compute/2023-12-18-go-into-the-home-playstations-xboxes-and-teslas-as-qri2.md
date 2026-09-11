@@ -7,7 +7,9 @@ year: "2023"
 title: "Go into the home: PlayStations, Xboxes, and Teslas as providers"
 permalink: /predictions/local-compute/2023-12-18-go-into-the-home-playstations-xboxes-and-teslas-as-qri2/
 slug_id: 2023-12-18-go-into-the-home-playstations-xboxes-and-teslas-as-qri2
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=cvMDcUSh1Zg&t=3591s
 timestamp: "00:59:51"

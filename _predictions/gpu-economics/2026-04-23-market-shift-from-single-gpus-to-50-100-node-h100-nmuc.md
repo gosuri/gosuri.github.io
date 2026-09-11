@@ -7,7 +7,9 @@ year: "2026"
 title: "Market shift from single GPUs to 50-100 node H100 clusters on long-term contracts"
 permalink: /predictions/gpu-economics/2026-04-23-market-shift-from-single-gpus-to-50-100-node-h100-nmuc/
 slug_id: 2026-04-23-market-shift-from-single-gpus-to-50-100-node-h100-nmuc
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"
 source_url: https://www.youtube.com/watch?v=59w3DyJWAQc&t=1000s
 timestamp: "00:16:40"

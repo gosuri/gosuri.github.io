@@ -7,7 +7,9 @@ year: "2021"
 title: "Tesla cars are data centers on wheels that should earn income while charging"
 permalink: /predictions/local-compute/2021-05-29-tesla-cars-are-data-centers-on-wheels-that-should-325p/
 slug_id: 2021-05-29-tesla-cars-are-data-centers-on-wheels-that-should-325p
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Biz Call: 20210428 GregOsuri AkashNetwork (robfrankel)"
 source_url: https://www.youtube.com/watch?v=rqVL8W57O6k&t=593s
 timestamp: "00:09:53"

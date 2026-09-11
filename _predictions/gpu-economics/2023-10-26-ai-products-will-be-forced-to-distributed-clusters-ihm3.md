@@ -7,7 +7,9 @@ year: "2023"
 title: "AI products will be forced to distributed clusters by unit economics"
 permalink: /predictions/gpu-economics/2023-10-26-ai-products-will-be-forced-to-distributed-clusters-ihm3/
 slug_id: 2023-10-26-ai-products-will-be-forced-to-distributed-clusters-ihm3
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"
 source_url: https://www.youtube.com/watch?v=CRA0yN28Dw8&t=919s
 timestamp: "00:15:19"

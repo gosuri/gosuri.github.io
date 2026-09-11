@@ -7,7 +7,9 @@ year: "2025"
 title: "High conviction: 3-5 years for decentralized AI, or never"
 permalink: /predictions/decentralized-ai/2025-08-02-high-conviction-3-5-years-for-decentralized-ai-or-6qaf/
 slug_id: 2025-08-02-high-conviction-3-5-years-for-decentralized-ai-or-6qaf
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=4865s
 timestamp: "01:21:05"

@@ -7,7 +7,9 @@ year: "2025"
 title: "DeepSeek accelerates \"DeAI summer\" — expect a Uniswap moment"
 permalink: /predictions/decentralized-ai/2025-01-31-deepseek-accelerates-deai-summer-expect-a-uniswap-gpe3/
 slug_id: 2025-01-31-deepseek-accelerates-deai-summer-expect-a-uniswap-gpe3
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"
 source_url: https://www.youtube.com/watch?v=Eb-XhauNLNE&t=2262s
 timestamp: "00:37:42"

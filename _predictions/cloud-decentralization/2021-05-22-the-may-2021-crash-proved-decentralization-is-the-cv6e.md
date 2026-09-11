@@ -8,6 +8,8 @@ title: "The May 2021 crash proved decentralization is the future"
 permalink: /predictions/cloud-decentralization/2021-05-22-the-may-2021-crash-proved-decentralization-is-the-cv6e/
 slug_id: 2021-05-22-the-may-2021-crash-proved-decentralization-is-the-cv6e
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "The Unstoppable Livestream: exiledsurfer and Greg Osuri (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PUBL4eguqq4&t=847s
 timestamp: "00:14:07"

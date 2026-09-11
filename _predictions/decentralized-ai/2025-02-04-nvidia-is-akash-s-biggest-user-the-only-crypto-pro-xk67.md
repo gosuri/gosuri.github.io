@@ -7,7 +7,9 @@ year: "2025"
 title: "Nvidia is Akash's biggest user — the only crypto protocol it uses"
 permalink: /predictions/decentralized-ai/2025-02-04-nvidia-is-akash-s-biggest-user-the-only-crypto-pro-xk67/
 slug_id: 2025-02-04-nvidia-is-akash-s-biggest-user-the-only-crypto-pro-xk67
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"
 source_url: https://www.youtube.com/watch?v=T43OCZf2LO0&t=742s
 timestamp: "00:12:22"

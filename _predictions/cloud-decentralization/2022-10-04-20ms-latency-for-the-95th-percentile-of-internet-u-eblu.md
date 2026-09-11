@@ -8,6 +8,8 @@ title: "20ms latency for the 95th percentile of internet users"
 permalink: /predictions/cloud-decentralization/2022-10-04-20ms-latency-for-the-95th-percentile-of-internet-u-eblu/
 slug_id: 2022-10-04-20ms-latency-for-the-95th-percentile-of-internet-u-eblu
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"
 source_url: https://www.youtube.com/watch?v=gLzJoHmx4Js&t=1744s
 timestamp: "00:29:04"

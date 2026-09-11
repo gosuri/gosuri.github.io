@@ -7,7 +7,9 @@ year: "2021"
 title: "We'll buy stranded GPUs at half price for the AI market"
 permalink: /predictions/gpu-economics/2021-05-27-we-ll-buy-stranded-gpus-at-half-price-for-the-ai-m-aw43/
 slug_id: 2021-05-27-we-ll-buy-stranded-gpus-at-half-price-for-the-ai-m-aw43
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Почему дорого запускать стартап в централизованных облаках? Интервью с Greg Osuri, CEO Akash Network (S3XYBTC)"
 source_url: https://www.youtube.com/watch?v=HNfu9hCsVwU&t=1852s
 timestamp: "00:30:52"

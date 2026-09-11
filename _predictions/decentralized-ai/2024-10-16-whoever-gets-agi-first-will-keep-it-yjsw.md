@@ -7,7 +7,9 @@ year: "2024"
 title: "Whoever gets AGI first will keep it"
 permalink: /predictions/decentralized-ai/2024-10-16-whoever-gets-agi-first-will-keep-it-yjsw/
 slug_id: 2024-10-16-whoever-gets-agi-first-will-keep-it-yjsw
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network's Greg Osuri on AI Fueling 1,729% Growth (Coinage)"
 source_url: https://www.youtube.com/watch?v=P8F-Ac0mitI&t=436s
 timestamp: "00:07:16"

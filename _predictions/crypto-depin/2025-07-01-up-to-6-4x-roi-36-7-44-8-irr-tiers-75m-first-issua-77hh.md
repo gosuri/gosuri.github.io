@@ -7,7 +7,9 @@ year: "2025"
 title: "Up to 6.4x ROI; 36.7-44.8% IRR tiers; $75M first issuance"
 permalink: /predictions/crypto-depin/2025-07-01-up-to-6-4x-roi-36-7-44-8-irr-tiers-75m-first-issua-77hh/
 slug_id: 2025-07-01-up-to-6-4x-roi-36-7-44-8-irr-tiers-75m-first-issua-77hh
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2025/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Accelerate 2025 - Star Bonds (Akash Network)"
 source_url: https://www.youtube.com/watch?v=G92_-4vWWt0&t=45s
 timestamp: "00:00:45"

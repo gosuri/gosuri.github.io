@@ -7,7 +7,9 @@ year: "2021"
 title: "Surveillance capitalism: everything tracked, analyzed, monetized"
 permalink: /predictions/other/2021-11-19-surveillance-capitalism-everything-tracked-analyze-hnsy/
 slug_id: 2021-11-19-surveillance-capitalism-everything-tracked-analyze-hnsy
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Priv8 Virtual Summit: Greg Osuri, Tor Bair, Ari Paul's Take on the Decentralized Future (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=hf6MlnDl6Rs&t=937s
 timestamp: "00:15:37"

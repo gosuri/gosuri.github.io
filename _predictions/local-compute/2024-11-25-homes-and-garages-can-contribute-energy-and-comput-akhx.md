@@ -7,7 +7,9 @@ year: "2024"
 title: "Homes and garages can contribute energy and compute to training runs"
 permalink: /predictions/local-compute/2024-11-25-homes-and-garages-can-contribute-energy-and-comput-akhx/
 slug_id: 2024-11-25-homes-and-garages-can-contribute-energy-and-comput-akhx
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=1520s
 timestamp: "00:25:20"

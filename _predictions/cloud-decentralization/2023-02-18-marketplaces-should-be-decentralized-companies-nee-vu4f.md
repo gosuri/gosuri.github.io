@@ -8,6 +8,8 @@ title: "Marketplaces should be decentralized, companies need not be"
 permalink: /predictions/cloud-decentralization/2023-02-18-marketplaces-should-be-decentralized-companies-nee-vu4f/
 slug_id: 2023-02-18-marketplaces-should-be-decentralized-companies-nee-vu4f
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"
 source_url: https://www.youtube.com/watch?v=FwJ4-Q27CRM&t=906s
 timestamp: "00:15:06"

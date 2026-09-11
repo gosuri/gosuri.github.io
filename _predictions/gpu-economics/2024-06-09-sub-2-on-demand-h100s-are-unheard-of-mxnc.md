@@ -7,7 +7,9 @@ year: "2024"
 title: "Sub-$2 on-demand H100s are unheard of"
 permalink: /predictions/gpu-economics/2024-06-09-sub-2-on-demand-h100s-are-unheard-of-mxnc/
 slug_id: 2024-06-09-sub-2-on-demand-h100s-are-unheard-of-mxnc
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fVYeAVvuNLI&t=992s
 timestamp: "00:16:32"

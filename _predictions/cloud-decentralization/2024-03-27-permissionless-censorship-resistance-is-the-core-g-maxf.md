@@ -8,6 +8,8 @@ title: "Permissionless censorship resistance is the core guarantee"
 permalink: /predictions/cloud-decentralization/2024-03-27-permissionless-censorship-resistance-is-the-core-g-maxf/
 slug_id: 2024-03-27-permissionless-censorship-resistance-is-the-core-g-maxf
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Agents Unleashed - Progress In The Decentralized AI Stack (Training, Fine-Tuning, Inference) (Olas)"
 source_url: https://www.youtube.com/watch?v=o2khlH9vX2M&t=1219s
 timestamp: "00:20:19"

@@ -33,6 +33,7 @@ async function fixture(t) {
     'theme: ai-agents', 'theme_title: AI Agents', 'date: 2022-11-03',
     'year: "2022"', 'slug_id: 2022-11-03-machines-rya4',
     `permalink: ${itemPath}`, 'theme_page: /predictions/ai-agents/',
+    'speaker: Greg Osuri', 'speaker_status: attributed',
     'source: Akash Weekly (Akash Network)', `source_url: ${sourceUrl}`,
     'timestamp: "00:10:54"', 'quote: |', '  Machines will schedule machines.',
     'context: |', '  Editorial annotation.', '---', '',
@@ -41,7 +42,10 @@ async function fixture(t) {
     '---', 'permalink: /predictions/', '---',
     '_1 statements from 1 videos and podcasts, 2022–2022._', '',
   ].join('\n'));
-  // Deliberately no theme_slug: the real split theme root lacks this field.
+  await put(root, 'predictions/recent.md', [
+    '---', 'title: Recent predictions', 'permalink: /predictions/recent/', '---', '',
+  ].join('\n'));
+  // Route selection comes from the permalink; theme_slug is HTML metadata.
   await put(root, 'predictions/ai-agents.md', [
     '---', 'theme: AI Agents', 'permalink: /predictions/ai-agents/', '---', '',
   ].join('\n'));
@@ -56,7 +60,7 @@ async function fixture(t) {
   await put(root, 'about.md', [
     '---', 'title: About', 'permalink: /about/', '---', 'Public biography.', '',
   ].join('\n'));
-  for (const path of ['/', '/posts/', '/about/', '/predictions/',
+  for (const path of ['/', '/posts/', '/about/', '/predictions/', '/predictions/recent/',
     '/predictions/ai-agents/', '/predictions/ai-agents/2022/', itemPath, postPath]) {
     await put(siteDir, `${path.slice(1)}index.html`, built);
   }
@@ -71,7 +75,7 @@ async function fixture(t) {
 test('writes each published page twin, scoped indexes and live inventory', async t => {
   const opts = await fixture(t);
   const result = await renderAgents(opts);
-  assert.equal(result.twins, 8);
+  assert.equal(result.twins, 9);
   assert.equal(result.predictions, 1);
   assert.equal(result.posts, 1);
   const read = path => readFile(join(opts.siteDir, path), 'utf8');
@@ -82,7 +86,7 @@ test('writes each published page twin, scoped indexes and live inventory', async
   assert.ok(leaf.includes('Quote — verbatim'));
   assert.ok(leaf.includes('Context — site annotation, not spoken'));
   for (const path of ['index.md', 'posts/index.md', 'about/index.md',
-    'predictions/index.md', 'predictions/ai-agents/index.md',
+    'predictions/index.md', 'predictions/recent/index.md', 'predictions/ai-agents/index.md',
     'predictions/ai-agents/2022/index.md', `${postPath.slice(1)}index.md`]) {
     assert.ok((await read(path)).trim(), path);
   }
@@ -90,9 +94,12 @@ test('writes each published page twin, scoped indexes and live inventory', async
   assert.ok(index.includes('2022-11-03-machines-rya4'));
   assert.ok(!index.includes('Editorial annotation.'));
   assert.ok(!index.includes('Machines will schedule machines.'));
+  const recent = await read('predictions/recent/index.md');
+  assert.ok(recent.includes(`[Machines will schedule other machines](https://www.gregosuri.com${itemPath}index.md)`));
   assert.ok((await read(`${postPath.slice(1)}index.md`)).includes('https://example.org/essay/'));
   const inventory = await read('llms.txt');
   assert.ok(inventory.includes('/predictions/index.md'));
+  assert.ok(inventory.includes('/predictions/recent/index.md'));
   assert.ok(inventory.includes('/posts/index.md'));
   assert.ok(!inventory.includes('DO_NOT_EXPORT'));
   await assert.rejects(access(join(opts.siteDir, 'transcripts/index.md')));
@@ -124,6 +131,8 @@ test('new source and its built HTML enter indexes without an allowlist edit', as
   assert.ok(!year.includes('2023-01-01-home-next'));
   const theme = await readFile(join(opts.siteDir, 'predictions/ai-agents/index.md'), 'utf8');
   assert.ok(theme.includes('2023-01-01-home-next'));
+  const recent = await readFile(join(opts.siteDir, 'predictions/recent/index.md'), 'utf8');
+  assert.ok(recent.indexOf('2023-01-01-home-next') < recent.indexOf('2022-11-03-machines-rya4'));
 });
 
 test('authored publication dates reach twins and indexes without changing explicit permalinks', async t => {
@@ -144,7 +153,7 @@ test('authored citing page is included as soon as it exists', async t => {
   const opts = await fixture(t);
   await put(opts.root, 'citing.md', '---\ntitle: Citing\npermalink: /citing/\n---\nQuote verbatim.\n');
   await put(opts.siteDir, 'citing/index.html', built);
-  assert.equal((await renderAgents(opts)).twins, 9);
+  assert.equal((await renderAgents(opts)).twins, 10);
   const twin = await readFile(join(opts.siteDir, 'citing/index.md'), 'utf8');
   assert.ok(twin.includes('Quote verbatim.'));
 });
@@ -154,7 +163,7 @@ test('preserves built pagination pages as route-specific homepage twins', async 
   await put(opts.siteDir, 'page2/index.html', '<main class="page-content"><p>Page two writing.</p></main>');
   await put(opts.siteDir, 'page10/index.html', '<main class="page-content"><p>Page ten writing.</p></main>');
   const result = await renderAgents(opts);
-  assert.equal(result.twins, 10);
+  assert.equal(result.twins, 11);
   const page2 = await readFile(join(opts.siteDir, 'page2/index.md'), 'utf8');
   const page10 = await readFile(join(opts.siteDir, 'page10/index.md'), 'utf8');
   assert.ok(page2.includes('Page two writing.'));

@@ -7,7 +7,9 @@ year: "2018"
 title: "Devices will outnumber humans; the future needs edge capacity served by people, not hyperscalers"
 permalink: /predictions/local-compute/2018-11-10-devices-will-outnumber-humans-the-future-needs-edg-plcz/
 slug_id: 2018-11-10-devices-will-outnumber-humans-the-future-needs-edg-plcz
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "CEO of Overclock Labs On the World of Blockchain & Upcoming Technology In Development (CoinBundle)"
 source_url: https://www.youtube.com/watch?v=Don1slbJlMQ&t=1536s
 timestamp: "00:25:36"

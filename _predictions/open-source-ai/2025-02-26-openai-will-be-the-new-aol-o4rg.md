@@ -8,6 +8,8 @@ title: "OpenAI will be the new AOL"
 permalink: /predictions/open-source-ai/2025-02-26-openai-will-be-the-new-aol-o4rg/
 slug_id: 2025-02-26-openai-will-be-the-new-aol-o4rg
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Everything Bagel: Open Source AI, Security, and Decentralization with Greg Osuri, Founder at Akash (The Index Podcast)"
 source_url: https://www.youtube.com/watch?v=VTJaABZMi9c&t=2771s
 timestamp: "00:46:11"

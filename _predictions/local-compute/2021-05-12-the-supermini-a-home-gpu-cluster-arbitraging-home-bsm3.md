@@ -7,7 +7,9 @@ year: "2021"
 title: "The Supermini: a home GPU cluster arbitraging home power and bandwidth"
 permalink: /predictions/local-compute/2021-05-12-the-supermini-a-home-gpu-cluster-arbitraging-home-bsm3/
 slug_id: 2021-05-12-the-supermini-a-home-gpu-cluster-arbitraging-home-bsm3
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute\" (Base Layer)"
 source_url: https://podcasts.apple.com/us/podcast/base-layer-episode-209-greg-osuri-founder-of-akash/id1445373535?i=1000521492647
 timestamp: "00:26:04"

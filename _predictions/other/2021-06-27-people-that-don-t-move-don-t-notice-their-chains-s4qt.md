@@ -7,7 +7,9 @@ year: "2021"
 title: "\"People that don't move don't notice their chains\""
 permalink: /predictions/other/2021-06-27-people-that-don-t-move-don-t-notice-their-chains-s4qt/
 slug_id: 2021-06-27-people-that-don-t-move-don-t-notice-their-chains-s4qt
-theme_page: /predictions/other/
+theme_page: /predictions/other/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Enter Decentralized Cloud & Unstoppable Web with Akash Network & Deeper - DeFi Conference Day 1 (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=iV6Zu5_AVKA&t=1626s
 timestamp: "00:27:06"

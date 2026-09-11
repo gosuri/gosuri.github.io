@@ -7,7 +7,9 @@ year: "2024"
 title: "H100s at $1.46/hour vs. $12 on Amazon — if you can get one at all"
 permalink: /predictions/gpu-economics/2024-06-11-h100s-at-1-46-hour-vs-12-on-amazon-if-you-can-get-wvvg/
 slug_id: 2024-06-11-h100s-at-1-46-hour-vs-12-on-amazon-if-you-can-get-wvvg
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Keynote from Greg Osuri: \\\"Journey to Acceleration & Beyond\\\" - Akash Accelerate '24\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=04-IN8Btp3U&t=990s
 timestamp: "00:16:30"

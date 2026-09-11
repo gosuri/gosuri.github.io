@@ -8,6 +8,8 @@ title: "Persistent storage enables a decentralized CDN on Akash"
 permalink: /predictions/cloud-decentralization/2022-04-24-persistent-storage-enables-a-decentralized-cdn-on-ks4n/
 slug_id: 2022-04-24-persistent-storage-enables-a-decentralized-cdn-on-ks4n
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akash Weekly: Testnet 3, Week 1 Challenges\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=197CuLD5Ahw&t=1240s
 timestamp: "00:20:40"

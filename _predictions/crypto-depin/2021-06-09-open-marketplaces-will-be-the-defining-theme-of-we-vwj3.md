@@ -7,7 +7,9 @@ year: "2021"
 title: "Open marketplaces will be the defining theme of web3"
 permalink: /predictions/crypto-depin/2021-06-09-open-marketplaces-will-be-the-defining-theme-of-we-vwj3/
 slug_id: 2021-06-09-open-marketplaces-will-be-the-defining-theme-of-we-vwj3
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"
 source_url: https://www.youtube.com/watch?v=i2AE257OCMA&t=2009s
 timestamp: "00:33:29"

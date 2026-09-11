@@ -8,6 +8,8 @@ title: "Compute as a grid-balancing asset following clean power"
 permalink: /predictions/energy-ai/2025-06-27-compute-as-a-grid-balancing-asset-following-clean-pn46/
 slug_id: 2025-06-27-compute-as-a-grid-balancing-asset-following-clean-pn46
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Beyond GPUs: How Decentralization Can Solve AI's Biggest Scaling Bottleneck | Day 2 | Crypto x AI (Blockworks)"
 source_url: https://www.youtube.com/watch?v=JgD4BzHEcu4&t=676s
 timestamp: "00:11:16"

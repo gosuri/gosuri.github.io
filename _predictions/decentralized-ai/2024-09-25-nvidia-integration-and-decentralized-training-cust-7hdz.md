@@ -7,7 +7,9 @@ year: "2024"
 title: "Nvidia integration and decentralized training customers"
 permalink: /predictions/decentralized-ai/2024-09-25-nvidia-integration-and-decentralized-training-cust-7hdz/
 slug_id: 2024-09-25-nvidia-integration-and-decentralized-training-cust-7hdz
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Compute: Past, Present, and Future by Akash Network founder Greg Osuri at deAI Summit 2024 (Pundi X Labs)"
 source_url: https://www.youtube.com/watch?v=CJ-4uolkTeE&t=797s
 timestamp: "00:13:17"

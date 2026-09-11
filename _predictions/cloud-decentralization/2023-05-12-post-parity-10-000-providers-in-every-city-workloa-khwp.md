@@ -8,6 +8,8 @@ title: "Post-parity: 10,000 providers in every city, workloads that follow the u
 permalink: /predictions/cloud-decentralization/2023-05-12-post-parity-10-000-providers-in-every-city-workloa-khwp/
 slug_id: 2023-05-12-post-parity-10-000-providers-in-every-city-workloa-khwp
 theme_page: /predictions/cloud-decentralization/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"
 source_url: https://www.youtube.com/watch?v=FAuW6cUWkR8&t=4168s
 timestamp: "01:09:28"

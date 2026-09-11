@@ -7,7 +7,9 @@ year: "2024"
 title: "GPUs are nearly impossible to lease on demand"
 permalink: /predictions/gpu-economics/2024-07-22-gpus-are-nearly-impossible-to-lease-on-demand-nzib/
 slug_id: 2024-07-22-gpus-are-nearly-impossible-to-lease-on-demand-nzib
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "[Solo Talk] Decentralization is saving AI where centralization failed by Greg Osuri (Kryptoplanet[Official])"
 source_url: https://www.youtube.com/watch?v=YAOp0b8Bb6k&t=303s
 timestamp: "00:05:03"

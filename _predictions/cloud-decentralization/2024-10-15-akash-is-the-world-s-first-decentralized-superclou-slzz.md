@@ -8,6 +8,8 @@ title: "Akash is the world's first decentralized supercloud, 80% cheaper, used b
 permalink: /predictions/cloud-decentralization/2024-10-15-akash-is-the-world-s-first-decentralized-superclou-slzz/
 slug_id: 2024-10-15-akash-is-the-world-s-first-decentralized-superclou-slzz
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Key Challenges in Building Decentralized AI Infrastructure | AI / ALL Summit (Sahara AI)"
 source_url: https://www.youtube.com/watch?v=7z6pynSNjmw&t=86s
 timestamp: "00:01:26"

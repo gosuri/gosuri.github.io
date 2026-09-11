@@ -8,6 +8,8 @@ title: "Decentralized access is a precondition for open-source AI to exist"
 permalink: /predictions/open-source-ai/2023-05-09-decentralized-access-is-a-precondition-for-open-so-lyjf/
 slug_id: 2023-05-09-decentralized-access-is-a-precondition-for-open-so-lyjf
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG (April 26, 2023) (The Bittensor Hub)"
 source_url: https://www.youtube.com/watch?v=1wJUY7jNDXQ&t=646s
 timestamp: "00:10:46"

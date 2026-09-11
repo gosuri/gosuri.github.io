@@ -7,7 +7,9 @@ year: "2023"
 title: "Sovereignty means having the chip in your house"
 permalink: /predictions/local-compute/2023-09-28-sovereignty-means-having-the-chip-in-your-house-kyni/
 slug_id: 2023-09-28-sovereignty-means-having-the-chip-in-your-house-kyni
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)"
 source_url: https://www.youtube.com/watch?v=GVrfHDg30-M&t=2810s
 timestamp: "00:46:50"

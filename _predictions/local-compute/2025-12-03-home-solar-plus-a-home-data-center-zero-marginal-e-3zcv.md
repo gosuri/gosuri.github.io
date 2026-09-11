@@ -7,7 +7,9 @@ year: "2025"
 title: "Home solar plus a home data center = zero marginal energy cost"
 permalink: /predictions/local-compute/2025-12-03-home-solar-plus-a-home-data-center-zero-marginal-e-3zcv/
 slug_id: 2025-12-03-home-solar-plus-a-home-data-center-zero-marginal-e-3zcv
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=652s
 timestamp: "00:10:52"

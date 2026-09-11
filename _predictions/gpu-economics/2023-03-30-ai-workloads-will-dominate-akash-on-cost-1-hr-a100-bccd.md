@@ -7,7 +7,9 @@ year: "2023"
 title: "AI workloads will dominate Akash on cost: $1/hr A100s vs $4 on AWS"
 permalink: /predictions/gpu-economics/2023-03-30-ai-workloads-will-dominate-akash-on-cost-1-hr-a100-bccd/
 slug_id: 2023-03-30-ai-workloads-will-dominate-akash-on-cost-1-hr-a100-bccd
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Mission: DeFi EP 92 - Greg Osuri - Akash is taking on the giants in hosted processing (Mission: DeFi)"
 source_url: https://www.youtube.com/watch?v=wVH1OYhNOeE&t=1239s
 timestamp: "00:20:39"

@@ -8,6 +8,8 @@ title: "From 90-minute to one-minute deployments"
 permalink: /predictions/cloud-decentralization/2021-06-22-from-90-minute-to-one-minute-deployments-77dk/
 slug_id: 2021-06-22-from-90-minute-to-one-minute-deployments-77dk
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Live AMA featuring Greg Osuri from the Akash Network! (Bittrex Global)"
 source_url: https://www.youtube.com/watch?v=FqVgxTCWPgc&t=2048s
 timestamp: "00:34:08"

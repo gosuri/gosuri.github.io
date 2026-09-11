@@ -7,7 +7,9 @@ year: "2022"
 title: "GPUs are the next mainnet milestone"
 permalink: /predictions/gpu-economics/2022-10-20-gpus-are-the-next-mainnet-milestone-oknr/
 slug_id: 2022-10-20-gpus-are-the-next-mainnet-milestone-oknr
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - October 19th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=dJKFr9wAYwA&t=172s
 timestamp: "00:02:52"

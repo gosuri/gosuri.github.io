@@ -7,7 +7,9 @@ year: "2021"
 title: "Akash is perfect for DAOs"
 permalink: /predictions/crypto-depin/2021-10-12-akash-is-perfect-for-daos-aiqi/
 slug_id: 2021-10-12-akash-is-perfect-for-daos-aiqi
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"
 source_url: https://www.youtube.com/watch?v=PO-UpAZx-KM&t=2046s
 timestamp: "00:34:06"

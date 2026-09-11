@@ -7,7 +7,9 @@ year: "2023"
 title: "Every home will have a supercomputer"
 permalink: /predictions/local-compute/2023-09-28-every-home-will-have-a-supercomputer-zved/
 slug_id: 2023-09-28-every-home-will-have-a-supercomputer-zved
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)"
 source_url: https://www.youtube.com/watch?v=GVrfHDg30-M&t=2596s
 timestamp: "00:43:16"

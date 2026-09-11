@@ -8,6 +8,8 @@ title: "Akash as the world's first decentralized supercloud; Nvidia its biggest 
 permalink: /predictions/cloud-decentralization/2024-09-27-akash-as-the-world-s-first-decentralized-superclou-nvyx/
 slug_id: 2024-09-27-akash-as-the-world-s-first-decentralized-superclou-nvyx
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "IOSG OFR 13th Panel | GPU Symphony: Decentralized Compute Power (IOSG Ventures)"
 source_url: https://www.youtube.com/watch?v=_UG21_OaZLo&t=128s
 timestamp: "00:02:08"

@@ -8,6 +8,8 @@ title: "Cloud is built for hyperscale; Akash optimizes for thousands of nodes at
 permalink: /predictions/cloud-decentralization/2019-08-06-cloud-is-built-for-hyperscale-akash-optimizes-for-gmpb/
 slug_id: 2019-08-06-cloud-is-built-for-hyperscale-akash-optimizes-for-gmpb
 theme_page: /predictions/cloud-decentralization/2019/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO Overclock Labs & Akash Network (Techpost)"
 source_url: https://www.youtube.com/watch?v=WKvrKWdc9OA&t=487s
 timestamp: "00:08:07"

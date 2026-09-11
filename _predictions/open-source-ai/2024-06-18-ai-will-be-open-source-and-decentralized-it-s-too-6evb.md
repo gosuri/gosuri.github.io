@@ -8,6 +8,8 @@ title: "AI will be open source and decentralized — it's too important not to b
 permalink: /predictions/open-source-ai/2024-06-18-ai-will-be-open-source-and-decentralized-it-s-too-6evb/
 slug_id: 2024-06-18-ai-will-be-open-source-and-decentralized-it-s-too-6evb
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844
 timestamp: "01:04:56"

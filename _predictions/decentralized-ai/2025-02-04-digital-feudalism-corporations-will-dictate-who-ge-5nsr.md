@@ -7,7 +7,9 @@ year: "2025"
 title: "Digital feudalism: corporations will dictate who gets to do AI"
 permalink: /predictions/decentralized-ai/2025-02-04-digital-feudalism-corporations-will-dictate-who-ge-5nsr/
 slug_id: 2025-02-04-digital-feudalism-corporations-will-dictate-who-ge-5nsr
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"
 source_url: https://www.youtube.com/watch?v=T43OCZf2LO0&t=485s
 timestamp: "00:08:05"

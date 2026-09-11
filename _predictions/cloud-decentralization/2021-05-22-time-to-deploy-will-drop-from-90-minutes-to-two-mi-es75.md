@@ -8,6 +8,8 @@ title: "Time-to-deploy will drop from ~90 minutes to two minutes"
 permalink: /predictions/cloud-decentralization/2021-05-22-time-to-deploy-will-drop-from-90-minutes-to-two-mi-es75/
 slug_id: 2021-05-22-time-to-deploy-will-drop-from-90-minutes-to-two-mi-es75
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Livestream: exiledsurfer and Greg Osuri (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PUBL4eguqq4&t=469s
 timestamp: "00:07:49"

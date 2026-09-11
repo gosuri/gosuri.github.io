@@ -7,7 +7,9 @@ year: "2023"
 title: "$1.5T AI spend vs a $200M market cap"
 permalink: /predictions/gpu-economics/2023-06-15-1-5t-ai-spend-vs-a-200m-market-cap-3wxi/
 slug_id: 2023-06-15-1-5t-ai-spend-vs-a-200m-market-cap-3wxi
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"
 source_url: https://www.youtube.com/watch?v=CCHnfFIavA8&t=3511s
 timestamp: "00:58:31"

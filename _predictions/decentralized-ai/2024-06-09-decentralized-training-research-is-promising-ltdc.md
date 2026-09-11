@@ -7,7 +7,9 @@ year: "2024"
 title: "Decentralized training research is promising"
 permalink: /predictions/decentralized-ai/2024-06-09-decentralized-training-research-is-promising-ltdc/
 slug_id: 2024-06-09-decentralized-training-research-is-promising-ltdc
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"
 source_url: https://www.youtube.com/watch?v=fVYeAVvuNLI&t=4094s
 timestamp: "01:08:14"

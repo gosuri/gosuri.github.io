@@ -3,11 +3,12 @@ layout: page
 title: About
 nav: true
 permalink: /about/
+description: Greg Osuri is founder and CEO of Overclock Labs, the team behind Akash Network, an open marketplace for compute.
 ---
 
 I build infrastructure for people who build things.
 
-I'm founder and CEO of [Overclock Labs](https://ovrclk.com), the team behind [Akash Network](https://akash.network) — an open marketplace for compute where anyone can rent out an idle server or GPU, and anyone can deploy on it without permission.
+I'm Greg Osuri, founder and CEO of [Overclock Labs](https://ovrclk.com), the team behind [Akash Network](https://akash.network) — an open marketplace for compute where anyone can rent out an idle server or GPU, and anyone can deploy on it without permission.
 
 The argument I keep returning to: AI's constraint stopped being chips and became power. Grid capacity isn't doubling every two years; the energy to train frontier models is. The way through isn't bigger data centers but thousands of small ones, sited where energy is already being wasted. I've been making that case in public since 2018 and [in front of Congress](https://naturalresources.house.gov/calendar/eventsingle.aspx?EventID=417122) since 2025.
 
@@ -21,7 +22,7 @@ The argument I keep returning to: AI's constraint stopped being chips and became
 
 Before Akash I co-founded AngelHack. Before that, IBM, and Kaiser Permanente's first cloud architecture. I write Go — [uitable](https://github.com/gosuri/uitable), [uiprogress](https://github.com/gosuri/uiprogress), and [uilive](https://github.com/gosuri/uilive) ship inside Helm, Rancher, and the Operator SDK.
 
-I've made dated, checkable claims about compute since 2015. [All 1,689 are here]({{ "/predictions/" | prepend: site.baseurl }}), each linked to the moment I said it.
+This archive collects dated, checkable statements about compute from my talks and conversations since 2015. [All 1,689 are here]({{ "/predictions/" | prepend: site.baseurl }}), each linked to its source. It includes other speakers; uncertain attribution is marked explicitly.
 
 ### Elsewhere
 

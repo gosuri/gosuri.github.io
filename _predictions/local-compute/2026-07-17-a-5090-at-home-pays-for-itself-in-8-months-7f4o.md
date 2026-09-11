@@ -7,7 +7,9 @@ year: "2026"
 title: "A 5090 at home pays for itself in 8 months"
 permalink: /predictions/local-compute/2026-07-17-a-5090-at-home-pays-for-itself-in-8-months-7f4o/
 slug_id: 2026-07-17-a-5090-at-home-pays-for-itself-in-8-months-7f4o
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"
 source_url: https://www.youtube.com/watch?v=1V5Mk3yKYy0&t=2481s
 timestamp: "00:41:21"

@@ -7,7 +7,9 @@ year: "2022"
 title: "Enterprise demand deals within 6-12 months"
 permalink: /predictions/crypto-depin/2022-11-17-enterprise-demand-deals-within-6-12-months-2vwz/
 slug_id: 2022-11-17-enterprise-demand-deals-within-6-12-months-2vwz
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 16th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=zftMimmn2CY&t=2434s
 timestamp: "00:40:34"

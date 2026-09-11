@@ -7,7 +7,9 @@ year: "2025"
 title: "China will have its ChatGPT moment within three months"
 permalink: /predictions/other/2025-03-02-china-will-have-its-chatgpt-moment-within-three-mo-wdoe/
 slug_id: 2025-03-02-china-will-have-its-chatgpt-moment-within-three-mo-wdoe
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network (AKT) Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"
 source_url: https://www.youtube.com/watch?v=328BxcY4ec4&t=2783s
 timestamp: "00:46:23"

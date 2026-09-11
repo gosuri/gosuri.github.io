@@ -7,7 +7,9 @@ year: "2022"
 title: "The interchain experience will be owned by Cosmos"
 permalink: /predictions/crypto-depin/2022-07-21-the-interchain-experience-will-be-owned-by-cosmos-afco/
 slug_id: 2022-07-21-the-interchain-experience-will-be-owned-by-cosmos-afco
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 20th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Xa-OsulzXAo&t=1040s
 timestamp: "00:17:20"

@@ -7,7 +7,9 @@ year: "2026"
 title: "A 70B model no longer needs Meta's data centers"
 permalink: /predictions/decentralized-ai/2026-04-23-a-70b-model-no-longer-needs-meta-s-data-centers-ri5t/
 slug_id: 2026-04-23-a-70b-model-no-longer-needs-meta-s-data-centers-ri5t
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"
 source_url: https://www.youtube.com/watch?v=0fBYZPHOQds&t=2530s
 timestamp: "00:42:10"

@@ -7,7 +7,9 @@ year: "2023"
 title: "AI will fundamentally change everything"
 permalink: /predictions/other/2023-06-10-ai-will-fundamentally-change-everything-pi5d/
 slug_id: 2023-06-10-ai-will-fundamentally-change-everything-pi5d
-theme_page: /predictions/other/
+theme_page: /predictions/other/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"
 source_url: https://www.youtube.com/watch?v=3AvWFwSfbaU&t=1631s
 timestamp: "00:27:11"

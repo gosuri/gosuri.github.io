@@ -8,6 +8,8 @@ title: "Akash will be the most distributed network by 2024"
 permalink: /predictions/cloud-decentralization/2022-10-04-akash-will-be-the-most-distributed-network-by-2024-d3qm/
 slug_id: 2022-10-04-akash-will-be-the-most-distributed-network-by-2024-d3qm
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"
 source_url: https://www.youtube.com/watch?v=gLzJoHmx4Js&t=1111s
 timestamp: "00:18:31"

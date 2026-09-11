@@ -7,7 +7,9 @@ year: "2023"
 title: "Crypto saves AI; Web3 gives AI its rails"
 permalink: /predictions/crypto-depin/2023-12-11-crypto-saves-ai-web3-gives-ai-its-rails-t6ni/
 slug_id: 2023-12-11-crypto-saves-ai-web3-gives-ai-its-rails-t6ni
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"
 source_url: https://podcasts.apple.com/us/podcast/how-akash-skynet-will-unleash-an-ai-future-no-one-is/id1487731469?i=1000638190791
 timestamp: "01:12:38"

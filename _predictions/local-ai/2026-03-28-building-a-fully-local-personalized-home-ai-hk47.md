@@ -8,6 +8,8 @@ title: "Building a fully local, personalized home AI"
 permalink: /predictions/local-ai/2026-03-28-building-a-fully-local-personalized-home-ai-hk47/
 slug_id: 2026-03-28-building-a-fully-local-personalized-home-ai-hk47
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"
 source_url: https://www.youtube.com/watch?v=QuVl2mVHRyo&t=604s
 timestamp: "00:10:04"

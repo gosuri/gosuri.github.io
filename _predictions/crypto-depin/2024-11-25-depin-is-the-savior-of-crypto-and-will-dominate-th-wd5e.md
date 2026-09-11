@@ -7,7 +7,9 @@ year: "2024"
 title: "DePIN is the savior of crypto and will dominate the conversation"
 permalink: /predictions/crypto-depin/2024-11-25-depin-is-the-savior-of-crypto-and-will-dominate-th-wd5e/
 slug_id: 2024-11-25-depin-is-the-savior-of-crypto-and-will-dominate-th-wd5e
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"
 source_url: https://www.youtube.com/watch?v=Rp_LL6tPDFU&t=2209s
 timestamp: "00:36:49"

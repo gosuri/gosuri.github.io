@@ -7,7 +7,9 @@ year: "2024"
 title: "Cheapest H100s in the industry"
 permalink: /predictions/gpu-economics/2024-09-26-cheapest-h100s-in-the-industry-7cod/
 slug_id: 2024-09-26-cheapest-h100s-in-the-industry-7cod
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"
 source_url: https://www.youtube.com/watch?v=Esawduwv7AA&t=1730s
 timestamp: "00:28:50"

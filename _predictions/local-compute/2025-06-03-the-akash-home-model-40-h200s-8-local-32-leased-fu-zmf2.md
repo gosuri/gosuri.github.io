@@ -7,7 +7,9 @@ year: "2025"
 title: "The \"Akash home model\": 40 H200s, 8 local, 32 leased, funded by DeFi"
 permalink: /predictions/local-compute/2025-06-03-the-akash-home-model-40-h200s-8-local-32-leased-fu-zmf2/
 slug_id: 2025-06-03-the-akash-home-model-40-h200s-8-local-32-leased-fu-zmf2
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=1786s
 timestamp: "00:29:46"

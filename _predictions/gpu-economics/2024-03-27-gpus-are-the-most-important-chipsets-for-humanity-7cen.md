@@ -7,7 +7,9 @@ year: "2024"
 title: "GPUs are the most important chipsets for humanity"
 permalink: /predictions/gpu-economics/2024-03-27-gpus-are-the-most-important-chipsets-for-humanity-7cen/
 slug_id: 2024-03-27-gpus-are-the-most-important-chipsets-for-humanity-7cen
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Agents Unleashed - Progress In The Decentralized AI Stack (Training, Fine-Tuning, Inference) (Olas)"
 source_url: https://www.youtube.com/watch?v=o2khlH9vX2M&t=525s
 timestamp: "00:08:45"

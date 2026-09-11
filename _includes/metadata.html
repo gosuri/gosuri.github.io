@@ -1,0 +1,46 @@
+{%- comment -%}Normalize metadata once for HTML, social previews and JSON-LD.
+Keep site.title as the site name; a homepage SEO title must not change it.
+{%- endcomment -%}
+{%- assign local_url = page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url -%}
+{%- assign canonical_url = page.canonical_url | default: local_url -%}
+{%- assign person = site.data.person -%}
+{%- if page.seo_title -%}
+  {%- assign page_title = page.seo_title -%}
+{%- elsif page.title -%}
+  {%- capture page_title -%}{{ page.title }} · {{ site.title }}{%- endcapture -%}
+{%- else -%}
+  {%- capture page_title -%}{{ site.title }} — Overclock Labs and Akash Network{%- endcapture -%}
+{%- endif -%}
+{%- assign metadata_items = nil -%}
+{%- if page.theme -%}{%- assign metadata_theme = page.theme_slug | default: page.theme | slugify -%}{%- endif -%}
+{%- capture page_description -%}
+  {%- if page.description -%}
+    {{- page.description -}}
+  {%- elsif page.collection == 'predictions' -%}
+    {%- if page.speaker_status == 'attributed' -%}{{ page.speaker }}{%- else -%}Speaker uncertain{%- endif %}, {{ page.date | date: '%-d %b %Y' }}: {{ page.title }}. Source: {{ page.source }}.
+  {%- elsif page.layout == 'predictions' -%}
+    {%- assign metadata_items = site.predictions -%}
+    {%- if page.theme -%}
+      {%- assign metadata_items = metadata_items | where: 'theme', metadata_theme -%}
+    {%- endif -%}
+    {%- if page.year -%}
+      {%- assign metadata_items = metadata_items | where: 'year', page.year -%}
+    {%- endif -%}
+    {%- assign metadata_items = metadata_items | sort: 'date' -%}
+    {%- assign metadata_first = metadata_items | first -%}
+    {%- assign metadata_last = metadata_items | last -%}
+    {{ metadata_items.size }} dated statements {% if page.theme %}on {{ page.theme }}{% else %}about compute{% endif %}, {{ metadata_first.date | date: '%Y' }}–{{ metadata_last.date | date: '%Y' }}. Quotes, named sources, timestamps, and speaker attribution from talks and podcasts.
+  {%- elsif page.url == '/about/' or page.layout == 'default' -%}
+    {{- person.name }} is {{ person.description | replace_first: 'Founder', 'founder' -}}
+  {%- elsif page.url == '/posts/' -%}
+    {{- site.posts.size }} essays by Greg Osuri on cloud computing, open infrastructure, Akash Network, and building technology. Original writing and republished essays.
+  {%- elsif page.excerpt -%}
+    {{- page.excerpt -}}
+  {%- else -%}
+    {{- page.title }} — writing and dated statements about compute from Greg Osuri's archive.
+  {%- endif -%}
+{%- endcapture -%}
+{%- assign page_description = page_description | strip_html | normalize_whitespace | strip | truncate: 200 -%}
+{%- if page_description.size < 40 -%}
+  {%- capture page_description -%}{{ page.title }} — {% if page.layout == 'post' %}an essay by Greg Osuri{% else %}from Greg Osuri's archive{% endif %}{% if page.date %}, {{ page.date | date: '%-d %b %Y' }}{% endif %}.{%- endcapture -%}
+{%- endif -%}

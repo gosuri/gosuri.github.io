@@ -7,7 +7,9 @@ year: "2021"
 title: "UST on Osmosis will enable stable-currency payments for Akash"
 permalink: /predictions/crypto-depin/2021-06-26-ust-on-osmosis-will-enable-stable-currency-payment-u3mv/
 slug_id: 2021-06-26-ust-on-osmosis-will-enable-stable-currency-payment-u3mv
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Livestream w/ Sunny Aggarwal & Greg Osuri (Akash Network)"
 source_url: https://www.youtube.com/watch?v=-1tcbW9WZOQ&t=2363s
 timestamp: "00:39:23"

@@ -7,7 +7,9 @@ year: "2025"
 title: "Decentralized training \"isn't the future, it's the present\""
 permalink: /predictions/decentralized-ai/2025-06-24-decentralized-training-isn-t-the-future-it-s-the-p-moyj/
 slug_id: 2025-06-24-decentralized-training-isn-t-the-future-it-s-the-p-moyj
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=16279s
 timestamp: "04:31:19"

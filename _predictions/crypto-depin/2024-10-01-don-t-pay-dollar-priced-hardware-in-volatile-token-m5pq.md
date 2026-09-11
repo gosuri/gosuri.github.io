@@ -7,7 +7,9 @@ year: "2024"
 title: "Don't pay dollar-priced hardware in volatile tokens"
 permalink: /predictions/crypto-depin/2024-10-01-don-t-pay-dollar-priced-hardware-in-volatile-token-m5pq/
 slug_id: 2024-10-01-don-t-pay-dollar-priced-hardware-in-volatile-token-m5pq
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Leveraging Incentives to Build with Your Community | Open AGI Summit | Brussels 2024 (Open AGI)"
 source_url: https://www.youtube.com/watch?v=QD0dxndS3m4&t=443s
 timestamp: "00:07:23"

@@ -7,7 +7,9 @@ year: "2024"
 title: "Babylon turns Bitcoin from a money chain into an application-powering chain"
 permalink: /predictions/crypto-depin/2024-11-19-babylon-turns-bitcoin-from-a-money-chain-into-an-a-ptuf/
 slug_id: 2024-11-19-babylon-turns-bitcoin-from-a-money-chain-into-an-a-ptuf
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Bitcoin Renaissance - Greg Osuri of Akash Network (Bigeye Studios)"
 source_url: https://www.youtube.com/watch?v=q8bZj9_HQXY&t=251s
 timestamp: "00:04:11"

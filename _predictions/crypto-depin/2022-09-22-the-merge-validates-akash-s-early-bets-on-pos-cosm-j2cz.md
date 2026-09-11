@@ -7,7 +7,9 @@ year: "2022"
 title: "The Merge validates Akash's early bets on PoS, Cosmos, Kubernetes"
 permalink: /predictions/crypto-depin/2022-09-22-the-merge-validates-akash-s-early-bets-on-pos-cosm-j2cz/
 slug_id: 2022-09-22-the-merge-validates-akash-s-early-bets-on-pos-cosm-j2cz
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - September 21st 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=1SjcSAQKY7g&t=1934s
 timestamp: "00:32:14"

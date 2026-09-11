@@ -7,7 +7,9 @@ year: "2021"
 title: "Cambrian explosion — the birth of a new cloud"
 permalink: /predictions/crypto-depin/2021-02-08-cambrian-explosion-the-birth-of-a-new-cloud-cxbh/
 slug_id: 2021-02-08-cambrian-explosion-the-birth-of-a-new-cloud-cxbh
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"
 source_url: https://www.youtube.com/watch?v=f3tZLp2CNgI&t=2714s
 timestamp: "00:45:14"

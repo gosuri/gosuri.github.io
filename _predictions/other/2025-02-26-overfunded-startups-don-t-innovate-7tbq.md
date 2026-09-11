@@ -7,7 +7,9 @@ year: "2025"
 title: "Overfunded startups don't innovate"
 permalink: /predictions/other/2025-02-26-overfunded-startups-don-t-innovate-7tbq/
 slug_id: 2025-02-26-overfunded-startups-don-t-innovate-7tbq
-theme_page: /predictions/other/
+theme_page: /predictions/other/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Everything Bagel: Open Source AI, Security, and Decentralization with Greg Osuri, Founder at Akash (The Index Podcast)"
 source_url: https://www.youtube.com/watch?v=VTJaABZMi9c&t=174s
 timestamp: "00:02:54"

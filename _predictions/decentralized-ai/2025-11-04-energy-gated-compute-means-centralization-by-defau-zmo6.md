@@ -7,7 +7,9 @@ year: "2025"
 title: "Energy-gated compute means centralization by default"
 permalink: /predictions/decentralized-ai/2025-11-04-energy-gated-compute-means-centralization-by-defau-zmo6/
 slug_id: 2025-11-04-energy-gated-compute-means-centralization-by-defau-zmo6
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri (PyTorch)"
 source_url: https://www.youtube.com/watch?v=T3nA1nAaLss&t=266s
 timestamp: "00:04:26"

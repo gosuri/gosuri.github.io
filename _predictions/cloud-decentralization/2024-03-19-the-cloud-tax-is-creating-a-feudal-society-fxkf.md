@@ -8,6 +8,8 @@ title: "The cloud tax is creating a feudal society"
 permalink: /predictions/cloud-decentralization/2024-03-19-the-cloud-tax-is-creating-a-feudal-society-fxkf/
 slug_id: 2024-03-19-the-cloud-tax-is-creating-a-feudal-society-fxkf
 theme_page: /predictions/cloud-decentralization/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"
 source_url: https://www.youtube.com/watch?v=uUoePJrzyDQ&t=431s
 timestamp: "00:07:11"

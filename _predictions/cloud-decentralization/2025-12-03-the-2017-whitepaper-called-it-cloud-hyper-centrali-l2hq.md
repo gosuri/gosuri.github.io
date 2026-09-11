@@ -8,6 +8,8 @@ title: "The 2017 whitepaper called it: cloud hyper-centralization is failing"
 permalink: /predictions/cloud-decentralization/2025-12-03-the-2017-whitepaper-called-it-cloud-hyper-centrali-l2hq/
 slug_id: 2025-12-03-the-2017-whitepaper-called-it-cloud-hyper-centrali-l2hq
 theme_page: /predictions/cloud-decentralization/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"
 source_url: https://www.youtube.com/watch?v=CWA3IAr9sc4&t=350s
 timestamp: "00:05:50"

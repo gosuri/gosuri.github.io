@@ -8,6 +8,8 @@ title: "Federated learning: models come to the data, users keep control"
 permalink: /predictions/local-ai/2024-08-02-federated-learning-models-come-to-the-data-users-k-r5xa/
 slug_id: 2024-08-02-federated-learning-models-come-to-the-data-users-k-r5xa
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, Marko Stokic, Michael Heinrich & Luki Song on Can User-Owned AI Compete with Big Tech? (Nebular)"
 source_url: https://www.youtube.com/watch?v=9bEi1i2c12E&t=264s
 timestamp: "00:04:24"

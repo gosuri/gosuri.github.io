@@ -3,6 +3,7 @@
 import argparse
 import base64
 import hashlib
+import html
 import os
 import re
 import shutil
@@ -11,6 +12,9 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 SPLIT_BYTES = 300_000
 ID_SLUG_MAX = 50
+INDEX_BUDGET_TOKENS = 5_000
+INDEX_BUDGET_BYTES = INDEX_BUDGET_TOKENS * 4
+RECENT_LIMIT = 50
 
 HEADER_RE = re.compile(r"_(\d[\d,]*) extracted statements from (\d+) videos")
 THEME_RE = re.compile(r"^## (.+)$")
@@ -18,6 +22,8 @@ ENTRY_RE = re.compile(r"^### (\d{4}-\d{2}-\d{2}) — (.+)$")
 STAMP_RE = re.compile(r"^> — \[(\d{2}:\d{2}:\d{2})\]\((https://[^)]+)\)")
 VIDEO_PAGE_RE = re.compile(r"\s*·\s*\[video page\]\([^)]*\)\s*$")
 VIDEO_PAGE_ID_RE = re.compile(r"\[video page\]\(videos/([^)]+)\.md\)")
+SPEAKER_RE = re.compile(r"^\*\*Speaker:\*\*\s*(.+)$")
+ATTRIBUTION_RE = re.compile(r"^\*\*Attribution:\*\*\s*(\S+)\s*$")
 
 
 def _stamp_identity(url):
@@ -61,6 +67,26 @@ def parse_predictions(text):
     def close():
         nonlocal cur
         if cur is not None:
+            if not cur["speaker"] or not cur["speaker_status"]:
+                raise ValueError(
+                    "missing speaker attribution for "
+                    f"{cur['date']} — {cur['title']}"
+                )
+            if cur["speaker_status"] not in {"attributed", "uncertain"}:
+                raise ValueError(
+                    "invalid speaker attribution for "
+                    f"{cur['date']} — {cur['title']}"
+                )
+            if cur["speaker_status"] == "uncertain" and cur["speaker"] != "Unknown":
+                raise ValueError(
+                    "uncertain speaker must be Unknown for "
+                    f"{cur['date']} — {cur['title']}"
+                )
+            if cur["speaker"] == "Unknown" and cur["speaker_status"] != "uncertain":
+                raise ValueError(
+                    "Unknown speaker must be uncertain for "
+                    f"{cur['date']} — {cur['title']}"
+                )
             entries.append(cur)
             cur = None
 
@@ -82,6 +108,8 @@ def parse_predictions(text):
                 "stamp": None,
                 "context": None,
                 "vid": None,
+                "speaker": None,
+                "speaker_status": None,
             }
             continue
         if cur is None:
@@ -99,6 +127,10 @@ def parse_predictions(text):
             cur["source"] = VIDEO_PAGE_RE.sub("", line).strip()
         elif line.startswith("**Context:**"):
             cur["context"] = line.strip()
+        elif sm := SPEAKER_RE.match(line):
+            cur["speaker"] = sm.group(1).strip()
+        elif am := ATTRIBUTION_RE.match(line):
+            cur["speaker_status"] = am.group(1)
     close()
 
     bad = [
@@ -166,13 +198,22 @@ def render_theme_page(theme, entries, permalink, title=None, year=None):
     return f"{head}\n\n{intro}\n\n{loop}\n"
 
 
-def theme_is_split(entries, split_bytes=SPLIT_BYTES):
+def title_index_bytes(entries):
+    """Conservative byte estimate for the Node-generated title index."""
+    rows = sum(len(f"{make_id(e)} — {e['title']}\n".encode()) for e in entries)
+    return 1024 + rows
+
+
+def theme_is_split(entries, split_bytes=SPLIT_BYTES,
+                   index_bytes=INDEX_BUDGET_BYTES):
     """Whether a theme is large enough to split into year pages.
 
-    Measures entry content, NOT the rendered page: the page is now a short
-    Liquid loop whose size says nothing about how much it renders.
+    Entry content approximates rendered HTML size. The conservative title-row
+    estimate keeps the generated retrieval index within its separate budget.
     """
-    return sum(len(render_entry(e).encode()) for e in entries) > split_bytes
+    content_is_large = sum(len(render_entry(e).encode()) for e in entries) > split_bytes
+    title_index_is_large = title_index_bytes(entries) > index_bytes
+    return content_is_large or title_index_is_large
 
 
 def entry_theme_page(e, split):
@@ -183,10 +224,11 @@ def entry_theme_page(e, split):
     return f"/predictions/{slug}/"
 
 
-def theme_pages(theme, entries, split_bytes=SPLIT_BYTES):
+def theme_pages(theme, entries, split_bytes=SPLIT_BYTES,
+                index_bytes=INDEX_BUDGET_BYTES):
     """Return {relative_path: content} for one theme, splitting by year if large."""
     slug = slugify(theme)
-    if not theme_is_split(entries, split_bytes):
+    if not theme_is_split(entries, split_bytes, index_bytes):
         return {f"{slug}.md": render_theme_page(
             theme, entries, f"/predictions/{slug}/")}
     pages = {}
@@ -204,6 +246,7 @@ def theme_pages(theme, entries, split_bytes=SPLIT_BYTES):
             ("layout", "predictions"),
             ("title", f"{theme} — Predictions"),
             ("theme", theme),
+            ("theme_slug", slug),
             ("permalink", f"/predictions/{slug}/"),
         ]
     )
@@ -212,6 +255,42 @@ def theme_pages(theme, entries, split_bytes=SPLIT_BYTES):
     intro = f"_{len(entries)} statements · {years_range} · by year:_"
     pages[f"{slug}.md"] = head + "\n\n" + intro + "\n\n" + "\n".join(links) + "\n"
     return pages
+
+
+def recent_entries(entries, limit=RECENT_LIMIT):
+    """Newest speech dates first; IDs make same-date ordering stable."""
+    return sorted(
+        entries,
+        key=lambda e: (-int(e["date"].replace("-", "")), make_id(e)),
+    )[:limit]
+
+
+def render_recent(entries, limit=RECENT_LIMIT):
+    selected = recent_entries(entries, limit)
+    count = len(selected)
+    description = (
+        f"The {count} most recent statements in Greg Osuri's prediction archive, "
+        "ordered by the date they were said."
+    )
+    head = _fm([
+        ("layout", "predictions"),
+        ("title", "Recent predictions"),
+        ("description", description),
+        ("permalink", "/predictions/recent/"),
+    ])
+    rows = ['<ul class="row-list">']
+    for entry in selected:
+        eid = make_id(entry)
+        url = f"/predictions/{theme_slug(entry['theme'])}/{eid}/"
+        rows.append(
+            f'  <li><time datetime="{entry["date"]}">{entry["date"]}</time> '
+            f'<a href="{url}">{html.escape(entry["title"])}</a> '
+            f'<span class="where">{html.escape(entry["speaker"])} · '
+            f'{html.escape(entry["theme"])}</span></li>'
+        )
+    rows.append("</ul>")
+    intro = f"_{count} statements, ordered by the date they were said._"
+    return f"{head}\n\n{intro}\n\n" + "\n".join(rows) + "\n"
 
 
 def render_index(meta, entries):
@@ -255,7 +334,8 @@ def render_index(meta, entries):
             f"  </a>"
         )
     cards.append("</div>")
-    return head + "\n\n" + intro + "\n\n" + "\n".join(cards) + "\n"
+    recent = "[Recent 50 statements](/predictions/recent/)"
+    return head + "\n\n" + intro + "\n\n" + recent + "\n\n" + "\n".join(cards) + "\n"
 
 
 CONTEXT_PREFIX = "**Context:**"
@@ -326,6 +406,8 @@ def render_collection_entry(e, theme_page):
         f"permalink: {permalink}",
         f"slug_id: {eid}",
         f"theme_page: {theme_page}",
+        _yaml_str("speaker", e["speaker"]),
+        _yaml_str("speaker_status", e["speaker_status"]),
         _yaml_str("source", clean_source(e["source"])),
         f"source_url: {e['stamp'][1]}",
         _yaml_str("timestamp", e["stamp"][0]),
@@ -356,7 +438,10 @@ def main():
     if os.path.isdir(out_dir):
         shutil.rmtree(out_dir)
     os.makedirs(out_dir)
-    pages = {"index.md": render_index(meta, entries)}
+    pages = {
+        "index.md": render_index(meta, entries),
+        "recent.md": render_recent(entries),
+    }
     for t in sorted(themes):
         pages.update(theme_pages(t, [e for e in entries if e["theme"] == t]))
     for rel, content in pages.items():

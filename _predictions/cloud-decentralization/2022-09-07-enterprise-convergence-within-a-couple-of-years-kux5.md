@@ -8,6 +8,8 @@ title: "Enterprise convergence within a couple of years"
 permalink: /predictions/cloud-decentralization/2022-09-07-enterprise-convergence-within-a-couple-of-years-kux5/
 slug_id: 2022-09-07-enterprise-convergence-within-a-couple-of-years-kux5
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - The Return of the Datacenter (Akash Network)"
 source_url: https://www.youtube.com/watch?v=6hLxObUgwDA&t=130s
 timestamp: "00:02:10"

@@ -7,7 +7,9 @@ year: "2025"
 title: "10,000 sub-50kW residential edge clusters can train the best model"
 permalink: /predictions/local-compute/2025-04-11-10-000-sub-50kw-residential-edge-clusters-can-trai-mgur/
 slug_id: 2025-04-11-10-000-sub-50kw-residential-edge-clusters-can-trai-mgur
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"
 source_url: https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=976s
 timestamp: "00:16:16"

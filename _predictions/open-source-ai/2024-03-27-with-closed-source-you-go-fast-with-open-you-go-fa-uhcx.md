@@ -8,6 +8,8 @@ title: "With closed source you go fast; with open you go far"
 permalink: /predictions/open-source-ai/2024-03-27-with-closed-source-you-go-fast-with-open-you-go-fa-uhcx/
 slug_id: 2024-03-27-with-closed-source-you-go-fast-with-open-you-go-fa-uhcx
 theme_page: /predictions/open-source-ai/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Agents Unleashed - Progress In The Decentralized AI Stack (Training, Fine-Tuning, Inference) (Olas)"
 source_url: https://www.youtube.com/watch?v=o2khlH9vX2M&t=1090s
 timestamp: "00:18:10"

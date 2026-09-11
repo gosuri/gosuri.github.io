@@ -11,6 +11,9 @@ _4 extracted statements from 3 videos and podcasts. Each quote links to the exac
 ### 2018-11-10 — Devices will outnumber humans
 _CoinBundle interview (CoinBundle)_ · [video page](videos/Don1slbJlMQ.md)
 
+**Speaker:** Greg Osuri
+**Attribution:** attributed
+
 > "We're moving to a more decentralized infrastructure."
 > — [00:25:36](https://www.youtube.com/watch?v=Don1slbJlMQ&t=1536s)
 
@@ -18,6 +21,9 @@ _CoinBundle interview (CoinBundle)_ · [video page](videos/Don1slbJlMQ.md)
 
 ### 2019-08-06 — Home hardware made almost free
 _Techpost interview (Techpost)_ · [video page](videos/WKvrKWdc9OA.md)
+
+**Speaker:** Sunny Aggarwal
+**Attribution:** attributed
 
 > "This device sits in your house."
 > "It becomes part of the Akash network."
@@ -28,11 +34,17 @@ _Techpost interview (Techpost)_ · [video page](videos/WKvrKWdc9OA.md)
 ### 2023-05-01 — Podcasts count as sources too
 _"Sample Podcast Episode" (Sample Show)_ · [video page](videos/pod-sample-episode.md)
 
+**Speaker:** Unknown
+**Attribution:** uncertain
+
 > "This is a podcast quote, not a YouTube video."
 > — [00:12:34](https://www.buzzsprout.com/12345/67890-sample-episode)
 
 ### 2024-03-01 — Energy is the bottleneck
 _Some pod (SomeChannel)_ · [video page](videos/abc123.md)
+
+**Speaker:** Greg Osuri
+**Attribution:** attributed
 
 > "Energy, not chips, is the constraint."
 > — [01:00:00](https://www.youtube.com/watch?v=abc123&t=3600s)
@@ -56,6 +68,8 @@ class TestParse(unittest.TestCase):
         self.assertEqual(e["date"], "2018-11-10")
         self.assertEqual(e["title"], "Devices will outnumber humans")
         self.assertEqual(e["source"], "_CoinBundle interview (CoinBundle)_")
+        self.assertEqual(e["speaker"], "Greg Osuri")
+        self.assertEqual(e["speaker_status"], "attributed")
         self.assertEqual(e["stamp"][0], "00:25:36")
         self.assertIn("t=1536s", e["stamp"][1])
         self.assertTrue(e["context"].startswith("**Context:**"))
@@ -71,6 +85,13 @@ class TestParse(unittest.TestCase):
         self.assertEqual(e["stamp"][0], "00:12:34")
         self.assertIn("buzzsprout.com", e["stamp"][1])
         self.assertEqual(e["vid"], "pod-sample-episode")
+        self.assertEqual((e["speaker"], e["speaker_status"]),
+                         ("Unknown", "uncertain"))
+
+    def test_named_other_speaker_parses(self):
+        _, entries = eb.parse_predictions(FIXTURE)
+        self.assertEqual((entries[1]["speaker"], entries[1]["speaker_status"]),
+                         ("Sunny Aggarwal", "attributed"))
 
     def test_count_mismatch_raises(self):
         bad = FIXTURE.replace("_4 extracted", "_5 extracted")
@@ -82,6 +103,26 @@ class TestParse(unittest.TestCase):
             "> — [01:00:00](https://www.youtube.com/watch?v=abc123&t=3600s)\n", ""
         )
         with self.assertRaises(ValueError):
+            eb.parse_predictions(bad)
+
+    def test_missing_attribution_raises(self):
+        bad = FIXTURE.replace("**Speaker:** Greg Osuri\n", "", 1)
+        with self.assertRaisesRegex(ValueError, "missing speaker attribution"):
+            eb.parse_predictions(bad)
+
+    def test_rejects_unknown_attribution_status(self):
+        bad = FIXTURE.replace("**Attribution:** attributed", "**Attribution:** guessed", 1)
+        with self.assertRaisesRegex(ValueError, "invalid speaker attribution"):
+            eb.parse_predictions(bad)
+
+    def test_uncertain_attribution_requires_neutral_speaker(self):
+        bad = FIXTURE.replace("**Speaker:** Unknown", "**Speaker:** Greg Osuri", 1)
+        with self.assertRaisesRegex(ValueError, "uncertain speaker must be Unknown"):
+            eb.parse_predictions(bad)
+
+    def test_neutral_speaker_requires_uncertain_attribution(self):
+        bad = FIXTURE.replace("**Speaker:** Greg Osuri", "**Speaker:** Unknown", 1)
+        with self.assertRaisesRegex(ValueError, "Unknown speaker must be uncertain"):
             eb.parse_predictions(bad)
 
 
@@ -114,6 +155,7 @@ class TestRender(unittest.TestCase):
         # 4 statements, 4 distinct video/podcast sources (comma formatting
         # is a no-op below 1,000 but exercises the `:,` format spec)
         self.assertIn("4 statements from 4 videos and podcasts", page)
+        self.assertIn("[Recent 50 statements](/predictions/recent/)", page)
 
     def test_index_thousands_separator(self):
         # Synthetic large entry set — exercises the `:,` format spec, which
@@ -140,6 +182,44 @@ class TestRender(unittest.TestCase):
         self.assertIn("local-compute.md", paths)
         self.assertIn(os.path.join("local-compute", "2018.md"), paths)
         self.assertIn(os.path.join("local-compute", "2019.md"), paths)
+        self.assertIn('theme_slug: "local-compute"', pages["local-compute.md"])
+
+    def test_split_by_year_when_title_index_exceeds_budget(self):
+        _, entries = eb.parse_predictions(FIXTURE)
+        local = [e for e in entries if e["theme"] == "Local Compute"]
+        self.assertTrue(eb.theme_is_split(
+            local, split_bytes=10**9, index_bytes=100))
+        pages = eb.theme_pages(
+            "Local Compute", local, split_bytes=10**9, index_bytes=100)
+        self.assertIn(os.path.join("local-compute", "2018.md"), pages)
+        self.assertIn(os.path.join("local-compute", "2019.md"), pages)
+
+    def test_recent_page_is_limited_and_stably_sorted(self):
+        _, base = eb.parse_predictions(FIXTURE)
+        entries = []
+        for i in range(55):
+            source = base[i % len(base)].copy()
+            source["date"] = "2026-07-29" if i < 3 else f"2025-12-{(i % 28) + 1:02d}"
+            source["title"] = f"Recent statement {i:02d}"
+            source["vid"] = f"recent-{i:02d}"
+            source["stamp"] = ("00:00:01", f"https://example.com/recent-{i:02d}")
+            entries.append(source)
+        expected = sorted(
+            entries, key=lambda e: (-int(e["date"].replace("-", "")), eb.make_id(e)))[:50]
+
+        page = eb.render_recent(entries)
+
+        self.assertIn('layout: "predictions"', page)
+        self.assertIn('permalink: "/predictions/recent/"', page)
+        self.assertIn('description: "The 50 most recent', page)
+        self.assertNotIn("theme_slug:", page)
+        self.assertEqual(page.count("<li>"), 50)
+        ids = [eb.make_id(e) for e in expected]
+        positions = [page.index(f"/predictions/{eb.theme_slug(e['theme'])}/{eid}/")
+                     for e, eid in zip(expected, ids)]
+        self.assertEqual(positions, sorted(positions))
+        self.assertNotIn(eb.make_id(sorted(
+            entries, key=lambda e: (-int(e["date"].replace("-", "")), eb.make_id(e)))[-1]), page)
 
 
 class TestMakeId(unittest.TestCase):
@@ -178,6 +258,11 @@ class TestMakeId(unittest.TestCase):
         b = self._entry("Same title", "vid2", "https://x.test/?t=1")
         self.assertNotEqual(eb.make_id(a), eb.make_id(b))
 
+    def test_hash_ignores_attribution(self):
+        a = self._entry("Same title", "vid1", "https://x.test/?t=1")
+        b = {**a, "speaker": "Unknown", "speaker_status": "uncertain"}
+        self.assertEqual(eb.make_id(a), eb.make_id(b))
+
 
 class TestThemeSlug(unittest.TestCase):
     def test_slugs(self):
@@ -196,6 +281,17 @@ class TestRealCorpusIds(unittest.TestCase):
         self.assertEqual(len(ids), 1689)
         self.assertEqual(len(set(ids)), len(ids))
         self.assertLessEqual(max(len(i) for i in ids), 70)
+
+    def test_all_entries_have_valid_explicit_attribution(self):
+        path = os.path.join(os.path.dirname(os.path.dirname(
+            os.path.abspath(__file__))), "PREDICTIONS.md")
+        with open(path) as f:
+            _, entries = eb.parse_predictions(f.read())
+        self.assertEqual(len(entries), 1689)
+        self.assertTrue(all(e["speaker"] and e["speaker_status"]
+                            in {"attributed", "uncertain"} for e in entries))
+        self.assertTrue(all(e["speaker"] == "Unknown"
+                            for e in entries if e["speaker_status"] == "uncertain"))
 
 
 class TestCleaners(unittest.TestCase):
@@ -243,6 +339,7 @@ class TestCollectionEntry(unittest.TestCase):
         for key in ("layout: prediction", "theme: local-compute",
                     'theme_title: "Local Compute"', "date: 2018-11-10",
                     "permalink: /predictions/local-compute/",
+                    'speaker: "Greg Osuri"', 'speaker_status: "attributed"',
                     "timestamp:", "vid: Don1slbJlMQ",
                     "quote: |", "context: |"):
             self.assertIn(key, content)
@@ -277,6 +374,19 @@ class TestCollectionEntry(unittest.TestCase):
             self.skipTest("pyyaml not installed")
         data = yaml.safe_load(body)
         self.assertEqual(data["context"], "")
+
+
+class TestAttributionTemplates(unittest.TestCase):
+    def test_prediction_html_and_sharing_use_exported_speaker(self):
+        repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        with open(os.path.join(repo, "_layouts", "prediction.html")) as f:
+            layout = f.read()
+        with open(os.path.join(repo, "_includes", "prediction.html")) as f:
+            listing = f.read()
+        self.assertIn("{{ page.speaker | escape }}", layout)
+        self.assertIn("— {{ page.speaker }},", layout)
+        self.assertNotIn("— @gregosuri,", layout)
+        self.assertIn("{{ item.speaker | escape }}", listing)
 
 
 if __name__ == "__main__":

@@ -7,7 +7,9 @@ year: "2020"
 title: "Ethereum runs 60% on AWS — \"we'll change that very soon\""
 permalink: /predictions/other/2020-12-10-ethereum-runs-60-on-aws-we-ll-change-that-very-soo-mewk/
 slug_id: 2020-12-10-ethereum-runs-60-on-aws-we-ll-change-that-very-soo-mewk
-theme_page: /predictions/other/
+theme_page: /predictions/other/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"The Akashian Challenge Livestream: Phase 3 Week 1\" (Akash Network)"
 source_url: https://www.youtube.com/watch?v=7x1ct2eC_Nw&t=343s
 timestamp: "00:05:43"

@@ -7,7 +7,9 @@ year: "2024"
 title: "Digital feudalism: corporations rationing who gets to do AI"
 permalink: /predictions/decentralized-ai/2024-09-27-digital-feudalism-corporations-rationing-who-gets-nc77/
 slug_id: 2024-09-27-digital-feudalism-corporations-rationing-who-gets-nc77
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri - Democratizing Access to AI Resources - TOKEN2049 Singapore 2024 (TOKEN2049)"
 source_url: https://www.youtube.com/watch?v=3Sv3EOSDnL8&t=485s
 timestamp: "00:08:05"

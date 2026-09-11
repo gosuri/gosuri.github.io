@@ -7,7 +7,9 @@ year: "2024"
 title: "Trial wallets will unlock a significant demand increase within months"
 permalink: /predictions/gpu-economics/2024-07-29-trial-wallets-will-unlock-a-significant-demand-inc-y3vb/
 slug_id: 2024-07-29-trial-wallets-will-unlock-a-significant-demand-inc-y3vb
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "More than Decentralised Compute | Converge @ EthCC 2024 (Caladan)"
 source_url: https://www.youtube.com/watch?v=mPy-ZVjNU4U&t=1082s
 timestamp: "00:18:02"

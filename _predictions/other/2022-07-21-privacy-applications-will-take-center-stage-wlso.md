@@ -7,7 +7,9 @@ year: "2022"
 title: "Privacy applications will take center stage"
 permalink: /predictions/other/2022-07-21-privacy-applications-will-take-center-stage-wlso/
 slug_id: 2022-07-21-privacy-applications-will-take-center-stage-wlso
-theme_page: /predictions/other/
+theme_page: /predictions/other/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - July 20th (Akash Network)"
 source_url: https://www.youtube.com/watch?v=Xa-OsulzXAo&t=350s
 timestamp: "00:05:50"

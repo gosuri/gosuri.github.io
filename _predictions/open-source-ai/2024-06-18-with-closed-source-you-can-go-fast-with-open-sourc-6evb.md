@@ -8,6 +8,8 @@ title: "\"With closed source you can go fast; with open source you can go far\""
 permalink: /predictions/open-source-ai/2024-06-18-with-closed-source-you-can-go-fast-with-open-sourc-6evb/
 slug_id: 2024-06-18-with-closed-source-you-can-go-fast-with-open-sourc-6evb
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"
 source_url: https://podcasts.apple.com/us/podcast/greg-osuri-founder-of-akash-network-liberty/id1626302528?i=1000659451844
 timestamp: "01:09:58"

@@ -8,6 +8,8 @@ title: "90% of Akash contributors are outside the company"
 permalink: /predictions/open-source-ai/2023-03-30-90-of-akash-contributors-are-outside-the-company-5yxh/
 slug_id: 2023-03-30-90-of-akash-contributors-are-outside-the-company-5yxh
 theme_page: /predictions/open-source-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Mission: DeFi EP 92 - Greg Osuri - Akash is taking on the giants in hosted processing (Mission: DeFi)"
 source_url: https://www.youtube.com/watch?v=wVH1OYhNOeE&t=2563s
 timestamp: "00:42:43"

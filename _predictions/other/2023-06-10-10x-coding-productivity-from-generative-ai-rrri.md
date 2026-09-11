@@ -7,7 +7,9 @@ year: "2023"
 title: "10x coding productivity from generative AI"
 permalink: /predictions/other/2023-06-10-10x-coding-productivity-from-generative-ai-rrri/
 slug_id: 2023-06-10-10x-coding-productivity-from-generative-ai-rrri
-theme_page: /predictions/other/
+theme_page: /predictions/other/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"
 source_url: https://www.youtube.com/watch?v=3AvWFwSfbaU&t=1848s
 timestamp: "00:30:48"

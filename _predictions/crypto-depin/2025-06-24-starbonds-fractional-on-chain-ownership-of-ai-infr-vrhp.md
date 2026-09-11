@@ -7,7 +7,9 @@ year: "2025"
 title: "Starbonds: fractional on-chain ownership of AI infrastructure"
 permalink: /predictions/crypto-depin/2025-06-24-starbonds-fractional-on-chain-ownership-of-ai-infr-vrhp/
 slug_id: 2025-06-24-starbonds-fractional-on-chain-ownership-of-ai-infr-vrhp
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=wiVrlo7XJA0&t=16627s
 timestamp: "04:37:07"

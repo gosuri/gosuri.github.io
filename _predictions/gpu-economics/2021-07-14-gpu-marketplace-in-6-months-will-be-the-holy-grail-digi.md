@@ -7,7 +7,9 @@ year: "2021"
 title: "GPU marketplace in ~6 months will be \"the holy grail\""
 permalink: /predictions/gpu-economics/2021-07-14-gpu-marketplace-in-6-months-will-be-the-holy-grail-digi/
 slug_id: 2021-07-14-gpu-marketplace-in-6-months-will-be-the-holy-grail-digi
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 2 OF 2 (Crypto Rich)"
 source_url: https://www.youtube.com/watch?v=mbT06K1zjZc&t=931s
 timestamp: "00:15:31"

@@ -7,7 +7,9 @@ year: "2026"
 title: "Every lab is looking at it — mainstage in a couple of years, GPUs on farmland"
 permalink: /predictions/decentralized-ai/2026-04-11-every-lab-is-looking-at-it-mainstage-in-a-couple-o-zz6s/
 slug_id: 2026-04-11-every-lab-is-looking-at-it-mainstage-in-a-couple-o-zz6s
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=8115s
 timestamp: "02:15:15"

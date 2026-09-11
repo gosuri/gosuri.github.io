@@ -8,6 +8,8 @@ title: "Half of every cloud-service dollar goes to the big clouds"
 permalink: /predictions/cloud-decentralization/2022-09-19-half-of-every-cloud-service-dollar-goes-to-the-big-mydb/
 slug_id: 2022-09-19-half-of-every-cloud-service-dollar-goes-to-the-big-mydb
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - Why decentralization is important (Akash Network)"
 source_url: https://www.youtube.com/watch?v=5zESYdtwsyQ&t=46s
 timestamp: "00:00:46"

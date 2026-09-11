@@ -7,7 +7,9 @@ year: "2021"
 title: "Hosting decentralized service nodes locally on $100 hardware"
 permalink: /predictions/local-compute/2021-01-21-hosting-decentralized-service-nodes-locally-on-100-gri3/
 slug_id: 2021-01-21-hosting-decentralized-service-nodes-locally-on-100-gri3
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"
 source_url: https://www.youtube.com/watch?v=sRtkAUdqNFs&t=2396s
 timestamp: "00:39:56"

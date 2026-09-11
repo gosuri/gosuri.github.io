@@ -7,7 +7,9 @@ year: "2022"
 title: "A cloud-hosted blockchain is a disruption waiting to happen"
 permalink: /predictions/crypto-depin/2022-11-11-a-cloud-hosted-blockchain-is-a-disruption-waiting-cvuv/
 slug_id: 2022-11-11-a-cloud-hosted-blockchain-is-a-disruption-waiting-cvuv
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Problem w/Blockchains on Big Cloud (Akash Network)"
 source_url: https://www.youtube.com/watch?v=YasgYOQtxR0&t=172s
 timestamp: "00:02:52"

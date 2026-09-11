@@ -8,6 +8,8 @@ title: "Sovereign frontends launched from your wallet"
 permalink: /predictions/cloud-decentralization/2022-02-17-sovereign-frontends-launched-from-your-wallet-bnwv/
 slug_id: 2022-02-17-sovereign-frontends-launched-from-your-wallet-bnwv
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Splitting ATOMs: How decentralized is Cosmos? ⚛️ (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=ump9HeOdi-w&t=2871s
 timestamp: "00:47:51"

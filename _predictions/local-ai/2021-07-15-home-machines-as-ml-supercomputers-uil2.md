@@ -8,6 +8,8 @@ title: "Home machines as ML supercomputers"
 permalink: /predictions/local-ai/2021-07-15-home-machines-as-ml-supercomputers-uil2/
 slug_id: 2021-07-15-home-machines-as-ml-supercomputers-uil2
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"Akash Network Deep Dive: The Unstoppable Cloud, Powered by Cosmos!\" (Cryptocito)"
 source_url: https://www.youtube.com/watch?v=K0iInoQojyg&t=2861s
 timestamp: "00:47:41"

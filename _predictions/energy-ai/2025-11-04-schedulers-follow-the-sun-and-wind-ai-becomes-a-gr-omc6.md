@@ -8,6 +8,8 @@ title: "Schedulers follow the sun and wind — AI becomes a grid asset"
 permalink: /predictions/energy-ai/2025-11-04-schedulers-follow-the-sun-and-wind-ai-becomes-a-gr-omc6/
 slug_id: 2025-11-04-schedulers-follow-the-sun-and-wind-ai-becomes-a-gr-omc6
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri (PyTorch)"
 source_url: https://www.youtube.com/watch?v=T3nA1nAaLss&t=1020s
 timestamp: "00:17:00"

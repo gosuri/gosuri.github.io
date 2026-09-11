@@ -8,6 +8,8 @@ title: "In 2-3 years, Amazon, Google, and Microsoft using Akash"
 permalink: /predictions/cloud-decentralization/2022-12-05-in-2-3-years-amazon-google-and-microsoft-using-aka-77cp/
 slug_id: 2022-12-05-in-2-3-years-amazon-google-and-microsoft-using-aka-77cp
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 30th 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=BM-WU0TaynU&t=3924s
 timestamp: "01:05:24"

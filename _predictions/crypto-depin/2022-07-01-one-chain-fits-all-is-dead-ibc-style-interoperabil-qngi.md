@@ -7,7 +7,9 @@ year: "2022"
 title: "One chain fits all is dead; IBC-style interoperability is the way"
 permalink: /predictions/crypto-depin/2022-07-01-one-chain-fits-all-is-dead-ibc-style-interoperabil-qngi/
 slug_id: 2022-07-01-one-chain-fits-all-is-dead-ibc-style-interoperabil-qngi
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "WCEF 2022: Infrastructure for the New Internet - Web3 (World Crypto Economic Forum (WCEF))"
 source_url: https://www.youtube.com/watch?v=8RlL9feMiNk&t=1462s
 timestamp: "00:24:22"

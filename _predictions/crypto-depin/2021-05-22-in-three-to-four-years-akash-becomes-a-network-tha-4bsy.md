@@ -7,7 +7,9 @@ year: "2021"
 title: "In three to four years Akash becomes a network that powers 5G"
 permalink: /predictions/crypto-depin/2021-05-22-in-three-to-four-years-akash-becomes-a-network-tha-4bsy/
 slug_id: 2021-05-22-in-three-to-four-years-akash-becomes-a-network-tha-4bsy
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Unstoppable Livestream: exiledsurfer and Greg Osuri (Akash Network)"
 source_url: https://www.youtube.com/watch?v=PUBL4eguqq4&t=3062s
 timestamp: "00:51:02"

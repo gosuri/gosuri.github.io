@@ -7,7 +7,9 @@ year: "2024"
 title: "Building a 40kW solar-powered data center in his Texas home that pays for the house"
 permalink: /predictions/local-compute/2024-08-12-building-a-40kw-solar-powered-data-center-in-his-t-ht4p/
 slug_id: 2024-08-12-building-a-40kw-solar-powered-data-center-in-his-t-ht4p
-theme_page: /predictions/local-compute/
+theme_page: /predictions/local-compute/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "BASS 2024 10 Ben Fielding, Greg Osuri, Guy Wuollet, Steven Willinger (Stanford Blockchain Club)"
 source_url: https://www.youtube.com/watch?v=FQZZiUAmLLI&t=624s
 timestamp: "00:10:24"

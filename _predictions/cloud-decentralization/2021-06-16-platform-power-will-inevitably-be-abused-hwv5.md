@@ -8,6 +8,8 @@ title: "Platform power will inevitably be abused"
 permalink: /predictions/cloud-decentralization/2021-06-16-platform-power-will-inevitably-be-abused-hwv5/
 slug_id: 2021-06-16-platform-power-will-inevitably-be-abused-hwv5
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DeFi Summit - Conference Day 1 - June 15th (Tuesday) (Dcentral Con)"
 source_url: https://www.youtube.com/watch?v=V3b3aoKEnEA&t=22457s
 timestamp: "06:14:17"

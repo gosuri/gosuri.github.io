@@ -8,6 +8,8 @@ title: "AI heading to ~150 prompts/day per user and ~8% of global energy by 2040
 permalink: /predictions/energy-ai/2025-05-13-ai-heading-to-150-prompts-day-per-user-and-8-of-gl-j2w6/
 slug_id: 2025-05-13-ai-heading-to-150-prompts-day-per-user-and-8-of-gl-j2w6
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)"
 source_url: https://podcasts.apple.com/us/podcast/ep-654-the-intersection-of-ai-and/id1262351840?i=1000708305733
 timestamp: "00:19:48"

@@ -7,7 +7,9 @@ year: "2024"
 title: "No one has solved federated learning on heterogeneous GPUs"
 permalink: /predictions/decentralized-ai/2024-06-19-no-one-has-solved-federated-learning-on-heterogene-mb6i/
 slug_id: 2024-06-19-no-one-has-solved-federated-learning-on-heterogene-mb6i
-theme_page: /predictions/decentralized-ai/
+theme_page: /predictions/decentralized-ai/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"
 source_url: https://www.youtube.com/watch?v=jyGP_9A1SVs&t=957s
 timestamp: "00:15:57"

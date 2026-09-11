@@ -8,6 +8,8 @@ title: "Decentralized cloud is inherently greener — sell capacity that's alrea
 permalink: /predictions/energy-ai/2022-12-01-decentralized-cloud-is-inherently-greener-sell-cap-6q2u/
 slug_id: 2022-12-01-decentralized-cloud-is-inherently-greener-sell-cap-6q2u
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Dcentral 2022 - DeCloud - Decentralized Cloud & Storage (Akash Network)"
 source_url: https://www.youtube.com/watch?v=uGlflVLgYjI&t=262s
 timestamp: "00:04:22"

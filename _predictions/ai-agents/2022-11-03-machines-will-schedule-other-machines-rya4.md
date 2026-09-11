@@ -8,6 +8,8 @@ title: "Machines will schedule other machines"
 permalink: /predictions/ai-agents/2022-11-03-machines-will-schedule-other-machines-rya4/
 slug_id: 2022-11-03-machines-will-schedule-other-machines-rya4
 theme_page: /predictions/ai-agents/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - November 2nd 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=XQVGt-fdKPY&t=654s
 timestamp: "00:10:54"

@@ -8,6 +8,8 @@ title: "Sovereign AI: my data should never leave my house"
 permalink: /predictions/local-ai/2023-09-29-sovereign-ai-my-data-should-never-leave-my-house-cwbd/
 slug_id: 2023-09-29-sovereign-ai-my-data-should-never-leave-my-house-cwbd
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"
 source_url: https://www.youtube.com/watch?v=FDA9wqZmsY8&t=5873s
 timestamp: "01:37:53"

@@ -8,6 +8,8 @@ title: "Desert-island pick: a GPU machine with a fully loaded local AI"
 permalink: /predictions/local-ai/2026-01-15-desert-island-pick-a-gpu-machine-with-a-fully-load-draf/
 slug_id: 2026-01-15-desert-island-pick-a-gpu-machine-with-a-fully-load-draf
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Remote Work Tribe Podcast: Greg Osuri (The Remote Work Tribe Podcast)"
 source_url: https://www.theremoteworktribe.com/2026/01/15/the-remote-work-tribe-podcast-greg-osuri/
 timestamp: "00:27:22"

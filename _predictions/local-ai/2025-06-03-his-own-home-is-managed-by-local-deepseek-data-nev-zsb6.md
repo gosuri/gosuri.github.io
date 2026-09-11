@@ -8,6 +8,8 @@ title: "His own home is managed by local DeepSeek — data never leaves"
 permalink: /predictions/local-ai/2025-06-03-his-own-home-is-managed-by-local-deepseek-data-nev-zsb6/
 slug_id: 2025-06-03-his-own-home-is-managed-by-local-deepseek-data-nev-zsb6
 theme_page: /predictions/local-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"
 source_url: https://www.youtube.com/watch?v=TWw18D8zUto&t=1656s
 timestamp: "00:27:36"

@@ -7,7 +7,9 @@ year: "2025"
 title: "Enormous money in decentralized AI in the next 1-2 years; Gensyn trains 10,000 models"
 permalink: /predictions/crypto-depin/2025-08-02-enormous-money-in-decentralized-ai-in-the-next-1-2-ywge/
 slug_id: 2025-08-02-enormous-money-in-decentralized-ai-in-the-next-1-2-ywge
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"
 source_url: https://www.youtube.com/watch?v=61OOQfY5cqU&t=4098s
 timestamp: "01:08:18"

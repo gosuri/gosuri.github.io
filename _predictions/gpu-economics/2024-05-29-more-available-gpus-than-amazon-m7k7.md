@@ -7,7 +7,9 @@ year: "2024"
 title: "More available GPUs than Amazon"
 permalink: /predictions/gpu-economics/2024-05-29-more-available-gpus-than-amazon-m7k7/
 slug_id: 2024-05-29-more-available-gpus-than-amazon-m7k7
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2024/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=60mmj3bNzB0&t=1971s
 timestamp: "00:32:51"

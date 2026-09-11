@@ -8,6 +8,8 @@ title: "Clouds are picking AI's winners and losers"
 permalink: /predictions/cloud-decentralization/2026-04-11-clouds-are-picking-ai-s-winners-and-losers-lxw3/
 slug_id: 2026-04-11-clouds-are-picking-ai-s-winners-and-losers-lxw3
 theme_page: /predictions/cloud-decentralization/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "🔴LIVE: WLFI In Trouble? Winter Is Over. Brian Armstrong Pushing DC HARD, FTDA then Lighter & Akash (The Rollup)"
 source_url: https://www.youtube.com/watch?v=JJunRCzatkE&t=8414s
 timestamp: "02:20:14"

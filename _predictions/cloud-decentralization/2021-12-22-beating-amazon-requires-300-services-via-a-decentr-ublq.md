@@ -8,6 +8,8 @@ title: "Beating Amazon requires 300 services — via a decentralized marketplace
 permalink: /predictions/cloud-decentralization/2021-12-22-beating-amazon-requires-300-services-via-a-decentr-ublq/
 slug_id: 2021-12-22-beating-amazon-requires-300-services-via-a-decentr-ublq
 theme_page: /predictions/cloud-decentralization/2021/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Office Hours : End of Year Product Update (Akash Network)"
 source_url: https://www.youtube.com/watch?v=xhuhCng_JyA&t=1669s
 timestamp: "00:27:49"

@@ -8,6 +8,8 @@ title: "Akash built the first-ever supercloud"
 permalink: /predictions/cloud-decentralization/2026-01-15-akash-built-the-first-ever-supercloud-draf/
 slug_id: 2026-01-15-akash-built-the-first-ever-supercloud-draf
 theme_page: /predictions/cloud-decentralization/2026/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Remote Work Tribe Podcast: Greg Osuri (The Remote Work Tribe Podcast)"
 source_url: https://www.theremoteworktribe.com/2026/01/15/the-remote-work-tribe-podcast-greg-osuri/
 timestamp: "00:03:10"

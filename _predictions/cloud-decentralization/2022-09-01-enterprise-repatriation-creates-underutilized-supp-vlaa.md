@@ -8,6 +8,8 @@ title: "Enterprise repatriation creates underutilized supply for Akash"
 permalink: /predictions/cloud-decentralization/2022-09-01-enterprise-repatriation-creates-underutilized-supp-vlaa/
 slug_id: 2022-09-01-enterprise-repatriation-creates-underutilized-supp-vlaa
 theme_page: /predictions/cloud-decentralization/2022/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Akash Weekly - August 31st 2022 (Akash Network)"
 source_url: https://www.youtube.com/watch?v=RVlkC2WcGvY&t=1264s
 timestamp: "00:21:04"

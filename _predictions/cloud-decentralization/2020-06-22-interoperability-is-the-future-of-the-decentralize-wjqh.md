@@ -8,6 +8,8 @@ title: "Interoperability is the future of the decentralized cloud"
 permalink: /predictions/cloud-decentralization/2020-06-22-interoperability-is-the-future-of-the-decentralize-wjqh/
 slug_id: 2020-06-22-interoperability-is-the-future-of-the-decentralize-wjqh
 theme_page: /predictions/cloud-decentralization/2020/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "The Akashian Challenge Phase 1 Livestream (Akash Network)"
 source_url: https://www.youtube.com/watch?v=L3JjJldfU3o&t=2456s
 timestamp: "00:40:56"

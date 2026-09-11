@@ -7,7 +7,9 @@ year: "2022"
 title: "On-chain incentives will open a new era for Akash"
 permalink: /predictions/crypto-depin/2022-09-26-on-chain-incentives-will-open-a-new-era-for-akash-dk3n/
 slug_id: 2022-09-26-on-chain-incentives-will-open-a-new-era-for-akash-dk3n
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2022/
+speaker: "Unknown"
+speaker_status: "uncertain"
 source: "Akash Analysis - Incentives/Product Market Fit (Akash Network)"
 source_url: https://www.youtube.com/watch?v=SwfTiRrH8WU&t=125s
 timestamp: "00:02:05"

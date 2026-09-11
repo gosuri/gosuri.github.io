@@ -8,6 +8,8 @@ title: "China will out-accelerate the US on AI because it has the energy"
 permalink: /predictions/energy-ai/2025-04-11-china-will-out-accelerate-the-us-on-ai-because-it-rjfs/
 slug_id: 2025-04-11-china-will-out-accelerate-the-us-on-ai-because-it-rjfs
 theme_page: /predictions/energy-ai/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"
 source_url: https://www.youtube.com/watch?v=vMx6G0ZOxeo&t=1020s
 timestamp: "00:17:00"

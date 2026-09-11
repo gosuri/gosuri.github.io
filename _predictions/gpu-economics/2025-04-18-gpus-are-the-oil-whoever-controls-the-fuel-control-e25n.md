@@ -7,7 +7,9 @@ year: "2025"
 title: "GPUs are the oil — whoever controls the fuel controls the world"
 permalink: /predictions/gpu-economics/2025-04-18-gpus-are-the-oil-whoever-controls-the-fuel-control-e25n/
 slug_id: 2025-04-18-gpus-are-the-oil-whoever-controls-the-fuel-control-e25n
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2025/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"
 source_url: https://www.youtube.com/watch?v=ImwkqmOSUkE&t=1592s
 timestamp: "00:26:32"

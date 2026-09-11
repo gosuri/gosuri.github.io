@@ -7,7 +7,9 @@ year: "2023"
 title: "$1.5 trillion AI spend in the next five years"
 permalink: /predictions/gpu-economics/2023-09-06-1-5-trillion-ai-spend-in-the-next-five-years-y7l5/
 slug_id: 2023-09-06-1-5-trillion-ai-spend-in-the-next-five-years-y7l5
-theme_page: /predictions/gpu-economics/
+theme_page: /predictions/gpu-economics/2023/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "\"#3 - Akash Network with Greg Osuri\" (Weapons of Mass Adoption)"
 source_url: https://podcasts.apple.com/us/podcast/3-akash-network-with-greg-osuri/id1705930764?i=1000626951051
 timestamp: "00:58:50"

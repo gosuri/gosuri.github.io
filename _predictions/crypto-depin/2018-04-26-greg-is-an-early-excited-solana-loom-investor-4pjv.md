@@ -7,7 +7,9 @@ year: "2018"
 title: "Greg is an early, excited Solana (\"Loom\") investor"
 permalink: /predictions/crypto-depin/2018-04-26-greg-is-an-early-excited-solana-loom-investor-4pjv/
 slug_id: 2018-04-26-greg-is-an-early-excited-solana-loom-investor-4pjv
-theme_page: /predictions/crypto-depin/
+theme_page: /predictions/crypto-depin/2018/
+speaker: "Greg Osuri"
+speaker_status: "attributed"
 source: "Solana: The World's Fastest Blockchain (fireside chat at Node) (Solana)"
 source_url: https://www.youtube.com/watch?v=uhrU0W4J05w&t=43s
 timestamp: "00:00:43"
