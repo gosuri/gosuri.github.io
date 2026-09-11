@@ -13,6 +13,9 @@ markdown: kramdown
 
 permalink: pretty
 
+plugins:
+  - jekyll-sitemap
+
 paginate: 5
 
 # Kept out of the published site: the design system previews, planning docs and

@@ -21,6 +21,7 @@
   <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" sizes="any">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="text/markdown" href="{{ page.url | replace: 'index.html', '' | append: 'index.md' | prepend: site.baseurl | prepend: site.url }}">
 
   {%- comment -%}Every page advertises a 1200×630 card. Predictions, essays and
   theme pages get one rendered per-URL at <permalink>card.png by

@@ -1,0 +1,10 @@
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: *
+Allow: /
+
+Sitemap: https://www.gregosuri.com/sitemap.xml
+# Agent inventory: https://www.gregosuri.com/llms.txt
