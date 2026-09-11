@@ -97,3 +97,32 @@ Consequence for local work: `jekyll build` and `jekyll server` wipe `_site`, so
 `card.png` 404s locally and `make server` will always show missing cards. That is
 expected, not a bug. To check them, run `make preview` — it builds, renders, then serves
 the finished `_site` without regenerating. `make cards` renders into an existing `_site`.
+
+## Agent-readable pages
+
+`research/agent_docs.mjs` is the pure, unit-tested markdown transformation layer;
+`research/render_agents.mjs` reads committed source and writes markdown twins and
+`llms.txt` into the completed Jekyll build. Run `make agents` for an existing
+`_site`, or `node research/render_agents.mjs --site-dir /path/to/build` for a
+separate build destination. `make test` covers the generator.
+
+The twins and inventory are never committed. Python's `export_blog.py` owns
+committed prediction source; Node owns post-build artifacts. The `/citing/` page
+is authored policy, `llms.txt` supplies generated facts, and theme twins are title
+indexes rather than complete quotation dumps. The predictions citation link
+lives in its shared layout with a `/predictions/` guard, so exporter regeneration
+cannot remove it.
+
+`jekyll build` and `jekyll server` wipe twins along with social cards. Missing
+`index.md` under `make server` is expected; `make preview` builds, renders cards
+and agent docs, then serves without regenerating. CI renders agent docs after
+the card step on both cache hits and misses, before uploading the site.
+
+The supported `jekyll-sitemap` plugin runs inside the Jekyll build. It includes
+public HTML URLs; post-build twins are alternates and stay out of the sitemap.
+Its `lastmod` uses date metadata where present, and is omitted for undated HTML
+pages unless `last_modified_at` is explicitly supplied. Do not invent dates or
+add unsupported date plugins. Verify configuration/template changes with the
+real GitHub Pages builder, then run the agent renderer against that output.
+
+`CLAUDE.md` is a symlink to this file; edit this target once and preserve the link.

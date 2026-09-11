@@ -33,14 +33,18 @@ videos/ catalog/        per-video notes and pipeline metadata
 ## Running locally
 
 ```sh
-make server     # jekyll server at http://127.0.0.1:4000
+make server     # Jekyll at http://localhost:4000; also prints the LAN URL
 ```
 
-Social preview cards will 404 under `make server`. That is expected — see below.
+The server binds to `0.0.0.0`. Social cards and markdown twins will 404 under
+`make server`: Jekyll regeneration wipes post-build artifacts. Use the finished-site
+preview to inspect them:
 
 ```sh
-make preview    # build + render cards + serve without regenerating
-make cards      # render cards into an existing _site
+make preview    # build + render cards and agent docs + serve without regenerating
+make cards      # render social cards into an existing _site
+make agents     # render markdown twins and llms.txt into an existing _site
+make test       # card and agent generator tests; no browser needed
 ```
 
 ## Regenerating the predictions
@@ -115,12 +119,38 @@ takes the cards with it, so `make server` will always 404 on `card.png`. That is
 not a bug. Use `make preview` to build, render, and serve the finished `_site` without
 regenerating; `make cards` renders into an existing `_site`.
 
+## Agent discovery and citation
+
+Every public HTML page advertises a plain-markdown alternate. Leaf twins contain
+content; prediction, theme, year, and essay indexes contain retrieval listings.
+Start at `/llms.txt` for current inventory, counts and approximate token budgets,
+and `/citing/` for the authored citation contract. Quote blocks are speech;
+context notes are site annotations.
+
+`research/agent_docs.mjs` performs the pure transformations and
+`research/render_agents.mjs` writes twins and `llms.txt` after Jekyll builds.
+The driver reads the same committed prediction documents as the card renderer;
+a new exporter batch therefore flows through automatically. Never commit generated
+agent output or hand-edit generated prediction source. To inspect an alternate
+build destination, run `node research/render_agents.mjs --site-dir /path/to/build`.
+
+`robots.txt` is committed static content. `jekyll-sitemap` 1.4.0 generates the
+sitemap during Jekyll's build; post-build twins are discovered as alternates and
+are not separate sitemap documents. Dated prediction and essay entries use the
+plugin's date fallback for `lastmod`; undated HTML pages omit that field unless
+an actual `last_modified_at` is supplied. Do not fabricate modification dates.
+
+`jekyll build` and `jekyll server` erase twins just as they erase cards. Use
+`make preview` for both, or `make agents` to restore twins in an existing `_site`.
+A normal preview uses the existing card dependencies; the agent renderer itself
+adds no package or browser dependency.
+
 ## Deploying
 
-Pushing to `master` triggers `.github/workflows/deploy.yml`: Jekyll build → render cards →
-upload → deploy to GitHub Pages. This requires **Settings → Pages → Source = GitHub
-Actions**; on the older "Deploy from a branch" setting the cards are never rendered and
-every `og:image` 404s.
+Pushing to `master` triggers `.github/workflows/deploy.yml`: Jekyll build → render
+or restore cards → render agent docs unconditionally → upload → deploy to GitHub
+Pages. This requires **Settings → Pages → Source = GitHub Actions**; on the older
+"Deploy from a branch" setting the post-build artifacts are never rendered.
 
 The site is served at `www.gregosuri.com` (see `CNAME`) through Cloudflare. The apex
 redirects to `www` via a Cloudflare redirect rule. `_includes/head.html` fingerprints the
