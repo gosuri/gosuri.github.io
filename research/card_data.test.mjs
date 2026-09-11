@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseFrontMatter, formatDate, postPermalink, externalHost, sourceCount, sentence, configDescription, themeStats } from './card_data.mjs';
+import { parseFrontMatter, formatDate, postDate, postPermalink, externalHost, sourceCount, sentence, configDescription, themeStats } from './card_data.mjs';
 
 test('parseFrontMatter reads scalar keys and strips quotes', () => {
   const fm = parseFrontMatter('---\ntheme: ai-agents\ntitle: "Machines will schedule"\n---\nbody');
@@ -43,6 +43,12 @@ test('parseFrontMatter returns null without front matter', () => {
 test('formatDate renders day-month-year in UTC', () => {
   assert.equal(formatDate('2019-10-07'), '7 Oct 2019');
   assert.equal(formatDate('2022-11-03'), '3 Nov 2022');
+});
+
+test('postDate uses the authored date for cards while preserving the filename fallback', () => {
+  assert.equal(postDate('2020-02-18-essay.md', { date: '2019-10-07' }), '2019-10-07');
+  assert.equal(formatDate(postDate('2020-02-18-essay.md', { date: '2019-10-07' })), '7 Oct 2019');
+  assert.equal(postDate('2020-02-18-essay.md'), '2020-02-18');
 });
 
 test('postPermalink mirrors Jekyll pretty permalinks', () => {

@@ -3,7 +3,7 @@ layout: post
 title: Here's to the crazy ones
 ---
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/8rwsuXHA7RA" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/8rwsuXHA7RA" frameborder="0" allowfullscreen></iframe>
 
 > Here's to the crazy ones. The misfits. The rebels. The trouble-makers. 
 > The round heads in the square holes. The ones who see things differently. 

@@ -3,10 +3,16 @@
 Source for [gregosuri.com](https://www.gregosuri.com) — a Jekyll site with two kinds of
 content:
 
-- **Essays** — 20 posts in `_posts/`, written by hand.
+- **Essays** — 41 posts in `_posts/`, including original writing and republished essays.
 - **Predictions** — 1,689 dated, timestamped claims about compute, extracted from 240
   recorded talks and podcasts between 2015 and 2026. Each one has its own page, a
   permalink, a copy-link control, and a generated social preview image.
+
+Republished essays contain their full text locally. `original_url` and
+`original_publisher` credit the source; `canonical_url` points to its live original.
+Essays whose original publication is unavailable remain self-canonical. Navigation,
+RSS, social cards and markdown alternates use local URLs. An explicit `permalink`
+preserves existing URLs when a source publication date differs from the old filename.
 
 The predictions are **generated**, not authored here. `PREDICTIONS.md` is the source of
 truth; `research/export_blog.py` turns it into a Jekyll collection.
@@ -111,7 +117,7 @@ The cards are **never committed** — 1,689 of them alone is roughly 200 MB agai
 repo. CI renders them into `_site` between the Jekyll build and the Pages upload, cached
 under one key hashed from every input a card's content depends on. The cache is
 all-or-nothing: any change to a hashed input — a prediction, a post, a template, a font —
-invalidates the single key and triggers a full re-render of all 1,730 cards, about three
+invalidates the single key and triggers a re-render of every card, about three
 minutes.
 
 The consequence locally is that any `jekyll build` or `jekyll server` wipes `_site` and

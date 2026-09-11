@@ -4,6 +4,8 @@ layout: default
 <article class="post">
   <h1>{{ page.title | escape }}</h1>
   <p class="post-meta"><time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.author %} · {{ page.author }}{% endif %}{% if page.meta %} · {{ page.meta }}{% endif %}</p>
+  {%- assign original_url = page.original_url | default: page.link -%}
+  {% if original_url %}<p class="post-meta">Originally published on <a target="_blank" rel="noopener" href="{{ original_url | escape }}">{{ page.original_publisher | default: original_url | escape }}</a>.</p>{% endif %}
   {{ content }}
   <p class="post-nav"><a href="{{ "/posts/" | prepend: site.baseurl }}">← All essays</a></p>
 </article>

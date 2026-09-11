@@ -14,8 +14,8 @@ The argument I keep returning to: AI's constraint stopped being chips and became
 ### Selected
 
 <ul class="row-list">
-  <li><time datetime="2025-05-21">May 2025</time> <a target="_blank" rel="noopener" href="https://docs.house.gov/meetings/II/II15/20250521/118174/HHRG-119-II15-Wstate-OsuriG-20250521.pdf">Testimony on AI, energy, and distributed compute</a> <span class="where">U.S. House Committee on Natural Resources</span></li>
-  <li><time datetime="2018-04-09">Apr 2018</time> <a target="_blank" rel="noopener" href="https://hackernoon.com/my-testimony-as-an-expert-witness-for-the-first-ever-blockchain-bill-ab-2658-introduced-in-the-95bfe2b69add">Expert witness, California's first blockchain law (AB 2658)</a> <span class="where">CA Assembly, Privacy &amp; Consumer Protection</span></li>
+  <li><time datetime="2025-05-21">May 2025</time> <a href="{{ "/2025/05/21/testimony-on-ai-energy-and-distributed-compute/" | prepend: site.baseurl }}">Testimony on AI, energy, and distributed compute</a> <span class="where">U.S. House Committee on Natural Resources</span></li>
+  <li><time datetime="2018-04-09">Apr 2018</time> <a href="{{ "/2018/04/09/assembly-testimony/" | prepend: site.baseurl }}">Expert witness, California's first blockchain law (AB 2658)</a> <span class="where">CA Assembly, Privacy &amp; Consumer Protection</span></li>
   <li><time datetime="2024-12-10">Dec 2024</time> <a target="_blank" rel="noopener" href="https://www.coindesk.com/tech/2024/12/10/greg-osuri-delivering-on-de-pin">Most Influential 2024</a> <span class="where">CoinDesk</span></li>
 </ul>
 

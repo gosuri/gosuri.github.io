@@ -3,7 +3,7 @@ import { readFile, readdir, mkdir, writeFile, access } from 'node:fs/promises';
 import { resolve, join, dirname, relative, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
-import { postPermalink, sourceCount } from './card_data.mjs';
+import { postDate, postPermalink, sourceCount } from './card_data.mjs';
 import {
   readDocument, siteSettings, predictionTwin, predictionIndex, postTwin,
   postsIndex, pageTwin, homeTwin, llmsIndex,
@@ -90,7 +90,7 @@ export async function renderAgents({ root = ROOT, siteDir = join(root, '_site') 
     const basename = path.split(sep).at(-1);
     const permalink = postPermalink(basename, fm);
     if (!permalink) throw new Error(`Cannot derive post permalink: ${path}`);
-    const post = { fm, body, date: basename.slice(0, 10), permalink };
+    const post = { fm, body, date: postDate(basename, fm), permalink };
     posts.push(post);
     add(permalink, postTwin(post, site), 'post');
   }

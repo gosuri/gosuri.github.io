@@ -84,14 +84,21 @@ export function predictionIndex(items, { site, theme = null, year = null }) {
 
 export function postsIndex(posts, site) {
   const lines = [`# ${posts.length} essays`, '',
-    'Entries link to local markdown twins; external essays identify their original URL.', ''];
+    'Entries link to local markdown twins; republished essays identify their original source.', ''];
   const sorted = [...posts].sort((a, b) => compare(b.date, a.date) || compare(a.permalink, b.permalink));
   for (const post of sorted) {
     let line = `- ${post.date} — [${oneLine(post.fm.title)}](${canonicalUrl(site, post.permalink)}index.md)`;
-    if (post.fm.link) line += ` — Original: ${post.fm.link}`;
+    const original = postOriginal(post.fm);
+    if (original) line += ` — Original: ${original}`;
     lines.push(line);
   }
   return finish(lines);
+}
+
+function postOriginal(fm) {
+  const url = fm.original_url || fm.link;
+  if (!url) return null;
+  return fm.original_publisher ? `[${oneLine(fm.original_publisher)}](${url})` : url;
 }
 
 function decodeEntities(text) {
@@ -130,6 +137,8 @@ function contentMarkdown(body, site) {
   text = text.replace(/{{\s*(["'])(.*?)\1\s*\|\s*prepend:\s*site\.baseurl\s*}}/g,
     (_, quote, path) => `${site.baseurl}${path}`);
   if (/{[{%]/.test(text)) throw new Error('Unsupported Liquid in markdown source');
+  text = text.replace(/(?<![\\!])(!?\[(?:\\.|[^\]\\])*\]\()(\/(?!\/)[^\s)]*)/g,
+    (_, label, url) => `${label}${destination(url, site)}`);
   text = text.replace(/<iframe\b([^>]*)>[\s\S]*?<\/iframe>/gi, (_, attrs) => {
     const src = attribute(attrs, 'src');
     if (!src) throw new Error('Embedded video has no src');
@@ -164,10 +173,11 @@ function contentMarkdown(body, site) {
 
 export function postTwin({ fm, body, date, permalink }, site) {
   const lines = [`# ${oneLine(fm.title)}`, '', `- **Date:** ${date}`,
-    `- **Canonical:** ${canonicalUrl(site, permalink)}`, ''];
-  if (fm.link && !body.trim()) lines.push('This essay is published externally; no local body is available.', '', `Original: ${fm.link}`);
+    `- **Canonical:** ${fm.canonical_url || canonicalUrl(site, permalink)}`, ''];
+  const original = postOriginal(fm);
+  if (original && !body.trim()) lines.push('This essay is published externally; no local body is available.', '', `Original: ${original}`);
   else {
-    if (fm.link) lines.push(`Original: ${fm.link}`, '');
+    if (original) lines.push(`Original: ${original}`, '');
     lines.push(contentMarkdown(body, site));
   }
   return finish(lines);

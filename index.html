@@ -17,7 +17,7 @@ layout: default
   <h2>Writing</h2>
   <ul class="post-list">
     {%- for post in site.posts limit: 5 %}
-    <li><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %Y" }}</time> {% if post.link %}<a class="post-link external" target="_blank" rel="noopener" href="{{ post.link | escape }}">{{ post.title | escape }}</a>{% else %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>{% endif %}</li>
+    <li><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %Y" }}</time> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></li>
     {%- endfor %}
   </ul>
   <p class="section-more"><a href="{{ "/posts/" | prepend: site.baseurl }}">All essays →</a></p>

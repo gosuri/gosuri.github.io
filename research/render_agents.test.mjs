@@ -126,6 +126,20 @@ test('new source and its built HTML enter indexes without an allowlist edit', as
   assert.ok(theme.includes('2023-01-01-home-next'));
 });
 
+test('authored publication dates reach twins and indexes without changing explicit permalinks', async t => {
+  const opts = await fixture(t);
+  const path = join(opts.root, '_posts/2020-02-18-external.md');
+  const source = await readFile(path, 'utf8');
+  await writeFile(path, source.replace('title: External essay',
+    `title: External essay\ndate: 2019-10-07\npermalink: ${postPath}`));
+  await renderAgents(opts);
+  const twin = await readFile(join(opts.siteDir, `${postPath.slice(1)}index.md`), 'utf8');
+  assert.ok(twin.includes('- **Date:** 2019-10-07'));
+  assert.ok(twin.includes('- **Canonical:** https://www.gregosuri.com/2020/02/18/external/'));
+  const index = await readFile(join(opts.siteDir, 'posts/index.md'), 'utf8');
+  assert.ok(index.includes('2019-10-07 — [External essay](https://www.gregosuri.com/2020/02/18/external/index.md)'));
+});
+
 test('authored citing page is included as soon as it exists', async t => {
   const opts = await fixture(t);
   await put(opts.root, 'citing.md', '---\ntitle: Citing\npermalink: /citing/\n---\nQuote verbatim.\n');

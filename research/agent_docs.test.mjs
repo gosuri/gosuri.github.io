@@ -101,6 +101,40 @@ test('postTwin gives external-only essays an explicit pointer, date and canonica
   assert.ok(md.includes('Original: https://example.com/essay/'));
 });
 
+test('republished essays keep their original canonical while index links stay local with a baseurl', () => {
+  const post = {
+    fm: {
+      title: 'Republished essay', original_publisher: 'Akash Network',
+      original_url: 'https://akash.network/blog/original/',
+      canonical_url: 'https://akash.network/blog/original/',
+      link: 'https://example.com/obsolete/',
+    },
+    body: 'The complete essay.', date: '2020-01-02', permalink: '/2020/01/02/republished/',
+  };
+  const previewSite = { ...site, baseurl: '/preview' };
+  const twin = postTwin(post, previewSite);
+  assert.ok(twin.includes('- **Canonical:** https://akash.network/blog/original/'));
+  assert.ok(twin.includes('Original: [Akash Network](https://akash.network/blog/original/)'));
+  assert.ok(twin.includes('The complete essay.'));
+  assert.ok(!twin.includes('no local body'));
+  assert.ok(!twin.includes('https://example.com/obsolete/'));
+
+  const index = postsIndex([post], previewSite);
+  assert.ok(index.includes('[Republished essay](https://www.gregosuri.com/preview/2020/01/02/republished/index.md)'));
+  assert.ok(index.includes('Original: [Akash Network](https://akash.network/blog/original/)'));
+  assert.ok(!index.includes('https://example.com/obsolete/'));
+});
+
+test('postTwin keeps a local canonical when source attribution has no canonical override', () => {
+  const twin = postTwin({
+    fm: { title: 'Recovered essay', original_url: 'https://example.com/original/' },
+    body: 'Recovered text.', date: '2020-01-02', permalink: '/2020/01/02/recovered/',
+  }, { ...site, baseurl: '/preview' });
+  assert.ok(twin.includes('- **Canonical:** https://www.gregosuri.com/preview/2020/01/02/recovered/'));
+  assert.ok(twin.includes('Original: https://example.com/original/'));
+  assert.ok(twin.includes('Recovered text.'));
+});
+
 test('postTwin converts both Liquid highlight terminators and preserves code literals', () => {
   const code = 'usage: terraform <command> [<args>]\necho "{{ literal }} &amp;"\n';
   for (const end of ['{% endhighlight %}', '{% endhighlight sh%}']) {
@@ -123,12 +157,32 @@ test('postTwin replaces iframes with links and preserves surrounding writing', (
   assert.ok(!md.includes('<iframe'));
 });
 
+test('markdown root-relative images and links are absolute without rewriting code or external destinations', () => {
+  const body = [
+    '![Diagram](/assets/img/essays/diagram.png "Caption")',
+    '[Essay](/2020/01/02/essay/)',
+    '[External](https://example.com/essay/)',
+    '![External image](//cdn.example.com/image.png)',
+    '`![Literal](/assets/literal.png)`',
+    '\\[Literal link](/literal/)',
+    '```markdown\n![Code](/assets/code.png)\n```',
+  ].join('\n\n');
+  const twin = postTwin({ fm: { title: 'Pictures' }, body, date: '2020-01-02', permalink: '/2020/01/02/pictures/' }, { ...site, baseurl: '/preview' });
+  assert.ok(twin.includes('![Diagram](https://www.gregosuri.com/assets/img/essays/diagram.png "Caption")'));
+  assert.ok(twin.includes('[Essay](https://www.gregosuri.com/2020/01/02/essay/)'));
+  assert.ok(twin.includes('[External](https://example.com/essay/)'));
+  assert.ok(twin.includes('![External image](//cdn.example.com/image.png)'));
+  assert.ok(twin.includes('`![Literal](/assets/literal.png)`'));
+  assert.ok(twin.includes('\\[Literal link](/literal/)'));
+  assert.ok(twin.includes('```markdown\n![Code](/assets/code.png)\n```'));
+});
+
 test('pageTwin retains mixed markdown and HTML about content, dates and destinations', () => {
   const body = 'Intro **emphasis**.\n\n### Selected\n\n<ul class="row-list">\n<li><time datetime="2025-05-21">May 2025</time> <a href="https://example.com/testimony?a=1&amp;b=2">Testimony</a> <span>House &amp; Committee</span></li>\n</ul>\n\n[Predictions]({{ "/predictions/" | prepend: site.baseurl }})';
   const md = pageTwin({ title: 'About', body, permalink: '/about/' }, { ...site, baseurl: '/preview' });
   assert.ok(md.includes('Intro **emphasis**.'));
   assert.ok(md.includes('- May 2025 [Testimony](https://example.com/testimony?a=1&b=2) House & Committee'));
-  assert.ok(md.includes('[Predictions](/preview/predictions/)'));
+  assert.ok(md.includes('[Predictions](https://www.gregosuri.com/preview/predictions/)'));
   assert.ok(!md.includes('<li'));
   assert.ok(!md.includes('{{'));
 });

@@ -34,9 +34,13 @@ export function formatDate(iso) {
     { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
 }
 
+export function postDate(basename, fm = {}) {
+  return fm.date || basename.slice(0, 10);
+}
+
 // `permalink: pretty` in _config.yml expands to /:categories/:year/:month/:day/:title/.
-// None of the current posts set categories, a slug, or their own permalink, so the
-// filename is the whole URL — but bail loudly rather than guess if one ever does.
+// Explicit permalinks preserve existing URLs when publication dates are corrected.
+// Otherwise derive the URL from the filename; reject categories or a custom slug.
 export function postPermalink(basename, fm = {}) {
   if (fm.permalink) return fm.permalink;
   if (fm.categories || fm.category || fm.slug) return null;

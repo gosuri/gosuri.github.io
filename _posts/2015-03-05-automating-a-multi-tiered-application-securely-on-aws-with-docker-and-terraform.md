@@ -3,7 +3,7 @@ layout: post
 title: Automating a multi-tiered application securely on AWS with Docker and Terraform
 ---
 
-> This article was originally published on [AirPair](https://www.airpair.com/aws/posts/ntiered-aws-docker-terraform-guide#LXCaODz2cklfBubq.01)
+> This article was originally published on AirPair.
 
 Data, a crucial part of any infrastructure, is particularly vulnerable while traveling over the Internet. Securing its transportation is a fundamental requirement for establishing a trusted network. 
 
@@ -15,7 +15,7 @@ Before we begin
 ---------------
 
 This is a technical guide, best accessible to a reader with basic linux command line knowledge. The Audience this guide is intended for includes:
- 
+
 - Application developers with little or no systems administration experience, wanting to deploy applications on AWS
 - System administrators with little or no experience with infrastructure automation, wanting to learn more
 - Infrastructure automation engineers that want to explore cloud resource automation
@@ -369,21 +369,21 @@ resource "aws_security_group" "default" {
   name = "default-airpair-example"
   description = "Default security group that allows inbound and outbound traffic from all instances in the VPC"
   vpc_id = "${aws_vpc.default.id}"
-  
+
   ingress {
     from_port   = "0"
     to_port     = "0"
     protocol    = "-1"
     self        = true
   }
-  
+
   egress {
     from_port   = "0"
     to_port     = "0"
     protocol    = "-1"
     self        = true
   }
-  
+
   tags { 
     Name = "airpair-example-default-vpc" 
   }
@@ -394,14 +394,14 @@ resource "aws_security_group" "nat" {
   name = "nat-airpair-example"
   description = "Security group for nat instances that allows SSH and VPN traffic from internet. Also allows outbound HTTP[S]"
   vpc_id = "${aws_vpc.default.id}"
-  
+
   ingress {
     from_port = 22
     to_port   = 22
     protocol  = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  
+
   ingress {
     from_port = 1194
     to_port   = 1194
@@ -434,21 +434,21 @@ resource "aws_security_group" "web" {
   name = "web-airpair-example"
   description = "Security group for web that allows web traffic from internet"
   vpc_id = "${aws_vpc.default.id}"
-  
+
   ingress {
     from_port = 80
     to_port   = 80
     protocol  = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  
+
   ingress {
     from_port = 443
     to_port   = 443
     protocol  = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
   }
-  
+
   tags { 
     Name = "web-airpair-example" 
   }
@@ -771,4 +771,4 @@ Conclusion
 
 There is a lot more to Terraform than what is covered in this guide. Checkout [terraform.io](https://terraform.io) and the [Github project](http://github.com/hashicorp/terraform) to see more of this awesome tool.
 
-I hope you found this guide useful. I gave my best to keep the it accurate and updated. If there is any part of the guide that you felt could use improvement, make your updates in a [fork](https://www.airpair.com/posts/fork/54f3d0b292e9370c00ae049f) and send me a pull request. I will attend to it promptly. 
+I hope you found this guide useful. I gave my best to keep the it accurate and updated. If there is any part of the guide that you felt could use improvement, make your updates in a fork and send me a pull request. I will attend to it promptly.

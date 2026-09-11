@@ -5,7 +5,7 @@
 import { readFile, readdir, mkdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { chromium } from 'playwright';
-import { parseFrontMatter, postPermalink, externalHost, sourceCount, sentence, configDescription, themeStats } from './card_data.mjs';
+import { parseFrontMatter, postDate, postPermalink, externalHost, sourceCount, sentence, configDescription, themeStats } from './card_data.mjs';
 import { predictionCard, postCard, siteCard, predictionsCard, themeCard } from './card_templates.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname;
@@ -65,8 +65,8 @@ for (const name of (await readdir(POSTS)).sort()) {
   if (!url) { console.warn(`skipped post (cannot derive permalink): ${name}`); continue; }
   await shoot(postCard({
     title: fm.title.trim(),
-    date: name.slice(0, 10),
-    host: externalHost(fm.link),
+    date: postDate(name, fm),
+    host: externalHost(fm.original_url || fm.link),
   }, fonts), join(SITE, url, 'card.png'));
   posts++;
 }

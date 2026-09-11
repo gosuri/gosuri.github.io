@@ -8,7 +8,7 @@ Background
 
 When we renamed our github organization the entire (rather large) team had to manually update the remote URLs which proved to be a daunting task. I created git-url-sub to make this easier.
 
-Install using [Homebrew](http://mxcl.github.com/homebrew) on OS X:
+Install using Homebrew on OS X:
 -----------------------------------------------------------------
 
 {% highlight bash %}
