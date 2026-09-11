@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readDocument, siteSettings, canonicalUrl, predictionTwin } from './agent_docs.mjs';
+import { predictionIndex, postsIndex } from './agent_docs.mjs';
 
 const site = { url: 'https://www.gregosuri.com', baseurl: '', title: 'Greg Osuri', description: 'I build things.' };
 const prediction = {
@@ -51,4 +52,41 @@ test('predictionTwin escapes markdown without rewriting spoken punctuation', () 
 
 test('predictionTwin omits missing, empty and whitespace-only context', () => {
   for (const context of [undefined, '', '   \n']) assert.ok(!predictionTwin({ ...prediction, context }, site).includes('## Context'));
+});
+
+test('predictionIndex groups themes then sorts dates and IDs, without copying quotes', () => {
+  const entries = [
+    { ...prediction, date: '2024-01-01', slug_id: '2024-01-01-z', title: 'Latest' },
+    { ...prediction, theme: 'z-cloud', theme_title: 'Cloud', date: '2021-01-01', slug_id: '2021-01-01-a', title: 'Cloud title' },
+    { ...prediction, date: '2022-11-03', slug_id: '2022-11-03-b', title: 'Second' },
+    { ...prediction, date: '2022-11-03', slug_id: '2022-11-03-a', title: 'First' },
+  ];
+  const copy = structuredClone(entries);
+  const md = predictionIndex(entries, { site });
+  assert.ok(md.startsWith('# All 4 predictions\n'));
+  assert.ok(md.indexOf('## ai-agents') < md.indexOf('## z-cloud'));
+  assert.ok(md.indexOf('2022-11-03-a — First') < md.indexOf('2022-11-03-b — Second'));
+  assert.ok(md.indexOf('2022-11-03-b — Second') < md.indexOf('2024-01-01-z — Latest'));
+  assert.equal(md.match(/https:\/\//g).length, 1);
+  assert.ok(!md.includes(prediction.quote));
+  assert.deepEqual(entries, copy);
+});
+
+test('predictionIndex scopes theme and year, with measured year counts', () => {
+  const entries = [prediction, { ...prediction, date: '2024-01-01', slug_id: '2024-01-01-x', title: 'New title' }];
+  assert.ok(predictionIndex(entries, { site, theme: 'ai-agents' }).includes('Years: 2022 (1); 2024 (1)'));
+  const year = predictionIndex(entries, { site, theme: 'ai-agents', year: '2024' });
+  assert.ok(year.startsWith('# AI Agents — 2024 1 predictions'));
+  assert.ok(!year.includes(prediction.slug_id));
+  assert.ok(predictionIndex([], { site }).startsWith('# All 0 predictions'));
+});
+
+test('postsIndex is newest-first and points external essays to a nonempty local twin', () => {
+  const posts = [
+    { fm: { title: 'Local' }, body: 'Body', date: '2011-01-01', permalink: '/2011/01/01/local/' },
+    { fm: { title: 'External', link: 'https://example.com/essay/' }, body: '', date: '2020-01-01', permalink: '/2020/01/01/external/' },
+  ];
+  const md = postsIndex(posts, site);
+  assert.ok(md.indexOf('2020-01-01 —') < md.indexOf('2011-01-01 —'));
+  assert.ok(md.includes('[External](https://www.gregosuri.com/2020/01/01/external/index.md) — Original: https://example.com/essay/'));
 });
