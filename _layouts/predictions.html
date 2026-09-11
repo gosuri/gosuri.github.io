@@ -8,3 +8,6 @@ layout: default
 <div class="predictions">
 {{ content }}
 </div>
+{% if page.url == "/predictions/" %}
+<p><a href="{{ "/citing/" | prepend: site.baseurl }}">How to cite and navigate this archive →</a></p>
+{% endif %}
