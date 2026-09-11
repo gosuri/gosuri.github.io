@@ -10,6 +10,16 @@
 
 ---
 
+## Execution record
+
+Implemented and verified locally on 2026-09-10. All tasks below are complete.
+
+- Full-corpus checks preserve all 1,689 quotations, 20 essays, 47 code blocks, and nine external-only pointers, plus About links and built homepage content. The implemented `homeTwin` also accepts an optional `permalink`, defaulting to `/`, for existing Pages pagination. Counts and token budgets are derived from generated content.
+- All 54 card/agent tests pass under CI's Node 20.20.2 runtime, and all 26 Python exporter tests pass, with no skips.
+- `make preview` completed build, all 1,730 social cards, agent documents, and LAN-bound serving. Local Jekyll 4 emits 1,733 twins because it omits the three Pages pagination routes.
+- Desktop/mobile inspection, citation-link placement, JavaScript-disabled navigation, and the existing clipboard behavior pass. The three-fetch home-GPU lookup preserves the quotation, 6 October 2022 date, source URL, and `00:12:25` timestamp.
+- Scoped task reviews and the final cross-plan review found no outstanding issues. No push or deployment was performed.
+
 ## Scope and order
 
 Read the approved [spec](../specs/2026-09-10-agent-first-site-design.md) before executing. This is plan **01**, followed by [02: generation and delivery](2026-09-10-agent-first-02-delivery.md) and [03: discovery and citation](2026-09-10-agent-first-03-discovery.md). Implement these pure functions first. This plan changes no generated prediction source, design preview, Sass, HTML template, or published artifact.
@@ -50,7 +60,7 @@ All canonical paths end with `/`; homepage is `/`. `site.url` stays the configur
 - Modify: `research/card_data.mjs` (`parseFrontMatter` only)
 - Modify/test: `research/card_data.test.mjs`
 
-- [ ] **Step 1: Write the failing tests.**
+- [x] **Step 1: Write the failing tests.**
 
 Append these three tests to `research/card_data.test.mjs`; its existing imports already provide `test`, `assert`, and `parseFrontMatter`.
 
@@ -78,7 +88,7 @@ title: "A \\ path and \"quoted\" title"
 });
 ````
 
-- [ ] **Step 2: Confirm the intended failure.**
+- [x] **Step 2: Confirm the intended failure.**
 
 ```bash
 node --test --test-name-pattern='parseFrontMatter (preserves|decodes)' research/card_data.test.mjs
@@ -86,7 +96,7 @@ node --test --test-name-pattern='parseFrontMatter (preserves|decodes)' research/
 
 Expected: FAIL: the existing parser either drops unindented blank lines or cannot parse CRLF input.
 
-- [ ] **Step 3: Implement the smallest complete behavior.**
+- [x] **Step 3: Implement the smallest complete behavior.**
 
 Replace only the existing `parseFrontMatter` function in `research/card_data.mjs` with this implementation. Keep every other export intact.
 
@@ -118,7 +128,7 @@ export function parseFrontMatter(text) {
 }
 ````
 
-- [ ] **Step 4: Verify the tests pass.**
+- [x] **Step 4: Verify the tests pass.**
 
 ```bash
 node --test research/card_data.test.mjs
@@ -126,7 +136,7 @@ node --test research/card_data.test.mjs
 
 Expected: PASS: all existing parser/card-data tests plus all three new regressions.
 
-- [ ] **Step 5: Commit only this task's files.**
+- [x] **Step 5: Commit only this task's files.**
 
 ```bash
 git add research/card_data.mjs research/card_data.test.mjs
@@ -139,7 +149,7 @@ git commit -m "fix: preserve blank lines in front matter blocks"
 - Create: `research/agent_docs.mjs`
 - Create/test: `research/agent_docs.test.mjs`
 
-- [ ] **Step 1: Write the failing tests.**
+- [x] **Step 1: Write the failing tests.**
 
 Create `research/agent_docs.test.mjs` with this content.
 
@@ -200,7 +210,7 @@ test('predictionTwin omits missing, empty and whitespace-only context', () => {
 });
 ````
 
-- [ ] **Step 2: Confirm the intended failure.**
+- [x] **Step 2: Confirm the intended failure.**
 
 ```bash
 node --test research/agent_docs.test.mjs
@@ -208,7 +218,7 @@ node --test research/agent_docs.test.mjs
 
 Expected: FAIL: `agent_docs.mjs` does not exist.
 
-- [ ] **Step 3: Implement the smallest complete behavior.**
+- [x] **Step 3: Implement the smallest complete behavior.**
 
 Create `research/agent_docs.mjs` with this content. Quoted text is escaped for Markdown rendering without changing its spoken words; annotation stays in its own section.
 
@@ -275,7 +285,7 @@ export function predictionTwin(fm, site) {
 }
 ````
 
-- [ ] **Step 4: Verify the tests pass.**
+- [x] **Step 4: Verify the tests pass.**
 
 ```bash
 node --test research/agent_docs.test.mjs research/card_data.test.mjs
@@ -283,7 +293,7 @@ node --test research/agent_docs.test.mjs research/card_data.test.mjs
 
 Expected: PASS: six agent-document tests and all card-data tests.
 
-- [ ] **Step 5: Commit only this task's files.**
+- [x] **Step 5: Commit only this task's files.**
 
 ```bash
 git add research/agent_docs.mjs research/agent_docs.test.mjs
@@ -296,7 +306,7 @@ git commit -m "feat: render citable prediction markdown"
 - Modify: `research/agent_docs.mjs`
 - Modify/test: `research/agent_docs.test.mjs`
 
-- [ ] **Step 1: Write the failing tests.**
+- [x] **Step 1: Write the failing tests.**
 
 Append this import and these tests to `research/agent_docs.test.mjs`. The `site` and `prediction` fixtures are defined in Task 2.
 
@@ -341,7 +351,7 @@ test('postsIndex is newest-first and points external essays to a nonempty local 
 });
 ````
 
-- [ ] **Step 2: Confirm the intended failure.**
+- [x] **Step 2: Confirm the intended failure.**
 
 ```bash
 node --test research/agent_docs.test.mjs
@@ -349,7 +359,7 @@ node --test research/agent_docs.test.mjs
 
 Expected: FAIL: `predictionIndex` and `postsIndex` are not exported.
 
-- [ ] **Step 3: Implement the smallest complete behavior.**
+- [x] **Step 3: Implement the smallest complete behavior.**
 
 Append these exports to `research/agent_docs.mjs`. Indices contain one date-first ID/title entry per prediction, not full quote text.
 
@@ -390,7 +400,7 @@ export function postsIndex(posts, site) {
 }
 ````
 
-- [ ] **Step 4: Verify the tests pass.**
+- [x] **Step 4: Verify the tests pass.**
 
 ```bash
 node --test research/agent_docs.test.mjs
@@ -398,7 +408,7 @@ node --test research/agent_docs.test.mjs
 
 Expected: PASS: nine agent-document tests.
 
-- [ ] **Step 5: Commit only this task's files.**
+- [x] **Step 5: Commit only this task's files.**
 
 ```bash
 git add research/agent_docs.mjs research/agent_docs.test.mjs
@@ -411,7 +421,7 @@ git commit -m "feat: add compact prediction and essay indexes"
 - Modify: `research/agent_docs.mjs`
 - Modify/test: `research/agent_docs.test.mjs`
 
-- [ ] **Step 1: Write the failing tests.**
+- [x] **Step 1: Write the failing tests.**
 
 Append this import and these tests to `research/agent_docs.test.mjs`. They cover the actual troublesome source constructs: `endhighlight sh`, command placeholders, inline code, iframes, mixed HTML, `site.baseurl`, and the built homepage.
 
@@ -476,7 +486,7 @@ test('unrecognized Liquid and HTML fail instead of silently dropping content', (
 });
 ````
 
-- [ ] **Step 2: Confirm the intended failure.**
+- [x] **Step 2: Confirm the intended failure.**
 
 ```bash
 node --test research/agent_docs.test.mjs
@@ -484,7 +494,7 @@ node --test research/agent_docs.test.mjs
 
 Expected: FAIL: `postTwin`, `pageTwin`, and `homeTwin` are not exported.
 
-- [ ] **Step 3: Implement the smallest complete behavior.**
+- [x] **Step 3: Implement the smallest complete behavior.**
 
 Append this bounded converter and the public exports to `research/agent_docs.mjs`. Do not add a generic HTML/Markdown library, dependency, browser script, or a second post renderer.
 
@@ -579,7 +589,7 @@ export function homeTwin({ html, site }) {
 }
 ````
 
-- [ ] **Step 4: Verify the tests pass.**
+- [x] **Step 4: Verify the tests pass.**
 
 ```bash
 node --test research/agent_docs.test.mjs
@@ -587,7 +597,7 @@ node --test research/agent_docs.test.mjs
 
 Expected: PASS: fifteen agent-document tests. Code literals retain their markup-like bytes and the homepage excludes header/footer content.
 
-- [ ] **Step 5: Commit only this task's files.**
+- [x] **Step 5: Commit only this task's files.**
 
 ```bash
 git add research/agent_docs.mjs research/agent_docs.test.mjs
@@ -600,7 +610,7 @@ git commit -m "feat: render faithful essay and page twins"
 - Modify: `research/agent_docs.mjs`
 - Modify/test: `research/agent_docs.test.mjs`
 
-- [ ] **Step 1: Write the failing tests.**
+- [x] **Step 1: Write the failing tests.**
 
 Append this import and these tests to `research/agent_docs.test.mjs`.
 
@@ -638,7 +648,7 @@ test('llmsIndex handles an empty inventory and does not advertise an absent citi
 });
 ````
 
-- [ ] **Step 2: Confirm the intended failure.**
+- [x] **Step 2: Confirm the intended failure.**
 
 ```bash
 node --test research/agent_docs.test.mjs
@@ -646,7 +656,7 @@ node --test research/agent_docs.test.mjs
 
 Expected: FAIL: `llmsIndex` is not exported.
 
-- [ ] **Step 3: Implement the smallest complete behavior.**
+- [x] **Step 3: Implement the smallest complete behavior.**
 
 Append this export to `research/agent_docs.mjs`. List the small set of navigation/index URLs, summarize leaf and year files with counts and measured size ranges, and link the authored citation contract when its page exists. Keep authored citation rules out of this generated inventory.
 
@@ -689,7 +699,7 @@ export function llmsIndex({ site, predictions, posts, documents, sources }) {
 }
 ````
 
-- [ ] **Step 4: Verify the tests pass.**
+- [x] **Step 4: Verify the tests pass.**
 
 ```bash
 node --test research/card_data.test.mjs research/card_templates.test.mjs research/agent_docs.test.mjs
@@ -697,7 +707,7 @@ node --test research/card_data.test.mjs research/card_templates.test.mjs researc
 
 Expected: PASS: all card-data, card-template, and seventeen agent-document tests.
 
-- [ ] **Step 5: Commit only this task's files.**
+- [x] **Step 5: Commit only this task's files.**
 
 ```bash
 git add research/agent_docs.mjs research/agent_docs.test.mjs

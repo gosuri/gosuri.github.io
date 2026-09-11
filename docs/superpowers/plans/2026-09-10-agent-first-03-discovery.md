@@ -10,6 +10,16 @@
 
 **Spec:** `docs/superpowers/specs/2026-09-10-agent-first-site-design.md`
 
+## Execution record
+
+Implemented and verified locally on 2026-09-10. All tasks below are complete.
+
+- The official Pages Jekyll 3.10 build succeeds. All 1,736 public HTML pages have a canonical URL, nonempty markdown alternate, and matching sitemap entry; private-source exclusions remain intact. Supported date fallbacks are verified, while undated pages omit unknown `lastmod`. The footer script is unchanged and `CLAUDE.md` remains a symlink.
+- All 54 card/agent tests pass under CI's Node 20.20.2 runtime, and all 26 Python exporter tests pass, with no skips.
+- `make preview` completed build, all 1,730 social cards, agent documents, and LAN-bound serving. Local Jekyll 4 emits 1,733 twins because it omits the three Pages pagination routes.
+- Desktop/mobile inspection, citation-link placement, JavaScript-disabled navigation, and the existing clipboard behavior pass. The three-fetch home-GPU lookup preserves the quotation, 6 October 2022 date, source URL, and `00:12:25` timestamp.
+- Scoped task reviews and the final cross-plan review found no outstanding issues. No push or deployment was performed.
+
 ## Global Constraints
 
 - “Nothing existing moves or changes URL.”
@@ -70,7 +80,7 @@ The layout link is intentionally a smaller implementation than changing `export_
 - Consumes: existing `layout: page`; generated index front matter with `layout: predictions` and `permalink: /predictions/`; Plan 02's support for the authored citation page when present.
 - Produces: `/citing/`, subsequently `/citing/index.md`, a footer link on every page, and a link in the predictions index's main content.
 
-- [ ] **Step 1: Establish the current boundary.**
+- [x] **Step 1: Establish the current boundary.**
 
 ```bash
 git status --short
@@ -81,7 +91,7 @@ sed -n '1,110p' _includes/footer.html
 
 Preserve unrelated edits. Confirm `CLAUDE.md -> AGENTS.md`. No brittle source-snapshot test is needed for these small content/link changes; Task 3 verifies rendered navigation, both durable links, and the unchanged script.
 
-- [ ] **Step 2: Create `citing.md` with this complete content.**
+- [x] **Step 2: Create `citing.md` with this complete content.**
 
 ```markdown
 ---
@@ -153,7 +163,7 @@ by their `og:image` metadata, including the shared site and predictions-index ca
 
 Do not add `nav: true`, an authored corpus count, a second copy of the generated inventory, or a new script.
 
-- [ ] **Step 3: Add the citation link to the footer paragraph.**
+- [x] **Step 3: Add the citation link to the footer paragraph.**
 
 Replace only the existing footer paragraph with this line. Keep the rest of the file, especially the entire `<script>` block, unchanged:
 
@@ -161,7 +171,7 @@ Replace only the existing footer paragraph with this line. Keep the rest of the 
   <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} &middot; <a target="_blank" rel="noopener" href="https://github.com/{{ site.github_username }}">GitHub</a> &middot; <a target="_blank" rel="noopener" href="https://x.com/{{ site.twitter_username }}">X</a> &middot; <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a> &middot; <a href="{{ "/citing/" | prepend: site.baseurl }}">Citing</a></p>
 ```
 
-- [ ] **Step 4: Add the index-only link after the closing `div` in `_layouts/predictions.html`.**
+- [x] **Step 4: Add the index-only link after the closing `div` in `_layouts/predictions.html`.**
 
 ```liquid
 {% if page.url == "/predictions/" %}
@@ -171,7 +181,7 @@ Replace only the existing footer paragraph with this line. Keep the rest of the 
 
 This is ordinary content using existing link styling. It does not change the design system or add a main-nav item.
 
-- [ ] **Step 5: Check the exporter contract using fresh temporary output, without rewriting the checkout.**
+- [x] **Step 5: Check the exporter contract using fresh temporary output, without rewriting the checkout.**
 
 ```bash
 python3 - <<'PY'
@@ -195,7 +205,7 @@ python3 -m unittest discover -s research -p test_export_blog.py -v
 
 Expected: fresh exported source selects the same layout and URL; the existing Python suite passes. The real rendered-page assertion in Task 3 proves that this layout actually exposes the link.
 
-- [ ] **Step 6: Verify the rendered citation page, index link and footer link.**
+- [x] **Step 6: Verify the rendered citation page, index link and footer link.**
 
 ```bash
 bundle exec jekyll build
@@ -221,7 +231,7 @@ print("Citation content and non-nav links render successfully.")
 PY
 ```
 
-- [ ] **Step 7: Review and commit this complete content change during implementation.**
+- [x] **Step 7: Review and commit this complete content change during implementation.**
 
 ```bash
 git diff --check
@@ -245,7 +255,7 @@ The footer diff must change only its paragraph, with no changes inside `<script>
 - Consumes: `page.url`, `site.url`, `site.baseurl`; all output twins from Plan 02.
 - Produces: root `/robots.txt`, plugin `/sitemap.xml`, one absolute `text/markdown` alternate in every rendered HTML head.
 
-- [ ] **Step 1: Create the static root `robots.txt` exactly as follows.**
+- [x] **Step 1: Create the static root `robots.txt` exactly as follows.**
 
 ```text
 User-agent: GPTBot
@@ -262,7 +272,7 @@ Sitemap: https://www.gregosuri.com/sitemap.xml
 
 No front matter or Liquid is needed. The `llms.txt` pointer is a comment, not an invented robots directive. The explicit agent names and wildcard share the same permissive group. The spec's “six static lines” is an estimate; explicit named agents and both discovery pointers require the complete text above.
 
-- [ ] **Step 2: Enable the supported plugin in configuration and the local Gemfile.**
+- [x] **Step 2: Enable the supported plugin in configuration and the local Gemfile.**
 
 Append this top-level block to `_config.yml`, without changing `url`, `permalink`, `collections`, or `exclude`:
 
@@ -279,7 +289,7 @@ gem 'jekyll-sitemap', '1.4.0'
 
 Both entries are needed: the production Pages builder uses the configuration, while local Bundler must resolve the gem. [Plugin installation instructions](https://github.com/jekyll/jekyll-sitemap#usage).
 
-- [ ] **Step 3: Update the lockfile through Bundler, without unrelated dependency upgrades.**
+- [x] **Step 3: Update the lockfile through Bundler, without unrelated dependency upgrades.**
 
 ```bash
 bundle install
@@ -288,7 +298,7 @@ git diff -- Gemfile Gemfile.lock _config.yml
 
 Expected lockfile additions: `jekyll-sitemap (1.4.0)` with its Jekyll dependency and `jekyll-sitemap (= 1.4.0)` under `DEPENDENCIES`. This repository ignores `Gemfile.lock`, and it is not tracked; inspect the file locally, but do not force-add it or change that repository convention. Investigate unrelated version churn instead of including it in this change. Do not create a custom sitemap template or install `jekyll-last-modified-at`.
 
-- [ ] **Step 4: Add the alternate immediately after the existing RSS alternate in `_includes/head.html`.**
+- [x] **Step 4: Add the alternate immediately after the existing RSS alternate in `_includes/head.html`.**
 
 ```html
   <link rel="alternate" type="text/markdown" href="{{ page.url | replace: 'index.html', '' | append: 'index.md' | prepend: site.baseurl | prepend: site.url }}">
@@ -296,7 +306,7 @@ Expected lockfile additions: `jekyll-sitemap (1.4.0)` with its Jekyll dependency
 
 The `index.html` normalization matches the existing canonical template. The assembled URL must match the driver's path exactly, including `/index.md` for home and `/posts/index.md` for the existing writing index. A future file-style page URL requires an explicit matching generator contract; do not guess or silently rewrite a current route.
 
-- [ ] **Step 5: Run a quick local build and inspect concrete discovery output.**
+- [x] **Step 5: Run a quick local build and inspect concrete discovery output.**
 
 ```bash
 bundle exec jekyll build
@@ -327,7 +337,7 @@ PY
 
 Expected: every listed alternate resolves to a file; XML parses and points at canonical public HTML pages. Local Jekyll 4 success does not replace the required Jekyll 3.10 validation.
 
-- [ ] **Step 6: Review and commit the discovery configuration during implementation.**
+- [x] **Step 6: Review and commit the discovery configuration during implementation.**
 
 ```bash
 git diff --check
@@ -346,7 +356,7 @@ git commit -m "feat: advertise markdown twins and publish sitemap"
 - Consumes: Plans 01 and 02's generator and make targets; Tasks 1 and 2's published discovery surface.
 - Produces: accurate contributor guidance and production-build evidence for the complete three-plan feature.
 
-- [ ] **Step 1: Update `README.md`'s local command examples and caveat.**
+- [x] **Step 1: Update `README.md`'s local command examples and caveat.**
 
 Replace its two local command blocks and intervening card-only caveat with:
 
@@ -369,7 +379,7 @@ make test       # card and agent generator tests; no browser needed
 
 When editing the document, retain the inner code fences only; the outer fence above presents the complete replacement text.
 
-- [ ] **Step 2: Add this README section before `## Deploying`.**
+- [x] **Step 2: Add this README section before `## Deploying`.**
 
 ```markdown
 ## Agent discovery and citation
@@ -410,7 +420,7 @@ Pages. This requires **Settings → Pages → Source = GitHub Actions**; on the 
 
 Retain the hosting/Cloudflare paragraphs that follow.
 
-- [ ] **Step 3: Append this section to `AGENTS.md`, preserving `CLAUDE.md` as its symlink.**
+- [x] **Step 3: Append this section to `AGENTS.md`, preserving `CLAUDE.md` as its symlink.**
 
 ```markdown
 ## Agent-readable pages
@@ -443,7 +453,7 @@ real GitHub Pages builder, then run the agent renderer against that output.
 `CLAUDE.md` is a symlink to this file; edit this target once and preserve the link.
 ```
 
-- [ ] **Step 4: Run the required real-builder gate into a fresh temporary destination.**
+- [x] **Step 4: Run the required real-builder gate into a fresh temporary destination.**
 
 Execute the following commands in one shell session, retaining `agent_build_dir` for the next step. This does not overwrite a developer's running `_site`:
 
@@ -468,7 +478,7 @@ node research/render_agents.mjs --site-dir "$agent_build_dir"
 
 Expected: production Jekyll 3.10 build succeeds; ownership of this new, bounded temporary output permits the host-side post-build writer. If Docker is unavailable, report the gate as blocked and do not claim release validation. Do not substitute local Jekyll 4 evidence.
 
-- [ ] **Step 5: Verify every production HTML alternate, sitemap entry, exclusion, citation link, and a known quotation.**
+- [x] **Step 5: Verify every production HTML alternate, sitemap entry, exclusion, citation link, and a known quotation.**
 
 ```bash
 python3 - "$agent_build_dir" <<'PY'
@@ -605,7 +615,7 @@ PY
 
 The sitemap equality assertion intentionally measures the current full build rather than pinning the spec's approximate page count. There are currently no public static PDFs; if source content changes before execution, inspect any extra sitemap entry instead of excluding a legitimate asset just to pass the assertion. The date assertions reflect the current corpus, which has no separately authored `last_modified_at`; if such real metadata is introduced, assert that value takes precedence rather than forcing the creation-date fallback.
 
-- [ ] **Step 6: Exercise normal preview behavior and the retrieval path.**
+- [x] **Step 6: Exercise normal preview behavior and the retrieval path.**
 
 ```bash
 make test
@@ -629,7 +639,7 @@ curl --fail --silent http://localhost:4000/predictions/local-compute/2022-10-06-
 
 Expected: the 6 October 2022 quote about buying a GPU, hosting it at home and leasing idle capacity; source `Akash Weekly - October 5th 2022 (Akash Network)`; timestamp `00:12:25`; source link `https://www.youtube.com/watch?v=_NZhdhw5f4s&t=745s`; and separately labeled site annotation. Verify the ID came from the second fetch, not a guessed title slug. This is an editorial acceptance check: do not automatically assert that every source is reachable on the public internet or that any browsing agent will use the documented route. Stop the preview with Ctrl-C after inspection.
 
-- [ ] **Step 7: Review scope, publication boundaries, and the final documentation diff, then commit during implementation.**
+- [x] **Step 7: Review scope, publication boundaries, and the final documentation diff, then commit during implementation.**
 
 ```bash
 git diff --check

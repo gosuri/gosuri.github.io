@@ -1,6 +1,6 @@
 # Agent-first gregosuri.com — design
 
-_Design date: 2026-09-10. Status: approved, pending implementation plan._
+_Design date: 2026-09-10. Status: implemented and verified locally on 2026-09-10. See the three implementation plans for execution evidence and corrected build/count assumptions._
 
 ## Problem
 

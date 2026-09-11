@@ -10,6 +10,16 @@
 
 **Spec:** [Approved design](../specs/2026-09-10-agent-first-site-design.md).
 
+## Execution record
+
+Implemented and verified locally on 2026-09-10. All tasks below are complete.
+
+- The official Pages build publishes 1,736 HTML pages, each with a twin. Integration exposed existing `/page2/`, `/page3/`, and `/page4/` routes that local Jekyll 4 omits. The driver now discovers their built HTML, preserves content and canonical URLs, and retains unknown-page rejection; regression coverage includes `/page10/`. CI rendering remains unconditional and independent of the PNG cache.
+- All 54 card/agent tests pass under CI's Node 20.20.2 runtime, and all 26 Python exporter tests pass, with no skips.
+- `make preview` completed build, all 1,730 social cards, agent documents, and LAN-bound serving. Local Jekyll 4 emits 1,733 twins because it omits the three Pages pagination routes.
+- Desktop/mobile inspection, citation-link placement, JavaScript-disabled navigation, and the existing clipboard behavior pass. The three-fetch home-GPU lookup preserves the quotation, 6 October 2022 date, source URL, and `00:12:25` timestamp.
+- Scoped task reviews and the final cross-plan review found no outstanding issues. No push or deployment was performed.
+
 ## Execution order and boundaries
 
 1. [Plan 01 — markdown](2026-09-10-agent-first-01-markdown.md): pure transformations and content-fidelity tests.
@@ -18,7 +28,7 @@
 
 Plans 01 and 03's authored content can be developed independently, but run the final acceptance checks only after all three are integrated. Before Plan 03 creates `citing.md`, this driver omits that optional page; once it exists, it is required to have built HTML and a twin. Do not ship the partially integrated feature.
 
-This is a planning deliverable. The commands and code below are for later implementation, not actions already performed. Keep changes scoped; commits have no model-attribution trailers. Do not edit `design/` or Sass for this plan.
+The steps and code below preserve the implementation plan; the execution record above records the completed work and integration corrections. Keep changes scoped; commits have no model-attribution trailers. Do not edit `design/` or Sass for this plan.
 
 ## Current repository facts
 
@@ -64,7 +74,7 @@ The driver also imports existing `postPermalink` and `sourceCount` from `card_da
 - Create: `research/render_agents.test.mjs`
 - Test: `research/render_agents.test.mjs`
 
-- [ ] **Step 1: Write the fixtures and tests below.** These exercise the real driver, not a second copy of its rendering logic. Every temporary tree is removed through the test cleanup hook.
+- [x] **Step 1: Write the fixtures and tests below.** These exercise the real driver, not a second copy of its rendering logic. Every temporary tree is removed through the test cleanup hook.
 
 ```js
 import test from 'node:test';
@@ -230,7 +240,7 @@ test('refuses duplicate outputs and traversal permalinks', async t => {
 });
 ```
 
-- [ ] **Step 2: Run the failing tests.**
+- [x] **Step 2: Run the failing tests.**
 
 Run: `node --test research/render_agents.test.mjs`.
 
@@ -242,7 +252,7 @@ Expected: module-not-found for `render_agents.mjs`. After Task 2, the same tests
 - Create: `research/render_agents.mjs`
 - Test: `research/render_agents.test.mjs`
 
-- [ ] **Step 1: Add the complete driver.** Its explicit source allowlist is intentional: `research`, `_data`, transcripts, docs and source catalogs are not a markdown export surface. Discover new predictions, posts, themes and year pages within their existing directories automatically. Newly authored page types must be added deliberately; the HTML inventory check makes omissions visible.
+- [x] **Step 1: Add the complete driver.** Its explicit source allowlist is intentional: `research`, `_data`, transcripts, docs and source catalogs are not a markdown export surface. Discover new predictions, posts, themes and year pages within their existing directories automatically. Newly authored page types must be added deliberately; the HTML inventory check makes omissions visible.
 
 ```js
 // Post-build agent documents. No browser dependencies and no writes to source.
@@ -380,7 +390,7 @@ if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.ur
 }
 ```
 
-- [ ] **Step 2: Run the pure and driver tests.**
+- [x] **Step 2: Run the pure and driver tests.**
 
 ```sh
 node --test research/agent_docs.test.mjs research/render_agents.test.mjs research/card_data.test.mjs research/card_templates.test.mjs research/theme_card_integration.test.mjs
@@ -388,7 +398,7 @@ node --test research/agent_docs.test.mjs research/render_agents.test.mjs researc
 
 Expected: all pass. Tests import the driver without running its CLI; no `_site` in the real checkout is created or modified by the test suite.
 
-- [ ] **Step 3: Exercise the actual corpus after a local build.**
+- [x] **Step 3: Exercise the actual corpus after a local build.**
 
 ```sh
 bundle exec jekyll build
@@ -397,7 +407,7 @@ node research/render_agents.mjs
 
 Expected: complete output with counts derived from source. If conversion rejects an existing HTML construct, add a narrow preservation fixture and support it in Plan 01's converter; do not suppress the error, silently strip content, or omit the affected page. A local Jekyll 4 build is a smoke check only; Plan 03 verifies the real builder.
 
-- [ ] **Step 4: Commit only the driver and its test.**
+- [x] **Step 4: Commit only the driver and its test.**
 
 ```sh
 git add research/render_agents.mjs research/render_agents.test.mjs
@@ -410,7 +420,7 @@ git commit -m "feat: render agent documents into the built site"
 - Modify: `Makefile`, existing `test`, `preview` and `.PHONY` sections; add `agents`
 - Modify: `.github/workflows/deploy.yml`, test label and step after `Render social cards`
 
-- [ ] **Step 1: Replace the test comment/target and add the independent generator target.** Keep the three existing test files and append the two new suites.
+- [x] **Step 1: Replace the test comment/target and add the independent generator target.** Keep the three existing test files and append the two new suites.
 
 ```make
 # Pure card/agent modules and filesystem delivery tests; Node 20, no dependencies.
@@ -422,7 +432,7 @@ agents: test
 	node research/render_agents.mjs
 ```
 
-- [ ] **Step 2: Replace the preview comment and target.** Preserve the existing LAN binding and address output. `make preview` remains a long-running foreground server; stop it with Ctrl-C after verification.
+- [x] **Step 2: Replace the preview comment and target.** Preserve the existing LAN binding and address output. `make preview` remains a long-running foreground server; stop it with Ctrl-C after verification.
 
 ```make
 # Build, render both post-build surfaces, then serve without wiping artifacts.
@@ -440,7 +450,7 @@ The complete `.PHONY` line becomes:
 .PHONY: server test cards agents preview installdeps deploy img img-run img-push create remove
 ```
 
-- [ ] **Step 3: Rename the CI test step and insert the unconditioned render step.** Change `name: Test the card modules` to `name: Test card and agent modules`; its `run: make test` is unchanged. Immediately after the entire existing `Render social cards` step, before `actions/upload-pages-artifact@v3`, insert:
+- [x] **Step 3: Rename the CI test step and insert the unconditioned render step.** Change `name: Test the card modules` to `name: Test card and agent modules`; its `run: make test` is unchanged. Immediately after the entire existing `Render social cards` step, before `actions/upload-pages-artifact@v3`, insert:
 
 ```yaml
       - name: Render agent documents
@@ -449,7 +459,7 @@ The complete `.PHONY` line becomes:
 
 Do not add an `if:` to this step. Do not add markdown to `.card-cache`. Keep the output ownership fix and Node 20 setup before both post-build drivers. No action versions need upgrading for this feature.
 
-- [ ] **Step 4: Run tests and inspect target command order.**
+- [x] **Step 4: Run tests and inspect target command order.**
 
 ```sh
 make test
@@ -460,7 +470,7 @@ git diff --check
 
 Expected: tests pass; `agents` invokes no npm or Playwright; `preview` orders Jekyll build → cards → agents → server and retains `--host 0.0.0.0 --skip-initial-build --no-watch`.
 
-- [ ] **Step 5: Verify a known prediction after `make preview`.** Install the existing card development dependencies if absent (`cd research && npm ci && npx playwright install chromium`), return to the repo root, and run `make preview`. In another terminal:
+- [x] **Step 5: Verify a known prediction after `make preview`.** Install the existing card development dependencies if absent (`cd research && npm ci && npx playwright install chromium`), return to the repo root, and run `make preview`. In another terminal:
 
 ```sh
 node --input-type=module <<'JS'
@@ -482,7 +492,7 @@ JS
 
 Expected: assertion message, no failures. A plain text HTTP MIME type on the local static server is acceptable; the HTML discovery link identifies `text/markdown`. Do not add server routing or Cloudflare configuration solely to change MIME types.
 
-- [ ] **Step 6: Review the cache-hit branch and commit only build wiring.** Verify the agent step has no dependency on `steps.cards.outputs.cache-hit`; both restored-card and freshly-rendered-card paths converge before it. Plan 03's final acceptance renders documents into the real builder's output independently of any card cache.
+- [x] **Step 6: Review the cache-hit branch and commit only build wiring.** Verify the agent step has no dependency on `steps.cards.outputs.cache-hit`; both restored-card and freshly-rendered-card paths converge before it. Plan 03's final acceptance renders documents into the real builder's output independently of any card cache.
 
 ```sh
 git diff -- Makefile .github/workflows/deploy.yml
