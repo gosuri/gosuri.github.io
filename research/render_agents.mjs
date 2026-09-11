@@ -104,6 +104,17 @@ export async function renderAgents({ root = ROOT, siteDir = join(root, '_site') 
   }
   add('/', homeTwin({ html: await readFile(join(siteDir, 'index.html'), 'utf8'), site }), 'home');
 
+  // Jekyll 3.10 can emit paginated homepage routes that local Jekyll 4 omits.
+  // They are the same published homepage content, but each route needs its own
+  // markdown twin and canonical URL.
+  for (const path of await collect(siteDir, /\.html$/)) {
+    const route = '/' + relative(siteDir, path).split(sep).join('/').replace(/index\.html$/, '');
+    const page = route.match(/^\/page([1-9]\d*)\/$/);
+    if (!page || Number(page[1]) < 2) continue;
+    const html = await readFile(path, 'utf8');
+    add(route, homeTwin({ html, site, permalink: route }), 'page');
+  }
+
   // Validate everything before starting writes: no successful-looking partial inventory.
   for (const doc of documents) {
     const html = destination(siteDir, doc.permalink, 'index.html');

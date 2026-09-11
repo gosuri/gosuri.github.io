@@ -177,10 +177,10 @@ export function pageTwin({ title, body, permalink }, site) {
   return finish([`# ${oneLine(title)}`, '', `- **Canonical:** ${canonicalUrl(site, permalink)}`, '', contentMarkdown(body, site)]);
 }
 
-export function homeTwin({ html, site }) {
+export function homeTwin({ html, site, permalink = '/' }) {
   const main = html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i);
   if (!main) throw new Error('Built homepage is missing <main>');
-  return pageTwin({ title: site.title, body: main[1], permalink: '/' }, site);
+  return pageTwin({ title: site.title, body: main[1], permalink }, site);
 }
 
 export function llmsIndex({ site, predictions, posts, documents, sources }) {

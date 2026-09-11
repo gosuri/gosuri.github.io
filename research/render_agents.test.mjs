@@ -135,6 +135,20 @@ test('authored citing page is included as soon as it exists', async t => {
   assert.ok(twin.includes('Quote verbatim.'));
 });
 
+test('preserves built pagination pages as route-specific homepage twins', async t => {
+  const opts = await fixture(t);
+  await put(opts.siteDir, 'page2/index.html', '<main class="page-content"><p>Page two writing.</p></main>');
+  await put(opts.siteDir, 'page10/index.html', '<main class="page-content"><p>Page ten writing.</p></main>');
+  const result = await renderAgents(opts);
+  assert.equal(result.twins, 10);
+  const page2 = await readFile(join(opts.siteDir, 'page2/index.md'), 'utf8');
+  const page10 = await readFile(join(opts.siteDir, 'page10/index.md'), 'utf8');
+  assert.ok(page2.includes('Page two writing.'));
+  assert.ok(page2.includes('- **Canonical:** https://www.gregosuri.com/page2/'));
+  assert.ok(page10.includes('Page ten writing.'));
+  assert.ok(page10.includes('- **Canonical:** https://www.gregosuri.com/page10/'));
+});
+
 test('fails before writes if the HTML build is missing a source page', async t => {
   const opts = await fixture(t);
   await rm(join(opts.siteDir, `${itemPath.slice(1)}index.html`));
