@@ -7,7 +7,7 @@ year: "2022"
 title: "Single-command deploys better than Amazon, Vercel, Netlify"
 permalink: /predictions/cloud-decentralization/2022-12-02-single-command-deploys-better-than-amazon-vercel-n-rc6c/
 slug_id: 2022-12-02-single-command-deploys-better-than-amazon-vercel-n-rc6c
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Analysis   Should Web2 projects consider running on decentralized infrastructure (Akash Network)"

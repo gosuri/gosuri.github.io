@@ -7,7 +7,7 @@ year: "2025"
 title: "A 15B-parameter LLM was trained over the public internet, matching centralized accuracy"
 permalink: /predictions/decentralized-ai/2025-11-04-a-15b-parameter-llm-was-trained-over-the-public-in-5kwu/
 slug_id: 2025-11-04-a-15b-parameter-llm-was-trained-over-the-public-in-5kwu
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri (PyTorch)"

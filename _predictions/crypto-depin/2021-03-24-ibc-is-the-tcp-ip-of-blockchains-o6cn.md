@@ -7,7 +7,7 @@ year: "2021"
 title: "IBC is the TCP/IP of blockchains"
 permalink: /predictions/crypto-depin/2021-03-24-ibc-is-the-tcp-ip-of-blockchains-o6cn/
 slug_id: 2021-03-24-ibc-is-the-tcp-ip-of-blockchains-o6cn
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AKASH NETWORK (AKT) - Decentralized clouds, Staking, Cosmos & more!  - Interview with CEO Greg Osuri (Michaël van de Poppe)"

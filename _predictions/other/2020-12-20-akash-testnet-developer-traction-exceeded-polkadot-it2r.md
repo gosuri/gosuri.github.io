@@ -7,7 +7,7 @@ year: "2020"
 title: "Akash testnet developer traction exceeded Polkadot's monthly actives"
 permalink: /predictions/other/2020-12-20-akash-testnet-developer-traction-exceeded-polkadot-it2r/
 slug_id: 2020-12-20-akash-testnet-developer-traction-exceeded-polkadot-it2r
-theme_page: /predictions/other/2020/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"The Akashian Challenge: Closing Live Stream\" (Akash Network)"

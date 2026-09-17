@@ -7,7 +7,7 @@ year: "2023"
 title: "95% utilization on A100s, no incentives needed"
 permalink: /predictions/gpu-economics/2023-12-18-95-utilization-on-a100s-no-incentives-needed-dn3c/
 slug_id: 2023-12-18-95-utilization-on-a100s-no-incentives-needed-dn3c
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"

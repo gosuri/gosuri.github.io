@@ -7,7 +7,7 @@ year: "2021"
 title: "The fastest growing cloud in the world during testnet"
 permalink: /predictions/cloud-decentralization/2021-01-21-the-fastest-growing-cloud-in-the-world-during-test-tfa6/
 slug_id: 2021-01-21-the-fastest-growing-cloud-in-the-world-during-test-tfa6
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Web3 on AWS is a bomb waiting to go off"
 permalink: /predictions/cloud-decentralization/2022-08-04-web3-on-aws-is-a-bomb-waiting-to-go-off-2pyy/
 slug_id: 2022-08-04-web3-on-aws-is-a-bomb-waiting-to-go-off-2pyy
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akask Weekly - Aug 3rd 2022 (Akash Network)"

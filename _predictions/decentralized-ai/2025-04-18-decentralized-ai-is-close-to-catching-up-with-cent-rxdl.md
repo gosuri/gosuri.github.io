@@ -7,7 +7,7 @@ year: "2025"
 title: "Decentralized AI is close to catching up with centralized AI"
 permalink: /predictions/decentralized-ai/2025-04-18-decentralized-ai-is-close-to-catching-up-with-cent-rxdl/
 slug_id: 2025-04-18-decentralized-ai-is-close-to-catching-up-with-cent-rxdl
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"

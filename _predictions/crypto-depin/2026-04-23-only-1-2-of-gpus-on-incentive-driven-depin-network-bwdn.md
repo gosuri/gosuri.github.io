@@ -7,7 +7,7 @@ year: "2026"
 title: "Only 1-2% of GPUs on incentive-driven DePIN networks are real"
 permalink: /predictions/crypto-depin/2026-04-23-only-1-2-of-gpus-on-incentive-driven-depin-network-bwdn/
 slug_id: 2026-04-23-only-1-2-of-gpus-on-incentive-driven-depin-network-bwdn
-theme_page: /predictions/crypto-depin/2026/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"

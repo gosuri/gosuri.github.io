@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash will launch \"the world's first GPU marketplace\" fed by post-Merge Ethereum GPUs"
 permalink: /predictions/gpu-economics/2021-05-12-akash-will-launch-the-world-s-first-gpu-marketplac-bsm3/
 slug_id: 2021-05-12-akash-will-launch-the-world-s-first-gpu-marketplac-bsm3
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute\" (Base Layer)"

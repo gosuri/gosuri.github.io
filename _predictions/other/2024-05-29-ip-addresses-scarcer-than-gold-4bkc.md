@@ -7,7 +7,7 @@ year: "2024"
 title: "IP addresses scarcer than gold"
 permalink: /predictions/other/2024-05-29-ip-addresses-scarcer-than-gold-4bkc/
 slug_id: 2024-05-29-ip-addresses-scarcer-than-gold-4bkc
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"

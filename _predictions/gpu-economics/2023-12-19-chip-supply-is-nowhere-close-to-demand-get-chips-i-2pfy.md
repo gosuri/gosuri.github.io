@@ -7,7 +7,7 @@ year: "2023"
 title: "Chip supply is nowhere close to demand — get chips into people's hands"
 permalink: /predictions/gpu-economics/2023-12-19-chip-supply-is-nowhere-close-to-demand-get-chips-i-2pfy/
 slug_id: 2023-12-19-chip-supply-is-nowhere-close-to-demand-get-chips-i-2pfy
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network founder Greg Osuri - Building a Decentralized Computing Marketplace (Crypto Nuggets)"

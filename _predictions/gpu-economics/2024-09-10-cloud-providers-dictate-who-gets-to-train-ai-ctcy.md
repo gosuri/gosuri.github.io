@@ -7,7 +7,7 @@ year: "2024"
 title: "Cloud providers dictate who gets to train AI"
 permalink: /predictions/gpu-economics/2024-09-10-cloud-providers-dictate-who-gets-to-train-ai-ctcy/
 slug_id: 2024-09-10-cloud-providers-dictate-who-gets-to-train-ai-ctcy
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))"

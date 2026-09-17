@@ -7,7 +7,7 @@ year: "2025"
 title: "A 60%-margin layer cannot be a public utility — everyone pays a cloud tax"
 permalink: /predictions/gpu-economics/2025-02-04-a-60-margin-layer-cannot-be-a-public-utility-every-agyu/
 slug_id: 2025-02-04-a-60-margin-layer-cannot-be-a-public-utility-every-agyu
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"

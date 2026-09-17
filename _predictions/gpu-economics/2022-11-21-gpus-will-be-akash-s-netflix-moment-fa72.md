@@ -7,7 +7,7 @@ year: "2022"
 title: "GPUs will be Akash's Netflix moment"
 permalink: /predictions/gpu-economics/2022-11-21-gpus-will-be-akash-s-netflix-moment-fa72/
 slug_id: 2022-11-21-gpus-will-be-akash-s-netflix-moment-fa72
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Ask Akash: Thoughts on usage metrics over the last year (Akash Network)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash + Helium + Solana in tandem within a year"
 permalink: /predictions/crypto-depin/2022-07-23-akash-helium-solana-in-tandem-within-a-year-2zmv/
 slug_id: 2022-07-23-akash-helium-solana-in-tandem-within-a-year-2zmv
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Composability Potential of IBC Enabled Blockchains (Akash Network)"

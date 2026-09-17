@@ -7,7 +7,7 @@ year: "2024"
 title: "DePIN will put crypto center stage beyond DeFi"
 permalink: /predictions/crypto-depin/2024-09-26-depin-will-put-crypto-center-stage-beyond-defi-nyjp/
 slug_id: 2024-09-26-depin-will-put-crypto-center-stage-beyond-defi-nyjp
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"

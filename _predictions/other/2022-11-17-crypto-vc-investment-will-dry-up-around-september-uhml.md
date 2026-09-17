@@ -7,7 +7,7 @@ year: "2022"
 title: "Crypto VC investment will dry up around September 2023"
 permalink: /predictions/other/2022-11-17-crypto-vc-investment-will-dry-up-around-september-uhml/
 slug_id: 2022-11-17-crypto-vc-investment-will-dry-up-around-september-uhml
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 16th 2022 (Akash Network)"

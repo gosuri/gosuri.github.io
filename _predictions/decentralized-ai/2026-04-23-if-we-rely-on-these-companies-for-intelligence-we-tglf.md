@@ -7,7 +7,7 @@ year: "2026"
 title: "If we rely on these companies for intelligence, we lost as a society"
 permalink: /predictions/decentralized-ai/2026-04-23-if-we-rely-on-these-companies-for-intelligence-we-tglf/
 slug_id: 2026-04-23-if-we-rely-on-these-companies-for-intelligence-we-tglf
-theme_page: /predictions/decentralized-ai/2026/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"

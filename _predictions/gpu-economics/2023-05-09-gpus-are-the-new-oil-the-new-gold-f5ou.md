@@ -7,7 +7,7 @@ year: "2023"
 title: "GPUs are the new oil / the new gold"
 permalink: /predictions/gpu-economics/2023-05-09-gpus-are-the-new-oil-the-new-gold-f5ou/
 slug_id: 2023-05-09-gpus-are-the-new-oil-the-new-gold-f5ou
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG (April 26, 2023) (The Bittensor Hub)"

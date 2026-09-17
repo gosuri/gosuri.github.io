@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash GPUs 20-50% cheaper than market"
 permalink: /predictions/gpu-economics/2022-06-29-akash-gpus-20-50-cheaper-than-market-jigw/
 slug_id: 2022-06-29-akash-gpus-20-50-cheaper-than-market-jigw
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 29th (Akash Network)"

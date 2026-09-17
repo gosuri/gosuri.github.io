@@ -7,7 +7,7 @@ year: "2022"
 title: "Only Akash can enable compute futures, because its data is open"
 permalink: /predictions/cloud-decentralization/2022-04-24-only-akash-can-enable-compute-futures-because-its-jzul/
 slug_id: 2022-04-24-only-akash-can-enable-compute-futures-because-its-jzul
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly: Introducing new VP of Engineering, Chanda Dharap (Akash Network)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Generative AI compute demand doubling every four months"
 permalink: /predictions/gpu-economics/2022-11-11-generative-ai-compute-demand-doubling-every-four-m-fueo/
 slug_id: 2022-11-11-generative-ai-compute-demand-doubling-every-four-m-fueo
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 9th 2022 (Akash Network)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "$300B cloud market heading to $400B; Akash as the only open-source cloud"
 permalink: /predictions/cloud-decentralization/2021-05-27-300b-cloud-market-heading-to-400b-akash-as-the-onl-lzia/
 slug_id: 2021-05-27-300b-cloud-market-heading-to-400b-akash-as-the-onl-lzia
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Почему дорого запускать стартап в централизованных облаках? Интервью с Greg Osuri, CEO Akash Network (S3XYBTC)"

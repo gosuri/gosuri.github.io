@@ -7,7 +7,7 @@ year: "2022"
 title: "A PoS chain is only as secure as its market cap"
 permalink: /predictions/crypto-depin/2022-08-14-a-pos-chain-is-only-as-secure-as-its-market-cap-h7qr/
 slug_id: 2022-08-14-a-pos-chain-is-only-as-secure-as-its-market-cap-h7qr
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "IBC Relayers are safer than Bridges  - Here's Why (Akash Network)"

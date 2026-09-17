@@ -7,7 +7,7 @@ year: "2018"
 title: "Data processed doubles every two years"
 permalink: /predictions/other/2018-03-02-data-processed-doubles-every-two-years-nnfq/
 slug_id: 2018-03-02-data-processed-doubles-every-two-years-nnfq
-theme_page: /predictions/other/2018/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)"

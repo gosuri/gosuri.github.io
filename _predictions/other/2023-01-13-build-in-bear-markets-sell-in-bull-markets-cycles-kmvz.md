@@ -7,7 +7,7 @@ year: "2023"
 title: "Build in bear markets, sell in bull markets — cycles take two years"
 permalink: /predictions/other/2023-01-13-build-in-bear-markets-sell-in-bull-markets-cycles-kmvz/
 slug_id: 2023-01-13-build-in-bear-markets-sell-in-bull-markets-cycles-kmvz
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"

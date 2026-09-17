@@ -7,7 +7,7 @@ year: "2026"
 title: "Home networks, not data centers, are where Akash's future is"
 permalink: /predictions/local-compute/2026-03-28-home-networks-not-data-centers-are-where-akash-s-f-6thu/
 slug_id: 2026-03-28-home-networks-not-data-centers-are-where-akash-s-f-6thu
-theme_page: /predictions/local-compute/2026/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"

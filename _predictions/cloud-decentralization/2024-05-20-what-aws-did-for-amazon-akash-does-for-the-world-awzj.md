@@ -7,7 +7,7 @@ year: "2024"
 title: "What AWS did for Amazon, Akash does for the world"
 permalink: /predictions/cloud-decentralization/2024-05-20-what-aws-did-for-amazon-akash-does-for-the-world-awzj/
 slug_id: 2024-05-20-what-aws-did-for-amazon-akash-does-for-the-world-awzj
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Hash Rate - Ep 050 - Akash Decentralized Cloud - Greg Osury (Hash Rate Podcast)"

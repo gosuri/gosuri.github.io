@@ -7,7 +7,7 @@ year: "2024"
 title: "Decentralization's spectrum begins with open source and ends with energy sourcing"
 permalink: /predictions/crypto-depin/2024-11-26-decentralization-s-spectrum-begins-with-open-sourc-nqbm/
 slug_id: 2024-11-26-decentralization-s-spectrum-begins-with-open-sourc-nqbm
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "What is Akash Network? Greg Osuri on Decentralized Cloud Computing | Greg Osuri - Founder of Akash (Genzio)"

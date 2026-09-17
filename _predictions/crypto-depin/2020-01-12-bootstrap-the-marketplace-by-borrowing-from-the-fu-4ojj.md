@@ -7,7 +7,7 @@ year: "2020"
 title: "Bootstrap the marketplace by \"borrowing from the future\""
 permalink: /predictions/crypto-depin/2020-01-12-bootstrap-the-marketplace-by-borrowing-from-the-fu-4ojj/
 slug_id: 2020-01-12-bootstrap-the-marketplace-by-borrowing-from-the-fu-4ojj
-theme_page: /predictions/crypto-depin/2020/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Hashing It Out #70 - Akash Network - Greg Osuri\" (Hashing It Out (The Bitcoin Podcast Network))"

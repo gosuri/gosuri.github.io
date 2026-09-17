@@ -7,7 +7,7 @@ year: "2024"
 title: "1,000 providers and 10ms latency for 98% of the internet"
 permalink: /predictions/cloud-decentralization/2024-06-13-1-000-providers-and-10ms-latency-for-98-of-the-int-tsx7/
 slug_id: 2024-06-13-1-000-providers-and-10ms-latency-for-98-of-the-int-tsx7
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "A Decentralized Compute Marketplace with Greg Osuri (Software Engineering Daily)"

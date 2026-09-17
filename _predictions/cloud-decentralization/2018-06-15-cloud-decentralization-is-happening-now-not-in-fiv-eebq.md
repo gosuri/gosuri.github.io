@@ -7,7 +7,7 @@ year: "2018"
 title: "Cloud decentralization is happening now — not in five to ten years"
 permalink: /predictions/cloud-decentralization/2018-06-15-cloud-decentralization-is-happening-now-not-in-fiv-eebq/
 slug_id: 2018-06-15-cloud-decentralization-is-happening-now-not-in-fiv-eebq
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "S1E2 - Greg Osuri (CryptoChange.News)"

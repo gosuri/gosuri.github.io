@@ -7,7 +7,7 @@ year: "2022"
 title: "\"Akash lets you be sovereign at scale\" — web2 workloads will follow DHH off the cloud"
 permalink: /predictions/cloud-decentralization/2022-10-28-akash-lets-you-be-sovereign-at-scale-web2-workload-imgd/
 slug_id: 2022-10-28-akash-lets-you-be-sovereign-at-scale-web2-workload-imgd
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"

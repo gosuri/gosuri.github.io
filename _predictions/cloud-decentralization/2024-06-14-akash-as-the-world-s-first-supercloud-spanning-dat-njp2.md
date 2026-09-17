@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash as the world's first supercloud, spanning data centers and homes"
 permalink: /predictions/cloud-decentralization/2024-06-14-akash-as-the-world-s-first-supercloud-spanning-dat-njp2/
 slug_id: 2024-06-14-akash-as-the-world-s-first-supercloud-spanning-dat-njp2
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Tech Snippets Today - Greg Osuri - Founder at Akash with Joseph Raczynski (Joseph Raczynski)"

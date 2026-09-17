@@ -7,7 +7,7 @@ year: "2021"
 title: "The invisible Amazon tax on machine learning"
 permalink: /predictions/gpu-economics/2021-05-28-the-invisible-amazon-tax-on-machine-learning-3njm/
 slug_id: 2021-05-28-the-invisible-amazon-tax-on-machine-learning-3njm
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "We're live with Greg Osuri from Akash Network (AKT) (Bittrex Global)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Feature-length AI-generated films are coming very soon"
 permalink: /predictions/other/2022-11-03-feature-length-ai-generated-films-are-coming-very-dixz/
 slug_id: 2022-11-03-feature-length-ai-generated-films-are-coming-very-dixz
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 2nd 2022 (Akash Network)"

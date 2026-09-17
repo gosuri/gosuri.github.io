@@ -7,7 +7,7 @@ year: "2023"
 title: "GPU supply won't catch demand for years"
 permalink: /predictions/gpu-economics/2023-05-17-gpu-supply-won-t-catch-demand-for-years-n5h4/
 slug_id: 2023-05-17-gpu-supply-won-t-catch-demand-for-years-n5h4
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Mission: DeFi EP 98 - Can Akash be a major player in AI with their GPU market? Founder Greg Osuri (Mission: DeFi)"

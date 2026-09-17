@@ -7,7 +7,7 @@ year: "2021"
 title: "World's first peer-to-peer cloud marketplace"
 permalink: /predictions/cloud-decentralization/2021-02-08-world-s-first-peer-to-peer-cloud-marketplace-yler/
 slug_id: 2021-02-08-world-s-first-peer-to-peer-cloud-marketplace-yler
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"

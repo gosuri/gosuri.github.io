@@ -7,7 +7,7 @@ year: "2024"
 title: "Radically open source: 500 contributors, meetings on-chain, AI training on the notes"
 permalink: /predictions/other/2024-06-11-radically-open-source-500-contributors-meetings-on-2ugg/
 slug_id: 2024-06-11-radically-open-source-500-contributors-meetings-on-2ugg
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Keynote from Greg Osuri: \\\"Journey to Acceleration & Beyond\\\" - Akash Accelerate '24\" (Akash Network)"

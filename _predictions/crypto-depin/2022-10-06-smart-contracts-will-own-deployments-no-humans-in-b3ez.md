@@ -7,7 +7,7 @@ year: "2022"
 title: "Smart contracts will own deployments — no humans in the middle"
 permalink: /predictions/crypto-depin/2022-10-06-smart-contracts-will-own-deployments-no-humans-in-b3ez/
 slug_id: 2022-10-06-smart-contracts-will-own-deployments-no-humans-in-b3ez
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 5th 2022 (Akash Network)"

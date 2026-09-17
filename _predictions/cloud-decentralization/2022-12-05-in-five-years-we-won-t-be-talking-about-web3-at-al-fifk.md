@@ -7,7 +7,7 @@ year: "2022"
 title: "In five years we won't be talking about web3 at all"
 permalink: /predictions/cloud-decentralization/2022-12-05-in-five-years-we-won-t-be-talking-about-web3-at-al-fifk/
 slug_id: 2022-12-05-in-five-years-we-won-t-be-talking-about-web3-at-al-fifk
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 30th 2022 (Akash Network)"

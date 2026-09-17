@@ -7,7 +7,7 @@ year: "2022"
 title: "Evergreen: a home miner that runs Akash when you're not using it"
 permalink: /predictions/local-compute/2022-10-28-evergreen-a-home-miner-that-runs-akash-when-you-re-zcxm/
 slug_id: 2022-10-28-evergreen-a-home-miner-that-runs-akash-when-you-re-zcxm
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"

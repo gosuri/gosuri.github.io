@@ -7,7 +7,7 @@ year: "2018"
 title: "Decentralization is key for future society"
 permalink: /predictions/cloud-decentralization/2018-04-23-decentralization-is-key-for-future-society-sfem/
 slug_id: 2018-04-23-decentralization-is-key-for-future-society-sfem
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Panel: Decentralized Storage (Block 2thefuture)"

@@ -7,7 +7,7 @@ year: "2018"
 title: "Three companies will control the internet"
 permalink: /predictions/cloud-decentralization/2018-03-16-three-companies-will-control-the-internet-kesq/
 slug_id: 2018-03-16-three-companies-will-control-the-internet-kesq
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Decentralized Future of Cloud Infrastructure (Outlyer)"

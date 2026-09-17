@@ -7,7 +7,7 @@ year: "2022"
 title: "Cloud repatriation: 40x savings building in-house GPUs"
 permalink: /predictions/gpu-economics/2022-12-11-cloud-repatriation-40x-savings-building-in-house-g-p3ub/
 slug_id: 2022-12-11-cloud-repatriation-40x-savings-building-in-house-g-p3ub
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Ask Akash - What problem does Akash solve? Can it scale? (Akash Network)"

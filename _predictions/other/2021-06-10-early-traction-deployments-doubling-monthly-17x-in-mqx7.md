@@ -7,7 +7,7 @@ year: "2021"
 title: "Early traction: deployments doubling monthly, 17x in two months"
 permalink: /predictions/other/2021-06-10-early-traction-deployments-doubling-monthly-17x-in-mqx7/
 slug_id: 2021-06-10-early-traction-deployments-doubling-monthly-17x-in-mqx7
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Networks (And How Handshake Works Together) (SkyInclude)"

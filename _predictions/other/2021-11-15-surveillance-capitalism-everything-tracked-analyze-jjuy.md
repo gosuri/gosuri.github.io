@@ -7,7 +7,7 @@ year: "2021"
 title: "Surveillance capitalism: everything tracked, analyzed, monetized"
 permalink: /predictions/other/2021-11-15-surveillance-capitalism-everything-tracked-analyze-jjuy/
 slug_id: 2021-11-15-surveillance-capitalism-everything-tracked-analyze-jjuy
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Priv8 Virtual Privacy Summit 2021: Featuring Glenn Greenwald, Dr. Steven Waterhouse, and more! (Orchid Labs)"

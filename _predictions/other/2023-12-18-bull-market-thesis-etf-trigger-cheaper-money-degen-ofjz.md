@@ -7,7 +7,7 @@ year: "2023"
 title: "Bull-market thesis: ETF trigger + cheaper money + degeneracy"
 permalink: /predictions/other/2023-12-18-bull-market-thesis-etf-trigger-cheaper-money-degen-ofjz/
 slug_id: 2023-12-18-bull-market-thesis-etf-trigger-cheaper-money-degen-ofjz
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"

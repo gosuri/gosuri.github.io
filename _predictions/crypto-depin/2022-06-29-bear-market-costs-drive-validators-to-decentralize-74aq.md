@@ -7,7 +7,7 @@ year: "2022"
 title: "Bear-market costs drive validators to decentralized cloud"
 permalink: /predictions/crypto-depin/2022-06-29-bear-market-costs-drive-validators-to-decentralize-74aq/
 slug_id: 2022-06-29-bear-market-costs-drive-validators-to-decentralize-74aq
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 29th (Akash Network)"

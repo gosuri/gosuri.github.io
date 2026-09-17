@@ -7,7 +7,7 @@ year: "2024"
 title: "A ~2-year window to decentralize before hyperscalers regain the advantage"
 permalink: /predictions/cloud-decentralization/2024-08-12-a-2-year-window-to-decentralize-before-hyperscaler-ht4p/
 slug_id: 2024-08-12-a-2-year-window-to-decentralize-before-hyperscaler-ht4p
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "BASS 2024 10 Ben Fielding, Greg Osuri, Guy Wuollet, Steven Willinger (Stanford Blockchain Club)"

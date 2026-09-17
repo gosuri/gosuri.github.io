@@ -7,7 +7,7 @@ year: "2021"
 title: "Deplatforming is weaponized — Akash as disaster recovery"
 permalink: /predictions/cloud-decentralization/2021-10-12-deplatforming-is-weaponized-akash-as-disaster-reco-cxsk/
 slug_id: 2021-10-12-deplatforming-is-weaponized-akash-as-disaster-reco-cxsk
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"

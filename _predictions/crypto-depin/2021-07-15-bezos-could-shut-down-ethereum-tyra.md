@@ -7,7 +7,7 @@ year: "2021"
 title: "Bezos could shut down Ethereum"
 permalink: /predictions/crypto-depin/2021-07-15-bezos-could-shut-down-ethereum-tyra/
 slug_id: 2021-07-15-bezos-could-shut-down-ethereum-tyra
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash Network Deep Dive: The Unstoppable Cloud, Powered by Cosmos!\" (Cryptocito)"

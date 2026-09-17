@@ -7,7 +7,7 @@ year: "2024"
 title: "Society pays an invisible \"cloud tax\" of 50%"
 permalink: /predictions/cloud-decentralization/2024-11-25-society-pays-an-invisible-cloud-tax-of-50-wiw5/
 slug_id: 2024-11-25-society-pays-an-invisible-cloud-tax-of-50-wiw5
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri | Trump's impact on crypto x AI, why DePIN is inevitable, and Akash Network revenue ATH's (Proof of Coverage Media)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "OpenAI API access is already more valuable than money; concentrated AGI is the danger"
 permalink: /predictions/other/2023-05-09-openai-api-access-is-already-more-valuable-than-mo-zwzg/
 slug_id: 2023-05-09-openai-api-access-is-already-more-valuable-than-mo-zwzg
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG (April 26, 2023) (The Bittensor Hub)"

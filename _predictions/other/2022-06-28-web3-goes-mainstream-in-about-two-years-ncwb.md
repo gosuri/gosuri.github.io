@@ -7,7 +7,7 @@ year: "2022"
 title: "Web3 goes mainstream in about two years"
 permalink: /predictions/other/2022-06-28-web3-goes-mainstream-in-about-two-years-ncwb/
 slug_id: 2022-06-28-web3-goes-mainstream-in-about-two-years-ncwb
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralized Cloud - DCENTRAL Austin 2022 (Dcentral Con)"

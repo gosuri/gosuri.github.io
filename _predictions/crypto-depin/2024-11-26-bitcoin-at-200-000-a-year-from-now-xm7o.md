@@ -7,7 +7,7 @@ year: "2024"
 title: "Bitcoin at $200,000 a year from now"
 permalink: /predictions/crypto-depin/2024-11-26-bitcoin-at-200-000-a-year-from-now-xm7o/
 slug_id: 2024-11-26-bitcoin-at-200-000-a-year-from-now-xm7o
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"

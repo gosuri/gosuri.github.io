@@ -7,7 +7,7 @@ year: "2024"
 title: "The 2018 whitepaper called the ML/GPU boom seven years early"
 permalink: /predictions/gpu-economics/2024-06-11-the-2018-whitepaper-called-the-ml-gpu-boom-seven-y-vdrv/
 slug_id: 2024-06-11-the-2018-whitepaper-called-the-ml-gpu-boom-seven-y-vdrv
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Keynote from Greg Osuri: \\\"Journey to Acceleration & Beyond\\\" - Akash Accelerate '24\" (Akash Network)"

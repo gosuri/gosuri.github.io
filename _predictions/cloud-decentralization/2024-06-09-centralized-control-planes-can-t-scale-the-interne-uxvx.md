@@ -7,7 +7,7 @@ year: "2024"
 title: "Centralized control planes can't scale — the internet's decentralized roots are the answer"
 permalink: /predictions/cloud-decentralization/2024-06-09-centralized-control-planes-can-t-scale-the-interne-uxvx/
 slug_id: 2024-06-09-centralized-control-planes-can-t-scale-the-interne-uxvx
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"

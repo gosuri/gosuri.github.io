@@ -7,7 +7,7 @@ year: "2022"
 title: "ETH merge will flood Akash with cheap GPUs"
 permalink: /predictions/gpu-economics/2022-07-28-eth-merge-will-flood-akash-with-cheap-gpus-txm7/
 slug_id: 2022-07-28-eth-merge-will-flood-akash-with-cheap-gpus-txm7
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 27th 2022 (Akash Network)"

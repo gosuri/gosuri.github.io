@@ -7,7 +7,7 @@ year: "2021"
 title: "Proof-of-stake transitions will flood the market with GPUs for Akash"
 permalink: /predictions/gpu-economics/2021-03-19-proof-of-stake-transitions-will-flood-the-market-w-fprl/
 slug_id: 2021-03-19-proof-of-stake-transitions-will-flood-the-market-w-fprl
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Sunny Aggarwal"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Sunny Aggarwal, Greg Osuri and Adam Bozanich (Akash Network)"

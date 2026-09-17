@@ -7,7 +7,7 @@ year: "2023"
 title: "Bring the compute to the data — Teslas and PlayStations on Akash"
 permalink: /predictions/local-compute/2023-12-11-bring-the-compute-to-the-data-teslas-and-playstati-t6ni/
 slug_id: 2023-12-11-bring-the-compute-to-the-data-teslas-and-playstati-t6ni
-theme_page: /predictions/local-compute/2023/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"

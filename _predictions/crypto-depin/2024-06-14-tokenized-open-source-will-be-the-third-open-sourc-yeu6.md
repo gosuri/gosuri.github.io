@@ -7,7 +7,7 @@ year: "2024"
 title: "Tokenized open source will be the third open source business model"
 permalink: /predictions/crypto-depin/2024-06-14-tokenized-open-source-will-be-the-third-open-sourc-yeu6/
 slug_id: 2024-06-14-tokenized-open-source-will-be-the-third-open-sourc-yeu6
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Tech Snippets Today - Greg Osuri - Founder at Akash with Joseph Raczynski (Joseph Raczynski)"

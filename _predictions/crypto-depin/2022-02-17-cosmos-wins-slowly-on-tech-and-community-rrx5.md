@@ -7,7 +7,7 @@ year: "2022"
 title: "Cosmos wins slowly, on tech and community"
 permalink: /predictions/crypto-depin/2022-02-17-cosmos-wins-slowly-on-tech-and-community-rrx5/
 slug_id: 2022-02-17-cosmos-wins-slowly-on-tech-and-community-rrx5
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Splitting ATOMs: How decentralized is Cosmos? ⚛️ (Cryptocito)"

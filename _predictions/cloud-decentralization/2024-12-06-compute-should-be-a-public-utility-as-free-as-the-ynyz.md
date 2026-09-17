@@ -7,7 +7,7 @@ year: "2024"
 title: "Compute should be a public utility, \"as free as the air we breathe\""
 permalink: /predictions/cloud-decentralization/2024-12-06-compute-should-be-a-public-utility-as-free-as-the-ynyz/
 slug_id: 2024-12-06-compute-should-be-a-public-utility-as-free-as-the-ynyz
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)"

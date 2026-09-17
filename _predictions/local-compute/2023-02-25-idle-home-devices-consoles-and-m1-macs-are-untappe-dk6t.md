@@ -7,7 +7,7 @@ year: "2023"
 title: "Idle home devices — consoles and M1 Macs — are untapped compute"
 permalink: /predictions/local-compute/2023-02-25-idle-home-devices-consoles-and-m1-macs-are-untappe-dk6t/
 slug_id: 2023-02-25-idle-home-devices-consoles-and-m1-macs-are-untappe-dk6t
-theme_page: /predictions/local-compute/2023/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri: Web2 underutilizes compute resources & protocols like #Akash correct these. #shorts (Web3 Working Group)"

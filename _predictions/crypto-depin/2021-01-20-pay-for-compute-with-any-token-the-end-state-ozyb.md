@@ -7,7 +7,7 @@ year: "2021"
 title: "Pay for compute with any token — the end state"
 permalink: /predictions/crypto-depin/2021-01-20-pay-for-compute-with-any-token-the-end-state-ozyb/
 slug_id: 2021-01-20-pay-for-compute-with-any-token-the-end-state-ozyb
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Conversations with Jack ft Greg Osuri - S1E1 - by OmniFlix Network & Citizen Cosmos (OmniFlix Network)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Serving Apple's users would take a billion H100s — only ~700,000 exist"
 permalink: /predictions/gpu-economics/2024-10-02-serving-apple-s-users-would-take-a-billion-h100s-o-tra3/
 slug_id: 2024-10-02-serving-apple-s-users-would-take-a-billion-h100s-o-tra3
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out.\" (Block Fuel)"

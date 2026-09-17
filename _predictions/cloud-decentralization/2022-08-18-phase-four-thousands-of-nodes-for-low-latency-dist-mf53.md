@@ -7,7 +7,7 @@ year: "2022"
 title: "Phase four: thousands of nodes for low-latency distributed compute"
 permalink: /predictions/cloud-decentralization/2022-08-18-phase-four-thousands-of-nodes-for-low-latency-dist-mf53/
 slug_id: 2022-08-18-phase-four-thousands-of-nodes-for-low-latency-dist-mf53
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 17th 2022 (Akash Network)"

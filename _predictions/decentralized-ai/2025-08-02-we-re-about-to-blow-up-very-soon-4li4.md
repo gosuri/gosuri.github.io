@@ -7,7 +7,7 @@ year: "2025"
 title: "\"We're about to blow up very soon\""
 permalink: /predictions/decentralized-ai/2025-08-02-we-re-about-to-blow-up-very-soon-4li4/
 slug_id: 2025-08-02-we-re-about-to-blow-up-very-soon-4li4
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"

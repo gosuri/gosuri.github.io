@@ -7,7 +7,7 @@ year: "2020"
 title: "For batch workloads, cheap enough compute makes latency irrelevant"
 permalink: /predictions/gpu-economics/2020-01-12-for-batch-workloads-cheap-enough-compute-makes-lat-4ojj/
 slug_id: 2020-01-12-for-batch-workloads-cheap-enough-compute-makes-lat-4ojj
-theme_page: /predictions/gpu-economics/2020/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Hashing It Out #70 - Akash Network - Greg Osuri\" (Hashing It Out (The Bitcoin Podcast Network))"

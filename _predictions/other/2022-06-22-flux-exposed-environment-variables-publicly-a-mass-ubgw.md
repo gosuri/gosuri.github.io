@@ -7,7 +7,7 @@ year: "2022"
 title: "Flux exposed environment variables publicly — a \"massive security hole\""
 permalink: /predictions/other/2022-06-22-flux-exposed-environment-variables-publicly-a-mass-ubgw/
 slug_id: 2022-06-22-flux-exposed-environment-variables-publicly-a-mass-ubgw
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 22nd (Akash Network)"

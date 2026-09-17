@@ -7,7 +7,7 @@ year: "2025"
 title: "This era will be remembered as the start of human acceleration"
 permalink: /predictions/other/2025-06-03-this-era-will-be-remembered-as-the-start-of-human-w3xo/
 slug_id: 2025-06-03-this-era-will-be-remembered-as-the-start-of-human-w3xo
-theme_page: /predictions/other/2025/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"

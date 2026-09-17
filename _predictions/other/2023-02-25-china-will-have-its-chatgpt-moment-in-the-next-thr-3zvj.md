@@ -7,7 +7,7 @@ year: "2023"
 title: "China will have its ChatGPT moment in the next three months"
 permalink: /predictions/other/2023-02-25-china-will-have-its-chatgpt-moment-in-the-next-thr-3zvj/
 slug_id: 2023-02-25-china-will-have-its-chatgpt-moment-in-the-next-thr-3zvj
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network Live with Greg Osuri: Akash's progress in 2023, open community development, and more (Akash Network)"

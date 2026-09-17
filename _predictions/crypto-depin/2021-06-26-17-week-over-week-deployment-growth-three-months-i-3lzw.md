@@ -7,7 +7,7 @@ year: "2021"
 title: "17% week-over-week deployment growth three months in"
 permalink: /predictions/crypto-depin/2021-06-26-17-week-over-week-deployment-growth-three-months-i-3lzw/
 slug_id: 2021-06-26-17-week-over-week-deployment-growth-three-months-i-3lzw
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Livestream w/ Sunny Aggarwal & Greg Osuri (Akash Network)"

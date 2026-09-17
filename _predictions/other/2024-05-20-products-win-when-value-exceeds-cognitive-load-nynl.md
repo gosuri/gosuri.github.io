@@ -7,7 +7,7 @@ year: "2024"
 title: "Products win when value exceeds cognitive load"
 permalink: /predictions/other/2024-05-20-products-win-when-value-exceeds-cognitive-load-nynl/
 slug_id: 2024-05-20-products-win-when-value-exceeds-cognitive-load-nynl
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Hash Rate - Ep 050 - Akash Decentralized Cloud - Greg Osury (Hash Rate Podcast)"

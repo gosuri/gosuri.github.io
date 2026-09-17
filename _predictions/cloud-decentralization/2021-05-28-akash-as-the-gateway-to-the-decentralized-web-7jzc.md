@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash as the gateway to the decentralized web"
 permalink: /predictions/cloud-decentralization/2021-05-28-akash-as-the-gateway-to-the-decentralized-web-7jzc/
 slug_id: 2021-05-28-akash-as-the-gateway-to-the-decentralized-web-7jzc
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "We're live with Greg Osuri from Akash Network (AKT) (Bittrex Global)"

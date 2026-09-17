@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash is one-third to one-fifth the price of AWS, driving miner arbitrage"
 permalink: /predictions/gpu-economics/2021-12-15-akash-is-one-third-to-one-fifth-the-price-of-aws-d-mxcm/
 slug_id: 2021-12-15-akash-is-one-third-to-one-fifth-the-price-of-aws-d-mxcm
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DeFi Decoded - Greg Osuri, CEO of Akash on why DeFi needs a Decentralized Internet to succeed (Ninepoint Partners)"

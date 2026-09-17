@@ -7,7 +7,7 @@ year: "2020"
 title: "Websites hosted by a blockchain network at mainnet 2"
 permalink: /predictions/crypto-depin/2020-12-20-websites-hosted-by-a-blockchain-network-at-mainnet-yqnc/
 slug_id: 2020-12-20-websites-hosted-by-a-blockchain-network-at-mainnet-yqnc
-theme_page: /predictions/crypto-depin/2020/
+theme_page: /predictions/crypto-depin/
 speaker: "Adam Bozanich"
 speaker_status: "attributed"
 source: "\"The Akashian Challenge: Closing Live Stream\" (Akash Network)"

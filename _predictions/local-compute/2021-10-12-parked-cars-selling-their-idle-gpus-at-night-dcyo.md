@@ -7,7 +7,7 @@ year: "2021"
 title: "Parked cars selling their idle GPUs at night"
 permalink: /predictions/local-compute/2021-10-12-parked-cars-selling-their-idle-gpus-at-night-dcyo/
 slug_id: 2021-10-12-parked-cars-selling-their-idle-gpus-at-night-dcyo
-theme_page: /predictions/local-compute/2021/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"

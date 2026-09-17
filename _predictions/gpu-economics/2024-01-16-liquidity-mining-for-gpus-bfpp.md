@@ -7,7 +7,7 @@ year: "2024"
 title: "Liquidity mining for GPUs"
 permalink: /predictions/gpu-economics/2024-01-16-liquidity-mining-for-gpus-bfpp/
 slug_id: 2024-01-16-liquidity-mining-for-gpus-bfpp
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash: The Crypto-Powered Decentralized Supercloud\" (The Edge Podcast)"

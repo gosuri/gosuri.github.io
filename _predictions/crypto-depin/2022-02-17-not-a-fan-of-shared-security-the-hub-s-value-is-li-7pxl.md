@@ -7,7 +7,7 @@ year: "2022"
 title: "Not a fan of shared security; the Hub's value is liquidity and service discovery"
 permalink: /predictions/crypto-depin/2022-02-17-not-a-fan-of-shared-security-the-hub-s-value-is-li-7pxl/
 slug_id: 2022-02-17-not-a-fan-of-shared-security-the-hub-s-value-is-li-7pxl
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Splitting ATOMs: How decentralized is Cosmos? ⚛️ (Cryptocito)"

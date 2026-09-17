@@ -7,7 +7,7 @@ year: "2023"
 title: "AI complexity is doubling every six months"
 permalink: /predictions/gpu-economics/2023-02-18-ai-complexity-is-doubling-every-six-months-gvvt/
 slug_id: 2023-02-18-ai-complexity-is-doubling-every-six-months-gvvt
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"

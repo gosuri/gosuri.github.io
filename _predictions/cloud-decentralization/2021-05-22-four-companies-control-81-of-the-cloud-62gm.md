@@ -7,7 +7,7 @@ year: "2021"
 title: "Four companies control 81% of the cloud"
 permalink: /predictions/cloud-decentralization/2021-05-22-four-companies-control-81-of-the-cloud-62gm/
 slug_id: 2021-05-22-four-companies-control-81-of-the-cloud-62gm
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Livestream: exiledsurfer and Greg Osuri (Akash Network)"

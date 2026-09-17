@@ -7,7 +7,7 @@ year: "2025"
 title: "Inference is better at the edge"
 permalink: /predictions/local-compute/2025-10-10-inference-is-better-at-the-edge-5zr5/
 slug_id: 2025-10-10-inference-is-better-at-the-edge-5zr5
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"

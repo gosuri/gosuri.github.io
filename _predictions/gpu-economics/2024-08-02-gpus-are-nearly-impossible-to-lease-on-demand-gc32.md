@@ -7,7 +7,7 @@ year: "2024"
 title: "GPUs are nearly impossible to lease on demand"
 permalink: /predictions/gpu-economics/2024-08-02-gpus-are-nearly-impossible-to-lease-on-demand-gc32/
 slug_id: 2024-08-02-gpus-are-nearly-impossible-to-lease-on-demand-gc32
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri of Akash on Unlocking DePIN Capabilities for AI Model Training (Nebular)"

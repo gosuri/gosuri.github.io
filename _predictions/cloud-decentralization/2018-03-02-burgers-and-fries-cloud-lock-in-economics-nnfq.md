@@ -7,7 +7,7 @@ year: "2018"
 title: "\"Burgers and fries\" cloud lock-in economics"
 permalink: /predictions/cloud-decentralization/2018-03-02-burgers-and-fries-cloud-lock-in-economics-nnfq/
 slug_id: 2018-03-02-burgers-and-fries-cloud-lock-in-economics-nnfq
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "$2M home supercluster pays back in four years via Akash"
 permalink: /predictions/local-compute/2025-04-02-2m-home-supercluster-pays-back-in-four-years-via-a-sqg7/
 slug_id: 2025-04-02-2m-home-supercluster-pays-back-in-four-years-via-a-sqg7
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"

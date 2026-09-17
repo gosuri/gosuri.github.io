@@ -7,7 +7,7 @@ year: "2024"
 title: "An unstoppable machine-run GPU network"
 permalink: /predictions/decentralized-ai/2024-05-20-an-unstoppable-machine-run-gpu-network-bcwz/
 slug_id: 2024-05-20-an-unstoppable-machine-run-gpu-network-bcwz
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Hash Rate - Ep 050 - Akash Decentralized Cloud - Greg Osury (Hash Rate Podcast)"

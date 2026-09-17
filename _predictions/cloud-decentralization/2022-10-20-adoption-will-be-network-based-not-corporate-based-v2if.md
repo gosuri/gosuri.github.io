@@ -7,7 +7,7 @@ year: "2022"
 title: "Adoption will be network-based, not corporate-based"
 permalink: /predictions/cloud-decentralization/2022-10-20-adoption-will-be-network-based-not-corporate-based-v2if/
 slug_id: 2022-10-20-adoption-will-be-network-based-not-corporate-based-v2if
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 19th 2022 (Akash Network)"

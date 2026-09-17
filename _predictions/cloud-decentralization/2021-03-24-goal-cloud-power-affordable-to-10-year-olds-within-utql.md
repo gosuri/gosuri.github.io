@@ -7,7 +7,7 @@ year: "2021"
 title: "Goal: cloud power affordable to 10-year-olds within four years"
 permalink: /predictions/cloud-decentralization/2021-03-24-goal-cloud-power-affordable-to-10-year-olds-within-utql/
 slug_id: 2021-03-24-goal-cloud-power-affordable-to-10-year-olds-within-utql
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AKASH NETWORK (AKT) - Decentralized clouds, Staking, Cosmos & more!  - Interview with CEO Greg Osuri (Michaël van de Poppe)"

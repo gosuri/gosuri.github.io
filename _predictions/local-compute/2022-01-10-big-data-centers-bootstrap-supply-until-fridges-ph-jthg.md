@@ -7,7 +7,7 @@ year: "2022"
 title: "Big data centers bootstrap supply until fridges, phones, and cars take over"
 permalink: /predictions/local-compute/2022-01-10-big-data-centers-bootstrap-supply-until-fridges-ph-jthg/
 slug_id: 2022-01-10-big-data-centers-bootstrap-supply-until-fridges-ph-jthg
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash (40%+ staking APY) is taking over the $Bn Cloud Computing Market by AWS? Greg Osuri EXCLUSIVE (Digital Asset Yield Summit)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Nobody who discovers ASI will share it — so ASI access must be a public utility"
 permalink: /predictions/decentralized-ai/2024-06-18-nobody-who-discovers-asi-will-share-it-so-asi-acce-6evb/
 slug_id: 2024-06-18-nobody-who-discovers-asi-will-share-it-so-asi-acce-6evb
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"

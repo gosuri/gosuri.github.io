@@ -7,7 +7,7 @@ year: "2022"
 title: "The future is bringing back your own data center, offset by Akash"
 permalink: /predictions/cloud-decentralization/2022-09-29-the-future-is-bringing-back-your-own-data-center-o-e4jt/
 slug_id: 2022-09-29-the-future-is-bringing-back-your-own-data-center-o-e4jt
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 28th 2022 (Akash Network)"

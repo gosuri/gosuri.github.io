@@ -7,7 +7,7 @@ year: "2022"
 title: "USDC payments with a ~20% take-fee that buys and burns AKT"
 permalink: /predictions/crypto-depin/2022-11-03-usdc-payments-with-a-20-take-fee-that-buys-and-bur-sve3/
 slug_id: 2022-11-03-usdc-payments-with-a-20-take-fee-that-buys-and-bur-sve3
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 2nd 2022 (Akash Network)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "Privacy infringement going mainstream will make privacy valuable"
 permalink: /predictions/other/2021-11-19-privacy-infringement-going-mainstream-will-make-pr-pdtk/
 slug_id: 2021-11-19-privacy-infringement-going-mainstream-will-make-pr-pdtk
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Priv8 Virtual Summit: Greg Osuri, Tor Bair, Ari Paul's Take on the Decentralized Future (Orchid Labs)"

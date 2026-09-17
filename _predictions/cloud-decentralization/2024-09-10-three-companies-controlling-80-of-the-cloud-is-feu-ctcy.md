@@ -7,7 +7,7 @@ year: "2024"
 title: "Three companies controlling 80% of the cloud is feudalism"
 permalink: /predictions/cloud-decentralization/2024-09-10-three-companies-controlling-80-of-the-cloud-is-feu-ctcy/
 slug_id: 2024-09-10-three-companies-controlling-80-of-the-cloud-is-feu-ctcy
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))"

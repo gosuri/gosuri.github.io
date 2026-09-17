@@ -7,7 +7,7 @@ year: "2021"
 title: "Cloud is a public utility that must be taken back from oligopolies"
 permalink: /predictions/cloud-decentralization/2021-08-04-cloud-is-a-public-utility-that-must-be-taken-back-6hn2/
 slug_id: 2021-08-04-cloud-is-a-public-utility-that-must-be-taken-back-6hn2
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network Is The Airbnb Of Cloud (TFiR)"

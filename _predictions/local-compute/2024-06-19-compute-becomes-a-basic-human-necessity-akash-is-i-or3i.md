@@ -7,7 +7,7 @@ year: "2024"
 title: "Compute becomes a basic human necessity; Akash is its currency"
 permalink: /predictions/local-compute/2024-06-19-compute-becomes-a-basic-human-necessity-akash-is-i-or3i/
 slug_id: 2024-06-19-compute-becomes-a-basic-human-necessity-akash-is-i-or3i
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"

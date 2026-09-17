@@ -7,7 +7,7 @@ year: "2019"
 title: "Akash as a new operating system for the internet tapping 85% unused capacity"
 permalink: /predictions/cloud-decentralization/2019-08-06-akash-as-a-new-operating-system-for-the-internet-t-27bo/
 slug_id: 2019-08-06-akash-as-a-new-operating-system-for-the-internet-t-27bo
-theme_page: /predictions/cloud-decentralization/2019/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO Overclock Labs & Akash Network (Techpost)"

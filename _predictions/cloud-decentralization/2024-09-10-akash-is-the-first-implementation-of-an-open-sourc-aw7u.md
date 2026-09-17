@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash is the first implementation of an open source supercloud"
 permalink: /predictions/cloud-decentralization/2024-09-10-akash-is-the-first-implementation-of-an-open-sourc-aw7u/
 slug_id: 2024-09-10-akash-is-the-first-implementation-of-an-open-sourc-aw7u
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralized solutions for cloud computing and AI  📌 Greg Osuri, Akash @ DePIN Day Austin (Fluence)"

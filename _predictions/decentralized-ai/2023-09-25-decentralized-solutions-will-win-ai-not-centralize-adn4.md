@@ -7,7 +7,7 @@ year: "2023"
 title: "Decentralized solutions will win AI, not centralized ones"
 permalink: /predictions/decentralized-ai/2023-09-25-decentralized-solutions-will-win-ai-not-centralize-adn4/
 slug_id: 2023-09-25-decentralized-solutions-will-win-ai-not-centralize-adn4
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)"

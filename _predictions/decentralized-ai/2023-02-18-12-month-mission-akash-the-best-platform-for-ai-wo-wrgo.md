@@ -7,7 +7,7 @@ year: "2023"
 title: "12-month mission: Akash the best platform for AI workloads"
 permalink: /predictions/decentralized-ai/2023-02-18-12-month-mission-akash-the-best-platform-for-ai-wo-wrgo/
 slug_id: 2023-02-18-12-month-mission-akash-the-best-platform-for-ai-wo-wrgo
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"

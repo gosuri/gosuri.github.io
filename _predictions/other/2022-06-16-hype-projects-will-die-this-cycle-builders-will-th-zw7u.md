@@ -7,7 +7,7 @@ year: "2022"
 title: "Hype projects will die this cycle; builders will thrive"
 permalink: /predictions/other/2022-06-16-hype-projects-will-die-this-cycle-builders-will-th-zw7u/
 slug_id: 2022-06-16-hype-projects-will-die-this-cycle-builders-will-th-zw7u
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 15th (Akash Network)"

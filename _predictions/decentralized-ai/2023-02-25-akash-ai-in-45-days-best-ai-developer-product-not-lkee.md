@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash AI in 45 days — best AI developer product, not a crypto product"
 permalink: /predictions/decentralized-ai/2023-02-25-akash-ai-in-45-days-best-ai-developer-product-not-lkee/
 slug_id: 2023-02-25-akash-ai-in-45-days-best-ai-developer-product-not-lkee
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network Live with Greg Osuri: Akash's progress in 2023, open community development, and more (Akash Network)"

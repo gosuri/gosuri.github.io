@@ -7,7 +7,7 @@ year: "2024"
 title: "NVIDIA is backlogged 18 months to 2 years on H100s"
 permalink: /predictions/gpu-economics/2024-10-02-nvidia-is-backlogged-18-months-to-2-years-on-h100s-tra3/
 slug_id: 2024-10-02-nvidia-is-backlogged-18-months-to-2-years-on-h100s-tra3
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out.\" (Block Fuel)"

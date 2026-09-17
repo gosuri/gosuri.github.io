@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash as a multi-trillion-dollar internet of compute"
 permalink: /predictions/cloud-decentralization/2024-06-19-akash-as-a-multi-trillion-dollar-internet-of-compu-4cnx/
 slug_id: 2024-06-19-akash-as-a-multi-trillion-dollar-internet-of-compu-4cnx
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Jesse"
 speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "The cloud of the future is a planet-wide mesh"
 permalink: /predictions/cloud-decentralization/2025-07-01-the-cloud-of-the-future-is-a-planet-wide-mesh-om3g/
 slug_id: 2025-07-01-the-cloud-of-the-future-is-a-planet-wide-mesh-om3g
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Starcluster (Akash Network)"

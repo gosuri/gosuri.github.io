@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash is the only place to get an H100 on demand"
 permalink: /predictions/gpu-economics/2024-06-18-akash-is-the-only-place-to-get-an-h100-on-demand-6evb/
 slug_id: 2024-06-18-akash-is-the-only-place-to-get-an-h100-on-demand-6evb
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"

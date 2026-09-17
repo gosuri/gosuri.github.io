@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash is the foundational decentralized layer to rebuild web3's centralized dependencies"
 permalink: /predictions/cloud-decentralization/2022-08-12-akash-is-the-foundational-decentralized-layer-to-r-d3d2/
 slug_id: 2022-08-12-akash-is-the-foundational-decentralized-layer-to-r-d3d2
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 10th 2022 (Akash Network)"

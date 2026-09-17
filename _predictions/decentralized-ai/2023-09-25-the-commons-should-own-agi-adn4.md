@@ -7,7 +7,7 @@ year: "2023"
 title: "The commons should own AGI"
 permalink: /predictions/decentralized-ai/2023-09-25-the-commons-should-own-agi-adn4/
 slug_id: 2023-09-25-the-commons-should-own-agi-adn4
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)"

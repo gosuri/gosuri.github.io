@@ -7,7 +7,7 @@ year: "2023"
 title: "Cloud is a public utility — people first, not shareholders"
 permalink: /predictions/cloud-decentralization/2023-10-28-cloud-is-a-public-utility-people-first-not-shareho-awj7/
 slug_id: 2023-10-28-cloud-is-a-public-utility-people-first-not-shareho-awj7
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "DAOs owning physical infrastructure through self-repaying AKT loans"
 permalink: /predictions/crypto-depin/2022-01-13-daos-owning-physical-infrastructure-through-self-r-md3l/
 slug_id: 2022-01-13-daos-owning-physical-infrastructure-through-self-r-md3l
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Comdex Mainnet Launch Party | Panel-1 | The rise of DeFi in the Cosmos Ecosystem (Comdex)"

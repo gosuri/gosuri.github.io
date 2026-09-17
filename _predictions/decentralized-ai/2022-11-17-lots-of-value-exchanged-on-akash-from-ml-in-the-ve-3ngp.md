@@ -7,7 +7,7 @@ year: "2022"
 title: "Lots of value exchanged on Akash from ML in the very short future"
 permalink: /predictions/decentralized-ai/2022-11-17-lots-of-value-exchanged-on-akash-from-ml-in-the-ve-3ngp/
 slug_id: 2022-11-17-lots-of-value-exchanged-on-akash-from-ml-in-the-ve-3ngp
-theme_page: /predictions/decentralized-ai/2022/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 16th 2022 (Akash Network)"

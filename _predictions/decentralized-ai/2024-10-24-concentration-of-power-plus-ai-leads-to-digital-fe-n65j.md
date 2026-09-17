@@ -7,7 +7,7 @@ year: "2024"
 title: "Concentration of power plus AI leads to digital feudalism"
 permalink: /predictions/decentralized-ai/2024-10-24-concentration-of-power-plus-ai-leads-to-digital-fe-n65j/
 slug_id: 2024-10-24-concentration-of-power-plus-ai-leads-to-digital-fe-n65j
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Supercloud - by Greg Osuri, Akash (Cosmoverse)"

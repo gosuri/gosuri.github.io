@@ -7,7 +7,7 @@ year: "2025"
 title: "A gigawatt of AI compute doesn't need one building"
 permalink: /predictions/gpu-economics/2025-07-01-a-gigawatt-of-ai-compute-doesn-t-need-one-building-nbdk/
 slug_id: 2025-07-01-a-gigawatt-of-ai-compute-doesn-t-need-one-building-nbdk
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"

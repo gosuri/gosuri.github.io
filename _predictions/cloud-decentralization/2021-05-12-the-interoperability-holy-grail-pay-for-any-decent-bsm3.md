@@ -7,7 +7,7 @@ year: "2021"
 title: "The interoperability \"holy grail\": pay for any decentralized service with any token"
 permalink: /predictions/cloud-decentralization/2021-05-12-the-interoperability-holy-grail-pay-for-any-decent-bsm3/
 slug_id: 2021-05-12-the-interoperability-holy-grail-pay-for-any-decent-bsm3
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Base Layer Episode 209: Greg Osuri, Founder of Akash Network on Decentralizing Compute\" (Base Layer)"

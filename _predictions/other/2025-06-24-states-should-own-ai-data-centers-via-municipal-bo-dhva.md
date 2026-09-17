@@ -7,7 +7,7 @@ year: "2025"
 title: "States should own AI data centers via municipal bonds"
 permalink: /predictions/other/2025-06-24-states-should-own-ai-data-centers-via-municipal-bo-dhva/
 slug_id: 2025-06-24-states-should-own-ai-data-centers-via-municipal-bo-dhva
-theme_page: /predictions/other/2025/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"

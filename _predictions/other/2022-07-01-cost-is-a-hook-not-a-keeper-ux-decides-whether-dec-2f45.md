@@ -7,7 +7,7 @@ year: "2022"
 title: "Cost is a hook, not a keeper — UX decides whether decentralization wins"
 permalink: /predictions/other/2022-07-01-cost-is-a-hook-not-a-keeper-ux-decides-whether-dec-2f45/
 slug_id: 2022-07-01-cost-is-a-hook-not-a-keeper-ux-decides-whether-dec-2f45
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "WCEF 2022: Infrastructure for the New Internet - Web3 (World Crypto Economic Forum (WCEF))"

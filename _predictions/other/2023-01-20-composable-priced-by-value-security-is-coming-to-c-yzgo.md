@@ -7,7 +7,7 @@ year: "2023"
 title: "Composable, priced-by-value security is coming to Cosmos"
 permalink: /predictions/other/2023-01-20-composable-priced-by-value-security-is-coming-to-c-yzgo/
 slug_id: 2023-01-20-composable-priced-by-value-security-is-coming-to-c-yzgo
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Securing Cosmos With Bitcoin: A conversation with David Tse of Babylon\" (Akash Network)"

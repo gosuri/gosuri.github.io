@@ -7,7 +7,7 @@ year: "2024"
 title: "2018 whitepaper called the ML compute crunch"
 permalink: /predictions/gpu-economics/2024-06-09-2018-whitepaper-called-the-ml-compute-crunch-2eia/
 slug_id: 2024-06-09-2018-whitepaper-called-the-ml-compute-crunch-2eia
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"

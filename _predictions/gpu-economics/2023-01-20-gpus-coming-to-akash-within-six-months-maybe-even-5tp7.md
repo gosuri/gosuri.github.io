@@ -7,7 +7,7 @@ year: "2023"
 title: "GPUs coming to Akash within six months — maybe even to secure Bitcoin"
 permalink: /predictions/gpu-economics/2023-01-20-gpus-coming-to-akash-within-six-months-maybe-even-5tp7/
 slug_id: 2023-01-20-gpus-coming-to-akash-within-six-months-maybe-even-5tp7
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Securing Cosmos With Bitcoin: A conversation with David Tse of Babylon\" (Akash Network)"

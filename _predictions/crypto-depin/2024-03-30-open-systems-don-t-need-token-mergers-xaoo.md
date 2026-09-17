@@ -7,7 +7,7 @@ year: "2024"
 title: "Open systems don't need token mergers"
 permalink: /predictions/crypto-depin/2024-03-30-open-systems-don-t-need-token-mergers-xaoo/
 slug_id: 2024-03-30-open-systems-don-t-need-token-mergers-xaoo
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "X Spaces with Akash Network: Democratizing Compute on Subnet 27 (Nodexo)"

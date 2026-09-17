@@ -83,8 +83,8 @@ copy-link control still works (as a plain link) with JS disabled.
 
 ## Social preview cards
 
-Every page type advertises an `og:image`: each prediction, essay, theme page, and theme
-year sub-page gets its own PNG at `<permalink>card.png`; the predictions index and the
+Every page type advertises an `og:image`: each prediction, essay, and theme page gets
+its own PNG at `<permalink>card.png`; the predictions index and the
 site default are static, at `assets/img/og/predictions.png` and `assets/img/og/site.png`.
 All of them are rendered by `research/render_cards.mjs` (Playwright) **after** Jekyll
 builds, and are never committed — 1,689 prediction cards alone is roughly 200 MB against

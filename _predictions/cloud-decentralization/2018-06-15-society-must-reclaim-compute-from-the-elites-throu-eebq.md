@@ -7,7 +7,7 @@ year: "2018"
 title: "Society must reclaim compute from the elites through decentralization"
 permalink: /predictions/cloud-decentralization/2018-06-15-society-must-reclaim-compute-from-the-elites-throu-eebq/
 slug_id: 2018-06-15-society-must-reclaim-compute-from-the-elites-throu-eebq
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "S1E2 - Greg Osuri (CryptoChange.News)"

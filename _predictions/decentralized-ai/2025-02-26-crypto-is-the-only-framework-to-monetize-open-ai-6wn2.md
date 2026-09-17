@@ -7,7 +7,7 @@ year: "2025"
 title: "Crypto is the only framework to monetize open AI"
 permalink: /predictions/decentralized-ai/2025-02-26-crypto-is-the-only-framework-to-monetize-open-ai-6wn2/
 slug_id: 2025-02-26-crypto-is-the-only-framework-to-monetize-open-ai-6wn2
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Everything Bagel: Open Source AI, Security, and Decentralization with Greg Osuri, Founder at Akash (The Index Podcast)"

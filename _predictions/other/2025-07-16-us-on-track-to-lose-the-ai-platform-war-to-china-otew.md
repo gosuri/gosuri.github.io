@@ -7,7 +7,7 @@ year: "2025"
 title: "US on track to lose the AI platform war to China"
 permalink: /predictions/other/2025-07-16-us-on-track-to-lose-the-ai-platform-war-to-china-otew/
 slug_id: 2025-07-16-us-on-track-to-lose-the-ai-platform-war-to-china-otew
-theme_page: /predictions/other/2025/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Crypto World Daily)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash as the first place to get frontier chips"
 permalink: /predictions/gpu-economics/2024-05-29-akash-as-the-first-place-to-get-frontier-chips-ojbq/
 slug_id: 2024-05-29-akash-as-the-first-place-to-get-frontier-chips-ojbq
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"

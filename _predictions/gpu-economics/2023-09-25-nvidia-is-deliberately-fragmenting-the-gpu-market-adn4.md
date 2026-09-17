@@ -7,7 +7,7 @@ year: "2023"
 title: "NVIDIA is deliberately fragmenting the GPU market"
 permalink: /predictions/gpu-economics/2023-09-25-nvidia-is-deliberately-fragmenting-the-gpu-market-adn4/
 slug_id: 2023-09-25-nvidia-is-deliberately-fragmenting-the-gpu-market-adn4
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)"

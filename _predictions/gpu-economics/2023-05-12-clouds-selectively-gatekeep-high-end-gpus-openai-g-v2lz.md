@@ -7,7 +7,7 @@ year: "2023"
 title: "Clouds selectively gatekeep high-end GPUs; OpenAI got a leg up"
 permalink: /predictions/gpu-economics/2023-05-12-clouds-selectively-gatekeep-high-end-gpus-openai-g-v2lz/
 slug_id: 2023-05-12-clouds-selectively-gatekeep-high-end-gpus-openai-g-v2lz
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"

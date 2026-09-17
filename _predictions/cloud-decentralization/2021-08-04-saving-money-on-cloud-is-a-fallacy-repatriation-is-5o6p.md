@@ -7,7 +7,7 @@ year: "2021"
 title: "Saving money on cloud is a fallacy — repatriation is real"
 permalink: /predictions/cloud-decentralization/2021-08-04-saving-money-on-cloud-is-a-fallacy-repatriation-is-5o6p/
 slug_id: 2021-08-04-saving-money-on-cloud-is-a-fallacy-repatriation-is-5o6p
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network Is The Airbnb Of Cloud (TFiR)"

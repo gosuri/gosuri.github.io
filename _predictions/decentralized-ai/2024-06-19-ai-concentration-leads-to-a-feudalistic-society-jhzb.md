@@ -7,7 +7,7 @@ year: "2024"
 title: "AI concentration leads to a feudalistic society"
 permalink: /predictions/decentralized-ai/2024-06-19-ai-concentration-leads-to-a-feudalistic-society-jhzb/
 slug_id: 2024-06-19-ai-concentration-leads-to-a-feudalistic-society-jhzb
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"

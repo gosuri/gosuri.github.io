@@ -7,7 +7,7 @@ year: "2022"
 title: "Edison analogy on developer arrest"
 permalink: /predictions/other/2022-08-18-edison-analogy-on-developer-arrest-w325/
 slug_id: 2022-08-18-edison-analogy-on-developer-arrest-w325
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 17th 2022 (Akash Network)"

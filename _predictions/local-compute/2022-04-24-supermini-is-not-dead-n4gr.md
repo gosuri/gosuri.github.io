@@ -7,7 +7,7 @@ year: "2022"
 title: "Supermini is not dead"
 permalink: /predictions/local-compute/2022-04-24-supermini-is-not-dead-n4gr/
 slug_id: 2022-04-24-supermini-is-not-dead-n4gr
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akashonomics: AKT Release Schedule\" (Akash Network)"

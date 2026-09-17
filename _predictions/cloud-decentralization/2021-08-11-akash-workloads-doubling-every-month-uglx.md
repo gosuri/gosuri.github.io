@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash workloads doubling every month"
 permalink: /predictions/cloud-decentralization/2021-08-11-akash-workloads-doubling-every-month-uglx/
 slug_id: 2021-08-11-akash-workloads-doubling-every-month-uglx
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)"

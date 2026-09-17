@@ -7,7 +7,7 @@ year: "2022"
 title: "GPUs coming to Akash within three months"
 permalink: /predictions/gpu-economics/2022-10-04-gpus-coming-to-akash-within-three-months-kmlj/
 slug_id: 2022-10-04-gpus-coming-to-akash-within-three-months-kmlj
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"

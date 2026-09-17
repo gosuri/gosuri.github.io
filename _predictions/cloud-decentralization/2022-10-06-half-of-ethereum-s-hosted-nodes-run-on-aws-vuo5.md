@@ -7,7 +7,7 @@ year: "2022"
 title: "Half of Ethereum's hosted nodes run on AWS"
 permalink: /predictions/cloud-decentralization/2022-10-06-half-of-ethereum-s-hosted-nodes-run-on-aws-vuo5/
 slug_id: 2022-10-06-half-of-ethereum-s-hosted-nodes-run-on-aws-vuo5
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 5th 2022 (Akash Network)"

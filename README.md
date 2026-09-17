@@ -131,7 +131,7 @@ marks those at load time by comparing hostname.
 ## Social preview cards
 
 Every page advertises an `og:image`, rendered 1200×630 by `research/render_cards.mjs`
-with Playwright: each prediction, essay, theme page, and theme year sub-page gets one at
+with Playwright: each prediction, essay, and theme page gets one at
 `<permalink>card.png`; the predictions index and the site default live at
 `assets/img/og/predictions.png` and `assets/img/og/site.png`. The pure logic — parsing
 front matter and laying out each card's markup — lives in `research/card_data.mjs` and

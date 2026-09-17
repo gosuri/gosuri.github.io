@@ -7,7 +7,7 @@ year: "2021"
 title: "Pay for compute with any token — the end state"
 permalink: /predictions/crypto-depin/2021-01-19-pay-for-compute-with-any-token-the-end-state-7ovu/
 slug_id: 2021-01-19-pay-for-compute-with-any-token-the-end-state-7ovu
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Citizen Cosmos and OmniFlix Network: Conversations with Jack ft. Greg Osuri Akash Network, S1E1 (Citizen Web3)"

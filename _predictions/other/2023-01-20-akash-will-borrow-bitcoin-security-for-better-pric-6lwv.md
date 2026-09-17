@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash will borrow Bitcoin security for better price-performance"
 permalink: /predictions/other/2023-01-20-akash-will-borrow-bitcoin-security-for-better-pric-6lwv/
 slug_id: 2023-01-20-akash-will-borrow-bitcoin-security-for-better-pric-6lwv
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Securing Cosmos With Bitcoin: A conversation with David Tse of Babylon\" (Akash Network)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "20% of AI companies' margins go to Amazon"
 permalink: /predictions/gpu-economics/2021-06-09-20-of-ai-companies-margins-go-to-amazon-xun6/
 slug_id: 2021-06-09-20-of-ai-companies-margins-go-to-amazon-xun6
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"

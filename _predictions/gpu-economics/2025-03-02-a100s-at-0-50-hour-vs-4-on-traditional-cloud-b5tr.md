@@ -7,7 +7,7 @@ year: "2025"
 title: "A100s at $0.50/hour vs. $4 on traditional cloud"
 permalink: /predictions/gpu-economics/2025-03-02-a100s-at-0-50-hour-vs-4-on-traditional-cloud-b5tr/
 slug_id: 2025-03-02-a100s-at-0-50-hour-vs-4-on-traditional-cloud-b5tr
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network (AKT) Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"

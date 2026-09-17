@@ -7,7 +7,7 @@ year: "2022"
 title: "Web3's dependence on Web2 must end"
 permalink: /predictions/cloud-decentralization/2022-06-29-web3-s-dependence-on-web2-must-end-uijp/
 slug_id: 2022-06-29-web3-s-dependence-on-web2-must-end-uijp
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 29th (Akash Network)"

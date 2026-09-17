@@ -7,7 +7,7 @@ year: "2022"
 title: "GPU/HPC on Akash will undercut cloud by 20-30%"
 permalink: /predictions/gpu-economics/2022-08-18-gpu-hpc-on-akash-will-undercut-cloud-by-20-30-thpd/
 slug_id: 2022-08-18-gpu-hpc-on-akash-will-undercut-cloud-by-20-30-thpd
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 17th 2022 (Akash Network)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "80% cheaper than cloud, deployed in two minutes"
 permalink: /predictions/gpu-economics/2025-10-10-80-cheaper-than-cloud-deployed-in-two-minutes-4m3e/
 slug_id: 2025-10-10-80-cheaper-than-cloud-deployed-in-two-minutes-4m3e
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"

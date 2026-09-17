@@ -7,7 +7,7 @@ year: "2021"
 title: "Mainnet 2 is the first non-custodial, self-sovereign, permissionless cloud"
 permalink: /predictions/cloud-decentralization/2021-03-05-mainnet-2-is-the-first-non-custodial-self-sovereig-i6pn/
 slug_id: 2021-03-05-mainnet-2-is-the-first-non-custodial-self-sovereig-i6pn
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Alessio Treglia, Jack Zampolin, Greg Osuri and Adam Bozanich (Akash Network)"

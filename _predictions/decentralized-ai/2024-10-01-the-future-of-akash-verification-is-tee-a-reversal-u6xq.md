@@ -7,7 +7,7 @@ year: "2024"
 title: "The future of Akash verification is TEE (a reversal he concedes)"
 permalink: /predictions/decentralized-ai/2024-10-01-the-future-of-akash-verification-is-tee-a-reversal-u6xq/
 slug_id: 2024-10-01-the-future-of-akash-verification-is-tee-a-reversal-u6xq
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Leveraging Incentives to Build with Your Community | Open AGI Summit | Brussels 2024 (Open AGI)"

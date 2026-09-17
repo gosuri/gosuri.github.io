@@ -7,7 +7,7 @@ year: "2022"
 title: "Web3 will go places web2 can't even come close to"
 permalink: /predictions/other/2022-09-15-web3-will-go-places-web2-can-t-even-come-close-to-nk5k/
 slug_id: 2022-09-15-web3-will-go-places-web2-can-t-even-come-close-to-nk5k
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 14th 2022 (Akash Network)"

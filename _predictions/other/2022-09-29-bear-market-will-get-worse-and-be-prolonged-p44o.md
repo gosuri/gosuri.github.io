@@ -7,7 +7,7 @@ year: "2022"
 title: "Bear market will get worse and be prolonged"
 permalink: /predictions/other/2022-09-29-bear-market-will-get-worse-and-be-prolonged-p44o/
 slug_id: 2022-09-29-bear-market-will-get-worse-and-be-prolonged-p44o
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 28th 2022 (Akash Network)"

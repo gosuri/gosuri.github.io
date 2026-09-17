@@ -79,13 +79,12 @@ export async function renderAgents({ root = ROOT, siteDir = join(root, '_site') 
       add(fm.permalink, recentPredictionIndex(predictions, site), 'recent-index');
       continue;
     }
-    const match = fm.permalink?.match(/^\/predictions\/([a-z0-9-]+)\/(?:(\d{4})\/)?$/);
+    const match = fm.permalink?.match(/^\/predictions\/([a-z0-9-]+)\/$/);
     if (!match) throw new Error(`Unsupported prediction index: ${path}`);
-    const [, theme, year] = match;
-    const items = predictions.filter(p => p.theme === theme && (!year || String(p.year) === year));
+    const theme = match[1];
+    const items = predictions.filter(p => p.theme === theme);
     if (!items.length) throw new Error(`Empty prediction index: ${fm.permalink}`);
-    add(fm.permalink, predictionIndex(predictions, { site, theme, year: year || null }),
-      year ? 'year-index' : 'theme-index');
+    add(fm.permalink, predictionIndex(predictions, { site, theme }), 'theme-index');
   }
 
   const posts = [];

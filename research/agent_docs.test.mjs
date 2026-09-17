@@ -91,12 +91,12 @@ test('predictionIndex groups themes then sorts dates and IDs, without copying qu
   assert.deepEqual(entries, copy);
 });
 
-test('predictionIndex scopes theme and year, with measured year counts', () => {
+test('predictionIndex scopes a theme with measured year counts', () => {
   const entries = [prediction, { ...prediction, date: '2024-01-01', slug_id: '2024-01-01-x', title: 'New title' }];
-  assert.ok(predictionIndex(entries, { site, theme: 'ai-agents' }).includes('Years: 2022 (1); 2024 (1)'));
-  const year = predictionIndex(entries, { site, theme: 'ai-agents', year: '2024' });
-  assert.ok(year.startsWith('# AI Agents — 2024 1 predictions'));
-  assert.ok(!year.includes(prediction.slug_id));
+  const md = predictionIndex(entries, { site, theme: 'ai-agents' });
+  assert.ok(md.startsWith('# AI Agents 2 predictions'));
+  assert.ok(md.includes('Years: 2022 (1); 2024 (1)'));
+  assert.ok(md.includes('2024-01-01-x — New title'));
   assert.ok(predictionIndex([], { site }).startsWith('# All 0 predictions'));
 });
 
@@ -250,21 +250,21 @@ test('llmsIndex measures dynamic file counts and UTF-8 budgets without listing e
     { permalink: '/predictions/recent/', markdown: '1234567', kind: 'recent-index' },
     { permalink: '/predictions/ai-agents/', markdown: 'ééé', kind: 'theme-index' },
     { permalink: '/predictions/cloud/', markdown: 'x'.repeat(20001), kind: 'theme-index' },
-    { permalink: '/predictions/ai-agents/2022/', markdown: '123456789', kind: 'year-index' },
     { permalink: prediction.permalink, markdown: '12345678', kind: 'prediction' },
     { permalink: '/citing/', markdown: '# Citing\n', kind: 'page' },
   ];
   const md = llmsIndex({ site, predictions: [prediction], posts: [], documents, sources: '2' });
-  assert.ok(md.includes('1 predictions from 2 talks and podcasts; 0 essays; 8 markdown twins.'));
+  assert.ok(md.includes('1 predictions from 2 talks and podcasts; 0 essays; 7 markdown twins.'));
   assert.ok(md.includes('Recommended title indexes'));
   assert.ok(md.includes('https://www.gregosuri.com/predictions/recent/index.md — ~2 tokens'));
-  assert.ok(md.includes('https://www.gregosuri.com/predictions/ai-agents/2022/index.md — ~3 tokens'));
+  assert.ok(md.includes('https://www.gregosuri.com/predictions/ai-agents/index.md — ~2 tokens'));
   assert.ok(md.includes('Broad indexes (high cost)'));
   assert.ok(md.includes('https://www.gregosuri.com/predictions/index.md — ~2 tokens'));
   assert.ok(md.includes('https://www.gregosuri.com/predictions/cloud/index.md — ~5,001 tokens'));
   assert.ok(md.indexOf('/predictions/recent/index.md') < md.indexOf('/predictions/index.md'));
   assert.ok(md.includes('Prediction leaf twins: 1 files; ~2–2 tokens each.'));
-  assert.ok(md.includes('Theme-year indexes: 1 files; ~3–3 tokens each.'));
+  assert.ok(!md.includes('Theme-year'));
+  assert.ok(!md.includes('Year index:'));
   assert.ok(md.includes('UTF-8 bytes / 4'));
   assert.ok(md.includes('Citation contract and navigation guide: https://www.gregosuri.com/citing/'));
   assert.ok(!md.includes(prediction.slug_id));
@@ -272,13 +272,13 @@ test('llmsIndex measures dynamic file counts and UTF-8 budgets without listing e
   assert.ok(!md.includes('1,689'));
 });
 
-test('llmsIndex fails closed when a recommended year index exceeds 5000 tokens', () => {
+test('llmsIndex fails closed when the recent index exceeds 5000 tokens', () => {
   const documents = [
-    { permalink: '/predictions/ai-agents/2022/', markdown: 'x'.repeat(20001), kind: 'year-index' },
+    { permalink: '/predictions/recent/', markdown: 'x'.repeat(20001), kind: 'recent-index' },
   ];
   assert.throws(
     () => llmsIndex({ site, predictions: [], posts: [], documents, sources: 0 }),
-    /Recommended index exceeds 5,000 tokens.*ai-agents\/2022/s,
+    /Recommended index exceeds 5,000 tokens.*recent/s,
   );
 });
 

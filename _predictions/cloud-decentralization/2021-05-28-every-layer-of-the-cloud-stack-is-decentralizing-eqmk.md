@@ -7,7 +7,7 @@ year: "2021"
 title: "Every layer of the cloud stack is decentralizing"
 permalink: /predictions/cloud-decentralization/2021-05-28-every-layer-of-the-cloud-stack-is-decentralizing-eqmk/
 slug_id: 2021-05-28-every-layer-of-the-cloud-stack-is-decentralizing-eqmk
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "We're live with Greg Osuri from Akash Network (AKT) (Bittrex Global)"

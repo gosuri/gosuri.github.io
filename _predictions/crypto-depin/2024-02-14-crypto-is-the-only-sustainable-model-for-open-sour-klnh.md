@@ -7,7 +7,7 @@ year: "2024"
 title: "Crypto is the only sustainable model for open-source infrastructure"
 permalink: /predictions/crypto-depin/2024-02-14-crypto-is-the-only-sustainable-model-for-open-sour-klnh/
 slug_id: 2024-02-14-crypto-is-the-only-sustainable-model-for-open-sour-klnh
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri\" (Finality Crypto Podcast (DeFi Times))"

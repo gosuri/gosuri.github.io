@@ -7,7 +7,7 @@ year: "2018"
 title: "Three companies will control 80% of internet traffic"
 permalink: /predictions/cloud-decentralization/2018-03-02-three-companies-will-control-80-of-internet-traffi-nnfq/
 slug_id: 2018-03-02-three-companies-will-control-80-of-internet-traffi-nnfq
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)"

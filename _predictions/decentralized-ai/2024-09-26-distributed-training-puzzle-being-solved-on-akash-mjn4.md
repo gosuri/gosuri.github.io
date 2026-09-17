@@ -7,7 +7,7 @@ year: "2024"
 title: "Distributed training puzzle being solved on Akash"
 permalink: /predictions/decentralized-ai/2024-09-26-distributed-training-puzzle-being-solved-on-akash-mjn4/
 slug_id: 2024-09-26-distributed-training-puzzle-being-solved-on-akash-mjn4
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"

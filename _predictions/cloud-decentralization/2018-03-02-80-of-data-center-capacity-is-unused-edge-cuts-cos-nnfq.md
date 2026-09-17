@@ -7,7 +7,7 @@ year: "2018"
 title: "80% of data-center capacity is unused; edge cuts cost 2–5x"
 permalink: /predictions/cloud-decentralization/2018-03-02-80-of-data-center-capacity-is-unused-edge-cuts-cos-nnfq/
 slug_id: 2018-03-02-80-of-data-center-capacity-is-unused-edge-cuts-cos-nnfq
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)"

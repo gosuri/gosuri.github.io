@@ -7,7 +7,7 @@ year: "2024"
 title: "Own the chips; idle home compute should join the grid"
 permalink: /predictions/local-compute/2024-03-30-own-the-chips-idle-home-compute-should-join-the-gr-vwpq/
 slug_id: 2024-03-30-own-the-chips-idle-home-compute-should-join-the-gr-vwpq
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "X Spaces with Akash Network: Democratizing Compute on Subnet 27 (Nodexo)"

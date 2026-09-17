@@ -7,7 +7,7 @@ year: "2021"
 title: "The exit strategy is acquiring the trillion-dollar market"
 permalink: /predictions/cloud-decentralization/2021-05-29-the-exit-strategy-is-acquiring-the-trillion-dollar-5efa/
 slug_id: 2021-05-29-the-exit-strategy-is-acquiring-the-trillion-dollar-5efa
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Biz Call: 20210428 GregOsuri AkashNetwork (robfrankel)"

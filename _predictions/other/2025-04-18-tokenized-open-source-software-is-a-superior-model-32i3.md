@@ -7,7 +7,7 @@ year: "2025"
 title: "Tokenized open-source software is a superior model"
 permalink: /predictions/other/2025-04-18-tokenized-open-source-software-is-a-superior-model-32i3/
 slug_id: 2025-04-18-tokenized-open-source-software-is-a-superior-model-32i3
-theme_page: /predictions/other/2025/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"

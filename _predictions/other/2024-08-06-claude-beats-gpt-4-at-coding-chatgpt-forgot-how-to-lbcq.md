@@ -7,7 +7,7 @@ year: "2024"
 title: "Claude beats GPT-4 at coding; \"ChatGPT forgot how to code\""
 permalink: /predictions/other/2024-08-06-claude-beats-gpt-4-at-coding-chatgpt-forgot-how-to-lbcq/
 slug_id: 2024-08-06-claude-beats-gpt-4-at-coding-chatgpt-forgot-how-to-lbcq
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Building a React App live with AI (Greg Osuri)"

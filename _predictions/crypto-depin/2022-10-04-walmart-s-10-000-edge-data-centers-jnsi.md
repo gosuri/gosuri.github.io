@@ -7,7 +7,7 @@ year: "2022"
 title: "Walmart's 10,000 edge data centers"
 permalink: /predictions/crypto-depin/2022-10-04-walmart-s-10-000-edge-data-centers-jnsi/
 slug_id: 2022-10-04-walmart-s-10-000-edge-data-centers-jnsi
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"

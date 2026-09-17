@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash becomes a network of networks"
 permalink: /predictions/cloud-decentralization/2024-09-26-akash-becomes-a-network-of-networks-r24m/
 slug_id: 2024-09-26-akash-becomes-a-network-of-networks-r24m
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"

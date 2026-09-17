@@ -7,7 +7,7 @@ year: "2024"
 title: "92% GPU utilization — highest of any cloud"
 permalink: /predictions/gpu-economics/2024-11-26-92-gpu-utilization-highest-of-any-cloud-pfgl/
 slug_id: 2024-11-26-92-gpu-utilization-highest-of-any-cloud-pfgl
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"

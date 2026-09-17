@@ -7,7 +7,7 @@ year: "2020"
 title: "At maturity Akash will have thousands, if not millions, of providers"
 permalink: /predictions/cloud-decentralization/2020-12-20-at-maturity-akash-will-have-thousands-if-not-milli-glxo/
 slug_id: 2020-12-20-at-maturity-akash-will-have-thousands-if-not-milli-glxo
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akashian Challenge Livestream: Phase 3 Week 2 (Akash Network)"

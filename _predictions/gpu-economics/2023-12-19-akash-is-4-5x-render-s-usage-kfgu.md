@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash is ~4-5x Render's usage"
 permalink: /predictions/gpu-economics/2023-12-19-akash-is-4-5x-render-s-usage-kfgu/
 slug_id: 2023-12-19-akash-is-4-5x-render-s-usage-kfgu
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network founder Greg Osuri - Building a Decentralized Computing Marketplace (Crypto Nuggets)"

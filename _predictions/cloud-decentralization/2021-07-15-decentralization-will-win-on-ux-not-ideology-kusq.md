@@ -7,7 +7,7 @@ year: "2021"
 title: "Decentralization will win on UX, not ideology"
 permalink: /predictions/cloud-decentralization/2021-07-15-decentralization-will-win-on-ux-not-ideology-kusq/
 slug_id: 2021-07-15-decentralization-will-win-on-ux-not-ideology-kusq
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash Network Deep Dive: The Unstoppable Cloud, Powered by Cosmos!\" (Cryptocito)"

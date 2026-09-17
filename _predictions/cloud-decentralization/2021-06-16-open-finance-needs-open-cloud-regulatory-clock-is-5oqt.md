@@ -7,7 +7,7 @@ year: "2021"
 title: "Open finance needs open cloud; regulatory clock is ticking"
 permalink: /predictions/cloud-decentralization/2021-06-16-open-finance-needs-open-cloud-regulatory-clock-is-5oqt/
 slug_id: 2021-06-16-open-finance-needs-open-cloud-regulatory-clock-is-5oqt
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DeFi Summit - Conference Day 1 - June 15th (Tuesday) (Dcentral Con)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "\"We will be better than Amazon\""
 permalink: /predictions/cloud-decentralization/2022-01-10-we-will-be-better-than-amazon-x7et/
 slug_id: 2022-01-10-we-will-be-better-than-amazon-x7et
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash (40%+ staking APY) is taking over the $Bn Cloud Computing Market by AWS? Greg Osuri EXCLUSIVE (Digital Asset Yield Summit)"

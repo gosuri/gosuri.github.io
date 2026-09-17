@@ -7,7 +7,7 @@ year: "2023"
 title: "AGI is closer than people anticipate"
 permalink: /predictions/other/2023-06-10-agi-is-closer-than-people-anticipate-qw6z/
 slug_id: 2023-06-10-agi-is-closer-than-people-anticipate-qw6z
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Mass adoption will come from abstractions where users don't know they're using Akash"
 permalink: /predictions/cloud-decentralization/2022-07-07-mass-adoption-will-come-from-abstractions-where-us-4bdu/
 slug_id: 2022-07-07-mass-adoption-will-come-from-abstractions-where-us-4bdu
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 6th 2022 (Akash Network)"

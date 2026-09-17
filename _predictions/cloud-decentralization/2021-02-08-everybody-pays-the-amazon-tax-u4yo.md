@@ -7,7 +7,7 @@ year: "2021"
 title: "Everybody pays the Amazon tax"
 permalink: /predictions/cloud-decentralization/2021-02-08-everybody-pays-the-amazon-tax-u4yo/
 slug_id: 2021-02-08-everybody-pays-the-amazon-tax-u4yo
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"

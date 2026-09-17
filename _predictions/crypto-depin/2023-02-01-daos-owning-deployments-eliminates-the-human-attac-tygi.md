@@ -7,7 +7,7 @@ year: "2023"
 title: "DAOs owning deployments eliminates the human attack vector"
 permalink: /predictions/crypto-depin/2023-02-01-daos-owning-deployments-eliminates-the-human-attac-tygi/
 slug_id: 2023-02-01-daos-owning-deployments-eliminates-the-human-attac-tygi
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Messari Happy Hour Ep11 (Messari)"

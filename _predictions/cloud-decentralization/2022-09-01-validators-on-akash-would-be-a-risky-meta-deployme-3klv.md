@@ -7,7 +7,7 @@ year: "2022"
 title: "Validators on Akash would be a risky \"meta deployment\""
 permalink: /predictions/cloud-decentralization/2022-09-01-validators-on-akash-would-be-a-risky-meta-deployme-3klv/
 slug_id: 2022-09-01-validators-on-akash-would-be-a-risky-meta-deployme-3klv
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Ask Akash - How Decentralized are Akashs Validator Nodes? (Akash Network)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Any home computer with a powerful GPU can become a provider"
 permalink: /predictions/local-compute/2022-01-05-any-home-computer-with-a-powerful-gpu-can-become-a-vzh6/
 slug_id: 2022-01-05-any-home-computer-with-a-powerful-gpu-can-become-a-vzh6
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Updates From the Lab 1/5/22 W/Akash (Osmosis)"

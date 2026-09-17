@@ -7,7 +7,7 @@ year: "2025"
 title: "Tokenized model ownership with royalties"
 permalink: /predictions/crypto-depin/2025-01-31-tokenized-model-ownership-with-royalties-4skz/
 slug_id: 2025-01-31-tokenized-model-ownership-with-royalties-4skz
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DeepSeek and the Dominance of Open Source AI | Akash & Prime Intellect: Mined with CoinFund Ep. 19 (CoinFund)"

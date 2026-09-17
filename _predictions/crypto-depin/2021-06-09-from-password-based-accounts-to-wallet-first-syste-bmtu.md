@@ -7,7 +7,7 @@ year: "2021"
 title: "From password-based accounts to wallet-first systems"
 permalink: /predictions/crypto-depin/2021-06-09-from-password-based-accounts-to-wallet-first-syste-bmtu/
 slug_id: 2021-06-09-from-password-based-accounts-to-wallet-first-syste-bmtu
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"

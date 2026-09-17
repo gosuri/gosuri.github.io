@@ -7,7 +7,7 @@ year: "2020"
 title: "Akash as the gateway to the decentralized cloud stack"
 permalink: /predictions/cloud-decentralization/2020-12-10-akash-as-the-gateway-to-the-decentralized-cloud-st-minl/
 slug_id: 2020-12-10-akash-as-the-gateway-to-the-decentralized-cloud-st-minl
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"The Akashian Challenge Livestream: Phase 3 Week 1\" (Akash Network)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Web3's base layer is under assault; need self-sovereign RPC"
 permalink: /predictions/crypto-depin/2022-09-29-web3-s-base-layer-is-under-assault-need-self-sover-mqz6/
 slug_id: 2022-09-29-web3-s-base-layer-is-under-assault-need-self-sover-mqz6
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 28th 2022 (Akash Network)"

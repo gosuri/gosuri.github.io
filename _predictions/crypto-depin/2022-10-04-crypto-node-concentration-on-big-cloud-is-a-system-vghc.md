@@ -7,7 +7,7 @@ year: "2022"
 title: "Crypto-node concentration on Big Cloud is a systemic risk"
 permalink: /predictions/crypto-depin/2022-10-04-crypto-node-concentration-on-big-cloud-is-a-system-vghc/
 slug_id: 2022-10-04-crypto-node-concentration-on-big-cloud-is-a-system-vghc
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"

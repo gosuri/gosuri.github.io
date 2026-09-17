@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash compute at one-fifth to one-third of market price"
 permalink: /predictions/gpu-economics/2022-01-13-akash-compute-at-one-fifth-to-one-third-of-market-7qxh/
 slug_id: 2022-01-13-akash-compute-at-one-fifth-to-one-third-of-market-7qxh
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Comdex Mainnet Launch Party | Panel-1 | The rise of DeFi in the Cosmos Ecosystem (Comdex)"

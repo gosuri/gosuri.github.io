@@ -7,7 +7,7 @@ year: "2022"
 title: "Enterprise adoption will catalyze the next bull run"
 permalink: /predictions/crypto-depin/2022-11-11-enterprise-adoption-will-catalyze-the-next-bull-ru-xhjo/
 slug_id: 2022-11-11-enterprise-adoption-will-catalyze-the-next-bull-ru-xhjo
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 9th 2022 (Akash Network)"

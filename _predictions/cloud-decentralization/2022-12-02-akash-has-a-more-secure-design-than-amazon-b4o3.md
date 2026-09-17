@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash has a more secure design than Amazon"
 permalink: /predictions/cloud-decentralization/2022-12-02-akash-has-a-more-secure-design-than-amazon-b4o3/
 slug_id: 2022-12-02-akash-has-a-more-secure-design-than-amazon-b4o3
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Analysis   Should Web2 projects consider running on decentralized infrastructure (Akash Network)"

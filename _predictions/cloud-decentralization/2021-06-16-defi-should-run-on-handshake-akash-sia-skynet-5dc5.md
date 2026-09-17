@@ -7,7 +7,7 @@ year: "2021"
 title: "DeFi should run on Handshake, Akash, Sia/Skynet"
 permalink: /predictions/cloud-decentralization/2021-06-16-defi-should-run-on-handshake-akash-sia-skynet-5dc5/
 slug_id: 2021-06-16-defi-should-run-on-handshake-akash-sia-skynet-5dc5
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DeFi Summit - Conference Day 1 - June 15th (Tuesday) (Dcentral Con)"

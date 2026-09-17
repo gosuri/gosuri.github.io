@@ -7,7 +7,7 @@ year: "2022"
 title: "Preparing for a two-to-three-year bear market"
 permalink: /predictions/other/2022-06-16-preparing-for-a-two-to-three-year-bear-market-snn2/
 slug_id: 2022-06-16-preparing-for-a-two-to-three-year-bear-market-snn2
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 15th (Akash Network)"

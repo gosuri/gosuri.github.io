@@ -7,7 +7,7 @@ year: "2024"
 title: "If we don't decentralize, we die as a society"
 permalink: /predictions/cloud-decentralization/2024-03-19-if-we-don-t-decentralize-we-die-as-a-society-cdn5/
 slug_id: 2024-03-19-if-we-don-t-decentralize-we-die-as-a-society-cdn5
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "The cloud is breaking down under AI GPU scarcity"
 permalink: /predictions/gpu-economics/2023-01-13-the-cloud-is-breaking-down-under-ai-gpu-scarcity-indd/
 slug_id: 2023-01-13-the-cloud-is-breaking-down-under-ai-gpu-scarcity-indd
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"

@@ -7,7 +7,7 @@ year: "2018"
 title: "Legislation first — then the US is a cradle of innovation"
 permalink: /predictions/other/2018-04-23-legislation-first-then-the-us-is-a-cradle-of-innov-6khn/
 slug_id: 2018-04-23-legislation-first-then-the-us-is-a-cradle-of-innov-6khn
-theme_page: /predictions/other/2018/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Panel: Decentralized Storage (Block 2thefuture)"

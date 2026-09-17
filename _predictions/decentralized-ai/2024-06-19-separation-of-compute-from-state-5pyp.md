@@ -7,7 +7,7 @@ year: "2024"
 title: "Separation of compute from state"
 permalink: /predictions/decentralized-ai/2024-06-19-separation-of-compute-from-state-5pyp/
 slug_id: 2024-06-19-separation-of-compute-from-state-5pyp
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"

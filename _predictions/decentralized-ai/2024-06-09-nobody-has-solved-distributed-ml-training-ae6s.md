@@ -7,7 +7,7 @@ year: "2024"
 title: "Nobody has solved distributed ML training"
 permalink: /predictions/decentralized-ai/2024-06-09-nobody-has-solved-distributed-ml-training-ae6s/
 slug_id: 2024-06-09-nobody-has-solved-distributed-ml-training-ae6s
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"

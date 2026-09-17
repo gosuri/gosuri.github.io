@@ -7,7 +7,7 @@ year: "2022"
 title: "2022-23 downturn will end in a recovery rooted in real growth, centered on Cosmos"
 permalink: /predictions/other/2022-06-29-2022-23-downturn-will-end-in-a-recovery-rooted-in-yjkh/
 slug_id: 2022-06-29-2022-23-downturn-will-end-in-a-recovery-rooted-in-yjkh
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 29th (Akash Network)"

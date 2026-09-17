@@ -7,7 +7,7 @@ year: "2021"
 title: "Power should be with the people, not platform gatekeepers"
 permalink: /predictions/cloud-decentralization/2021-07-14-power-should-be-with-the-people-not-platform-gatek-szzd/
 slug_id: 2021-07-14-power-should-be-with-the-people-not-platform-gatek-szzd
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 1 OF 2 (Crypto Rich)"

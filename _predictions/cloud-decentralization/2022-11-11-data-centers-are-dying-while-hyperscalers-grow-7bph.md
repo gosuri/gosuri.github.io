@@ -7,7 +7,7 @@ year: "2022"
 title: "Data centers are dying while hyperscalers grow"
 permalink: /predictions/cloud-decentralization/2022-11-11-data-centers-are-dying-while-hyperscalers-grow-7bph/
 slug_id: 2022-11-11-data-centers-are-dying-while-hyperscalers-grow-7bph
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Problem w/Blockchains on Big Cloud (Akash Network)"

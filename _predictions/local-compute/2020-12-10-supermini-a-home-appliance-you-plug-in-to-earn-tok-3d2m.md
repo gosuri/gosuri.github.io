@@ -7,7 +7,7 @@ year: "2020"
 title: "Supermini: a home appliance you plug in to earn tokens"
 permalink: /predictions/local-compute/2020-12-10-supermini-a-home-appliance-you-plug-in-to-earn-tok-3d2m/
 slug_id: 2020-12-10-supermini-a-home-appliance-you-plug-in-to-earn-tok-3d2m
-theme_page: /predictions/local-compute/2020/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"The Akashian Challenge Livestream: Phase 3 Week 1\" (Akash Network)"

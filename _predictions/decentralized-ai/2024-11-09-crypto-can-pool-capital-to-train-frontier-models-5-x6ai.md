@@ -7,7 +7,7 @@ year: "2024"
 title: "Crypto can pool capital to train frontier models (~$50M for a Llama)"
 permalink: /predictions/decentralized-ai/2024-11-09-crypto-can-pool-capital-to-train-frontier-models-5-x6ai/
 slug_id: 2024-11-09-crypto-can-pool-capital-to-train-frontier-models-5-x6ai
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "Contrarian: privacy-first can undermine decentralization and innovation"
 permalink: /predictions/other/2021-11-15-contrarian-privacy-first-can-undermine-decentraliz-mii7/
 slug_id: 2021-11-15-contrarian-privacy-first-can-undermine-decentraliz-mii7
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Priv8 Virtual Privacy Summit 2021: Featuring Glenn Greenwald, Dr. Steven Waterhouse, and more! (Orchid Labs)"

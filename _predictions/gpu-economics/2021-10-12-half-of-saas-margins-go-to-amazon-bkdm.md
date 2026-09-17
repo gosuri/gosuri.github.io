@@ -7,7 +7,7 @@ year: "2021"
 title: "Half of SaaS margins go to Amazon"
 permalink: /predictions/gpu-economics/2021-10-12-half-of-saas-margins-go-to-amazon-bkdm/
 slug_id: 2021-10-12-half-of-saas-margins-go-to-amazon-bkdm
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Blockchain & Cloud Computing - Akash Network W/ Greg Osuri (Arcane Bear)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "GPUs at 5x price; Akash uniquely taps unused general-purpose GPU capacity"
 permalink: /predictions/gpu-economics/2022-11-13-gpus-at-5x-price-akash-uniquely-taps-unused-genera-nmpg/
 slug_id: 2022-11-13-gpus-at-5x-price-akash-uniquely-taps-unused-genera-nmpg
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Ask Akash - What is Akash's strategy going forward? (Akash Network)"

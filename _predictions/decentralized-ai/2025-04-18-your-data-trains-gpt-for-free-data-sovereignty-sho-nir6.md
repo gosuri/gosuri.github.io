@@ -7,7 +7,7 @@ year: "2025"
 title: "Your data trains GPT for free — data sovereignty should be a primitive"
 permalink: /predictions/decentralized-ai/2025-04-18-your-data-trains-gpt-for-free-data-sovereignty-sho-nir6/
 slug_id: 2025-04-18-your-data-trains-gpt-for-free-data-sovereignty-sho-nir6
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"

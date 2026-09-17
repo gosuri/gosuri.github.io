@@ -7,7 +7,7 @@ year: "2025"
 title: "GPU access is feudalism"
 permalink: /predictions/gpu-economics/2025-07-31-gpu-access-is-feudalism-p7mv/
 slug_id: 2025-07-31-gpu-access-is-feudalism-p7mv
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)"

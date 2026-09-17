@@ -7,7 +7,7 @@ year: "2025"
 title: "Company policy: adopt AI within six months or be replaced"
 permalink: /predictions/other/2025-08-02-company-policy-adopt-ai-within-six-months-or-be-re-vxie/
 slug_id: 2025-08-02-company-policy-adopt-ai-within-six-months-or-be-re-vxie
-theme_page: /predictions/other/2025/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "Inference today, fine-tuning tomorrow, training soon after"
 permalink: /predictions/decentralized-ai/2025-07-01-inference-today-fine-tuning-tomorrow-training-soon-hu7v/
 slug_id: 2025-07-01-inference-today-fine-tuning-tomorrow-training-soon-hu7v
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Akash Accelerate 2025 - AkashML (Akash Network)"

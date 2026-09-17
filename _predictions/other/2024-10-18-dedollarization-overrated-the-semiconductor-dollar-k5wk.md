@@ -7,7 +7,7 @@ year: "2024"
 title: "Dedollarization overrated; the semiconductor dollar is next"
 permalink: /predictions/other/2024-10-18-dedollarization-overrated-the-semiconductor-dollar-k5wk/
 slug_id: 2024-10-18-dedollarization-overrated-the-semiconductor-dollar-k5wk
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Sovereign AI's Battlefield: Compute, Storage, & Running On The Edge | Crypto x AI Event (Delphi Digital)"

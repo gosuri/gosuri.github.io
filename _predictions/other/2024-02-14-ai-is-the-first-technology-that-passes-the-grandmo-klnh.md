@@ -7,7 +7,7 @@ year: "2024"
 title: "AI is the first technology that passes \"the grandmother test\""
 permalink: /predictions/other/2024-02-14-ai-is-the-first-technology-that-passes-the-grandmo-klnh/
 slug_id: 2024-02-14-ai-is-the-first-technology-that-passes-the-grandmo-klnh
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri\" (Finality Crypto Podcast (DeFi Times))"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Post-merge GPUs as Akash's unique value proposition"
 permalink: /predictions/gpu-economics/2022-07-25-post-merge-gpus-as-akash-s-unique-value-propositio-6s3w/
 slug_id: 2022-07-25-post-merge-gpus-as-akash-s-unique-value-propositio-6s3w
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Adoption Plan (Akash Network)"

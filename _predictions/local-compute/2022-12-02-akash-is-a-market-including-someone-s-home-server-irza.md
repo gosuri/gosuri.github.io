@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash is a market — including someone's home server"
 permalink: /predictions/local-compute/2022-12-02-akash-is-a-market-including-someone-s-home-server-irza/
 slug_id: 2022-12-02-akash-is-a-market-including-someone-s-home-server-irza
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Analysis   Should Web2 projects consider running on decentralized infrastructure (Akash Network)"

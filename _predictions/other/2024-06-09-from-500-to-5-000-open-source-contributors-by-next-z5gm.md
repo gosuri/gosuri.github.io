@@ -7,7 +7,7 @@ year: "2024"
 title: "From 500 to 5,000 open-source contributors by next Accelerate"
 permalink: /predictions/other/2024-06-09-from-500-to-5-000-open-source-contributors-by-next-z5gm/
 slug_id: 2024-06-09-from-500-to-5-000-open-source-contributors-by-next-z5gm
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "Sub-50kW \"home edge\" data centers running frontier models"
 permalink: /predictions/local-compute/2025-04-02-sub-50kw-home-edge-data-centers-running-frontier-m-oylv/
 slug_id: 2025-04-02-sub-50kw-home-edge-data-centers-running-frontier-m-oylv
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"

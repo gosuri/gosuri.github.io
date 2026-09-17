@@ -7,7 +7,7 @@ year: "2024"
 title: "No incentives without verification — io.net as the cautionary tale"
 permalink: /predictions/crypto-depin/2024-07-22-no-incentives-without-verification-io-net-as-the-c-usra/
 slug_id: 2024-07-22-no-incentives-without-verification-io-net-as-the-c-usra
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"[Panel] ​“Decentralized Computing as a Business”\" (Kryptoplanet[Official])"

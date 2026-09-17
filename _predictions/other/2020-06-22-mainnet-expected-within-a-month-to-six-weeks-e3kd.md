@@ -7,7 +7,7 @@ year: "2020"
 title: "Mainnet expected within a month to six weeks"
 permalink: /predictions/other/2020-06-22-mainnet-expected-within-a-month-to-six-weeks-e3kd/
 slug_id: 2020-06-22-mainnet-expected-within-a-month-to-six-weeks-e3kd
-theme_page: /predictions/other/2020/
+theme_page: /predictions/other/
 speaker: "Jack Zampolin"
 speaker_status: "attributed"
 source: "The Akashian Challenge Phase 2 Livestream (Akash Network)"

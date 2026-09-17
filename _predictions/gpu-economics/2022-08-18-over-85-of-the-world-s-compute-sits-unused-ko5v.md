@@ -7,7 +7,7 @@ year: "2022"
 title: "Over 85% of the world's compute sits unused"
 permalink: /predictions/gpu-economics/2022-08-18-over-85-of-the-world-s-compute-sits-unused-ko5v/
 slug_id: 2022-08-18-over-85-of-the-world-s-compute-sits-unused-ko5v
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 17th 2022 (Akash Network)"

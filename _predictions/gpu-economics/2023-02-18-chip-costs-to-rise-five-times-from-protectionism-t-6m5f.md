@@ -7,7 +7,7 @@ year: "2023"
 title: "Chip costs to rise five times from protectionism/TSMC relocation"
 permalink: /predictions/gpu-economics/2023-02-18-chip-costs-to-rise-five-times-from-protectionism-t-6m5f/
 slug_id: 2023-02-18-chip-costs-to-rise-five-times-from-protectionism-t-6m5f
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"

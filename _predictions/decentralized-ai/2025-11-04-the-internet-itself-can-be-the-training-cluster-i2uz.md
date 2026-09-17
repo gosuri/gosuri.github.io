@@ -7,7 +7,7 @@ year: "2025"
 title: "The internet itself can be the training cluster"
 permalink: /predictions/decentralized-ai/2025-11-04-the-internet-itself-can-be-the-training-cluster-i2uz/
 slug_id: 2025-11-04-the-internet-itself-can-be-the-training-cluster-i2uz
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri (PyTorch)"

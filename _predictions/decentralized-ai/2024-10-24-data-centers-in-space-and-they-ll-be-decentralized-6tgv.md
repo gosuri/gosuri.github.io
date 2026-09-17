@@ -7,7 +7,7 @@ year: "2024"
 title: "Data centers in space — and they'll be decentralized"
 permalink: /predictions/decentralized-ai/2024-10-24-data-centers-in-space-and-they-ll-be-decentralized-6tgv/
 slug_id: 2024-10-24-data-centers-in-space-and-they-ll-be-decentralized-6tgv
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"

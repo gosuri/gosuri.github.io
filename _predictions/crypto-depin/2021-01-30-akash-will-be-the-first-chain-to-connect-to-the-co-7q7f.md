@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash will be the first chain to connect to the Cosmos Hub via IBC"
 permalink: /predictions/crypto-depin/2021-01-30-akash-will-be-the-first-chain-to-connect-to-the-co-7q7f/
 slug_id: 2021-01-30-akash-will-be-the-first-chain-to-connect-to-the-co-7q7f
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"

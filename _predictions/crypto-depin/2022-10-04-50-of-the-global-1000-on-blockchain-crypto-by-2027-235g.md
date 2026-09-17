@@ -7,7 +7,7 @@ year: "2022"
 title: "50% of the Global 1000 on blockchain/crypto by 2027"
 permalink: /predictions/crypto-depin/2022-10-04-50-of-the-global-1000-on-blockchain-crypto-by-2027-235g/
 slug_id: 2022-10-04-50-of-the-global-1000-on-blockchain-crypto-by-2027-235g
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "It Just Works: Letting Mainstream Firms Plug Into Crypto - Messari Mainnet 2022 (Messari)"

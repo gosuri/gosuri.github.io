@@ -7,7 +7,7 @@ year: "2025"
 title: "10,000 small sites instead of 10 mega data centers — down to your basement rig"
 permalink: /predictions/local-compute/2025-07-01-10-000-small-sites-instead-of-10-mega-data-centers-nrcv/
 slug_id: 2025-07-01-10-000-small-sites-instead-of-10-mega-data-centers-nrcv
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "In a year or two Akash becomes the secondary market for cloud-grade compute"
 permalink: /predictions/cloud-decentralization/2023-05-12-in-a-year-or-two-akash-becomes-the-secondary-marke-7uok/
 slug_id: 2023-05-12-in-a-year-or-two-akash-becomes-the-secondary-marke-7uok
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"

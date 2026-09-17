@@ -7,7 +7,7 @@ year: "2022"
 title: "Everybody gets an RPC node — launched from your wallet"
 permalink: /predictions/cloud-decentralization/2022-04-24-everybody-gets-an-rpc-node-launched-from-your-wall-msua/
 slug_id: 2022-04-24-everybody-gets-an-rpc-node-launched-from-your-wall-msua
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly: Chia (Akash Network)"

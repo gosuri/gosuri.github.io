@@ -7,7 +7,7 @@ year: "2018"
 title: "Three companies will control 80% of cloud in two years"
 permalink: /predictions/cloud-decentralization/2018-11-10-three-companies-will-control-80-of-cloud-in-two-ye-ojob/
 slug_id: 2018-11-10-three-companies-will-control-80-of-cloud-in-two-ye-ojob
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "CEO of Overclock Labs On the World of Blockchain & Upcoming Technology In Development (CoinBundle)"

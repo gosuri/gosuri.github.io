@@ -7,7 +7,7 @@ year: "2023"
 title: "GPU scarcity makes a secondary market inevitable"
 permalink: /predictions/gpu-economics/2023-06-10-gpu-scarcity-makes-a-secondary-market-inevitable-ynds/
 slug_id: 2023-06-10-gpu-scarcity-makes-a-secondary-market-inevitable-ynds
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"

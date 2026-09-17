@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash growing 150% month-over-month"
 permalink: /predictions/gpu-economics/2024-01-09-akash-growing-150-month-over-month-6w2v/
 slug_id: 2024-01-09-akash-growing-150-month-over-month-6w2v
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: $300 Million Incentives w/Greg Osuri | CEO of Overclock Labs,Founder & Akash Network (Bare Metal Podcast)"

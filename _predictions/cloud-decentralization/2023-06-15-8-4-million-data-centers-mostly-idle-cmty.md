@@ -7,7 +7,7 @@ year: "2023"
 title: "8.4 million data centers, mostly idle"
 permalink: /predictions/cloud-decentralization/2023-06-15-8-4-million-data-centers-mostly-idle-cmty/
 slug_id: 2023-06-15-8-4-million-data-centers-mostly-idle-cmty
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"

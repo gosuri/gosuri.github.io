@@ -7,7 +7,7 @@ year: "2021"
 title: "Interchain DeFi will take off once USDC arrives"
 permalink: /predictions/crypto-depin/2021-06-26-interchain-defi-will-take-off-once-usdc-arrives-of25/
 slug_id: 2021-06-26-interchain-defi-will-take-off-once-usdc-arrives-of25
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Livestream w/ Sunny Aggarwal & Greg Osuri (Akash Network)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Home computers will earn income once ML workloads arrive"
 permalink: /predictions/local-compute/2022-04-24-home-computers-will-earn-income-once-ml-workloads-dmp7/
 slug_id: 2022-04-24-home-computers-will-earn-income-once-ml-workloads-dmp7
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akashonomics: AKT Release Schedule\" (Akash Network)"

@@ -7,7 +7,7 @@ year: "2026"
 title: "\"We predicted that\" — the 2017 white paper called the cloud's cost and reliability crisis"
 permalink: /predictions/cloud-decentralization/2026-01-15-we-predicted-that-the-2017-white-paper-called-the-draf/
 slug_id: 2026-01-15-we-predicted-that-the-2017-white-paper-called-the-draf
-theme_page: /predictions/cloud-decentralization/2026/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Remote Work Tribe Podcast: Greg Osuri (The Remote Work Tribe Podcast)"

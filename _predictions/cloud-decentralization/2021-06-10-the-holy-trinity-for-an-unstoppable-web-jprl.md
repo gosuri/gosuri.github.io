@@ -7,7 +7,7 @@ year: "2021"
 title: "The holy trinity for an unstoppable web"
 permalink: /predictions/cloud-decentralization/2021-06-10-the-holy-trinity-for-an-unstoppable-web-jprl/
 slug_id: 2021-06-10-the-holy-trinity-for-an-unstoppable-web-jprl
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Networks (And How Handshake Works Together) (SkyInclude)"

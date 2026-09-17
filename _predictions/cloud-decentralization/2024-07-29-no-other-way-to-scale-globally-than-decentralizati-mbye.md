@@ -7,7 +7,7 @@ year: "2024"
 title: "No other way to scale globally than decentralization; hyperscalers keep failing"
 permalink: /predictions/cloud-decentralization/2024-07-29-no-other-way-to-scale-globally-than-decentralizati-mbye/
 slug_id: 2024-07-29-no-other-way-to-scale-globally-than-decentralizati-mbye
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "More than Decentralised Compute | Converge @ EthCC 2024 (Caladan)"

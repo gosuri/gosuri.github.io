@@ -7,7 +7,7 @@ year: "2024"
 title: "Crypto is incentive on steroids"
 permalink: /predictions/crypto-depin/2024-01-16-crypto-is-incentive-on-steroids-bfpp/
 slug_id: 2024-01-16-crypto-is-incentive-on-steroids-bfpp
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash: The Crypto-Powered Decentralized Supercloud\" (The Edge Podcast)"

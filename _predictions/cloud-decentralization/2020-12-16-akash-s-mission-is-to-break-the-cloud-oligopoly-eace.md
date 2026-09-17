@@ -7,7 +7,7 @@ year: "2020"
 title: "Akash's mission is to break the cloud oligopoly"
 permalink: /predictions/cloud-decentralization/2020-12-16-akash-s-mission-is-to-break-the-cloud-oligopoly-eace/
 slug_id: 2020-12-16-akash-s-mission-is-to-break-the-cloud-oligopoly-eace
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - AKASH Network (At Stake)"

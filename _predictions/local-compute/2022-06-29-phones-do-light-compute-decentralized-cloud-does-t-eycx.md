@@ -7,7 +7,7 @@ year: "2022"
 title: "Phones do light compute, decentralized cloud does the heavy lifting"
 permalink: /predictions/local-compute/2022-06-29-phones-do-light-compute-decentralized-cloud-does-t-eycx/
 slug_id: 2022-06-29-phones-do-light-compute-decentralized-cloud-does-t-eycx
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 29th (Akash Network)"

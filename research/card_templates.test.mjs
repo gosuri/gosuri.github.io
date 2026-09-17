@@ -126,13 +126,13 @@ test('themeCard carries the stat line, the latest title, and a slash-free footer
   assert.match(html, /font-size:104px/);
 });
 
-test('themeCard labels a year sub-page with its year', () => {
+test('themeCard renders a custom soft label and a single-year range', () => {
   const html = themeCard({
     title: 'Cloud Decentralization', soft: '2018', count: 31,
     firstYear: '2018', lastYear: '2018', latestTitle: 'Something',
-    url: '/predictions/cloud-decentralization/2018/',
+    url: '/predictions/cloud-decentralization/',
   }, FONTS);
   assert.match(html, /<span class="soft">2018<\/span>/);
   assert.match(html, /31 statements · 2018–2018/);
-  assert.match(html, /gregosuri\.com\/predictions\/cloud-decentralization\/2018/);
+  assert.match(html, /gregosuri\.com\/predictions\/cloud-decentralization/);
 });

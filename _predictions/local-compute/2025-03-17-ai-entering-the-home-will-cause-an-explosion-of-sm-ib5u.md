@@ -7,7 +7,7 @@ year: "2025"
 title: "AI entering the home will cause an explosion of small data centers"
 permalink: /predictions/local-compute/2025-03-17-ai-entering-the-home-will-cause-an-explosion-of-sm-ib5u/
 slug_id: 2025-03-17-ai-entering-the-home-will-cause-an-explosion-of-sm-ib5u
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Why the Future of AI Depends on Decentralized Cloud Platforms (Eye on AI)"

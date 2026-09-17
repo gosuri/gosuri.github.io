@@ -7,7 +7,7 @@ year: "2025"
 title: "Open compute as national strategy and line of defense"
 permalink: /predictions/decentralized-ai/2025-06-24-open-compute-as-national-strategy-and-line-of-defe-l3uo/
 slug_id: 2025-06-24-open-compute-as-national-strategy-and-line-of-defe-l3uo
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"

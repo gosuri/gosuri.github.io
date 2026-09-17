@@ -7,7 +7,7 @@ year: "2024"
 title: "AI will be the most important layer of life for most people"
 permalink: /predictions/decentralized-ai/2024-11-19-ai-will-be-the-most-important-layer-of-life-for-mo-j6zt/
 slug_id: 2024-11-19-ai-will-be-the-most-important-layer-of-life-for-mo-j6zt
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Bitcoin Renaissance - Greg Osuri of Akash Network (Bigeye Studios)"

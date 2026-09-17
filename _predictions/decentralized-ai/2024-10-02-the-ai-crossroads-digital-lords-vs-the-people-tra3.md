@@ -7,7 +7,7 @@ year: "2024"
 title: "The AI crossroads: digital lords vs. the people"
 permalink: /predictions/decentralized-ai/2024-10-02-the-ai-crossroads-digital-lords-vs-the-people-tra3/
 slug_id: 2024-10-02-the-ai-crossroads-digital-lords-vs-the-people-tra3
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Will demand for advanced AI chips (GPUs) be 1:1 for every person? We sit down with Greg Osuri to find out.\" (Block Fuel)"

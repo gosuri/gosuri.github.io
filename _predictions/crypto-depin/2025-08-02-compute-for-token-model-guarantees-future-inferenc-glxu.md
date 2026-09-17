@@ -7,7 +7,7 @@ year: "2025"
 title: "Compute-for-token model guarantees future inference revenue"
 permalink: /predictions/crypto-depin/2025-08-02-compute-for-token-model-guarantees-future-inferenc-glxu/
 slug_id: 2025-08-02-compute-for-token-model-guarantees-future-inferenc-glxu
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"

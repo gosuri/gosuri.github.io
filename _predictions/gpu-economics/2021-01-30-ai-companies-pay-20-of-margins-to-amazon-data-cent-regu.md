@@ -7,7 +7,7 @@ year: "2021"
 title: "AI companies pay ~20% of margins to Amazon; data centers sit underutilized"
 permalink: /predictions/gpu-economics/2021-01-30-ai-companies-pay-20-of-margins-to-amazon-data-cent-regu/
 slug_id: 2021-01-30-ai-companies-pay-20-of-margins-to-amazon-data-cent-regu
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"

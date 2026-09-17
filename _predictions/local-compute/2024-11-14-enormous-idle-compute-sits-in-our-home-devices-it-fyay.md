@@ -7,7 +7,7 @@ year: "2024"
 title: "Enormous idle compute sits in our home devices; it needs federation"
 permalink: /predictions/local-compute/2024-11-14-enormous-idle-compute-sits-in-our-home-devices-it-fyay/
 slug_id: 2024-11-14-enormous-idle-compute-sits-in-our-home-devices-it-fyay
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network: A New Era of Affordable, Decentralized Cloud Computing with Greg Osuri | Varuni (Thecoinrepublic)"

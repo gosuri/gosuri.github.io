@@ -7,7 +7,7 @@ year: "2022"
 title: "The Amazons and Googles will ban crypto next"
 permalink: /predictions/cloud-decentralization/2022-09-12-the-amazons-and-googles-will-ban-crypto-next-k2p7/
 slug_id: 2022-09-12-the-amazons-and-googles-will-ban-crypto-next-k2p7
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Akash Analysis - What the Hetzner ban means for Akash (Akash Network)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Regulation is the only thing that can stop Akash"
 permalink: /predictions/cloud-decentralization/2024-05-29-regulation-is-the-only-thing-that-can-stop-akash-une7/
 slug_id: 2024-05-29-regulation-is-the-only-thing-that-can-stop-akash-une7
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"

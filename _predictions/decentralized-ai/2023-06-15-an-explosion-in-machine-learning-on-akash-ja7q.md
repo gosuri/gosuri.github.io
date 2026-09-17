@@ -7,7 +7,7 @@ year: "2023"
 title: "An explosion in machine learning on Akash"
 permalink: /predictions/decentralized-ai/2023-06-15-an-explosion-in-machine-learning-on-akash-ja7q/
 slug_id: 2023-06-15-an-explosion-in-machine-learning-on-akash-ja7q
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"

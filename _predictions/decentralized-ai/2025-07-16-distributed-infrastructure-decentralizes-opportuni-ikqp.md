@@ -7,7 +7,7 @@ year: "2025"
 title: "Distributed infrastructure decentralizes opportunity"
 permalink: /predictions/decentralized-ai/2025-07-16-distributed-infrastructure-decentralizes-opportuni-ikqp/
 slug_id: 2025-07-16-distributed-infrastructure-decentralizes-opportuni-ikqp
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Crypto World Daily)"

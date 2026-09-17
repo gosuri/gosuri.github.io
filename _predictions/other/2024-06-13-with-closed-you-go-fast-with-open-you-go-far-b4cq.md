@@ -7,7 +7,7 @@ year: "2024"
 title: "With closed you go fast, with open you go far"
 permalink: /predictions/other/2024-06-13-with-closed-you-go-fast-with-open-you-go-far-b4cq/
 slug_id: 2024-06-13-with-closed-you-go-fast-with-open-you-go-far-b4cq
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "A Decentralized Compute Marketplace with Greg Osuri (Software Engineering Daily)"

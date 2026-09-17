@@ -7,7 +7,7 @@ year: "2023"
 title: "Best AMD chips will land on Akash before any cloud"
 permalink: /predictions/gpu-economics/2023-08-31-best-amd-chips-will-land-on-akash-before-any-cloud-zuoi/
 slug_id: 2023-08-31-best-amd-chips-will-land-on-akash-before-any-cloud-zuoi
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Mainnet 6 Livestream (Akash Network)"

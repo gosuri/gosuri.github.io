@@ -7,7 +7,7 @@ year: "2022"
 title: "Take income is blocked by regulation, not engineering"
 permalink: /predictions/crypto-depin/2022-08-06-take-income-is-blocked-by-regulation-not-engineeri-lgsz/
 slug_id: 2022-08-06-take-income-is-blocked-by-regulation-not-engineeri-lgsz
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Ask Akash - When can we expect take income to be implemented (Akash Network)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash adoption: HIPAA data, NSA/DoD, IP-address marketplace"
 permalink: /predictions/cloud-decentralization/2024-03-27-akash-adoption-hipaa-data-nsa-dod-ip-address-marke-ajez/
 slug_id: 2024-03-27-akash-adoption-hipaa-data-nsa-dod-ip-address-marke-ajez
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Agents Unleashed - Progress In The Decentralized AI Stack (Training, Fine-Tuning, Inference) (Olas)"

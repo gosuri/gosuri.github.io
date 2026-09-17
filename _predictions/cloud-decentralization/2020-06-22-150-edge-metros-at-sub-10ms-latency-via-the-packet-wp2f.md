@@ -7,7 +7,7 @@ year: "2020"
 title: "150 edge metros at sub-10ms latency via the Packet program"
 permalink: /predictions/cloud-decentralization/2020-06-22-150-edge-metros-at-sub-10ms-latency-via-the-packet-wp2f/
 slug_id: 2020-06-22-150-edge-metros-at-sub-10ms-latency-via-the-packet-wp2f
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akashian Challenge Phase 1 Livestream (Akash Network)"

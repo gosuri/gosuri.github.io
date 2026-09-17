@@ -7,7 +7,7 @@ year: "2022"
 title: "Relayers are structurally safer than bridges"
 permalink: /predictions/crypto-depin/2022-08-14-relayers-are-structurally-safer-than-bridges-lq6b/
 slug_id: 2022-08-14-relayers-are-structurally-safer-than-bridges-lq6b
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "IBC Relayers are safer than Bridges  - Here's Why (Akash Network)"

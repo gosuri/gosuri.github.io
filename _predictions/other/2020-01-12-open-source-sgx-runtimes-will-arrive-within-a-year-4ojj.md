@@ -7,7 +7,7 @@ year: "2020"
 title: "Open-source SGX runtimes will arrive within a year"
 permalink: /predictions/other/2020-01-12-open-source-sgx-runtimes-will-arrive-within-a-year-4ojj/
 slug_id: 2020-01-12-open-source-sgx-runtimes-will-arrive-within-a-year-4ojj
-theme_page: /predictions/other/2020/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Hashing It Out #70 - Akash Network - Greg Osuri\" (Hashing It Out (The Bitcoin Podcast Network))"

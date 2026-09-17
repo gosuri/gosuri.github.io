@@ -7,7 +7,7 @@ year: "2023"
 title: "GPUs are the oil for AI; shortage lasts 2–5 years"
 permalink: /predictions/gpu-economics/2023-09-06-gpus-are-the-oil-for-ai-shortage-lasts-2-5-years-y7l5/
 slug_id: 2023-09-06-gpus-are-the-oil-for-ai-shortage-lasts-2-5-years-y7l5
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"#3 - Akash Network with Greg Osuri\" (Weapons of Mass Adoption)"

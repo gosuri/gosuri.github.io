@@ -7,7 +7,7 @@ year: "2026"
 title: "One GPU per prompt — 7 billion AI users implies staggering GPU demand"
 permalink: /predictions/gpu-economics/2026-02-12-one-gpu-per-prompt-7-billion-ai-users-implies-stag-clyb/
 slug_id: 2026-02-12-one-gpu-per-prompt-7-billion-ai-users-implies-stag-clyb
-theme_page: /predictions/gpu-economics/2026/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"DACM Insights: Decentralizing AI, The Akash Approach\" (DACM Insights)"

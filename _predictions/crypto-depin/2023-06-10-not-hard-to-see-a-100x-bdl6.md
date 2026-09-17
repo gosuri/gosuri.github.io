@@ -7,7 +7,7 @@ year: "2023"
 title: "Not hard to see a 100x"
 permalink: /predictions/crypto-depin/2023-06-10-not-hard-to-see-a-100x-bdl6/
 slug_id: 2023-06-10-not-hard-to-see-a-100x-bdl6
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"

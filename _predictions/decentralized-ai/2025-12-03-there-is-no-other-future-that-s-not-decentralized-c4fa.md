@@ -7,7 +7,7 @@ year: "2025"
 title: "There is no other future that's not decentralized"
 permalink: /predictions/decentralized-ai/2025-12-03-there-is-no-other-future-that-s-not-decentralized-c4fa/
 slug_id: 2025-12-03-there-is-no-other-future-that-s-not-decentralized-c4fa
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Complement big cloud now, exceed it eventually"
 permalink: /predictions/cloud-decentralization/2022-04-24-complement-big-cloud-now-exceed-it-eventually-gjwe/
 slug_id: 2022-04-24-complement-big-cloud-now-exceed-it-eventually-gjwe
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly: Introducing new VP of Engineering, Chanda Dharap (Akash Network)"

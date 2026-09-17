@@ -7,7 +7,7 @@ year: "2024"
 title: "Decentralized AI will shine by mid-2025"
 permalink: /predictions/decentralized-ai/2024-11-26-decentralized-ai-will-shine-by-mid-2025-qukb/
 slug_id: 2024-11-26-decentralized-ai-will-shine-by-mid-2025-qukb
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"

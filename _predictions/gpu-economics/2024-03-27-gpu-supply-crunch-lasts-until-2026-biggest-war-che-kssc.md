@@ -7,7 +7,7 @@ year: "2024"
 title: "GPU supply crunch lasts until ~2026; biggest war chest wins"
 permalink: /predictions/gpu-economics/2024-03-27-gpu-supply-crunch-lasts-until-2026-biggest-war-che-kssc/
 slug_id: 2024-03-27-gpu-supply-crunch-lasts-until-2026-biggest-war-che-kssc
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Agents Unleashed - Progress In The Decentralized AI Stack (Training, Fine-Tuning, Inference) (Olas)"

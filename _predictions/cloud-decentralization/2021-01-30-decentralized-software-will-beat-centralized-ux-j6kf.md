@@ -7,7 +7,7 @@ year: "2021"
 title: "Decentralized software will beat centralized UX"
 permalink: /predictions/cloud-decentralization/2021-01-30-decentralized-software-will-beat-centralized-ux-j6kf/
 slug_id: 2021-01-30-decentralized-software-will-beat-centralized-ux-j6kf
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"

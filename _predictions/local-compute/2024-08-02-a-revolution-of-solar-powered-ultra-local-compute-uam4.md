@@ -7,7 +7,7 @@ year: "2024"
 title: "A revolution of solar-powered ultra-local compute"
 permalink: /predictions/local-compute/2024-08-02-a-revolution-of-solar-powered-ultra-local-compute-uam4/
 slug_id: 2024-08-02-a-revolution-of-solar-powered-ultra-local-compute-uam4
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, Marko Stokic, Michael Heinrich & Luki Song on Can User-Owned AI Compete with Big Tech? (Nebular)"

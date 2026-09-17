@@ -7,7 +7,7 @@ year: "2023"
 title: "Next milestone: cloud parity"
 permalink: /predictions/cloud-decentralization/2023-09-29-next-milestone-cloud-parity-rwia/
 slug_id: 2023-09-29-next-milestone-cloud-parity-rwia
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"

@@ -7,7 +7,7 @@ year: "2020"
 title: "A world where the cloud runs on Superminis in people's homes"
 permalink: /predictions/cloud-decentralization/2020-12-16-a-world-where-the-cloud-runs-on-superminis-in-peop-eace/
 slug_id: 2020-12-16-a-world-where-the-cloud-runs-on-superminis-in-peop-eace
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - AKASH Network (At Stake)"

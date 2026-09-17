@@ -7,7 +7,7 @@ year: "2021"
 title: "Solve unused capacity and you don't need AWS"
 permalink: /predictions/cloud-decentralization/2021-07-15-solve-unused-capacity-and-you-don-t-need-aws-q5jq/
 slug_id: 2021-07-15-solve-unused-capacity-and-you-don-t-need-aws-q5jq
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash Network Deep Dive: The Unstoppable Cloud, Powered by Cosmos!\" (Cryptocito)"

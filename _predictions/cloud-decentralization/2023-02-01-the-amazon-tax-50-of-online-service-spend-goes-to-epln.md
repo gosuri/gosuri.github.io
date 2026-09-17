@@ -7,7 +7,7 @@ year: "2023"
 title: "The Amazon tax: 50% of online-service spend goes to cloud"
 permalink: /predictions/cloud-decentralization/2023-02-01-the-amazon-tax-50-of-online-service-spend-goes-to-epln/
 slug_id: 2023-02-01-the-amazon-tax-50-of-online-service-spend-goes-to-epln
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Messari Happy Hour Ep11 (Messari)"

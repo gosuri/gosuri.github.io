@@ -7,7 +7,7 @@ year: "2021"
 title: "Oligopolies stop innovating — the cloud is next"
 permalink: /predictions/cloud-decentralization/2021-03-16-oligopolies-stop-innovating-the-cloud-is-next-hguw/
 slug_id: 2021-03-16-oligopolies-stop-innovating-the-cloud-is-next-hguw
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, Decentralized Cloud | Blockchain Interviews (InvestmentPitch Media)"

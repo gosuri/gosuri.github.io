@@ -7,7 +7,7 @@ year: "2018"
 title: "Serverless adoption will be like cars vs. trucks"
 permalink: /predictions/other/2018-11-09-serverless-adoption-will-be-like-cars-vs-trucks-qkt6/
 slug_id: 2018-11-09-serverless-adoption-will-be-like-cars-vs-trucks-qkt6
-theme_page: /predictions/other/2018/
+theme_page: /predictions/other/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Serverless Panel: Komal Mangtani, Greg Osuri, Guillermo Rauch, Gwen Shapira (Kong)"

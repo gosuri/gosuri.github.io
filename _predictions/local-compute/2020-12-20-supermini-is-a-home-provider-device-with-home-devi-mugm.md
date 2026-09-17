@@ -7,7 +7,7 @@ year: "2020"
 title: "Supermini is a home provider device with home-device constraints"
 permalink: /predictions/local-compute/2020-12-20-supermini-is-a-home-provider-device-with-home-devi-mugm/
 slug_id: 2020-12-20-supermini-is-a-home-provider-device-with-home-devi-mugm
-theme_page: /predictions/local-compute/2020/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akashian Challenge Livestream: Phase 3 Week 2 (Akash Network)"

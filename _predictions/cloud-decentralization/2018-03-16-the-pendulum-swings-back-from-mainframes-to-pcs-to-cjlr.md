@@ -7,7 +7,7 @@ year: "2018"
 title: "The pendulum swings back: from mainframes to PCs to cloud to decentralization"
 permalink: /predictions/cloud-decentralization/2018-03-16-the-pendulum-swings-back-from-mainframes-to-pcs-to-cjlr/
 slug_id: 2018-03-16-the-pendulum-swings-back-from-mainframes-to-pcs-to-cjlr
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Decentralized Future of Cloud Infrastructure (Outlyer)"

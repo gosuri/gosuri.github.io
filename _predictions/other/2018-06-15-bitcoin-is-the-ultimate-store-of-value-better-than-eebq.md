@@ -7,7 +7,7 @@ year: "2018"
 title: "Bitcoin is the ultimate store of value — better than gold"
 permalink: /predictions/other/2018-06-15-bitcoin-is-the-ultimate-store-of-value-better-than-eebq/
 slug_id: 2018-06-15-bitcoin-is-the-ultimate-store-of-value-better-than-eebq
-theme_page: /predictions/other/2018/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "S1E2 - Greg Osuri (CryptoChange.News)"

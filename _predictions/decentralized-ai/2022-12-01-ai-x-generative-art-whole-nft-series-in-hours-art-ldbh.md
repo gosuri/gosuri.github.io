@@ -7,7 +7,7 @@ year: "2022"
 title: "AI x generative art: whole NFT series in hours, art commoditized by GPUs"
 permalink: /predictions/decentralized-ai/2022-12-01-ai-x-generative-art-whole-nft-series-in-hours-art-ldbh/
 slug_id: 2022-12-01-ai-x-generative-art-whole-nft-series-in-hours-art-ldbh
-theme_page: /predictions/decentralized-ai/2022/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Dcentral 2022 - DeCloud - Decentralized Cloud & Storage (Akash Network)"

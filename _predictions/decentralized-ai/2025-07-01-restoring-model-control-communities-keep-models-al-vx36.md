@@ -7,7 +7,7 @@ year: "2025"
 title: "Restoring model control — communities keep models alive"
 permalink: /predictions/decentralized-ai/2025-07-01-restoring-model-control-communities-keep-models-al-vx36/
 slug_id: 2025-07-01-restoring-model-control-communities-keep-models-al-vx36
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Akash Accelerate 2025 - AkashML (Akash Network)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "Incentives will make Akash the cheapest place for A100s"
 permalink: /predictions/gpu-economics/2023-12-18-incentives-will-make-akash-the-cheapest-place-for-idj2/
 slug_id: 2023-12-18-incentives-will-make-akash-the-cheapest-place-for-idj2
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"

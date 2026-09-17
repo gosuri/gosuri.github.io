@@ -7,7 +7,7 @@ year: "2021"
 title: "Ethereum's proof-of-stake shift will unlock enormous GPU supply"
 permalink: /predictions/gpu-economics/2021-06-09-ethereum-s-proof-of-stake-shift-will-unlock-enormo-bhqf/
 slug_id: 2021-06-09-ethereum-s-proof-of-stake-shift-will-unlock-enormo-bhqf
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"

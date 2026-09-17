@@ -7,7 +7,7 @@ year: "2022"
 title: "Enterprise convergence within a couple of years"
 permalink: /predictions/cloud-decentralization/2022-09-01-enterprise-convergence-within-a-couple-of-years-kft3/
 slug_id: 2022-09-01-enterprise-convergence-within-a-couple-of-years-kft3
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 31st 2022 (Akash Network)"

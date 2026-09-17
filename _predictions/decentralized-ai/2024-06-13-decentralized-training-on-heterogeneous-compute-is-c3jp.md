@@ -7,7 +7,7 @@ year: "2024"
 title: "Decentralized training on heterogeneous compute is promising"
 permalink: /predictions/decentralized-ai/2024-06-13-decentralized-training-on-heterogeneous-compute-is-c3jp/
 slug_id: 2024-06-13-decentralized-training-on-heterogeneous-compute-is-c3jp
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Erik Voorhees and Greg Osuri: \"The Power of Permissionless\" - Akash Accelerate '24 (Akash Network)"

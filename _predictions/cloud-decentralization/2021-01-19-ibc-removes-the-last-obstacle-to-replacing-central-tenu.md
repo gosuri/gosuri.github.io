@@ -7,7 +7,7 @@ year: "2021"
 title: "IBC removes the last obstacle to replacing centralized cloud"
 permalink: /predictions/cloud-decentralization/2021-01-19-ibc-removes-the-last-obstacle-to-replacing-central-tenu/
 slug_id: 2021-01-19-ibc-removes-the-last-obstacle-to-replacing-central-tenu
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Citizen Cosmos and OmniFlix Network: Conversations with Jack ft. Greg Osuri Akash Network, S1E1 (Citizen Web3)"

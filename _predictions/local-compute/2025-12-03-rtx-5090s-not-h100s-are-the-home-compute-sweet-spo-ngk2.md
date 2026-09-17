@@ -7,7 +7,7 @@ year: "2025"
 title: "RTX 5090s, not H100s, are the home-compute sweet spot"
 permalink: /predictions/local-compute/2025-12-03-rtx-5090s-not-h100s-are-the-home-compute-sweet-spo-ngk2/
 slug_id: 2025-12-03-rtx-5090s-not-h100s-are-the-home-compute-sweet-spo-ngk2
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"

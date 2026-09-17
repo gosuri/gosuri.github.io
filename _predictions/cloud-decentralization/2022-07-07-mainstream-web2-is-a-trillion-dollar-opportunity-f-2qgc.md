@@ -7,7 +7,7 @@ year: "2022"
 title: "Mainstream web2 is a trillion-dollar opportunity for Akash"
 permalink: /predictions/cloud-decentralization/2022-07-07-mainstream-web2-is-a-trillion-dollar-opportunity-f-2qgc/
 slug_id: 2022-07-07-mainstream-web2-is-a-trillion-dollar-opportunity-f-2qgc
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 6th 2022 (Akash Network)"

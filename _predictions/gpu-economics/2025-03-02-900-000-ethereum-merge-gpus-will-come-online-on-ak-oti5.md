@@ -7,7 +7,7 @@ year: "2025"
 title: "900,000 Ethereum-merge GPUs will come online on Akash in 2023"
 permalink: /predictions/gpu-economics/2025-03-02-900-000-ethereum-merge-gpus-will-come-online-on-ak-oti5/
 slug_id: 2025-03-02-900-000-ethereum-merge-gpus-will-come-online-on-ak-oti5
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network (AKT) Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"

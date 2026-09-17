@@ -7,7 +7,7 @@ year: "2025"
 title: "Wants humanity to reach Kardashev Type One in his lifetime"
 permalink: /predictions/other/2025-08-02-wants-humanity-to-reach-kardashev-type-one-in-his-3svw/
 slug_id: 2025-08-02-wants-humanity-to-reach-kardashev-type-one-in-his-3svw
-theme_page: /predictions/other/2025/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"

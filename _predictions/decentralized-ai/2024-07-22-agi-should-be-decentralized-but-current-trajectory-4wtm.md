@@ -7,7 +7,7 @@ year: "2024"
 title: "AGI should be decentralized — but current trajectory says otherwise"
 permalink: /predictions/decentralized-ai/2024-07-22-agi-should-be-decentralized-but-current-trajectory-4wtm/
 slug_id: 2024-07-22-agi-should-be-decentralized-but-current-trajectory-4wtm
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "\"[Panel] ​“Decentralized Computing as a Business”\" (Kryptoplanet[Official])"

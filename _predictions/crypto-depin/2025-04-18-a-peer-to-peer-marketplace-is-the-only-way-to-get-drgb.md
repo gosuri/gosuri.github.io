@@ -7,7 +7,7 @@ year: "2025"
 title: "A peer-to-peer marketplace is the only way to get chips"
 permalink: /predictions/crypto-depin/2025-04-18-a-peer-to-peer-marketplace-is-the-only-way-to-get-drgb/
 slug_id: 2025-04-18-a-peer-to-peer-marketplace-is-the-only-way-to-get-drgb
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"

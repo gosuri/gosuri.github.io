@@ -7,7 +7,7 @@ year: "2025"
 title: "Distributed training over the internet just became real"
 permalink: /predictions/decentralized-ai/2025-04-02-distributed-training-over-the-internet-just-became-w7ms/
 slug_id: 2025-04-02-distributed-training-over-the-internet-just-became-w7ms
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"

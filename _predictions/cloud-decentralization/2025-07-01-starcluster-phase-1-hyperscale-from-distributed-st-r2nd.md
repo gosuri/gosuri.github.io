@@ -7,7 +7,7 @@ year: "2025"
 title: "Starcluster Phase 1: hyperscale from distributed star nodes (2025)"
 permalink: /predictions/cloud-decentralization/2025-07-01-starcluster-phase-1-hyperscale-from-distributed-st-r2nd/
 slug_id: 2025-07-01-starcluster-phase-1-hyperscale-from-distributed-st-r2nd
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Starcluster (Akash Network)"

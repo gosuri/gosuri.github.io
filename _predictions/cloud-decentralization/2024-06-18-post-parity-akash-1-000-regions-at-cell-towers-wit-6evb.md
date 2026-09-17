@@ -7,7 +7,7 @@ year: "2024"
 title: "Post-parity Akash: 1,000+ regions at cell towers with 10ms latency"
 permalink: /predictions/cloud-decentralization/2024-06-18-post-parity-akash-1-000-regions-at-cell-towers-wit-6evb/
 slug_id: 2024-06-18-post-parity-akash-1-000-regions-at-cell-towers-wit-6evb
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"

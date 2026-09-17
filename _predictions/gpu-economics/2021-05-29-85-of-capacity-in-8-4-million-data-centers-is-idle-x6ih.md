@@ -7,7 +7,7 @@ year: "2021"
 title: "85% of capacity in 8.4 million data centers is idle; 8-10x cheaper than Amazon"
 permalink: /predictions/gpu-economics/2021-05-29-85-of-capacity-in-8-4-million-data-centers-is-idle-x6ih/
 slug_id: 2021-05-29-85-of-capacity-in-8-4-million-data-centers-is-idle-x6ih
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Biz Call: 20210428 GregOsuri AkashNetwork (robfrankel)"

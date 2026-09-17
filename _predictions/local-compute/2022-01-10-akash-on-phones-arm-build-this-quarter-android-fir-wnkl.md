@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash on phones: ARM build \"this quarter,\" Android first"
 permalink: /predictions/local-compute/2022-01-10-akash-on-phones-arm-build-this-quarter-android-fir-wnkl/
 slug_id: 2022-01-10-akash-on-phones-arm-build-this-quarter-android-fir-wnkl
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash (40%+ staking APY) is taking over the $Bn Cloud Computing Market by AWS? Greg Osuri EXCLUSIVE (Digital Asset Yield Summit)"

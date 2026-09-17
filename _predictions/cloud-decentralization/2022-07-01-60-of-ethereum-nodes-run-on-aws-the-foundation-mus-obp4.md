@@ -7,7 +7,7 @@ year: "2022"
 title: "60% of Ethereum nodes run on AWS — the foundation must decentralize"
 permalink: /predictions/cloud-decentralization/2022-07-01-60-of-ethereum-nodes-run-on-aws-the-foundation-mus-obp4/
 slug_id: 2022-07-01-60-of-ethereum-nodes-run-on-aws-the-foundation-mus-obp4
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "WCEF 2022: Infrastructure for the New Internet - Web3 (World Crypto Economic Forum (WCEF))"

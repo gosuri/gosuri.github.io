@@ -7,7 +7,7 @@ year: "2025"
 title: "The future is edge data centers, not hyperscale"
 permalink: /predictions/local-compute/2025-04-11-the-future-is-edge-data-centers-not-hyperscale-6mry/
 slug_id: 2025-04-11-the-future-is-edge-data-centers-not-hyperscale-6mry
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"

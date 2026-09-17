@@ -7,7 +7,7 @@ year: "2022"
 title: "On-chain manifests will enable unstoppable, DAO-owned services"
 permalink: /predictions/cloud-decentralization/2022-09-08-on-chain-manifests-will-enable-unstoppable-dao-own-6nud/
 slug_id: 2022-09-08-on-chain-manifests-will-enable-unstoppable-dao-own-6nud
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 7th 2022 (Akash Network)"

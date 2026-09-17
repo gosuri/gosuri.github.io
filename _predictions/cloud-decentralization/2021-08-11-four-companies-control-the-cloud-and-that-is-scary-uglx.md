@@ -7,7 +7,7 @@ year: "2021"
 title: "Four companies control the cloud — and that is scary"
 permalink: /predictions/cloud-decentralization/2021-08-11-four-companies-control-the-cloud-and-that-is-scary-uglx/
 slug_id: 2021-08-11-four-companies-control-the-cloud-and-that-is-scary-uglx
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)"

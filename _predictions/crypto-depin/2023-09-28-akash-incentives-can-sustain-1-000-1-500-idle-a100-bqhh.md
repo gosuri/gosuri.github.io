@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash incentives can sustain 1,000–1,500 idle A100s"
 permalink: /predictions/crypto-depin/2023-09-28-akash-incentives-can-sustain-1-000-1-500-idle-a100-bqhh/
 slug_id: 2023-09-28-akash-incentives-can-sustain-1-000-1-500-idle-a100-bqhh
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Building the Super Cloud of GPUs with Akash Founder Greg Osuri | EP #102 (Frictionless Podcast by Logan Jastremski)"

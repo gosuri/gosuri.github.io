@@ -7,7 +7,7 @@ year: "2018"
 title: "The unstoppable web"
 permalink: /predictions/crypto-depin/2018-08-31-the-unstoppable-web-xekn/
 slug_id: 2018-08-31-the-unstoppable-web-xekn
-theme_page: /predictions/crypto-depin/2018/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Crypto Stories: A Primer on Distributed Computing with Dani Grant, Dan Desjardins, Chandler Song, and Greg Osuri\" (Village Global's Venture Stories)"

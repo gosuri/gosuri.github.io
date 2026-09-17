@@ -7,7 +7,7 @@ year: "2021"
 title: "85% of the world's compute capacity sits underutilized"
 permalink: /predictions/cloud-decentralization/2021-03-05-85-of-the-world-s-compute-capacity-sits-underutili-tfvy/
 slug_id: 2021-03-05-85-of-the-world-s-compute-capacity-sits-underutili-tfvy
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Alessio Treglia, Jack Zampolin, Greg Osuri and Adam Bozanich (Akash Network)"

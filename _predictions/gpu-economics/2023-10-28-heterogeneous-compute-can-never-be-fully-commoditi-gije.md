@@ -7,7 +7,7 @@ year: "2023"
 title: "Heterogeneous compute can never be fully commoditized"
 permalink: /predictions/gpu-economics/2023-10-28-heterogeneous-compute-can-never-be-fully-commoditi-gije/
 slug_id: 2023-10-28-heterogeneous-compute-can-never-be-fully-commoditi-gije
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"

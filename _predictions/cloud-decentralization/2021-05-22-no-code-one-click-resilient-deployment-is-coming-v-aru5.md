@@ -7,7 +7,7 @@ year: "2021"
 title: "No-code, one-click resilient deployment is coming very soon"
 permalink: /predictions/cloud-decentralization/2021-05-22-no-code-one-click-resilient-deployment-is-coming-v-aru5/
 slug_id: 2021-05-22-no-code-one-click-resilient-deployment-is-coming-v-aru5
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Livestream: exiledsurfer and Greg Osuri (Akash Network)"

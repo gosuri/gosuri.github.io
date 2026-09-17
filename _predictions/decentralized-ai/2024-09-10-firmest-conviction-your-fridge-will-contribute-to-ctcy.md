@@ -7,7 +7,7 @@ year: "2024"
 title: "Firmest conviction: your fridge will contribute to a global machine learning machine"
 permalink: /predictions/decentralized-ai/2024-09-10-firmest-conviction-your-fridge-will-contribute-to-ctcy/
 slug_id: 2024-09-10-firmest-conviction-your-fridge-will-contribute-to-ctcy
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))"

@@ -49,10 +49,6 @@ async function fixture(t) {
   await put(root, 'predictions/ai-agents.md', [
     '---', 'theme: AI Agents', 'permalink: /predictions/ai-agents/', '---', '',
   ].join('\n'));
-  await put(root, 'predictions/ai-agents/2022.md', [
-    '---', 'theme: AI Agents', 'theme_slug: ai-agents', 'year: "2022"',
-    'permalink: /predictions/ai-agents/2022/', '---', '',
-  ].join('\n'));
   await put(root, '_posts/2020-02-18-external.md', [
     '---', 'layout: post', 'title: External essay',
     'link: https://example.org/essay/', '---', '',
@@ -61,7 +57,7 @@ async function fixture(t) {
     '---', 'title: About', 'permalink: /about/', '---', 'Public biography.', '',
   ].join('\n'));
   for (const path of ['/', '/posts/', '/about/', '/predictions/', '/predictions/recent/',
-    '/predictions/ai-agents/', '/predictions/ai-agents/2022/', itemPath, postPath]) {
+    '/predictions/ai-agents/', itemPath, postPath]) {
     await put(siteDir, `${path.slice(1)}index.html`, built);
   }
   await put(siteDir, `${itemPath.slice(1)}card.png`, 'existing card');
@@ -75,7 +71,7 @@ async function fixture(t) {
 test('writes each published page twin, scoped indexes and live inventory', async t => {
   const opts = await fixture(t);
   const result = await renderAgents(opts);
-  assert.equal(result.twins, 9);
+  assert.equal(result.twins, 8);
   assert.equal(result.predictions, 1);
   assert.equal(result.posts, 1);
   const read = path => readFile(join(opts.siteDir, path), 'utf8');
@@ -87,7 +83,7 @@ test('writes each published page twin, scoped indexes and live inventory', async
   assert.ok(leaf.includes('Context — site annotation, not spoken'));
   for (const path of ['index.md', 'posts/index.md', 'about/index.md',
     'predictions/index.md', 'predictions/recent/index.md', 'predictions/ai-agents/index.md',
-    'predictions/ai-agents/2022/index.md', `${postPath.slice(1)}index.md`]) {
+    `${postPath.slice(1)}index.md`]) {
     assert.ok((await read(path)).trim(), path);
   }
   const index = await read('predictions/ai-agents/index.md');
@@ -127,8 +123,6 @@ test('new source and its built HTML enter indexes without an allowlist edit', as
   assert.equal(result.predictions, 2);
   const flat = await readFile(join(opts.siteDir, 'predictions/index.md'), 'utf8');
   assert.ok(flat.includes('2023-01-01-home-next'));
-  const year = await readFile(join(opts.siteDir, 'predictions/ai-agents/2022/index.md'), 'utf8');
-  assert.ok(!year.includes('2023-01-01-home-next'));
   const theme = await readFile(join(opts.siteDir, 'predictions/ai-agents/index.md'), 'utf8');
   assert.ok(theme.includes('2023-01-01-home-next'));
   const recent = await readFile(join(opts.siteDir, 'predictions/recent/index.md'), 'utf8');
@@ -153,7 +147,7 @@ test('authored citing page is included as soon as it exists', async t => {
   const opts = await fixture(t);
   await put(opts.root, 'citing.md', '---\ntitle: Citing\npermalink: /citing/\n---\nQuote verbatim.\n');
   await put(opts.siteDir, 'citing/index.html', built);
-  assert.equal((await renderAgents(opts)).twins, 10);
+  assert.equal((await renderAgents(opts)).twins, 9);
   const twin = await readFile(join(opts.siteDir, 'citing/index.md'), 'utf8');
   assert.ok(twin.includes('Quote verbatim.'));
 });
@@ -163,7 +157,7 @@ test('preserves built pagination pages as route-specific homepage twins', async 
   await put(opts.siteDir, 'page2/index.html', '<main class="page-content"><p>Page two writing.</p></main>');
   await put(opts.siteDir, 'page10/index.html', '<main class="page-content"><p>Page ten writing.</p></main>');
   const result = await renderAgents(opts);
-  assert.equal(result.twins, 11);
+  assert.equal(result.twins, 10);
   const page2 = await readFile(join(opts.siteDir, 'page2/index.md'), 'utf8');
   const page10 = await readFile(join(opts.siteDir, 'page10/index.md'), 'utf8');
   assert.ok(page2.includes('Page two writing.'));
@@ -184,6 +178,15 @@ test('fails on an unhandled public HTML page instead of leaving a broken alterna
   await put(opts.siteDir, 'new-page/index.html', built);
   await assert.rejects(renderAgents(opts), /No markdown twin for built page/);
   await assert.rejects(access(join(opts.siteDir, 'llms.txt')));
+});
+
+test('rejects a resurrected theme-year page instead of publishing it', async t => {
+  const opts = await fixture(t);
+  await put(opts.root, 'predictions/ai-agents/2022.md', [
+    '---', 'theme: AI Agents', 'theme_slug: ai-agents', 'year: "2022"',
+    'permalink: /predictions/ai-agents/2022/', '---', '',
+  ].join('\n'));
+  await assert.rejects(renderAgents(opts), /Unsupported prediction index/);
 });
 
 test('refuses duplicate outputs and traversal permalinks', async t => {

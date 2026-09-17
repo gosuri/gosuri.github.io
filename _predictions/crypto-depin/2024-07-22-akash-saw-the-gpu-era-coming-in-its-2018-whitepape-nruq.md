@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash saw the GPU era coming in its 2018 whitepaper"
 permalink: /predictions/crypto-depin/2024-07-22-akash-saw-the-gpu-era-coming-in-its-2018-whitepape-nruq/
 slug_id: 2024-07-22-akash-saw-the-gpu-era-coming-in-its-2018-whitepape-nruq
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "[Solo Talk] Decentralization is saving AI where centralization failed by Greg Osuri (Kryptoplanet[Official])"

@@ -7,7 +7,7 @@ year: "2021"
 title: "Decentralized systems build superior UX"
 permalink: /predictions/cloud-decentralization/2021-08-11-decentralized-systems-build-superior-ux-uglx/
 slug_id: 2021-08-11-decentralized-systems-build-superior-ux-uglx
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Unstoppable Cloud and Building a Decentralized Web with Greg Osuri (The Index Podcast)"

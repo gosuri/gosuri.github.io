@@ -7,7 +7,7 @@ year: "2023"
 title: "Composability and shared security get solved in 2023; ATOM top 10 \"easy\""
 permalink: /predictions/crypto-depin/2023-01-13-composability-and-shared-security-get-solved-in-20-7s5h/
 slug_id: 2023-01-13-composability-and-shared-security-get-solved-in-20-7s5h
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"

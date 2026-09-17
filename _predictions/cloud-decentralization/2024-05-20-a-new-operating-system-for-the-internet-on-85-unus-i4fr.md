@@ -7,7 +7,7 @@ year: "2024"
 title: "A new operating system for the internet on 85% unused capacity"
 permalink: /predictions/cloud-decentralization/2024-05-20-a-new-operating-system-for-the-internet-on-85-unus-i4fr/
 slug_id: 2024-05-20-a-new-operating-system-for-the-internet-on-85-unus-i4fr
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO of Overclock Labs & Akash N... (Techpost)"

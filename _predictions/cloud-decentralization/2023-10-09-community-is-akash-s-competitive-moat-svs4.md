@@ -7,7 +7,7 @@ year: "2023"
 title: "Community is Akash's competitive moat"
 permalink: /predictions/cloud-decentralization/2023-10-09-community-is-akash-s-competitive-moat-svs4/
 slug_id: 2023-10-09-community-is-akash-s-competitive-moat-svs4
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri: Redefining Success Against All Odds | BTC Ep.7 (Michael Huynh)"

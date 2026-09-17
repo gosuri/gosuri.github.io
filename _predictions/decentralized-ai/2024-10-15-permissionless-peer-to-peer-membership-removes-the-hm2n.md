@@ -7,7 +7,7 @@ year: "2024"
 title: "Permissionless peer-to-peer membership removes the bound on compute scale"
 permalink: /predictions/decentralized-ai/2024-10-15-permissionless-peer-to-peer-membership-removes-the-hm2n/
 slug_id: 2024-10-15-permissionless-peer-to-peer-membership-removes-the-hm2n
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Key Challenges in Building Decentralized AI Infrastructure | AI / ALL Summit (Sahara AI)"

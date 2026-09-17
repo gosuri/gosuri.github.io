@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash: the world's first decentralized supercloud, targeting the true price of compute"
 permalink: /predictions/cloud-decentralization/2022-12-01-akash-the-world-s-first-decentralized-supercloud-t-slxj/
 slug_id: 2022-12-01-akash-the-world-s-first-decentralized-supercloud-t-slxj
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Dcentral 2022 - DeCloud - Decentralized Cloud & Storage (Akash Network)"

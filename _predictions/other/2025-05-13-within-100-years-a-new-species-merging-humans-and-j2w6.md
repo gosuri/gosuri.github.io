@@ -7,7 +7,7 @@ year: "2025"
 title: "Within 100 years, a new species merging humans and AI"
 permalink: /predictions/other/2025-05-13-within-100-years-a-new-species-merging-humans-and-j2w6/
 slug_id: 2025-05-13-within-100-years-a-new-species-merging-humans-and-j2w6
-theme_page: /predictions/other/2025/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "Anyone with solar and roof space becomes a data center"
 permalink: /predictions/local-compute/2025-06-03-anyone-with-solar-and-roof-space-becomes-a-data-ce-bx2i/
 slug_id: 2025-06-03-anyone-with-solar-and-roof-space-becomes-a-data-ce-bx2i
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"

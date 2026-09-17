@@ -7,7 +7,7 @@ year: "2021"
 title: "\"Centralized is yesterday... the future is decentralized — it's an evolution\""
 permalink: /predictions/cloud-decentralization/2021-06-27-centralized-is-yesterday-the-future-is-decentraliz-na5k/
 slug_id: 2021-06-27-centralized-is-yesterday-the-future-is-decentraliz-na5k
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Enter Decentralized Cloud & Unstoppable Web with Akash Network & Deeper - DeFi Conference Day 1 (Dcentral Con)"

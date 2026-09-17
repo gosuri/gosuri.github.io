@@ -7,7 +7,7 @@ year: "2022"
 title: "A few key apps, not thousands, will drive adoption (Netflix/AWS analogy)"
 permalink: /predictions/other/2022-10-13-a-few-key-apps-not-thousands-will-drive-adoption-n-lgqv/
 slug_id: 2022-10-13-a-few-key-apps-not-thousands-will-drive-adoption-n-lgqv
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 12th 2022 (Akash Network)"

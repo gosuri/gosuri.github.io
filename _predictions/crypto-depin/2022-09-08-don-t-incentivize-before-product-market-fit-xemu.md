@@ -7,7 +7,7 @@ year: "2022"
 title: "Don't incentivize before product-market fit"
 permalink: /predictions/crypto-depin/2022-09-08-don-t-incentivize-before-product-market-fit-xemu/
 slug_id: 2022-09-08-don-t-incentivize-before-product-market-fit-xemu
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 7th 2022 (Akash Network)"

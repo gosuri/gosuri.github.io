@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash is the first commercial implementation of a supercloud"
 permalink: /predictions/cloud-decentralization/2022-10-28-akash-is-the-first-commercial-implementation-of-a-rih5/
 slug_id: 2022-10-28-akash-is-the-first-commercial-implementation-of-a-rih5
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"

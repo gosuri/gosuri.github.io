@@ -7,7 +7,7 @@ year: "2024"
 title: "Goal: cloud parity — move Walmart off Amazon"
 permalink: /predictions/cloud-decentralization/2024-06-11-goal-cloud-parity-move-walmart-off-amazon-vi2n/
 slug_id: 2024-06-11-goal-cloud-parity-move-walmart-off-amazon-vi2n
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Keynote from Greg Osuri: \\\"Journey to Acceleration & Beyond\\\" - Akash Accelerate '24\" (Akash Network)"

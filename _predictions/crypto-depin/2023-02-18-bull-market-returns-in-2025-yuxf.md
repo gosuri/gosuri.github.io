@@ -7,7 +7,7 @@ year: "2023"
 title: "Bull market returns in 2025"
 permalink: /predictions/crypto-depin/2023-02-18-bull-market-returns-in-2025-yuxf/
 slug_id: 2023-02-18-bull-market-returns-in-2025-yuxf
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"

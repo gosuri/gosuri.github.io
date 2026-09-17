@@ -7,7 +7,7 @@ year: "2022"
 title: "Sub-20ms latency everywhere unlocks new application classes"
 permalink: /predictions/cloud-decentralization/2022-10-13-sub-20ms-latency-everywhere-unlocks-new-applicatio-utv6/
 slug_id: 2022-10-13-sub-20ms-latency-everywhere-unlocks-new-applicatio-utv6
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 12th 2022 (Akash Network)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "The Cosmos model failed: sovereignty before product-market fit"
 permalink: /predictions/crypto-depin/2025-12-03-the-cosmos-model-failed-sovereignty-before-product-cwl6/
 slug_id: 2025-12-03-the-cosmos-model-failed-sovereignty-before-product-cwl6
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"

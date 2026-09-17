@@ -7,7 +7,7 @@ year: "2020"
 title: "Stakers will take 20% of hosting fees — the $300B math"
 permalink: /predictions/crypto-depin/2020-12-10-stakers-will-take-20-of-hosting-fees-the-300b-math-yvbg/
 slug_id: 2020-12-10-stakers-will-take-20-of-hosting-fees-the-300b-math-yvbg
-theme_page: /predictions/crypto-depin/2020/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"The Akashian Challenge Livestream: Phase 3 Week 1\" (Akash Network)"

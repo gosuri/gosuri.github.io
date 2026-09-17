@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash runs 15,000 models; Render runs one"
 permalink: /predictions/decentralized-ai/2023-06-15-akash-runs-15-000-models-render-runs-one-r32u/
 slug_id: 2023-06-15-akash-runs-15-000-models-render-runs-one-r32u
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"

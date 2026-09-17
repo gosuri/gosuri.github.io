@@ -7,7 +7,7 @@ year: "2022"
 title: "Trillion-dollar mainstream opportunity"
 permalink: /predictions/cloud-decentralization/2022-07-25-trillion-dollar-mainstream-opportunity-mdfa/
 slug_id: 2022-07-25-trillion-dollar-mainstream-opportunity-mdfa
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Adoption Plan (Akash Network)"

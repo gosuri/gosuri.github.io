@@ -7,7 +7,7 @@ year: "2021"
 title: "Home cloud with sovereignty — keys never leave your home"
 permalink: /predictions/local-compute/2021-06-10-home-cloud-with-sovereignty-keys-never-leave-your-d2da/
 slug_id: 2021-06-10-home-cloud-with-sovereignty-keys-never-leave-your-d2da
-theme_page: /predictions/local-compute/2021/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Networks (And How Handshake Works Together) (SkyInclude)"

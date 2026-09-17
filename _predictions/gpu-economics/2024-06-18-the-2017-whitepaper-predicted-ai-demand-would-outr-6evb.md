@@ -7,7 +7,7 @@ year: "2024"
 title: "The 2017 whitepaper predicted AI demand would outrun GPU supply"
 permalink: /predictions/gpu-economics/2024-06-18-the-2017-whitepaper-predicted-ai-demand-would-outr-6evb/
 slug_id: 2024-06-18-the-2017-whitepaper-predicted-ai-demand-would-outr-6evb
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"

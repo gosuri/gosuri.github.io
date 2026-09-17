@@ -7,7 +7,7 @@ year: "2021"
 title: "Startups bleed 20% to Amazon — mostly on GPU bills"
 permalink: /predictions/cloud-decentralization/2021-05-27-startups-bleed-20-to-amazon-mostly-on-gpu-bills-rexe/
 slug_id: 2021-05-27-startups-bleed-20-to-amazon-mostly-on-gpu-bills-rexe
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Почему дорого запускать стартап в централизованных облаках? Интервью с Greg Osuri, CEO Akash Network (S3XYBTC)"

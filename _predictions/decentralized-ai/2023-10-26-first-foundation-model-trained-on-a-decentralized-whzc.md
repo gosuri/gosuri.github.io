@@ -7,7 +7,7 @@ year: "2023"
 title: "First foundation model trained on a decentralized cloud; centralized-superiority \"going to be debunked\""
 permalink: /predictions/decentralized-ai/2023-10-26-first-foundation-model-trained-on-a-decentralized-whzc/
 slug_id: 2023-10-26-first-foundation-model-trained-on-a-decentralized-whzc
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"

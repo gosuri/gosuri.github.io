@@ -7,7 +7,7 @@ year: "2022"
 title: "Services marketplace by end of 2022 — \"going on the offensive\""
 permalink: /predictions/cloud-decentralization/2022-01-05-services-marketplace-by-end-of-2022-going-on-the-o-iqdc/
 slug_id: 2022-01-05-services-marketplace-by-end-of-2022-going-on-the-o-iqdc
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Updates From the Lab 1/5/22 W/Akash (Osmosis)"

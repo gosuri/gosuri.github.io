@@ -7,7 +7,7 @@ year: "2025"
 title: "Homeowners hosting their own compute and power, citing Greg's \"Akash at home\""
 permalink: /predictions/local-compute/2025-07-04-homeowners-hosting-their-own-compute-and-power-cit-dxng/
 slug_id: 2025-07-04-homeowners-hosting-their-own-compute-and-power-cit-dxng
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Jason Badeaux"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Jason Badeaux from Daylight on Decentralized Energy (Akash Network)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash launches GPUs from a position of strength"
 permalink: /predictions/gpu-economics/2023-06-10-akash-launches-gpus-from-a-position-of-strength-b6dj/
 slug_id: 2023-06-10-akash-launches-gpus-from-a-position-of-strength-b6dj
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"

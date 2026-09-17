@@ -7,7 +7,7 @@ year: "2021"
 title: "80% of cloud controlled by four companies"
 permalink: /predictions/cloud-decentralization/2021-10-27-80-of-cloud-controlled-by-four-companies-ue5e/
 slug_id: 2021-10-27-80-of-cloud-controlled-by-four-companies-ue5e
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network CEO, Greg Osuri on Yahoo Finance (Akash Network)"

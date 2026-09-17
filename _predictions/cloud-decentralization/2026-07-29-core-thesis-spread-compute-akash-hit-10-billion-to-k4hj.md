@@ -7,7 +7,7 @@ year: "2026"
 title: "Core thesis: spread compute; Akash hit 10 billion tokens a day"
 permalink: /predictions/cloud-decentralization/2026-07-29-core-thesis-spread-compute-akash-hit-10-billion-to-k4hj/
 slug_id: 2026-07-29-core-thesis-spread-compute-akash-hit-10-billion-to-k4hj
-theme_page: /predictions/cloud-decentralization/2026/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)"

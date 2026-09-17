@@ -7,7 +7,7 @@ year: "2022"
 title: "Enterprise adoption only works bottom-up, through internal champions"
 permalink: /predictions/other/2022-10-04-enterprise-adoption-only-works-bottom-up-through-i-lkry/
 slug_id: 2022-10-04-enterprise-adoption-only-works-bottom-up-through-i-lkry
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "It Just Works: Letting Mainstream Firms Plug Into Crypto - Messari Mainnet 2022 (Messari)"

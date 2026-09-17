@@ -7,7 +7,7 @@ year: "2022"
 title: "Node services (Pocket/Infura/Alchemy) will run on Akash"
 permalink: /predictions/cloud-decentralization/2022-04-24-node-services-pocket-infura-alchemy-will-run-on-ak-3x6k/
 slug_id: 2022-04-24-node-services-pocket-infura-alchemy-will-run-on-ak-3x6k
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly: Chia (Akash Network)"

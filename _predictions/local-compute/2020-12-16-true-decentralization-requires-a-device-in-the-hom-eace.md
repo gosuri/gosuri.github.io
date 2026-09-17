@@ -7,7 +7,7 @@ year: "2020"
 title: "True decentralization requires a device in the home"
 permalink: /predictions/local-compute/2020-12-16-true-decentralization-requires-a-device-in-the-hom-eace/
 slug_id: 2020-12-16-true-decentralization-requires-a-device-in-the-hom-eace
-theme_page: /predictions/local-compute/2020/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - AKASH Network (At Stake)"

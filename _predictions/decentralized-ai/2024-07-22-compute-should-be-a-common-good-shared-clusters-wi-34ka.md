@@ -7,7 +7,7 @@ year: "2024"
 title: "Compute should be a common good; shared clusters will drive cost down"
 permalink: /predictions/decentralized-ai/2024-07-22-compute-should-be-a-common-good-shared-clusters-wi-34ka/
 slug_id: 2024-07-22-compute-should-be-a-common-good-shared-clusters-wi-34ka
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"[Panel] ​“Decentralized Computing as a Business”\" (Kryptoplanet[Official])"

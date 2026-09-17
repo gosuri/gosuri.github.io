@@ -7,7 +7,7 @@ year: "2025"
 title: "DePIN plus DeFi creates new financial assets to fund home compute"
 permalink: /predictions/crypto-depin/2025-04-02-depin-plus-defi-creates-new-financial-assets-to-fu-ozyi/
 slug_id: 2025-04-02-depin-plus-defi-creates-new-financial-assets-to-fu-ozyi
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"

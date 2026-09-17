@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash is 2-3x, sometimes 10x, cheaper than the big clouds"
 permalink: /predictions/cloud-decentralization/2021-01-21-akash-is-2-3x-sometimes-10x-cheaper-than-the-big-c-w5g6/
 slug_id: 2021-01-21-akash-is-2-3x-sometimes-10x-cheaper-than-the-big-c-w5g6
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network, Cloud Computing on Blockchain (MikoBits Blockchain, NFT and DeFi Show)"

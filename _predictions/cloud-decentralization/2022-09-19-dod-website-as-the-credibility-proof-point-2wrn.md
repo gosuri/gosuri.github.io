@@ -7,7 +7,7 @@ year: "2022"
 title: "DoD website as the credibility proof point"
 permalink: /predictions/cloud-decentralization/2022-09-19-dod-website-as-the-credibility-proof-point-2wrn/
 slug_id: 2022-09-19-dod-website-as-the-credibility-proof-point-2wrn
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Akash Analysis - Why decentralization is important (Akash Network)"

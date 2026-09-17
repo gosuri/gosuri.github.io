@@ -7,7 +7,7 @@ year: "2025"
 title: "\"Hyper bullish\" on decentralized AI as the fix for the energy crisis"
 permalink: /predictions/decentralized-ai/2025-06-03-hyper-bullish-on-decentralized-ai-as-the-fix-for-t-4zy2/
 slug_id: 2025-06-03-hyper-bullish-on-decentralized-ai-as-the-fix-for-t-4zy2
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"

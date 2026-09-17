@@ -7,7 +7,7 @@ year: "2024"
 title: "Tokenized open source as the business model for open source software"
 permalink: /predictions/other/2024-07-22-tokenized-open-source-as-the-business-model-for-op-iqf3/
 slug_id: 2024-07-22-tokenized-open-source-as-the-business-model-for-op-iqf3
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"[Panel] ​“Decentralized Computing as a Business”\" (Kryptoplanet[Official])"

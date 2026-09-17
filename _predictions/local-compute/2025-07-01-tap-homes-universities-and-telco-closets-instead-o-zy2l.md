@@ -7,7 +7,7 @@ year: "2025"
 title: "Tap homes, universities, and telco closets instead of building new data centers"
 permalink: /predictions/local-compute/2025-07-01-tap-homes-universities-and-telco-closets-instead-o-zy2l/
 slug_id: 2025-07-01-tap-homes-universities-and-telco-closets-instead-o-zy2l
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025  -  Greg Osuri Keynote (Akash Network)"

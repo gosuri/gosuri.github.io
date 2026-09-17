@@ -7,7 +7,7 @@ year: "2026"
 title: "State-sponsored loans for home compute"
 permalink: /predictions/local-compute/2026-07-17-state-sponsored-loans-for-home-compute-phym/
 slug_id: 2026-07-17-state-sponsored-loans-for-home-compute-phym
-theme_page: /predictions/local-compute/2026/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"

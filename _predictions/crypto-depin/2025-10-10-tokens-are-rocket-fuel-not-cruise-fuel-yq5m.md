@@ -7,7 +7,7 @@ year: "2025"
 title: "Tokens are rocket fuel, not cruise fuel"
 permalink: /predictions/crypto-depin/2025-10-10-tokens-are-rocket-fuel-not-cruise-fuel-yq5m/
 slug_id: 2025-10-10-tokens-are-rocket-fuel-not-cruise-fuel-yq5m
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"

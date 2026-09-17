@@ -7,7 +7,7 @@ year: "2024"
 title: "GPU scarcity is a coordination problem blockchains solve"
 permalink: /predictions/gpu-economics/2024-06-14-gpu-scarcity-is-a-coordination-problem-blockchains-yctq/
 slug_id: 2024-06-14-gpu-scarcity-is-a-coordination-problem-blockchains-yctq
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Tech Snippets Today - Greg Osuri - Founder at Akash with Joseph Raczynski (Joseph Raczynski)"

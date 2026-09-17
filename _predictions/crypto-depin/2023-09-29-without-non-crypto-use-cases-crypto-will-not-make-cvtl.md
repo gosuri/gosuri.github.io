@@ -7,7 +7,7 @@ year: "2023"
 title: "Without non-crypto use cases, crypto \"will not make it\""
 permalink: /predictions/crypto-depin/2023-09-29-without-non-crypto-use-cases-crypto-will-not-make-cvtl/
 slug_id: 2023-09-29-without-non-crypto-use-cases-crypto-will-not-make-cvtl
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "Decentralized infrastructure is ready; d-web is here"
 permalink: /predictions/cloud-decentralization/2021-06-16-decentralized-infrastructure-is-ready-d-web-is-her-yytj/
 slug_id: 2021-06-16-decentralized-infrastructure-is-ready-d-web-is-her-yytj
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DeFi Summit - Conference Day 1 - June 15th (Tuesday) (Dcentral Con)"

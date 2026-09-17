@@ -7,7 +7,7 @@ year: "2025"
 title: "TEEs solve verifiability and confidentiality at ~20% overhead"
 permalink: /predictions/decentralized-ai/2025-12-03-tees-solve-verifiability-and-confidentiality-at-20-mtg6/
 slug_id: 2025-12-03-tees-solve-verifiability-and-confidentiality-at-20-mtg6
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Distributed data centers need a decentralized connective layer"
 permalink: /predictions/cloud-decentralization/2024-10-24-distributed-data-centers-need-a-decentralized-conn-kdbm/
 slug_id: 2024-10-24-distributed-data-centers-need-a-decentralized-conn-kdbm
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"

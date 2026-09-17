@@ -7,7 +7,7 @@ year: "2024"
 title: "Five-year vision: cloud parity and a services network with thousands of regions"
 permalink: /predictions/cloud-decentralization/2024-11-14-five-year-vision-cloud-parity-and-a-services-netwo-qkau/
 slug_id: 2024-11-14-five-year-vision-cloud-parity-and-a-services-netwo-qkau
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network: A New Era of Affordable, Decentralized Cloud Computing with Greg Osuri | Varuni (Thecoinrepublic)"

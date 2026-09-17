@@ -7,7 +7,7 @@ year: "2021"
 title: "Bring the cloud to you: the Supermini home supercomputer"
 permalink: /predictions/local-compute/2021-06-10-bring-the-cloud-to-you-the-supermini-home-supercom-zta4/
 slug_id: 2021-06-10-bring-the-cloud-to-you-the-supermini-home-supercom-zta4
-theme_page: /predictions/local-compute/2021/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Networks (And How Handshake Works Together) (SkyInclude)"

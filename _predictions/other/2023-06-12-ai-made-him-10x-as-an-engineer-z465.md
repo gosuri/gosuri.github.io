@@ -7,7 +7,7 @@ year: "2023"
 title: "AI made him 10x as an engineer"
 permalink: /predictions/other/2023-06-12-ai-made-him-10x-as-an-engineer-z465/
 slug_id: 2023-06-12-ai-made-him-10x-as-an-engineer-z465
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"

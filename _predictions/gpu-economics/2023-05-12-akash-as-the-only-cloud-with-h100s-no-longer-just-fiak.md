@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash as the only cloud with H100s — no longer just the cheap alternative"
 permalink: /predictions/gpu-economics/2023-05-12-akash-as-the-only-cloud-with-h100s-no-longer-just-fiak/
 slug_id: 2023-05-12-akash-as-the-only-cloud-with-h100s-no-longer-just-fiak
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"

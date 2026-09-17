@@ -7,7 +7,7 @@ year: "2023"
 title: "Decentralization lets competitors cooperate"
 permalink: /predictions/cloud-decentralization/2023-02-16-decentralization-lets-competitors-cooperate-3sj2/
 slug_id: 2023-02-16-decentralization-lets-competitors-cooperate-3sj2
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"

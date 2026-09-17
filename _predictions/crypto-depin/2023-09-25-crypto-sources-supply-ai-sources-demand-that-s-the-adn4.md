@@ -7,7 +7,7 @@ year: "2023"
 title: "Crypto sources supply, AI sources demand — that's the marriage"
 permalink: /predictions/crypto-depin/2023-09-25-crypto-sources-supply-ai-sources-demand-that-s-the-adn4/
 slug_id: 2023-09-25-crypto-sources-supply-ai-sources-demand-that-s-the-adn4
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)"

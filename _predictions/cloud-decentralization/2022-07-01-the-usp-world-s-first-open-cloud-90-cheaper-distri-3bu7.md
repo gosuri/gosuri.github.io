@@ -7,7 +7,7 @@ year: "2022"
 title: "The USP: world's first open cloud, 90% cheaper, distribution Amazon can't give"
 permalink: /predictions/cloud-decentralization/2022-07-01-the-usp-world-s-first-open-cloud-90-cheaper-distri-3bu7/
 slug_id: 2022-07-01-the-usp-world-s-first-open-cloud-90-cheaper-distri-3bu7
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Ask Akash: Why not focus on Web 2 adoption for Akash? (Akash Network)"

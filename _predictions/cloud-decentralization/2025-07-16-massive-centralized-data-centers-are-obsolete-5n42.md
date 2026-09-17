@@ -7,7 +7,7 @@ year: "2025"
 title: "Massive centralized data centers are obsolete"
 permalink: /predictions/cloud-decentralization/2025-07-16-massive-centralized-data-centers-are-obsolete-5n42/
 slug_id: 2025-07-16-massive-centralized-data-centers-are-obsolete-5n42
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Crypto World Daily)"

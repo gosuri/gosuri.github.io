@@ -7,7 +7,7 @@ year: "2022"
 title: "Incentives should come after product-market fit, or supply outstrips demand"
 permalink: /predictions/crypto-depin/2022-07-28-incentives-should-come-after-product-market-fit-or-oukv/
 slug_id: 2022-07-28-incentives-should-come-after-product-market-fit-or-oukv
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 27th 2022 (Akash Network)"

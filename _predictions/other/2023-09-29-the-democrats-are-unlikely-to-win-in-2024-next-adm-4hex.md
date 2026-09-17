@@ -7,7 +7,7 @@ year: "2023"
 title: "The Democrats are unlikely to win in 2024; next administration will be pro-crypto"
 permalink: /predictions/other/2023-09-29-the-democrats-are-unlikely-to-win-in-2024-next-adm-4hex/
 slug_id: 2023-09-29-the-democrats-are-unlikely-to-win-in-2024-next-adm-4hex
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"

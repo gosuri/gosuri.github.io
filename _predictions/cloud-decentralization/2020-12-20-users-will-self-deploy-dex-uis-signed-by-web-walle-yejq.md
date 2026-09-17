@@ -7,7 +7,7 @@ year: "2020"
 title: "Users will self-deploy DEX UIs signed by web wallets"
 permalink: /predictions/cloud-decentralization/2020-12-20-users-will-self-deploy-dex-uis-signed-by-web-walle-yejq/
 slug_id: 2020-12-20-users-will-self-deploy-dex-uis-signed-by-web-walle-yejq
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akashian Challenge Livestream: Phase 3 Week 2 (Akash Network)"

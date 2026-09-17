@@ -7,7 +7,7 @@ year: "2023"
 title: "Neighbors trading GPU time — battery packs for compute"
 permalink: /predictions/local-compute/2023-05-17-neighbors-trading-gpu-time-battery-packs-for-compu-7ayq/
 slug_id: 2023-05-17-neighbors-trading-gpu-time-battery-packs-for-compu-7ayq
-theme_page: /predictions/local-compute/2023/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Mission: DeFi EP 98 - Can Akash be a major player in AI with their GPU market? Founder Greg Osuri (Mission: DeFi)"

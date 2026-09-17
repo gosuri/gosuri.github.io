@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash can never ban you — and that migration is the trend"
 permalink: /predictions/cloud-decentralization/2022-12-05-akash-can-never-ban-you-and-that-migration-is-the-l5cj/
 slug_id: 2022-12-05-akash-can-never-ban-you-and-that-migration-is-the-l5cj
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 30th 2022 (Akash Network)"

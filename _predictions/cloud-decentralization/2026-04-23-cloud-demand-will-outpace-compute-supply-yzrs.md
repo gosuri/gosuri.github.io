@@ -7,7 +7,7 @@ year: "2026"
 title: "Cloud demand will outpace compute supply"
 permalink: /predictions/cloud-decentralization/2026-04-23-cloud-demand-will-outpace-compute-supply-yzrs/
 slug_id: 2026-04-23-cloud-demand-will-outpace-compute-supply-yzrs
-theme_page: /predictions/cloud-decentralization/2026/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "Predicted 2x savings vs. Amazon, saw 8x"
 permalink: /predictions/cloud-decentralization/2021-03-19-predicted-2x-savings-vs-amazon-saw-8x-wnx3/
 slug_id: 2021-03-19-predicted-2x-savings-vs-amazon-saw-8x-wnx3
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Sunny Aggarwal, Greg Osuri and Adam Bozanich (Akash Network)"

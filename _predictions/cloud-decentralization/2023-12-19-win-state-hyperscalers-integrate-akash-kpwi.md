@@ -7,7 +7,7 @@ year: "2023"
 title: "Win state: hyperscalers integrate Akash"
 permalink: /predictions/cloud-decentralization/2023-12-19-win-state-hyperscalers-integrate-akash-kpwi/
 slug_id: 2023-12-19-win-state-hyperscalers-integrate-akash-kpwi
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network founder Greg Osuri - Building a Decentralized Computing Marketplace (Crypto Nuggets)"

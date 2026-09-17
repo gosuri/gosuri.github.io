@@ -7,7 +7,7 @@ year: "2023"
 title: "The 50% invisible cloud tax"
 permalink: /predictions/cloud-decentralization/2023-06-12-the-50-invisible-cloud-tax-bo5s/
 slug_id: 2023-06-12-the-50-invisible-cloud-tax-bo5s
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"

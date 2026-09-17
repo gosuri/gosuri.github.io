@@ -7,7 +7,7 @@ year: "2025"
 title: "Akash sustains 54-55% utilization across 1,000+ GPUs"
 permalink: /predictions/gpu-economics/2025-11-04-akash-sustains-54-55-utilization-across-1-000-gpus-a5s7/
 slug_id: 2025-11-04-akash-sustains-54-55-utilization-across-1-000-gpus-a5s7
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri (PyTorch)"

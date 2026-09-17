@@ -7,7 +7,7 @@ year: "2026"
 title: "Crypto AI isn't dead — distributed training will \"hit you hard\""
 permalink: /predictions/decentralized-ai/2026-02-12-crypto-ai-isn-t-dead-distributed-training-will-hit-zwzz/
 slug_id: 2026-02-12-crypto-ai-isn-t-dead-distributed-training-will-hit-zwzz
-theme_page: /predictions/decentralized-ai/2026/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"DACM Insights: Decentralizing AI, The Akash Approach\" (DACM Insights)"

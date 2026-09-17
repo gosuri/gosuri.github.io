@@ -7,7 +7,7 @@ year: "2018"
 title: "Push a job and forget it — nobody can take you down"
 permalink: /predictions/cloud-decentralization/2018-10-11-push-a-job-and-forget-it-nobody-can-take-you-down-skue/
 slug_id: 2018-10-11-push-a-job-and-forget-it-nobody-can-take-you-down-skue
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "E04 - Decentralizing the Cloud with Greg Osuri (HackerNoon)"

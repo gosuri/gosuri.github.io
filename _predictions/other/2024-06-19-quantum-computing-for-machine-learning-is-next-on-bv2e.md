@@ -7,7 +7,7 @@ year: "2024"
 title: "Quantum computing for machine learning is next on the research horizon"
 permalink: /predictions/other/2024-06-19-quantum-computing-for-machine-learning-is-next-on-bv2e/
 slug_id: 2024-06-19-quantum-computing-for-machine-learning-is-next-on-bv2e
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"

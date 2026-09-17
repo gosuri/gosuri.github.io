@@ -7,7 +7,7 @@ year: "2025"
 title: "Continuous GPU verification is unsolved — and Akash is close"
 permalink: /predictions/decentralized-ai/2025-10-10-continuous-gpu-verification-is-unsolved-and-akash-qhy4/
 slug_id: 2025-10-10-continuous-gpu-verification-is-unsolved-and-akash-qhy4
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"

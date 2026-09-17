@@ -7,7 +7,7 @@ year: "2021"
 title: "Open systems will beat centralized claims on the metaverse"
 permalink: /predictions/cloud-decentralization/2021-11-19-open-systems-will-beat-centralized-claims-on-the-m-ldfm/
 slug_id: 2021-11-19-open-systems-will-beat-centralized-claims-on-the-m-ldfm
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Priv8 Virtual Summit: Greg Osuri, Tor Bair, Ari Paul's Take on the Decentralized Future (Orchid Labs)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Beat Amazon at a game they cannot play — inside the home"
 permalink: /predictions/cloud-decentralization/2024-11-26-beat-amazon-at-a-game-they-cannot-play-inside-the-ers4/
 slug_id: 2024-11-26-beat-amazon-at-a-game-they-cannot-play-inside-the-ers4
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"

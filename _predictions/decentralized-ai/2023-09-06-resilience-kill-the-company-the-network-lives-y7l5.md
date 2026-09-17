@@ -7,7 +7,7 @@ year: "2023"
 title: "Resilience: kill the company, the network lives"
 permalink: /predictions/decentralized-ai/2023-09-06-resilience-kill-the-company-the-network-lives-y7l5/
 slug_id: 2023-09-06-resilience-kill-the-company-the-network-lives-y7l5
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"#3 - Akash Network with Greg Osuri\" (Weapons of Mass Adoption)"

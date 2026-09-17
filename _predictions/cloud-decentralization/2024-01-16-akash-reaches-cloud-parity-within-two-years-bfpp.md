@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash reaches cloud parity within two years"
 permalink: /predictions/cloud-decentralization/2024-01-16-akash-reaches-cloud-parity-within-two-years-bfpp/
 slug_id: 2024-01-16-akash-reaches-cloud-parity-within-two-years-bfpp
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash: The Crypto-Powered Decentralized Supercloud\" (The Edge Podcast)"

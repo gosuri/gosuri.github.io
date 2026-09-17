@@ -7,7 +7,7 @@ year: "2022"
 title: "GPU support targeted for end of 2022"
 permalink: /predictions/other/2022-09-22-gpu-support-targeted-for-end-of-2022-fqmj/
 slug_id: 2022-09-22-gpu-support-targeted-for-end-of-2022-fqmj
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 21st 2022 (Akash Network)"

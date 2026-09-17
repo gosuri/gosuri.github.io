@@ -7,7 +7,7 @@ year: "2024"
 title: "The 2018 supercloud thesis"
 permalink: /predictions/cloud-decentralization/2024-05-29-the-2018-supercloud-thesis-7zvb/
 slug_id: 2024-05-29-the-2018-supercloud-thesis-7zvb
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"

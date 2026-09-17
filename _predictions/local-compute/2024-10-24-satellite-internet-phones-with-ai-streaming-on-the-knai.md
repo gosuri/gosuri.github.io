@@ -7,7 +7,7 @@ year: "2024"
 title: "Satellite internet phones with AI streaming on the other side"
 permalink: /predictions/local-compute/2024-10-24-satellite-internet-phones-with-ai-streaming-on-the-knai/
 slug_id: 2024-10-24-satellite-internet-phones-with-ai-streaming-on-the-knai
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI Made in Cosmos - with Greg Osuri, Murthy Vitwit, Valery Litvin & Dean Tribble (Cosmoverse)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Phones do light compute; Akash does the heavy lifting"
 permalink: /predictions/local-compute/2022-07-23-phones-do-light-compute-akash-does-the-heavy-lifti-ofz3/
 slug_id: 2022-07-23-phones-do-light-compute-akash-does-the-heavy-lifti-ofz3
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Composability Potential of IBC Enabled Blockchains (Akash Network)"

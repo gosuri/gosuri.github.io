@@ -7,7 +7,7 @@ year: "2025"
 title: "A truly decentralized-trained model within 6-12 months"
 permalink: /predictions/decentralized-ai/2025-10-10-a-truly-decentralized-trained-model-within-6-12-mo-hcw6/
 slug_id: 2025-10-10-a-truly-decentralized-trained-model-within-6-12-mo-hcw6
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"

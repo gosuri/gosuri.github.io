@@ -7,7 +7,7 @@ year: "2022"
 title: "AWS can cancel web3 with a stroke of a pen"
 permalink: /predictions/cloud-decentralization/2022-06-22-aws-can-cancel-web3-with-a-stroke-of-a-pen-bixc/
 slug_id: 2022-06-22-aws-can-cancel-web3-with-a-stroke-of-a-pen-bixc
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 22nd (Akash Network)"

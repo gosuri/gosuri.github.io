@@ -7,7 +7,7 @@ year: "2022"
 title: "No Akash providers actually run on Amazon"
 permalink: /predictions/cloud-decentralization/2022-08-27-no-akash-providers-actually-run-on-amazon-lpmw/
 slug_id: 2022-08-27-no-akash-providers-actually-run-on-amazon-lpmw
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Akash Analysis - Are Akash providers hosted on AWS? (Akash Network)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "Starbonds: NFT rack ownership paying on-chain AI revenue"
 permalink: /predictions/crypto-depin/2025-07-01-starbonds-nft-rack-ownership-paying-on-chain-ai-re-hf4d/
 slug_id: 2025-07-01-starbonds-nft-rack-ownership-paying-on-chain-ai-re-hf4d
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Servers must move to where the user is"
 permalink: /predictions/local-compute/2022-07-07-servers-must-move-to-where-the-user-is-w7yq/
 slug_id: 2022-07-07-servers-must-move-to-where-the-user-is-w7yq
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 6th 2022 (Akash Network)"

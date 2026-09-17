@@ -7,7 +7,7 @@ year: "2018"
 title: "Photon's mandate: cut cloud cost to 1/5–1/2"
 permalink: /predictions/cloud-decentralization/2018-03-02-photon-s-mandate-cut-cloud-cost-to-1-5-1-2-nnfq/
 slug_id: 2018-03-02-photon-s-mandate-cut-cloud-cost-to-1-5-1-2-nnfq
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Cloud Mobility with Legendary Developer Greg Osuri, Founder and CEO of Overclock Labs (The Silicon Valley Insider Show)"

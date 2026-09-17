@@ -7,7 +7,7 @@ year: "2024"
 title: "Home GPUs — PlayStations and Xboxes — on the market within two years"
 permalink: /predictions/local-compute/2024-06-13-home-gpus-playstations-and-xboxes-on-the-market-wi-kphc/
 slug_id: 2024-06-13-home-gpus-playstations-and-xboxes-on-the-market-wi-kphc
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "A Decentralized Compute Marketplace with Greg Osuri (Software Engineering Daily)"

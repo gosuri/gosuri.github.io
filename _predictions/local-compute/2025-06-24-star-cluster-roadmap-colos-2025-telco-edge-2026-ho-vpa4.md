@@ -7,7 +7,7 @@ year: "2025"
 title: "Star Cluster roadmap: colos 2025, telco edge 2026, homes and schools 2027"
 permalink: /predictions/local-compute/2025-06-24-star-cluster-roadmap-colos-2025-telco-edge-2026-ho-vpa4/
 slug_id: 2025-06-24-star-cluster-roadmap-colos-2025-telco-edge-2026-ho-vpa4
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"

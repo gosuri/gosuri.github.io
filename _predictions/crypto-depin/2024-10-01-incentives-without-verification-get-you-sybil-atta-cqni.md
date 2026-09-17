@@ -7,7 +7,7 @@ year: "2024"
 title: "Incentives without verification get you Sybil-attacked to death"
 permalink: /predictions/crypto-depin/2024-10-01-incentives-without-verification-get-you-sybil-atta-cqni/
 slug_id: 2024-10-01-incentives-without-verification-get-you-sybil-atta-cqni
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Leveraging Incentives to Build with Your Community | Open AGI Summit | Brussels 2024 (Open AGI)"

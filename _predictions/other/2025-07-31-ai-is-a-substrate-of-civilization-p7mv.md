@@ -7,7 +7,7 @@ year: "2025"
 title: "AI is a substrate of civilization"
 permalink: /predictions/other/2025-07-31-ai-is-a-substrate-of-civilization-p7mv/
 slug_id: 2025-07-31-ai-is-a-substrate-of-civilization-p7mv
-theme_page: /predictions/other/2025/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)"

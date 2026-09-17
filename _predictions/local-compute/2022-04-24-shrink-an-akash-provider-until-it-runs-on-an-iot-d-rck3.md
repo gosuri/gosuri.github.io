@@ -7,7 +7,7 @@ year: "2022"
 title: "Shrink an Akash provider until it runs on an IoT device"
 permalink: /predictions/local-compute/2022-04-24-shrink-an-akash-provider-until-it-runs-on-an-iot-d-rck3/
 slug_id: 2022-04-24-shrink-an-akash-provider-until-it-runs-on-an-iot-d-rck3
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly: Introducing new VP of Engineering, Chanda Dharap (Akash Network)"

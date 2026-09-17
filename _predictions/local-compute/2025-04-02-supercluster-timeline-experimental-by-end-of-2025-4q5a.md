@@ -7,7 +7,7 @@ year: "2025"
 title: "Supercluster timeline: experimental by end of 2025, scale in year three"
 permalink: /predictions/local-compute/2025-04-02-supercluster-timeline-experimental-by-end-of-2025-4q5a/
 slug_id: 2025-04-02-supercluster-timeline-experimental-by-end-of-2025-4q5a
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview With Greg Osuri, Founder Of Akash Network (Secret Network)"

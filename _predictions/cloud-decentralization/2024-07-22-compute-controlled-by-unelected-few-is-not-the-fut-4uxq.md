@@ -7,7 +7,7 @@ year: "2024"
 title: "Compute controlled by unelected few is not the future"
 permalink: /predictions/cloud-decentralization/2024-07-22-compute-controlled-by-unelected-few-is-not-the-fut-4uxq/
 slug_id: 2024-07-22-compute-controlled-by-unelected-few-is-not-the-fut-4uxq
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"[Panel] ​“Decentralized Computing as a Business”\" (Kryptoplanet[Official])"

@@ -61,11 +61,10 @@ export function predictionTwin(fm, site) {
   return finish(lines);
 }
 
-export function predictionIndex(items, { site, theme = null, year = null }) {
-  const selected = items.filter(item => (!theme || item.theme === theme) &&
-    (!year || String(item.date).slice(0, 4) === String(year)));
+export function predictionIndex(items, { site, theme = null }) {
+  const selected = items.filter(item => !theme || item.theme === theme);
   const names = [...new Set(selected.map(item => item.theme))].sort(compare);
-  const title = theme ? `${selected[0]?.theme_title || theme}${year ? ` — ${year}` : ''}` : 'All';
+  const title = theme ? selected[0]?.theme_title || theme : 'All';
   const lines = [
     `# ${oneLine(title)} ${selected.length.toLocaleString('en-US')} predictions`, '',
     `URL for any entry below: ${canonicalUrl(site, '/predictions/{theme}/{id}/')}`,
@@ -220,7 +219,7 @@ export function llmsIndex({ site, predictions, posts, documents, sources }) {
     return `${number(docs.length)} files; ~${number(Math.min(...sizes))}–${number(Math.max(...sizes))} tokens each`;
   };
   const byPermalink = (a, b) => compare(a.permalink, b.permalink);
-  const requiredSmall = documents.filter(doc => ['recent-index', 'year-index'].includes(doc.kind));
+  const requiredSmall = documents.filter(doc => doc.kind === 'recent-index');
   const oversized = requiredSmall.find(doc => estimate(doc.markdown) > RECOMMENDED_INDEX_TOKENS);
   if (oversized) {
     throw new Error(`Recommended index exceeds ${number(RECOMMENDED_INDEX_TOKENS)} tokens: ${canonicalUrl(site, oversized.permalink)}index.md is ${budget(oversized)}`);
@@ -228,15 +227,14 @@ export function llmsIndex({ site, predictions, posts, documents, sources }) {
   const lines = [`# ${oneLine(site.title)}`, '', site.description, '',
     `${number(predictions.length)} predictions from ${number(Number(String(sources).replace(/,/g, '')))} talks and podcasts; ${number(posts.length)} essays; ${number(documents.length)} markdown twins.`, '',
     '## Retrieval', '',
-    `1. Start with the recent index or the narrowest recommended theme/year index below.`,
+    `1. Start with the recent index or the narrowest recommended theme index below.`,
     '2. Fetch the selected prediction twin for its quote, date, source and timestamp.',
     'Avoid broad indexes as an initial fetch; they remain available for cross-theme searches.',
     'Index twins contain titles and IDs only; leaf twins contain full content.', '',
     '## URL rules', '',
     `Canonical prediction: ${canonicalUrl(site, '/predictions/{theme}/{id}/')}`,
     '`id` is the date-first `slug_id` printed in the title index; copy it exactly.',
-    'Append `index.md` to a page URL for its markdown twin. Append `card.png` to a prediction, essay, theme or theme-year URL for its social card.',
-    `Year index: ${canonicalUrl(site, '/predictions/{theme}/{year}/')}index.md`, '',
+    'Append `index.md` to a page URL for its markdown twin. Append `card.png` to a prediction, essay or theme URL for its social card.', '',
     '## Inventory and estimated fetch budgets', '',
     'Estimates are UTF-8 bytes / 4, rounded up; this heuristic is not a tokenizer count.',
     'Budgets below describe individual fetched files. This inventory does not include its own size.', '',
@@ -254,7 +252,7 @@ export function llmsIndex({ site, predictions, posts, documents, sources }) {
     'Use these only when a cross-theme or full-theme search requires them.');
   for (const doc of broad) lines.push(`- ${canonicalUrl(site, doc.permalink)}index.md — ${budget(doc)}`);
   lines.push('', `- Prediction leaf twins: ${range('prediction')}.`,
-    `- Theme-year indexes: ${range('year-index')}.`, `- Essay twins: ${range('post')}.`, '');
+    `- Essay twins: ${range('post')}.`, '');
   if (documents.some(doc => doc.permalink === '/citing/')) {
     lines.push(`Citation contract and navigation guide: ${canonicalUrl(site, '/citing/')}`, '');
   }

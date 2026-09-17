@@ -7,7 +7,7 @@ year: "2025"
 title: "Phases 2-3: telco edge in 2026, homes and schools in 2027"
 permalink: /predictions/local-compute/2025-07-01-phases-2-3-telco-edge-in-2026-homes-and-schools-in-ci3a/
 slug_id: 2025-07-01-phases-2-3-telco-edge-in-2026-homes-and-schools-in-ci3a
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025 - Starcluster (Akash Network)"

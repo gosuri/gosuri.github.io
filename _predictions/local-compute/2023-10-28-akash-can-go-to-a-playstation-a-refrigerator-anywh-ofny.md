@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash can go to a PlayStation, a refrigerator — anywhere a GPU exists"
 permalink: /predictions/local-compute/2023-10-28-akash-can-go-to-a-playstation-a-refrigerator-anywh-ofny/
 slug_id: 2023-10-28-akash-can-go-to-a-playstation-a-refrigerator-anywh-ofny
-theme_page: /predictions/local-compute/2023/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"

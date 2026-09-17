@@ -7,7 +7,7 @@ year: "2026"
 title: "Forcing crypto on AI customers was our biggest mistake"
 permalink: /predictions/other/2026-04-23-forcing-crypto-on-ai-customers-was-our-biggest-mis-upji/
 slug_id: 2026-04-23-forcing-crypto-on-ai-customers-was-our-biggest-mis-upji
-theme_page: /predictions/other/2026/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"

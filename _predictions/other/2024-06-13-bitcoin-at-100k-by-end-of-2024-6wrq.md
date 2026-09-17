@@ -7,7 +7,7 @@ year: "2024"
 title: "Bitcoin at $100K by end of 2024"
 permalink: /predictions/other/2024-06-13-bitcoin-at-100k-by-end-of-2024-6wrq/
 slug_id: 2024-06-13-bitcoin-at-100k-by-end-of-2024-6wrq
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"

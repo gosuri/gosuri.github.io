@@ -7,7 +7,7 @@ year: "2021"
 title: "Decentralized cloud is the future (and more secure)"
 permalink: /predictions/cloud-decentralization/2021-06-16-decentralized-cloud-is-the-future-and-more-secure-gdgw/
 slug_id: 2021-06-16-decentralized-cloud-is-the-future-and-more-secure-gdgw
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DeFi Summit - Conference Day 1 - June 15th (Tuesday) (Dcentral Con)"

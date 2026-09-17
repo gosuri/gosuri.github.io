@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash is the Airbnb layer for cloud capacity"
 permalink: /predictions/cloud-decentralization/2023-06-03-akash-is-the-airbnb-layer-for-cloud-capacity-izwr/
 slug_id: 2023-06-03-akash-is-the-airbnb-layer-for-cloud-capacity-izwr
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI is using chips faster than Nvidia can make them. How crypto is helping | Akash and Render Token (Coinage)"

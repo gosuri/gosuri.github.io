@@ -7,7 +7,7 @@ year: "2025"
 title: "A blockchain without decentralization \"is just a really bad database\""
 permalink: /predictions/crypto-depin/2025-10-20-a-blockchain-without-decentralization-is-just-a-re-m5ch/
 slug_id: 2025-10-20-a-blockchain-without-decentralization-is-just-a-re-m5ch
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Founder: Why We're Leaving our Sovereign L1 Behind (Akash Alpha)"

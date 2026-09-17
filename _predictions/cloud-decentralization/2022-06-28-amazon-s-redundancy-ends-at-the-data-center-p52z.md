@@ -7,7 +7,7 @@ year: "2022"
 title: "Amazon's redundancy ends at the data center"
 permalink: /predictions/cloud-decentralization/2022-06-28-amazon-s-redundancy-ends-at-the-data-center-p52z/
 slug_id: 2022-06-28-amazon-s-redundancy-ends-at-the-data-center-p52z
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "I Moderated A Panel at DCENTRAL Austin 2022 on Decentralized Cloud! (MineYour.₿iz Classic)"

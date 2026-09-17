@@ -7,7 +7,7 @@ year: "2022"
 title: "Ethereum merge GPUs will be Akash's unique value proposition"
 permalink: /predictions/gpu-economics/2022-07-07-ethereum-merge-gpus-will-be-akash-s-unique-value-p-5q74/
 slug_id: 2022-07-07-ethereum-merge-gpus-will-be-akash-s-unique-value-p-5q74
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 6th 2022 (Akash Network)"

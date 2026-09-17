@@ -7,7 +7,7 @@ year: "2024"
 title: "Largest distributed network: 500-600 new regions by year-end"
 permalink: /predictions/cloud-decentralization/2024-06-13-largest-distributed-network-500-600-new-regions-by-4hjh/
 slug_id: 2024-06-13-largest-distributed-network-500-600-new-regions-by-4hjh
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "A Decentralized Compute Marketplace with Greg Osuri (Software Engineering Daily)"

@@ -7,7 +7,7 @@ year: "2025"
 title: "Nuclear can't arrive in time — distributed training is the answer"
 permalink: /predictions/decentralized-ai/2025-01-02-nuclear-can-t-arrive-in-time-distributed-training-76yh/
 slug_id: 2025-01-02-nuclear-can-t-arrive-in-time-distributed-training-76yh
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"AI Sovereignty: Building the Path to Individual AI with Greg Osuri\" (The Outpost Podcast)"

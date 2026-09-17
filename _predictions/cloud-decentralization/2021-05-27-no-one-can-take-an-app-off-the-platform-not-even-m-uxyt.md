@@ -7,7 +7,7 @@ year: "2021"
 title: "No one can take an app off the platform — not even me"
 permalink: /predictions/cloud-decentralization/2021-05-27-no-one-can-take-an-app-off-the-platform-not-even-m-uxyt/
 slug_id: 2021-05-27-no-one-can-take-an-app-off-the-platform-not-even-m-uxyt
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Почему дорого запускать стартап в централизованных облаках? Интервью с Greg Osuri, CEO Akash Network (S3XYBTC)"

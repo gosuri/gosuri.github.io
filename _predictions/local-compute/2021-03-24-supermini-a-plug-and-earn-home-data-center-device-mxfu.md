@@ -7,7 +7,7 @@ year: "2021"
 title: "Supermini: a plug-and-earn home data center device"
 permalink: /predictions/local-compute/2021-03-24-supermini-a-plug-and-earn-home-data-center-device-mxfu/
 slug_id: 2021-03-24-supermini-a-plug-and-earn-home-data-center-device-mxfu
-theme_page: /predictions/local-compute/2021/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AKASH NETWORK (AKT) - Decentralized clouds, Staking, Cosmos & more!  - Interview with CEO Greg Osuri (Michaël van de Poppe)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Does open-source AGI need a token? \"Not yet\" — but Bittensor's emissions fund open AI"
 permalink: /predictions/crypto-depin/2024-07-17-does-open-source-agi-need-a-token-not-yet-but-bitt-ajq2/
 slug_id: 2024-07-17-does-open-source-agi-need-a-token-not-yet-but-bitt-ajq2
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Evolution to AGI Panel at Web3_AI Day | Encode Club | Linera, Ritual, Nillion, Akash Network (Linera: Real-Time Blockchain)"

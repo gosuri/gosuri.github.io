@@ -7,7 +7,7 @@ year: "2023"
 title: "GPUs are the blood for AI; whoever controls GPUs controls AI"
 permalink: /predictions/gpu-economics/2023-06-03-gpus-are-the-blood-for-ai-whoever-controls-gpus-co-w6pn/
 slug_id: 2023-06-03-gpus-are-the-blood-for-ai-whoever-controls-gpus-co-w6pn
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI is using chips faster than Nvidia can make them. How crypto is helping | Akash and Render Token (Coinage)"

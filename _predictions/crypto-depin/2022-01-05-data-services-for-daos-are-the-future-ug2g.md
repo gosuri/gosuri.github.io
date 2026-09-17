@@ -7,7 +7,7 @@ year: "2022"
 title: "Data services for DAOs are the future"
 permalink: /predictions/crypto-depin/2022-01-05-data-services-for-daos-are-the-future-ug2g/
 slug_id: 2022-01-05-data-services-for-daos-are-the-future-ug2g
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Updates From the Lab 1/5/22 W/Akash (Osmosis)"

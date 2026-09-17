@@ -7,7 +7,7 @@ year: "2022"
 title: "Using Amazon is fundamentally wrong for web3"
 permalink: /predictions/cloud-decentralization/2022-08-04-using-amazon-is-fundamentally-wrong-for-web3-enwz/
 slug_id: 2022-08-04-using-amazon-is-fundamentally-wrong-for-web3-enwz
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akask Weekly - Aug 3rd 2022 (Akash Network)"

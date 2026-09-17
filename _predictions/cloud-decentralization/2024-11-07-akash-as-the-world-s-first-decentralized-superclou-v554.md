@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash as the world's first decentralized supercloud built from underutilized compute"
 permalink: /predictions/cloud-decentralization/2024-11-07-akash-as-the-world-s-first-decentralized-superclou-v554/
 slug_id: 2024-11-07-akash-as-the-world-s-first-decentralized-superclou-v554
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Pioneering DePIN Growth (Cosmos)"

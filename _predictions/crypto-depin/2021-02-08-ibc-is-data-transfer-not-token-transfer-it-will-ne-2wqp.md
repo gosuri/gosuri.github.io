@@ -7,7 +7,7 @@ year: "2021"
 title: "IBC is data transfer, not token transfer — it will never stop"
 permalink: /predictions/crypto-depin/2021-02-08-ibc-is-data-transfer-not-token-transfer-it-will-ne-2wqp/
 slug_id: 2021-02-08-ibc-is-data-transfer-not-token-transfer-it-will-ne-2wqp
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"

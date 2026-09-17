@@ -7,7 +7,7 @@ year: "2024"
 title: "Compute should be as free as air and water"
 permalink: /predictions/cloud-decentralization/2024-09-27-compute-should-be-as-free-as-air-and-water-axjl/
 slug_id: 2024-09-27-compute-should-be-as-free-as-air-and-water-axjl
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - Democratizing Access to AI Resources - TOKEN2049 Singapore 2024 (TOKEN2049)"

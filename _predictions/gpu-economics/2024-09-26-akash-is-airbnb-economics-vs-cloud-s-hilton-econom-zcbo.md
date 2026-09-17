@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash is Airbnb economics vs. cloud's Hilton economics"
 permalink: /predictions/gpu-economics/2024-09-26-akash-is-airbnb-economics-vs-cloud-s-hilton-econom-zcbo/
 slug_id: 2024-09-26-akash-is-airbnb-economics-vs-cloud-s-hilton-econom-zcbo
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"

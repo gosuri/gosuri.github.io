@@ -7,7 +7,7 @@ year: "2023"
 title: "Frontier launches on NVIDIA; mass adoption spreads to cheaper GPUs"
 permalink: /predictions/gpu-economics/2023-12-11-frontier-launches-on-nvidia-mass-adoption-spreads-t6ni/
 slug_id: 2023-12-11-frontier-launches-on-nvidia-mass-adoption-spreads-t6ni
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Nous Research's DisTrO cracked decentralized training on Akash"
 permalink: /predictions/decentralized-ai/2024-12-06-nous-research-s-distro-cracked-decentralized-train-2gag/
 slug_id: 2024-12-06-nous-research-s-distro-cracked-decentralized-train-2gag
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash's Greg Osuri on the Future of Cloud Computing | Mainnet 2024 (Messari)"

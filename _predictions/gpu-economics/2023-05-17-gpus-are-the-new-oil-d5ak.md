@@ -7,7 +7,7 @@ year: "2023"
 title: "GPUs are the new oil"
 permalink: /predictions/gpu-economics/2023-05-17-gpus-are-the-new-oil-d5ak/
 slug_id: 2023-05-17-gpus-are-the-new-oil-d5ak
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Mission: DeFi EP 98 - Can Akash be a major player in AI with their GPU market? Founder Greg Osuri (Mission: DeFi)"

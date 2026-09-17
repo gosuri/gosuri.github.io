@@ -7,7 +7,7 @@ year: "2021"
 title: "The Ethereum merge will flood the market with GPUs for Akash"
 permalink: /predictions/gpu-economics/2021-12-22-the-ethereum-merge-will-flood-the-market-with-gpus-lcf4/
 slug_id: 2021-12-22-the-ethereum-merge-will-flood-the-market-with-gpus-lcf4
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Office Hours : End of Year Product Update (Akash Network)"

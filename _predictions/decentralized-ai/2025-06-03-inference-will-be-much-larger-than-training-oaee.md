@@ -7,7 +7,7 @@ year: "2025"
 title: "Inference will be much larger than training"
 permalink: /predictions/decentralized-ai/2025-06-03-inference-will-be-much-larger-than-training-oaee/
 slug_id: 2025-06-03-inference-will-be-much-larger-than-training-oaee
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Scaling Web3 and AI through DePIN with Greg Osuri! (Secret Network)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "AI makes a 10x engineer a 100x engineer"
 permalink: /predictions/other/2023-12-11-ai-makes-a-10x-engineer-a-100x-engineer-t6ni/
 slug_id: 2023-12-11-ai-makes-a-10x-engineer-a-100x-engineer-t6ni
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "The cloud is controlled by four players — few controlling the many"
 permalink: /predictions/cloud-decentralization/2021-11-15-the-cloud-is-controlled-by-four-players-few-contro-lly3/
 slug_id: 2021-11-15-the-cloud-is-controlled-by-four-players-few-contro-lly3
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Priv8 Virtual Privacy Summit 2021: Featuring Glenn Greenwald, Dr. Steven Waterhouse, and more! (Orchid Labs)"

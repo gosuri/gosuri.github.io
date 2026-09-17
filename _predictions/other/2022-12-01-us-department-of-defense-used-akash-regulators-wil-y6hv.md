@@ -7,7 +7,7 @@ year: "2022"
 title: "US Department of Defense used Akash; regulators will come around"
 permalink: /predictions/other/2022-12-01-us-department-of-defense-used-akash-regulators-wil-y6hv/
 slug_id: 2022-12-01-us-department-of-defense-used-akash-regulators-wil-y6hv
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Dcentral 2022 - DeCloud - Decentralized Cloud & Storage (Akash Network)"

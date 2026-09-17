@@ -7,7 +7,7 @@ year: "2022"
 title: "No single party profits — value accrues to the token"
 permalink: /predictions/crypto-depin/2022-08-03-no-single-party-profits-value-accrues-to-the-token-5deb/
 slug_id: 2022-08-03-no-single-party-profits-value-accrues-to-the-token-5deb
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "How does Akash generate revenue? (Akash Network)"

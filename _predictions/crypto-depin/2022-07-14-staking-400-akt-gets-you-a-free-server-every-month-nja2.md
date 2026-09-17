@@ -7,7 +7,7 @@ year: "2022"
 title: "Staking 400 AKT gets you a free server every month"
 permalink: /predictions/crypto-depin/2022-07-14-staking-400-akt-gets-you-a-free-server-every-month-nja2/
 slug_id: 2022-07-14-staking-400-akt-gets-you-a-free-server-every-month-nja2
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 13th 2022 (Akash Network)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "The Ethereum merge unleashed $19B of idle GPUs as centralized infrastructure crumbles"
 permalink: /predictions/gpu-economics/2023-06-03-the-ethereum-merge-unleashed-19b-of-idle-gpus-as-c-7jsc/
 slug_id: 2023-06-03-the-ethereum-merge-unleashed-19b-of-idle-gpus-as-c-7jsc
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI is using chips faster than Nvidia can make them. How crypto is helping | Akash and Render Token (Coinage)"

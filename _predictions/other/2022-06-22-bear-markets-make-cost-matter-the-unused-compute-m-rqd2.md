@@ -7,7 +7,7 @@ year: "2022"
 title: "Bear markets make cost matter — the unused-compute model is working"
 permalink: /predictions/other/2022-06-22-bear-markets-make-cost-matter-the-unused-compute-m-rqd2/
 slug_id: 2022-06-22-bear-markets-make-cost-matter-the-unused-compute-m-rqd2
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 22nd (Akash Network)"

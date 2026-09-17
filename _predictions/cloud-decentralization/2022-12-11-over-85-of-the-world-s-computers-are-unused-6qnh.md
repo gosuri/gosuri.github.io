@@ -7,7 +7,7 @@ year: "2022"
 title: "Over 85% of the world's computers are unused"
 permalink: /predictions/cloud-decentralization/2022-12-11-over-85-of-the-world-s-computers-are-unused-6qnh/
 slug_id: 2022-12-11-over-85-of-the-world-s-computers-are-unused-6qnh
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Ask Akash - What problem does Akash solve? Can it scale? (Akash Network)"

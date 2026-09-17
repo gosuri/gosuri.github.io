@@ -7,7 +7,7 @@ year: "2024"
 title: "Validate demand before incentivizing supply, or incentives lead to waste"
 permalink: /predictions/crypto-depin/2024-01-09-validate-demand-before-incentivizing-supply-or-inc-xkfa/
 slug_id: 2024-01-09-validate-demand-before-incentivizing-supply-or-inc-xkfa
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: $300 Million Incentives w/Greg Osuri | CEO of Overclock Labs,Founder & Akash Network (Bare Metal Podcast)"

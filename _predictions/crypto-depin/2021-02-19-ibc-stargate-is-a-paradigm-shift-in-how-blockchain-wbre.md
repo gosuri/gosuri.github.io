@@ -7,7 +7,7 @@ year: "2021"
 title: "IBC/Stargate is a paradigm shift in how blockchains communicate"
 permalink: /predictions/crypto-depin/2021-02-19-ibc-stargate-is-a-paradigm-shift-in-how-blockchain-wbre/
 slug_id: 2021-02-19-ibc-stargate-is-a-paradigm-shift-in-how-blockchain-wbre
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Greg Osuri and Adam Bozanich (Akash Network)"

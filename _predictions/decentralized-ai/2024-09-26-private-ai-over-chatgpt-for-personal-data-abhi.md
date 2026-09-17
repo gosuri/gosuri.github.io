@@ -7,7 +7,7 @@ year: "2024"
 title: "Private AI over ChatGPT for personal data"
 permalink: /predictions/decentralized-ai/2024-09-26-private-ai-over-chatgpt-for-personal-data-abhi/
 slug_id: 2024-09-26-private-ai-over-chatgpt-for-personal-data-abhi
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"

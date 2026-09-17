@@ -7,7 +7,7 @@ year: "2024"
 title: "Supercloud thesis: decouple control plane from resource plane"
 permalink: /predictions/cloud-decentralization/2024-01-09-supercloud-thesis-decouple-control-plane-from-reso-umff/
 slug_id: 2024-01-09-supercloud-thesis-decouple-control-plane-from-reso-umff
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: $300 Million Incentives w/Greg Osuri | CEO of Overclock Labs,Founder & Akash Network (Bare Metal Podcast)"

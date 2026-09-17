@@ -7,7 +7,7 @@ year: "2022"
 title: "Cosmos exchange listings will come as one slew"
 permalink: /predictions/other/2022-01-05-cosmos-exchange-listings-will-come-as-one-slew-cmtn/
 slug_id: 2022-01-05-cosmos-exchange-listings-will-come-as-one-slew-cmtn
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Updates From the Lab 1/5/22 W/Akash (Osmosis)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Decentralized training has been cracked, and it happened on Akash"
 permalink: /predictions/decentralized-ai/2024-10-24-decentralized-training-has-been-cracked-and-it-hap-4pkn/
 slug_id: 2024-10-24-decentralized-training-has-been-cracked-and-it-hap-4pkn
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Supercloud - by Greg Osuri, Akash (Cosmoverse)"

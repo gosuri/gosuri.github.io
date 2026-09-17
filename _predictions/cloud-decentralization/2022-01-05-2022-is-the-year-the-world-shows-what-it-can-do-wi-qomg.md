@@ -7,7 +7,7 @@ year: "2022"
 title: "2022 is the year the world shows what it can do with Akash"
 permalink: /predictions/cloud-decentralization/2022-01-05-2022-is-the-year-the-world-shows-what-it-can-do-wi-qomg/
 slug_id: 2022-01-05-2022-is-the-year-the-world-shows-what-it-can-do-wi-qomg
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Updates From the Lab 1/5/22 W/Akash (Osmosis)"

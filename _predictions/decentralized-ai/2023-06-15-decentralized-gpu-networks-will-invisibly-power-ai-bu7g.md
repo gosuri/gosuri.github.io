@@ -7,7 +7,7 @@ year: "2023"
 title: "Decentralized GPU networks will invisibly power AI"
 permalink: /predictions/decentralized-ai/2023-06-15-decentralized-gpu-networks-will-invisibly-power-ai-bu7g/
 slug_id: 2023-06-15-decentralized-gpu-networks-will-invisibly-power-ai-bu7g
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "RNDR, Supercloud, 1.5T AI Market Cap – Interview with Greg Osuri about Akash (Design DAO)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Non-technical users shouldn't ever see SDL"
 permalink: /predictions/cloud-decentralization/2022-12-01-non-technical-users-shouldn-t-ever-see-sdl-y3vc/
 slug_id: 2022-12-01-non-technical-users-shouldn-t-ever-see-sdl-y3vc
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Ask Akash - How does a one use the SDL builder (Akash Network)"

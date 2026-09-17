@@ -7,7 +7,7 @@ year: "2022"
 title: "Cloud must be a public utility, and blockchain is the only structure for that"
 permalink: /predictions/cloud-decentralization/2022-11-17-cloud-must-be-a-public-utility-and-blockchain-is-t-ekwo/
 slug_id: 2022-11-17-cloud-must-be-a-public-utility-and-blockchain-is-t-ekwo
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 16th 2022 (Akash Network)"

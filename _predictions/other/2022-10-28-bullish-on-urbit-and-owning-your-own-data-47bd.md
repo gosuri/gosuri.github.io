@@ -7,7 +7,7 @@ year: "2022"
 title: "Bullish on Urbit and owning your own data"
 permalink: /predictions/other/2022-10-28-bullish-on-urbit-and-owning-your-own-data-47bd/
 slug_id: 2022-10-28-bullish-on-urbit-and-owning-your-own-data-47bd
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 28th 2022 (Akash Network)"

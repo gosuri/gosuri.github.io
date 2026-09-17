@@ -7,7 +7,7 @@ year: "2025"
 title: "~5% of GDP spent on compute by 2030 (Gartner)"
 permalink: /predictions/gpu-economics/2025-01-19-5-of-gdp-spent-on-compute-by-2030-gartner-zy6g/
 slug_id: 2025-01-19-5-of-gdp-spent-on-compute-by-2030-gartner-zy6g
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"算力帝國的崛起：Akash 如何改變遊戲規則 ft. Greg Osuri | Max Alpha 訪談系列\" (MaxAlpha 幣圈基本面)"

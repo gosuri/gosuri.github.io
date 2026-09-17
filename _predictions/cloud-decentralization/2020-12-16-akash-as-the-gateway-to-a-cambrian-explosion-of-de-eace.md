@@ -7,7 +7,7 @@ year: "2020"
 title: "Akash as the gateway to a \"Cambrian explosion\" of decentralized cloud"
 permalink: /predictions/cloud-decentralization/2020-12-16-akash-as-the-gateway-to-a-cambrian-explosion-of-de-eace/
 slug_id: 2020-12-16-akash-as-the-gateway-to-a-cambrian-explosion-of-de-eace
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - AKASH Network (At Stake)"

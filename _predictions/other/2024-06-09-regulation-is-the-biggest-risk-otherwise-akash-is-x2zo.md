@@ -7,7 +7,7 @@ year: "2024"
 title: "Regulation is the biggest risk — otherwise Akash is unstoppable"
 permalink: /predictions/other/2024-06-09-regulation-is-the-biggest-risk-otherwise-akash-is-x2zo/
 slug_id: 2024-06-09-regulation-is-the-biggest-risk-otherwise-akash-is-x2zo
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"

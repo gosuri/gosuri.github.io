@@ -7,7 +7,7 @@ year: "2024"
 title: "Data centers sit unused 85% of the time"
 permalink: /predictions/gpu-economics/2024-09-10-data-centers-sit-unused-85-of-the-time-ctcy/
 slug_id: 2024-09-10-data-centers-sit-unused-85-of-the-time-ctcy
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - The Decentralized Compute Marketplace (The Crypto Conversation (Brave New Coin))"

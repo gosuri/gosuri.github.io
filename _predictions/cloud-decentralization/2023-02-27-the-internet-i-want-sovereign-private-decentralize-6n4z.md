@@ -7,7 +7,7 @@ year: "2023"
 title: "The internet I want: sovereign, private, decentralized, efficient"
 permalink: /predictions/cloud-decentralization/2023-02-27-the-internet-i-want-sovereign-private-decentralize-6n4z/
 slug_id: 2023-02-27-the-internet-i-want-sovereign-private-decentralize-6n4z
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, founder of Akash, answers the question \"What Kind of Internet Do You Want?\" #shorts (Web3 Working Group)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Own your own compute; offload excess to a peer-to-peer network"
 permalink: /predictions/local-compute/2022-04-24-own-your-own-compute-offload-excess-to-a-peer-to-p-fshl/
 slug_id: 2022-04-24-own-your-own-compute-offload-excess-to-a-peer-to-p-fshl
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly: Chia (Akash Network)"

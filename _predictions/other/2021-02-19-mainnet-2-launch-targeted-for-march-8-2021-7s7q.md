@@ -7,7 +7,7 @@ year: "2021"
 title: "Mainnet 2 launch targeted for March 8, 2021"
 permalink: /predictions/other/2021-02-19-mainnet-2-launch-targeted-for-march-8-2021-7s7q/
 slug_id: 2021-02-19-mainnet-2-launch-targeted-for-march-8-2021-7s7q
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Greg Osuri and Adam Bozanich (Akash Network)"

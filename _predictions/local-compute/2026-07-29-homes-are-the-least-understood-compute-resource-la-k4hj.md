@@ -7,7 +7,7 @@ year: "2026"
 title: "Homes are the least understood compute resource; latency is \"a symptom, not a cause\""
 permalink: /predictions/local-compute/2026-07-29-homes-are-the-least-understood-compute-resource-la-k4hj/
 slug_id: 2026-07-29-homes-are-the-least-understood-compute-resource-la-k4hj
-theme_page: /predictions/local-compute/2026/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)"

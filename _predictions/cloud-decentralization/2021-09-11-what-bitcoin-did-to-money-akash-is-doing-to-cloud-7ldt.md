@@ -7,7 +7,7 @@ year: "2021"
 title: "What Bitcoin did to money, Akash is doing to cloud computing"
 permalink: /predictions/cloud-decentralization/2021-09-11-what-bitcoin-did-to-money-akash-is-doing-to-cloud-7ldt/
 slug_id: 2021-09-11-what-bitcoin-did-to-money-akash-is-doing-to-cloud-7ldt
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network’s (CRYPTO:AKT) ($AKT) interview with Mr. Greg Osuri CEO. (New to The Street TV)"

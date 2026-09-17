@@ -7,7 +7,7 @@ year: "2025"
 title: "Akash utilization grew 10% to 70% in 12 months"
 permalink: /predictions/gpu-economics/2025-02-26-akash-utilization-grew-10-to-70-in-12-months-kb4c/
 slug_id: 2025-02-26-akash-utilization-grew-10-to-70-in-12-months-kb4c
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Everything Bagel: Open Source AI, Security, and Decentralization with Greg Osuri, Founder at Akash (The Index Podcast)"

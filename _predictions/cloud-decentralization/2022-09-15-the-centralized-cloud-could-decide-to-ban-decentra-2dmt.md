@@ -7,7 +7,7 @@ year: "2022"
 title: "The centralized cloud could decide to ban decentralization"
 permalink: /predictions/cloud-decentralization/2022-09-15-the-centralized-cloud-could-decide-to-ban-decentra-2dmt/
 slug_id: 2022-09-15-the-centralized-cloud-could-decide-to-ban-decentra-2dmt
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 14th 2022 (Akash Network)"

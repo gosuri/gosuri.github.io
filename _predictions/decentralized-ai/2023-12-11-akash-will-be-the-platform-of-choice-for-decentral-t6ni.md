@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash will be the platform of choice for decentralized ML"
 permalink: /predictions/decentralized-ai/2023-12-11-akash-will-be-the-platform-of-choice-for-decentral-t6ni/
 slug_id: 2023-12-11-akash-will-be-the-platform-of-choice-for-decentral-t6ni
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"

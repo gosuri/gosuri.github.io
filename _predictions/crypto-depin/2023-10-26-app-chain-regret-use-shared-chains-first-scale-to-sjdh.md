@@ -7,7 +7,7 @@ year: "2023"
 title: "App-chain regret: use shared chains first, scale to sovereignty later"
 permalink: /predictions/crypto-depin/2023-10-26-app-chain-regret-use-shared-chains-first-scale-to-sjdh/
 slug_id: 2023-10-26-app-chain-regret-use-shared-chains-first-scale-to-sjdh
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"

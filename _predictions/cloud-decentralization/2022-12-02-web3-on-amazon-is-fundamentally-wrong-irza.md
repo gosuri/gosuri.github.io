@@ -7,7 +7,7 @@ year: "2022"
 title: "Web3 on Amazon is fundamentally wrong"
 permalink: /predictions/cloud-decentralization/2022-12-02-web3-on-amazon-is-fundamentally-wrong-irza/
 slug_id: 2022-12-02-web3-on-amazon-is-fundamentally-wrong-irza
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Analysis   Should Web2 projects consider running on decentralized infrastructure (Akash Network)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Bittensor is the orchestration layer for AI"
 permalink: /predictions/decentralized-ai/2024-03-30-bittensor-is-the-orchestration-layer-for-ai-xoer/
 slug_id: 2024-03-30-bittensor-is-the-orchestration-layer-for-ai-xoer
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "X Spaces with Akash Network: Democratizing Compute on Subnet 27 (Nodexo)"

@@ -7,7 +7,7 @@ year: "2020"
 title: "Home-to-home encrypted services that skip the cloud altogether"
 permalink: /predictions/local-compute/2020-01-12-home-to-home-encrypted-services-that-skip-the-clou-4ojj/
 slug_id: 2020-01-12-home-to-home-encrypted-services-that-skip-the-clou-4ojj
-theme_page: /predictions/local-compute/2020/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Hashing It Out #70 - Akash Network - Greg Osuri\" (Hashing It Out (The Bitcoin Podcast Network))"

@@ -7,7 +7,7 @@ year: "2021"
 title: "~20% of AI-company margins go to cloud bills"
 permalink: /predictions/gpu-economics/2021-03-19-20-of-ai-company-margins-go-to-cloud-bills-uie6/
 slug_id: 2021-03-19-20-of-ai-company-margins-go-to-cloud-bills-uie6
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Sunny Aggarwal, Greg Osuri and Adam Bozanich (Akash Network)"

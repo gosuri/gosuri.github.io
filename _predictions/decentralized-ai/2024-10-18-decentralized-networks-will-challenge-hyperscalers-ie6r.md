@@ -7,7 +7,7 @@ year: "2024"
 title: "Decentralized networks will challenge hyperscalers"
 permalink: /predictions/decentralized-ai/2024-10-18-decentralized-networks-will-challenge-hyperscalers-ie6r/
 slug_id: 2024-10-18-decentralized-networks-will-challenge-hyperscalers-ie6r
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Sovereign AI's Battlefield: Compute, Storage, & Running On The Edge | Crypto x AI Event (Delphi Digital)"

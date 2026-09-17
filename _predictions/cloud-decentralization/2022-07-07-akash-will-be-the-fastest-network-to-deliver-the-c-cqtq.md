@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash will be the fastest network to deliver the cloud — a thousand regions vs. Amazon's 16-17"
 permalink: /predictions/cloud-decentralization/2022-07-07-akash-will-be-the-fastest-network-to-deliver-the-c-cqtq/
 slug_id: 2022-07-07-akash-will-be-the-fastest-network-to-deliver-the-c-cqtq
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 6th 2022 (Akash Network)"

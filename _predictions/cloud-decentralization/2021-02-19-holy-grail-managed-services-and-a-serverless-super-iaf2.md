@@ -7,7 +7,7 @@ year: "2021"
 title: "Holy grail: managed services and a serverless supercloud"
 permalink: /predictions/cloud-decentralization/2021-02-19-holy-grail-managed-services-and-a-serverless-super-iaf2/
 slug_id: 2021-02-19-holy-grail-managed-services-and-a-serverless-super-iaf2
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Greg Osuri and Adam Bozanich (Akash Network)"

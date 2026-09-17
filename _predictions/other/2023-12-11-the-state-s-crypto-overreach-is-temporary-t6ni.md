@@ -7,7 +7,7 @@ year: "2023"
 title: "The state's crypto overreach is temporary"
 permalink: /predictions/other/2023-12-11-the-state-s-crypto-overreach-is-temporary-t6ni/
 slug_id: 2023-12-11-the-state-s-crypto-overreach-is-temporary-t6ni
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Skynet will unleash an AI future no one is prepared for (Interchain.FM)"

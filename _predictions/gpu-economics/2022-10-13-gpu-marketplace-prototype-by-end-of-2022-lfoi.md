@@ -7,7 +7,7 @@ year: "2022"
 title: "GPU marketplace prototype by end of 2022"
 permalink: /predictions/gpu-economics/2022-10-13-gpu-marketplace-prototype-by-end-of-2022-lfoi/
 slug_id: 2022-10-13-gpu-marketplace-prototype-by-end-of-2022-lfoi
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 12th 2022 (Akash Network)"

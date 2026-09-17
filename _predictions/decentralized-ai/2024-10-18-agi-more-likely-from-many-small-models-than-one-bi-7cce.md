@@ -7,7 +7,7 @@ year: "2024"
 title: "AGI more likely from many small models than one bigger model"
 permalink: /predictions/decentralized-ai/2024-10-18-agi-more-likely-from-many-small-models-than-one-bi-7cce/
 slug_id: 2024-10-18-agi-more-likely-from-many-small-models-than-one-bi-7cce
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Sovereign AI's Battlefield: Compute, Storage, & Running On The Edge | Crypto x AI Event (Delphi Digital)"

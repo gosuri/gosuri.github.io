@@ -7,7 +7,7 @@ year: "2024"
 title: "Airbnb for data centers with trust via decentralized auditors"
 permalink: /predictions/cloud-decentralization/2024-06-14-airbnb-for-data-centers-with-trust-via-decentraliz-x4m6/
 slug_id: 2024-06-14-airbnb-for-data-centers-with-trust-via-decentraliz-x4m6
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Tech Snippets Today - Greg Osuri - Founder at Akash with Joseph Raczynski (Joseph Raczynski)"

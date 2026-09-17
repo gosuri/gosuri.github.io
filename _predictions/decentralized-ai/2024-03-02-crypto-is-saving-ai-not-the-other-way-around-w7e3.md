@@ -7,7 +7,7 @@ year: "2024"
 title: "Crypto is saving AI, not the other way around"
 permalink: /predictions/decentralized-ai/2024-03-02-crypto-is-saving-ai-not-the-other-way-around-w7e3/
 slug_id: 2024-03-02-crypto-is-saving-ai-not-the-other-way-around-w7e3
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Revolutionizing GPU Access for AI Workloads | Greg Osuri - Akash Network (ETHDenver)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Home GPUs — PlayStations, Xboxes, Mac Studios — must join the network in one click"
 permalink: /predictions/local-compute/2024-06-19-home-gpus-playstations-xboxes-mac-studios-must-joi-3ctr/
 slug_id: 2024-06-19-home-gpus-playstations-xboxes-mac-studios-must-joi-3ctr
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "There is no decentralization without open source"
 permalink: /predictions/crypto-depin/2023-02-18-there-is-no-decentralization-without-open-source-b5h2/
 slug_id: 2023-02-18-there-is-no-decentralization-without-open-source-b5h2
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most Successful Crypto Miner Failure, Akash Super Mini - Greg Osuri Interview CEO of Overclock Labs (Action Crypto)"

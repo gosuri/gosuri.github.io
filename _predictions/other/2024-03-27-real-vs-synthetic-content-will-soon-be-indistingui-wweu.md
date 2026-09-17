@@ -7,7 +7,7 @@ year: "2024"
 title: "Real vs. synthetic content will soon be indistinguishable"
 permalink: /predictions/other/2024-03-27-real-vs-synthetic-content-will-soon-be-indistingui-wweu/
 slug_id: 2024-03-27-real-vs-synthetic-content-will-soon-be-indistingui-wweu
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AtomDenver panel: AI 🤝 Crypto (Secret Network)"

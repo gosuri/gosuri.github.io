@@ -7,7 +7,7 @@ year: "2025"
 title: "The holy grail: contribute your computer to a training run, get tokens back"
 permalink: /predictions/decentralized-ai/2025-12-03-the-holy-grail-contribute-your-computer-to-a-train-4336/
 slug_id: 2025-12-03-the-holy-grail-contribute-your-computer-to-a-train-4336
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "Ownerless web services owned by the world"
 permalink: /predictions/cloud-decentralization/2021-03-16-ownerless-web-services-owned-by-the-world-35at/
 slug_id: 2021-03-16-ownerless-web-services-owned-by-the-world-35at
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, Decentralized Cloud | Blockchain Interviews (Crypto Coin Show)"

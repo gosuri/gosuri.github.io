@@ -7,7 +7,7 @@ year: "2021"
 title: "The \"Amazon is a safe bet\" ideology is cracking"
 permalink: /predictions/cloud-decentralization/2021-02-08-the-amazon-is-a-safe-bet-ideology-is-cracking-fga3/
 slug_id: 2021-02-08-the-amazon-is-a-safe-bet-ideology-is-cracking-fga3
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"

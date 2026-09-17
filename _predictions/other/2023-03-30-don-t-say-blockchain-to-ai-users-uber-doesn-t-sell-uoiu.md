@@ -7,7 +7,7 @@ year: "2023"
 title: "Don't say blockchain to AI users — Uber doesn't sell the internet"
 permalink: /predictions/other/2023-03-30-don-t-say-blockchain-to-ai-users-uber-doesn-t-sell-uoiu/
 slug_id: 2023-03-30-don-t-say-blockchain-to-ai-users-uber-doesn-t-sell-uoiu
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Mission: DeFi EP 92 - Greg Osuri - Akash is taking on the giants in hosted processing (Mission: DeFi)"

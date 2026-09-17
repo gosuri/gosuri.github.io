@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash as the de facto standard for web3 infrastructure"
 permalink: /predictions/cloud-decentralization/2022-04-24-akash-as-the-de-facto-standard-for-web3-infrastruc-ax5p/
 slug_id: 2022-04-24-akash-as-the-de-facto-standard-for-web3-infrastruc-ax5p
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akashonomics: AKT Release Schedule\" (Akash Network)"

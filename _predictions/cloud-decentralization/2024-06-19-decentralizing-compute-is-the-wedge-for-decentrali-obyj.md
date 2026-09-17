@@ -7,7 +7,7 @@ year: "2024"
 title: "Decentralizing compute is the wedge for decentralizing the whole stack"
 permalink: /predictions/cloud-decentralization/2024-06-19-decentralizing-compute-is-the-wedge-for-decentrali-obyj/
 slug_id: 2024-06-19-decentralizing-compute-is-the-wedge-for-decentrali-obyj
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: The Internet Of Compute W/ Founder Greg Osuri ($1 To $1 Million Podcast)"

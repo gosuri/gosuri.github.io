@@ -7,7 +7,7 @@ year: "2018"
 title: "Endorsement: Loom/Solana solved fundamental scalability and interoperability"
 permalink: /predictions/crypto-depin/2018-04-26-endorsement-loom-solana-solved-fundamental-scalabi-3tgz/
 slug_id: 2018-04-26-endorsement-loom-solana-solved-fundamental-scalabi-3tgz
-theme_page: /predictions/crypto-depin/2018/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solana: The World's Fastest Blockchain (fireside chat at Node) (Solana)"

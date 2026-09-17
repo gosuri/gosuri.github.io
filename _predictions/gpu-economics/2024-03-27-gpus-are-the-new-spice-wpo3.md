@@ -7,7 +7,7 @@ year: "2024"
 title: "GPUs are the new spice"
 permalink: /predictions/gpu-economics/2024-03-27-gpus-are-the-new-spice-wpo3/
 slug_id: 2024-03-27-gpus-are-the-new-spice-wpo3
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AtomDenver panel: AI 🤝 Crypto (Secret Network)"

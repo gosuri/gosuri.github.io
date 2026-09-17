@@ -7,7 +7,7 @@ year: "2025"
 title: "Compute should be as free as the air we breathe"
 permalink: /predictions/cloud-decentralization/2025-02-04-compute-should-be-as-free-as-the-air-we-breathe-d4lr/
 slug_id: 2025-02-04-compute-should-be-as-free-as-the-air-we-breathe-d4lr
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"

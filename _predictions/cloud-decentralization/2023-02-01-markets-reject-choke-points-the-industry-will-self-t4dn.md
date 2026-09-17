@@ -7,7 +7,7 @@ year: "2023"
 title: "Markets reject choke points — the industry will self-correct"
 permalink: /predictions/cloud-decentralization/2023-02-01-markets-reject-choke-points-the-industry-will-self-t4dn/
 slug_id: 2023-02-01-markets-reject-choke-points-the-industry-will-self-t4dn
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Messari Happy Hour Ep11 (Messari)"

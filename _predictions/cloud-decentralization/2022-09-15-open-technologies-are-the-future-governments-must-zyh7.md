@@ -7,7 +7,7 @@ year: "2022"
 title: "Open technologies are the future — governments must escape centralized choke points"
 permalink: /predictions/cloud-decentralization/2022-09-15-open-technologies-are-the-future-governments-must-zyh7/
 slug_id: 2022-09-15-open-technologies-are-the-future-governments-must-zyh7
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 14th 2022 (Akash Network)"

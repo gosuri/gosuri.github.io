@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash as Airbnb for compute across 8.2 million data centers"
 permalink: /predictions/cloud-decentralization/2021-03-19-akash-as-airbnb-for-compute-across-8-2-million-dat-qriv/
 slug_id: 2021-03-19-akash-as-airbnb-for-compute-across-8-2-million-dat-qriv
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Sunny Aggarwal, Greg Osuri and Adam Bozanich (Akash Network)"

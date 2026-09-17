@@ -7,7 +7,7 @@ year: "2024"
 title: "Open-source clouds failed until crypto could attach resources to software"
 permalink: /predictions/cloud-decentralization/2024-06-18-open-source-clouds-failed-until-crypto-could-attac-6evb/
 slug_id: 2024-06-18-open-source-clouds-failed-until-crypto-could-attac-6evb
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"

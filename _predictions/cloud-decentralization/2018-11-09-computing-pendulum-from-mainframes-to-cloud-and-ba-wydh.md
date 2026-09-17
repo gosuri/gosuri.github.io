@@ -7,7 +7,7 @@ year: "2018"
 title: "Computing pendulum: from mainframes to cloud and back to decentralized architectures"
 permalink: /predictions/cloud-decentralization/2018-11-09-computing-pendulum-from-mainframes-to-cloud-and-ba-wydh/
 slug_id: 2018-11-09-computing-pendulum-from-mainframes-to-cloud-and-ba-wydh
-theme_page: /predictions/cloud-decentralization/2018/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Serverless Panel: Komal Mangtani, Greg Osuri, Guillermo Rauch, Gwen Shapira (Kong)"

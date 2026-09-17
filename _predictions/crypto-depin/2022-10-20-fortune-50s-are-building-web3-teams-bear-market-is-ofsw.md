@@ -7,7 +7,7 @@ year: "2022"
 title: "Fortune 50s are building web3 teams; bear market is good for Akash"
 permalink: /predictions/crypto-depin/2022-10-20-fortune-50s-are-building-web3-teams-bear-market-is-ofsw/
 slug_id: 2022-10-20-fortune-50s-are-building-web3-teams-bear-market-is-ofsw
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 19th 2022 (Akash Network)"

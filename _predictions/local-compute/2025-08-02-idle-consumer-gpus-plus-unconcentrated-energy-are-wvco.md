@@ -7,7 +7,7 @@ year: "2025"
 title: "Idle consumer GPUs plus unconcentrated energy are the untapped resource"
 permalink: /predictions/local-compute/2025-08-02-idle-consumer-gpus-plus-unconcentrated-energy-are-wvco/
 slug_id: 2025-08-02-idle-consumer-gpus-plus-unconcentrated-energy-are-wvco
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"

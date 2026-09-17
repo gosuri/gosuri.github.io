@@ -7,7 +7,7 @@ year: "2024"
 title: "Metaverse/Vision Pro rendering will need low-latency decentralized edge compute"
 permalink: /predictions/local-compute/2024-06-18-metaverse-vision-pro-rendering-will-need-low-laten-6evb/
 slug_id: 2024-06-18-metaverse-vision-pro-rendering-will-need-low-laten-6evb
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"

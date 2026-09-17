@@ -7,7 +7,7 @@ year: "2022"
 title: "Proof-of-stake protocols will follow Chia to Akash"
 permalink: /predictions/crypto-depin/2022-09-01-proof-of-stake-protocols-will-follow-chia-to-akash-mh7j/
 slug_id: 2022-09-01-proof-of-stake-protocols-will-follow-chia-to-akash-mh7j
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 31st 2022 (Akash Network)"

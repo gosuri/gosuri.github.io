@@ -7,7 +7,7 @@ year: "2023"
 title: "Cloud is the fabric of society and must be publicly governed"
 permalink: /predictions/cloud-decentralization/2023-05-12-cloud-is-the-fabric-of-society-and-must-be-publicl-d2nr/
 slug_id: 2023-05-12-cloud-is-the-fabric-of-society-and-must-be-publicl-d2nr
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"

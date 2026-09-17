@@ -7,7 +7,7 @@ year: "2026"
 title: "Put 5090s at home on solar and earn income at zero marginal cost"
 permalink: /predictions/gpu-economics/2026-07-29-put-5090s-at-home-on-solar-and-earn-income-at-zero-k4hj/
 slug_id: 2026-07-29-put-5090s-at-home-on-solar-and-earn-income-at-zero-k4hj
-theme_page: /predictions/gpu-economics/2026/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI Data Centers Are Eating the Grid. Is There Another Way? (The People's AI: The Decentralized AI Podcast)"

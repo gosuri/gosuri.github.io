@@ -7,7 +7,7 @@ year: "2026"
 title: "Every company will have their own AI cloud"
 permalink: /predictions/cloud-decentralization/2026-07-17-every-company-will-have-their-own-ai-cloud-vljw/
 slug_id: 2026-07-17-every-company-will-have-their-own-ai-cloud-vljw
-theme_page: /predictions/cloud-decentralization/2026/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"

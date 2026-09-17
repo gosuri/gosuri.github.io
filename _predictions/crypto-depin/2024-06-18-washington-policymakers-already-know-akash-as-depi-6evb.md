@@ -7,7 +7,7 @@ year: "2024"
 title: "Washington policymakers already know Akash as DePIN-meets-AI"
 permalink: /predictions/crypto-depin/2024-06-18-washington-policymakers-already-know-akash-as-depi-6evb/
 slug_id: 2024-06-18-washington-policymakers-already-know-akash-as-depi-6evb
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"

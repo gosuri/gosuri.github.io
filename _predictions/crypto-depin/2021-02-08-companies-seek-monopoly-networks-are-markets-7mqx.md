@@ -7,7 +7,7 @@ year: "2021"
 title: "Companies seek monopoly; networks are markets"
 permalink: /predictions/crypto-depin/2021-02-08-companies-seek-monopoly-networks-are-markets-7mqx/
 slug_id: 2021-02-08-companies-seek-monopoly-networks-are-markets-7mqx
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The cloud, open source and flash loans with Greg Osuri (Citizen Web3)"

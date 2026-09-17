@@ -7,7 +7,7 @@ year: "2021"
 title: "World's first open GPU marketplace coming — customers spend $1-2M/month on GPUs"
 permalink: /predictions/gpu-economics/2021-05-29-world-s-first-open-gpu-marketplace-coming-customer-tcwd/
 slug_id: 2021-05-29-world-s-first-open-gpu-marketplace-coming-customer-tcwd
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Biz Call: 20210428 GregOsuri AkashNetwork (robfrankel)"

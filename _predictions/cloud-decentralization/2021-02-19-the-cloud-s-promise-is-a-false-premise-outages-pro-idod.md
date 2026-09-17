@@ -7,7 +7,7 @@ year: "2021"
 title: "The cloud's promise is a false premise — outages prove it"
 permalink: /predictions/cloud-decentralization/2021-02-19-the-cloud-s-promise-is-a-false-premise-outages-pro-idod/
 slug_id: 2021-02-19-the-cloud-s-promise-is-a-false-premise-outages-pro-idod
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Greg Osuri and Adam Bozanich (Akash Network)"

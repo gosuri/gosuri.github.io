@@ -7,7 +7,7 @@ year: "2024"
 title: "Every idle device — even self-driving cars — joins the network"
 permalink: /predictions/local-compute/2024-06-13-every-idle-device-even-self-driving-cars-joins-the-aujr/
 slug_id: 2024-06-13-every-idle-device-even-self-driving-cars-joins-the-aujr
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"

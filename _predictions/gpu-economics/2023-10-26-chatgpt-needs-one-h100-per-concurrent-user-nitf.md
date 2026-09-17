@@ -7,7 +7,7 @@ year: "2023"
 title: "ChatGPT needs one H100 per concurrent user"
 permalink: /predictions/gpu-economics/2023-10-26-chatgpt-needs-one-h100-per-concurrent-user-nitf/
 slug_id: 2023-10-26-chatgpt-needs-one-h100-per-concurrent-user-nitf
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"

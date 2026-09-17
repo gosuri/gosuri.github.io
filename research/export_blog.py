@@ -10,10 +10,7 @@ import shutil
 import sys
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
-SPLIT_BYTES = 300_000
 ID_SLUG_MAX = 50
-INDEX_BUDGET_TOKENS = 5_000
-INDEX_BUDGET_BYTES = INDEX_BUDGET_TOKENS * 4
 RECENT_LIMIT = 50
 
 HEADER_RE = re.compile(r"_(\d[\d,]*) extracted statements from (\d+) videos")
@@ -169,26 +166,27 @@ def render_entry(e):
     return "\n".join(parts)
 
 
-def render_theme_page(theme, entries, permalink, title=None, year=None):
+def render_theme_page(theme, entries, permalink, redirect_years=()):
     entries = sorted(entries, key=lambda e: e["date"])
     years = f"{entries[0]['date'][:4]}–{entries[-1]['date'][:4]}"
     pairs = [
         ("layout", "predictions"),
-        ("title", title or f"{theme} — Predictions"),
+        ("title", f"{theme} — Predictions"),
         ("theme", theme),
         ("theme_slug", theme_slug(theme)),
         ("permalink", permalink),
     ]
-    if year:
-        pairs.append(("year", year))
-    head = _fm(pairs)
+    head_lines = _fm(pairs).split("\n")
+    if redirect_years:
+        block = ["redirect_from:"] + [
+            f'  - "{permalink}{y}/"' for y in redirect_years
+        ]
+        head_lines = head_lines[:-1] + block + [head_lines[-1]]
+    head = "\n".join(head_lines)
     intro = f"_{len(entries)} statements · {years}_"
     loop = "\n".join([
         '{%- assign items = site.predictions '
         '| where: "theme", page.theme_slug -%}',
-        '{%- if page.year -%}'
-        '{%- assign items = items | where: "year", page.year -%}'
-        '{%- endif -%}',
         '{%- assign items = items | sort: "slug_id" -%}',
         "{%- for item in items -%}",
         "{%- if forloop.index > 1 %}<hr>{% endif %}",
@@ -198,63 +196,20 @@ def render_theme_page(theme, entries, permalink, title=None, year=None):
     return f"{head}\n\n{intro}\n\n{loop}\n"
 
 
-def title_index_bytes(entries):
-    """Conservative byte estimate for the Node-generated title index."""
-    rows = sum(len(f"{make_id(e)} — {e['title']}\n".encode()) for e in entries)
-    return 1024 + rows
-
-
-def theme_is_split(entries, split_bytes=SPLIT_BYTES,
-                   index_bytes=INDEX_BUDGET_BYTES):
-    """Whether a theme is large enough to split into year pages.
-
-    Entry content approximates rendered HTML size. The conservative title-row
-    estimate keeps the generated retrieval index within its separate budget.
-    """
-    content_is_large = sum(len(render_entry(e).encode()) for e in entries) > split_bytes
-    title_index_is_large = title_index_bytes(entries) > index_bytes
-    return content_is_large or title_index_is_large
-
-
-def entry_theme_page(e, split):
+def entry_theme_page(e):
     """Permalink of the theme page that lists this entry."""
-    slug = theme_slug(e["theme"])
-    if split:
-        return f"/predictions/{slug}/{e['date'][:4]}/"
-    return f"/predictions/{slug}/"
+    return f"/predictions/{theme_slug(e['theme'])}/"
 
 
-def theme_pages(theme, entries, split_bytes=SPLIT_BYTES,
-                index_bytes=INDEX_BUDGET_BYTES):
-    """Return {relative_path: content} for one theme, splitting by year if large."""
+def theme_pages(theme, entries):
+    """Return {relative_path: content} for one theme — always a single page.
+
+    Old per-year sub-page URLs are preserved as redirects to the theme page.
+    """
     slug = slugify(theme)
-    if not theme_is_split(entries, split_bytes, index_bytes):
-        return {f"{slug}.md": render_theme_page(
-            theme, entries, f"/predictions/{slug}/")}
-    pages = {}
     years = sorted({e["date"][:4] for e in entries})
-    links = []
-    for y in years:
-        sub = [e for e in entries if e["date"][:4] == y]
-        pages[os.path.join(slug, f"{y}.md")] = render_theme_page(
-            theme, sub, f"/predictions/{slug}/{y}/",
-            title=f"{theme} — {y}", year=y
-        )
-        links.append(f"- [{y}](/predictions/{slug}/{y}/) — {len(sub)} statements")
-    head = _fm(
-        [
-            ("layout", "predictions"),
-            ("title", f"{theme} — Predictions"),
-            ("theme", theme),
-            ("theme_slug", slug),
-            ("permalink", f"/predictions/{slug}/"),
-        ]
-    )
-    entries_sorted = sorted(entries, key=lambda e: e["date"])
-    years_range = f"{entries_sorted[0]['date'][:4]}–{entries_sorted[-1]['date'][:4]}"
-    intro = f"_{len(entries)} statements · {years_range} · by year:_"
-    pages[f"{slug}.md"] = head + "\n\n" + intro + "\n\n" + "\n".join(links) + "\n"
-    return pages
+    return {f"{slug}.md": render_theme_page(
+        theme, entries, f"/predictions/{slug}/", redirect_years=years)}
 
 
 def recent_entries(entries, limit=RECENT_LIMIT):
@@ -388,9 +343,8 @@ def render_collection_entry(e, theme_page):
     """One Jekyll collection document. Returns (relpath, content).
 
     `theme_page` is the permalink of the theme page that lists this entry —
-    the year page for split themes, the theme page otherwise. The single
-    prediction page links back to it, so it must be the page the anchor
-    actually exists on.
+    always the theme page. The single prediction page links back to it, so
+    it must be the page the anchor actually exists on.
     """
     tslug = theme_slug(e["theme"])
     eid = make_id(e)
@@ -453,13 +407,8 @@ def main():
     coll_dir = os.path.join(args.blog_dir, "_predictions")
     if os.path.isdir(coll_dir):
         shutil.rmtree(coll_dir)
-    split_themes = {
-        t: theme_is_split([e for e in entries if e["theme"] == t])
-        for t in themes
-    }
     for e in entries:
-        rel, content = render_collection_entry(
-            e, entry_theme_page(e, split_themes[e["theme"]]))
+        rel, content = render_collection_entry(e, entry_theme_page(e))
         path = os.path.join(coll_dir, rel)
         os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w") as f:

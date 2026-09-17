@@ -7,7 +7,7 @@ year: "2023"
 title: "Idle home GPUs — PlayStations, Xboxes, Macs — are wasted compute"
 permalink: /predictions/local-compute/2023-02-16-idle-home-gpus-playstations-xboxes-macs-are-wasted-hv5e/
 slug_id: 2023-02-16-idle-home-gpus-playstations-xboxes-macs-are-wasted-hv5e
-theme_page: /predictions/local-compute/2023/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"

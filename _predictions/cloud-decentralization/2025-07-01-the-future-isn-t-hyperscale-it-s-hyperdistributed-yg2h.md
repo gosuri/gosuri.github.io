@@ -7,7 +7,7 @@ year: "2025"
 title: "The future isn't hyperscale — it's hyperdistributed"
 permalink: /predictions/cloud-decentralization/2025-07-01-the-future-isn-t-hyperscale-it-s-hyperdistributed-yg2h/
 slug_id: 2025-07-01-the-future-isn-t-hyperscale-it-s-hyperdistributed-yg2h
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Superintelligence Needs The Supercloud Why the AI Revolution... | PMLS 2025 | Day 3 | Open Source AI (Blockworks)"

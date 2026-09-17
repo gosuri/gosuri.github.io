@@ -7,7 +7,7 @@ year: "2022"
 title: "One of the largest testnets in web3"
 permalink: /predictions/cloud-decentralization/2022-04-24-one-of-the-largest-testnets-in-web3-znxb/
 slug_id: 2022-04-24-one-of-the-largest-testnets-in-web3-znxb
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash Weekly: Testnet 3, Week 1 Challenges\" (Akash Network)"

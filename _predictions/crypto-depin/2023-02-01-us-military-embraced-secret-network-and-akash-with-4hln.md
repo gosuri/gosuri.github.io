@@ -7,7 +7,7 @@ year: "2023"
 title: "US military embraced Secret Network and Akash within 30 days of the ban"
 permalink: /predictions/crypto-depin/2023-02-01-us-military-embraced-secret-network-and-akash-with-4hln/
 slug_id: 2023-02-01-us-military-embraced-secret-network-and-akash-with-4hln
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Messari Happy Hour Ep11 (Messari)"

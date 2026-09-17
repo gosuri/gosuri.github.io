@@ -7,7 +7,7 @@ year: "2024"
 title: "AGI in eight years"
 permalink: /predictions/other/2024-07-17-agi-in-eight-years-zkdi/
 slug_id: 2024-07-17-agi-in-eight-years-zkdi
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Evolution to AGI Panel at Web3_AI Day | Encode Club | Linera, Ritual, Nillion, Akash Network (Linera: Real-Time Blockchain)"

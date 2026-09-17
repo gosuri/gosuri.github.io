@@ -7,7 +7,7 @@ year: "2024"
 title: "5% of global GDP will be spent on AI compute by 2030"
 permalink: /predictions/gpu-economics/2024-06-13-5-of-global-gdp-will-be-spent-on-ai-compute-by-203-kiod/
 slug_id: 2024-06-13-5-of-global-gdp-will-be-spent-on-ai-compute-by-203-kiod
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri: Akash – Decentralizing Cloud Computing and Revolutionizing GPU Access (#10)\" (Fluence)"

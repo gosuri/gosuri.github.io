@@ -7,7 +7,7 @@ year: "2021"
 title: "Tapping 8.2 million underutilized data centers"
 permalink: /predictions/cloud-decentralization/2021-05-28-tapping-8-2-million-underutilized-data-centers-5m43/
 slug_id: 2021-05-28-tapping-8-2-million-underutilized-data-centers-5m43
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "We're live with Greg Osuri from Akash Network (AKT) (Bittrex Global)"

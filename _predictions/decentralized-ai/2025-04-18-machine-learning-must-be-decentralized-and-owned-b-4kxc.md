@@ -7,7 +7,7 @@ year: "2025"
 title: "Machine learning must be decentralized and owned by the public"
 permalink: /predictions/decentralized-ai/2025-04-18-machine-learning-must-be-decentralized-and-owned-b-4kxc/
 slug_id: 2025-04-18-machine-learning-must-be-decentralized-and-owned-b-4kxc
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"

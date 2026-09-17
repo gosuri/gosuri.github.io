@@ -7,7 +7,7 @@ year: "2023"
 title: "Decentralization must peel down to code, website, and communications control"
 permalink: /predictions/other/2023-01-20-decentralization-must-peel-down-to-code-website-an-lvaj/
 slug_id: 2023-01-20-decentralization-must-peel-down-to-code-website-an-lvaj
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Securing Cosmos With Bitcoin: A conversation with David Tse of Babylon\" (Akash Network)"

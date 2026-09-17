@@ -7,7 +7,7 @@ year: "2023"
 title: "All A100s sold out within three weeks of GPU launch"
 permalink: /predictions/gpu-economics/2023-09-29-all-a100s-sold-out-within-three-weeks-of-gpu-launc-hkfm/
 slug_id: 2023-09-29-all-a100s-sold-out-within-three-weeks-of-gpu-launc-hkfm
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"

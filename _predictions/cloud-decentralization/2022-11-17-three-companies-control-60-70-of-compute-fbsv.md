@@ -7,7 +7,7 @@ year: "2022"
 title: "Three companies control 60-70% of compute"
 permalink: /predictions/cloud-decentralization/2022-11-17-three-companies-control-60-70-of-compute-fbsv/
 slug_id: 2022-11-17-three-companies-control-60-70-of-compute-fbsv
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 16th 2022 (Akash Network)"

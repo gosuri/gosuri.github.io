@@ -7,7 +7,7 @@ year: "2025"
 title: "Decentralize the compute grid for national security: 1,000 small data centers, \"Akash at home\""
 permalink: /predictions/local-compute/2025-05-13-decentralize-the-compute-grid-for-national-securit-j2w6/
 slug_id: 2025-05-13-decentralize-the-compute-grid-for-national-securit-j2w6
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Ep. 654 The Intersection of AI and Cryptocurrency with Akash Network (CRYPTO 101)"

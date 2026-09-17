@@ -7,7 +7,7 @@ year: "2021"
 title: "Open systems always beat corporate land-grabs (Microsoft/AOL analogy)"
 permalink: /predictions/cloud-decentralization/2021-11-15-open-systems-always-beat-corporate-land-grabs-micr-q46n/
 slug_id: 2021-11-15-open-systems-always-beat-corporate-land-grabs-micr-q46n
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Priv8 Virtual Privacy Summit 2021: Featuring Glenn Greenwald, Dr. Steven Waterhouse, and more! (Orchid Labs)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Crypto is easier to police than opaque legacy systems"
 permalink: /predictions/other/2022-10-13-crypto-is-easier-to-police-than-opaque-legacy-syst-hbn5/
 slug_id: 2022-10-13-crypto-is-easier-to-police-than-opaque-legacy-syst-hbn5
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 12th 2022 (Akash Network)"

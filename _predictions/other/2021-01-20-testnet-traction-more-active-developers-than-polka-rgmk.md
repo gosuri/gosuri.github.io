@@ -7,7 +7,7 @@ year: "2021"
 title: "Testnet traction: more active developers than Polkadot"
 permalink: /predictions/other/2021-01-20-testnet-traction-more-active-developers-than-polka-rgmk/
 slug_id: 2021-01-20-testnet-traction-more-active-developers-than-polka-rgmk
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Conversations with Jack ft Greg Osuri - S1E1 - by OmniFlix Network & Citizen Cosmos (OmniFlix Network)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash never breaks — more alive than AWS"
 permalink: /predictions/cloud-decentralization/2024-07-22-akash-never-breaks-more-alive-than-aws-n2fw/
 slug_id: 2024-07-22-akash-never-breaks-more-alive-than-aws-n2fw
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "[Solo Talk] Decentralization is saving AI where centralization failed by Greg Osuri (Kryptoplanet[Official])"

@@ -7,7 +7,7 @@ year: "2020"
 title: "Compute will be paid for in stablecoins, not volatile tokens"
 permalink: /predictions/crypto-depin/2020-12-16-compute-will-be-paid-for-in-stablecoins-not-volati-eace/
 slug_id: 2020-12-16-compute-will-be-paid-for-in-stablecoins-not-volati-eace
-theme_page: /predictions/crypto-depin/2020/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - AKASH Network (At Stake)"

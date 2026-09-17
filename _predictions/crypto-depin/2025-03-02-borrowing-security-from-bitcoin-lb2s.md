@@ -7,7 +7,7 @@ year: "2025"
 title: "Borrowing security from Bitcoin"
 permalink: /predictions/crypto-depin/2025-03-02-borrowing-security-from-bitcoin-lb2s/
 slug_id: 2025-03-02-borrowing-security-from-bitcoin-lb2s
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network (AKT) Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"

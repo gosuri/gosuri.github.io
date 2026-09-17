@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash today is like AWS in 2008 — adoption takes time"
 permalink: /predictions/cloud-decentralization/2021-10-08-akash-today-is-like-aws-in-2008-adoption-takes-tim-7lte/
 slug_id: 2021-10-08-akash-today-is-like-aws-in-2008-adoption-takes-tim-7lte
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How do data scientist get into blockchain? Greg Osuri - The Data Scientist Show #007 (The Data Scientist Show)"

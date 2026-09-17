@@ -7,7 +7,7 @@ year: "2025"
 title: "Compute near local energy and idle in homes, campuses, communities"
 permalink: /predictions/local-compute/2025-07-16-compute-near-local-energy-and-idle-in-homes-campus-7rl5/
 slug_id: 2025-07-16-compute-near-local-energy-and-idle-in-homes-campus-7rl5
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralized Infrastructure Allows America to Compete on AI—Greg Osuri (Crypto World Daily)"

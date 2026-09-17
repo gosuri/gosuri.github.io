@@ -7,7 +7,7 @@ year: "2026"
 title: "Hyperscalers will join Akash"
 permalink: /predictions/cloud-decentralization/2026-07-17-hyperscalers-will-join-akash-737l/
 slug_id: 2026-07-17-hyperscalers-will-join-akash-737l
-theme_page: /predictions/cloud-decentralization/2026/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "Don't start a company unless you've signed up for ten years"
 permalink: /predictions/other/2023-10-09-don-t-start-a-company-unless-you-ve-signed-up-for-focb/
 slug_id: 2023-10-09-don-t-start-a-company-unless-you-ve-signed-up-for-focb
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri: Redefining Success Against All Odds | BTC Ep.7 (Michael Huynh)"

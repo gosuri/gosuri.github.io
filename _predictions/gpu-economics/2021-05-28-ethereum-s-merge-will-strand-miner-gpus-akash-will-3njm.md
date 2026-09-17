@@ -7,7 +7,7 @@ year: "2021"
 title: "Ethereum's merge will strand miner GPUs — Akash will absorb them"
 permalink: /predictions/gpu-economics/2021-05-28-ethereum-s-merge-will-strand-miner-gpus-akash-will-3njm/
 slug_id: 2021-05-28-ethereum-s-merge-will-strand-miner-gpus-akash-will-3njm
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "We're live with Greg Osuri from Akash Network (AKT) (Bittrex Global)"

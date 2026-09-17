@@ -7,7 +7,7 @@ year: "2021"
 title: "Cloud is becoming a trillion-dollar oligopoly"
 permalink: /predictions/cloud-decentralization/2021-07-15-cloud-is-becoming-a-trillion-dollar-oligopoly-lrwg/
 slug_id: 2021-07-15-cloud-is-becoming-a-trillion-dollar-oligopoly-lrwg
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash Network Deep Dive: The Unstoppable Cloud, Powered by Cosmos!\" (Cryptocito)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "USDC will be KYC'd within two years; crypto splits into two worlds"
 permalink: /predictions/crypto-depin/2022-08-12-usdc-will-be-kyc-d-within-two-years-crypto-splits-2m53/
 slug_id: 2022-08-12-usdc-will-be-kyc-d-within-two-years-crypto-splits-2m53
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 10th 2022 (Akash Network)"

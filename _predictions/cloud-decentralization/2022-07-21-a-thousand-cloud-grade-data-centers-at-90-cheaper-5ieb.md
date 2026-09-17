@@ -7,7 +7,7 @@ year: "2022"
 title: "A thousand cloud-grade data centers at 90% cheaper than Amazon"
 permalink: /predictions/cloud-decentralization/2022-07-21-a-thousand-cloud-grade-data-centers-at-90-cheaper-5ieb/
 slug_id: 2022-07-21-a-thousand-cloud-grade-data-centers-at-90-cheaper-5ieb
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 20th (Akash Network)"

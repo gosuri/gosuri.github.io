@@ -7,7 +7,7 @@ year: "2021"
 title: "Centralized platforms are being weaponized; dweb is disaster recovery"
 permalink: /predictions/cloud-decentralization/2021-06-10-centralized-platforms-are-being-weaponized-dweb-is-k3fj/
 slug_id: 2021-06-10-centralized-platforms-are-being-weaponized-dweb-is-k3fj
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Networks (And How Handshake Works Together) (SkyInclude)"

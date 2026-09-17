@@ -7,7 +7,7 @@ year: "2020"
 title: "Supermini: a home GPU node that earns tokens when idle"
 permalink: /predictions/local-compute/2020-06-22-supermini-a-home-gpu-node-that-earns-tokens-when-i-yb7q/
 slug_id: 2020-06-22-supermini-a-home-gpu-node-that-earns-tokens-when-i-yb7q
-theme_page: /predictions/local-compute/2020/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akashian Challenge Phase 1 Livestream (Akash Network)"

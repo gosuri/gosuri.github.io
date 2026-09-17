@@ -7,7 +7,7 @@ year: "2022"
 title: "Node hosting \"coming with a bang,\" GPUs next"
 permalink: /predictions/crypto-depin/2022-11-11-node-hosting-coming-with-a-bang-gpus-next-n7n5/
 slug_id: 2022-11-11-node-hosting-coming-with-a-bang-gpus-next-n7n5
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Problem w/Blockchains on Big Cloud (Akash Network)"

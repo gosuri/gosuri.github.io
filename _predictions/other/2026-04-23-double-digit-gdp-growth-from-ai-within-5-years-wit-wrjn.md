@@ -7,7 +7,7 @@ year: "2026"
 title: "Double-digit GDP growth from AI within ~5 years, with fewer jobs"
 permalink: /predictions/other/2026-04-23-double-digit-gdp-growth-from-ai-within-5-years-wit-wrjn/
 slug_id: 2026-04-23-double-digit-gdp-growth-from-ai-within-5-years-wit-wrjn
-theme_page: /predictions/other/2026/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"

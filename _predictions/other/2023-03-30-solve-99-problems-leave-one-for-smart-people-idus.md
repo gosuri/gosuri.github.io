@@ -7,7 +7,7 @@ year: "2023"
 title: "Solve 99 problems, leave one for smart people"
 permalink: /predictions/other/2023-03-30-solve-99-problems-leave-one-for-smart-people-idus/
 slug_id: 2023-03-30-solve-99-problems-leave-one-for-smart-people-idus
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Mission: DeFi EP 92 - Greg Osuri - Akash is taking on the giants in hosted processing (Mission: DeFi)"

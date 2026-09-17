@@ -7,7 +7,7 @@ year: "2025"
 title: "500 US data centers are sitting ducks in a conflict"
 permalink: /predictions/cloud-decentralization/2025-07-31-500-us-data-centers-are-sitting-ducks-in-a-conflic-p7mv/
 slug_id: 2025-07-31-500-us-data-centers-are-sitting-ducks-in-a-conflic-p7mv
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash will offer more managed services than Amazon's ~250"
 permalink: /predictions/cloud-decentralization/2021-07-14-akash-will-offer-more-managed-services-than-amazon-cciq/
 slug_id: 2021-07-14-akash-will-offer-more-managed-services-than-amazon-cciq
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 2 OF 2 (Crypto Rich)"

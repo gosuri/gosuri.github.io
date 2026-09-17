@@ -7,7 +7,7 @@ year: "2024"
 title: "IP addresses are scarcer than gold — an \"IP coin\" someday"
 permalink: /predictions/crypto-depin/2024-06-09-ip-addresses-are-scarcer-than-gold-an-ip-coin-some-ha5w/
 slug_id: 2024-06-09-ip-addresses-are-scarcer-than-gold-an-ip-coin-some-ha5w
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Recap (Akash Network)"

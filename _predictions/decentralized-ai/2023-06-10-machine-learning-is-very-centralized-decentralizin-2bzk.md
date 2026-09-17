@@ -7,7 +7,7 @@ year: "2023"
 title: "Machine learning is very centralized — decentralizing it is extremely hard"
 permalink: /predictions/decentralized-ai/2023-06-10-machine-learning-is-very-centralized-decentralizin-2bzk/
 slug_id: 2023-06-10-machine-learning-is-very-centralized-decentralizin-2bzk
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "ADRIAN STEWART Akash $AKT Interview Greg Osuri #AI #GPU #AISupercloud ElonTrades Cosmos ATOM (Louisiana Swamp Rat)"

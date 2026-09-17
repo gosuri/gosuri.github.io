@@ -7,7 +7,7 @@ year: "2024"
 title: "IPs are scarcer than gold"
 permalink: /predictions/other/2024-06-11-ips-are-scarcer-than-gold-johb/
 slug_id: 2024-06-11-ips-are-scarcer-than-gold-johb
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Keynote from Greg Osuri: \\\"Journey to Acceleration & Beyond\\\" - Akash Accelerate '24\" (Akash Network)"

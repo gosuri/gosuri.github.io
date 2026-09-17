@@ -7,7 +7,7 @@ year: "2025"
 title: "Decentralized inference is complete vaporware (today)"
 permalink: /predictions/decentralized-ai/2025-12-03-decentralized-inference-is-complete-vaporware-toda-rzac/
 slug_id: 2025-12-03-decentralized-inference-is-complete-vaporware-toda-rzac
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Truth About Decentralized AI and the Future of Compute (TEACHMEDEFI)"

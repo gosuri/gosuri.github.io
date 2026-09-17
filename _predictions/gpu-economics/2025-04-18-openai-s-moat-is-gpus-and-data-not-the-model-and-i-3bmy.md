@@ -7,7 +7,7 @@ year: "2025"
 title: "OpenAI's moat is GPUs and data, not the model — and it's eroding"
 permalink: /predictions/gpu-economics/2025-04-18-openai-s-moat-is-gpus-and-data-not-the-model-and-i-3bmy/
 slug_id: 2025-04-18-openai-s-moat-is-gpus-and-data-not-the-model-and-i-3bmy
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"

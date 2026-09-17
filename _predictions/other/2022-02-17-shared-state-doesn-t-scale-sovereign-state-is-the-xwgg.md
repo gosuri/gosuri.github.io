@@ -7,7 +7,7 @@ year: "2022"
 title: "Shared state doesn't scale; sovereign state is the end state"
 permalink: /predictions/other/2022-02-17-shared-state-doesn-t-scale-sovereign-state-is-the-xwgg/
 slug_id: 2022-02-17-shared-state-doesn-t-scale-sovereign-state-is-the-xwgg
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Splitting ATOMs: How decentralized is Cosmos? ⚛️ (Cryptocito)"

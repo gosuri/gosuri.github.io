@@ -7,7 +7,7 @@ year: "2022"
 title: "Authorized spend unlocks credit-card payments on Akash"
 permalink: /predictions/crypto-depin/2022-04-24-authorized-spend-unlocks-credit-card-payments-on-a-q3go/
 slug_id: 2022-04-24-authorized-spend-unlocks-credit-card-payments-on-a-q3go
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akash Weekly: Testnet 3, Week 1 Challenges\" (Akash Network)"

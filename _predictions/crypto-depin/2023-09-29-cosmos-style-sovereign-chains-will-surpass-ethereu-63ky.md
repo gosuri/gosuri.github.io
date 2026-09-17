@@ -7,7 +7,7 @@ year: "2023"
 title: "Cosmos-style sovereign chains will surpass Ethereum in 5-10 years"
 permalink: /predictions/crypto-depin/2023-09-29-cosmos-style-sovereign-chains-will-surpass-ethereu-63ky/
 slug_id: 2023-09-29-cosmos-style-sovereign-chains-will-surpass-ethereu-63ky
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"

@@ -7,7 +7,7 @@ year: "2023"
 title: "H100s take two years to get — \"harder than a Rolex\""
 permalink: /predictions/gpu-economics/2023-09-29-h100s-take-two-years-to-get-harder-than-a-rolex-x2dv/
 slug_id: 2023-09-29-h100s-take-two-years-to-get-harder-than-a-rolex-x2dv
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - Chat With a Founder Greg Osuri (Don Cryptonium)"

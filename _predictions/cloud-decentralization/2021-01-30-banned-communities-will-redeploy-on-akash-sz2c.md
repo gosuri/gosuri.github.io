@@ -7,7 +7,7 @@ year: "2021"
 title: "Banned communities will redeploy on Akash"
 permalink: /predictions/cloud-decentralization/2021-01-30-banned-communities-will-redeploy-on-akash-sz2c/
 slug_id: 2021-01-30-banned-communities-will-redeploy-on-akash-sz2c
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"

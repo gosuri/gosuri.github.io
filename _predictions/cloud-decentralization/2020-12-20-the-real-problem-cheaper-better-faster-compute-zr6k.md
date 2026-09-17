@@ -7,7 +7,7 @@ year: "2020"
 title: "The real problem: cheaper, better, faster compute"
 permalink: /predictions/cloud-decentralization/2020-12-20-the-real-problem-cheaper-better-faster-compute-zr6k/
 slug_id: 2020-12-20-the-real-problem-cheaper-better-faster-compute-zr6k
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"The Akashian Challenge: Closing Live Stream\" (Akash Network)"

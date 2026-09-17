@@ -7,7 +7,7 @@ year: "2021"
 title: "The peer-to-peer cloud: ML clusters earn AKT in downtime"
 permalink: /predictions/gpu-economics/2021-03-19-the-peer-to-peer-cloud-ml-clusters-earn-akt-in-dow-2exc/
 slug_id: 2021-03-19-the-peer-to-peer-cloud-ml-clusters-earn-akt-in-dow-2exc
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Sunny Aggarwal, Greg Osuri and Adam Bozanich (Akash Network)"

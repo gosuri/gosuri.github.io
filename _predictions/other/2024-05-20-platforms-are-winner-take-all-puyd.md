@@ -7,7 +7,7 @@ year: "2024"
 title: "Platforms are winner-take-all"
 permalink: /predictions/other/2024-05-20-platforms-are-winner-take-all-puyd/
 slug_id: 2024-05-20-platforms-are-winner-take-all-puyd
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO of Overclock Labs & Akash N... (Techpost)"

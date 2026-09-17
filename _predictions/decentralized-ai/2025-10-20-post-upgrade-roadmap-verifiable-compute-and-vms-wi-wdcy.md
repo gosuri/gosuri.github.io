@@ -7,7 +7,7 @@ year: "2025"
 title: "Post-upgrade roadmap: verifiable compute and VMs, with demand to follow"
 permalink: /predictions/decentralized-ai/2025-10-20-post-upgrade-roadmap-verifiable-compute-and-vms-wi-wdcy/
 slug_id: 2025-10-20-post-upgrade-roadmap-verifiable-compute-and-vms-wi-wdcy
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Founder: Why We're Leaving our Sovereign L1 Behind (Akash Alpha)"

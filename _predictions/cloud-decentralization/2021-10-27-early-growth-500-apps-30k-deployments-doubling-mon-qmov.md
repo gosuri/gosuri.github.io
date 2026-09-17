@@ -7,7 +7,7 @@ year: "2021"
 title: "Early growth: 500 apps, 30k deployments, doubling monthly"
 permalink: /predictions/cloud-decentralization/2021-10-27-early-growth-500-apps-30k-deployments-doubling-mon-qmov/
 slug_id: 2021-10-27-early-growth-500-apps-30k-deployments-doubling-mon-qmov
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network CEO, Greg Osuri on Yahoo Finance (Akash Network)"

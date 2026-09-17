@@ -7,7 +7,7 @@ year: "2019"
 title: "Dedicated home devices as the future of peer-to-peer services"
 permalink: /predictions/local-compute/2019-08-06-dedicated-home-devices-as-the-future-of-peer-to-pe-xynw/
 slug_id: 2019-08-06-dedicated-home-devices-as-the-future-of-peer-to-pe-xynw
-theme_page: /predictions/local-compute/2019/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Overcoming the Challenges of Distributed Networks with Greg Osuri CEO Overclock Labs & Akash Network (Techpost)"

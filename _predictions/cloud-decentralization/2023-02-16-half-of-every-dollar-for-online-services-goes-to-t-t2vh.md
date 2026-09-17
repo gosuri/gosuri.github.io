@@ -7,7 +7,7 @@ year: "2023"
 title: "Half of every dollar for online services goes to three clouds"
 permalink: /predictions/cloud-decentralization/2023-02-16-half-of-every-dollar-for-online-services-goes-to-t-t2vh/
 slug_id: 2023-02-16-half-of-every-dollar-for-online-services-goes-to-t-t2vh
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview with Greg Osuri of Akash Network (Web3 Working Group)"

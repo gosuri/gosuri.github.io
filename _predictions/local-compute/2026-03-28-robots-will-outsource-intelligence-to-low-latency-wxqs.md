@@ -7,7 +7,7 @@ year: "2026"
 title: "Robots will outsource intelligence to low-latency local compute"
 permalink: /predictions/local-compute/2026-03-28-robots-will-outsource-intelligence-to-low-latency-wxqs/
 slug_id: 2026-03-28-robots-will-outsource-intelligence-to-low-latency-wxqs
-theme_page: /predictions/local-compute/2026/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network - Decentralized Cloud Built for AI's Next Frontier (DePIN Connection)"

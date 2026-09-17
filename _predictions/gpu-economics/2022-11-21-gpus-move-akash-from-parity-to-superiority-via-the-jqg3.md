@@ -7,7 +7,7 @@ year: "2022"
 title: "GPUs move Akash from parity to superiority via the first open GPU market"
 permalink: /predictions/gpu-economics/2022-11-21-gpus-move-akash-from-parity-to-superiority-via-the-jqg3/
 slug_id: 2022-11-21-gpus-move-akash-from-parity-to-superiority-via-the-jqg3
-theme_page: /predictions/gpu-economics/2022/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Ask Akash: Thoughts on usage metrics over the last year (Akash Network)"

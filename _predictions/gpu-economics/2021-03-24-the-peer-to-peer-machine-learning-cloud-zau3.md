@@ -7,7 +7,7 @@ year: "2021"
 title: "The peer-to-peer machine learning cloud"
 permalink: /predictions/gpu-economics/2021-03-24-the-peer-to-peer-machine-learning-cloud-zau3/
 slug_id: 2021-03-24-the-peer-to-peer-machine-learning-cloud-zau3
-theme_page: /predictions/gpu-economics/2021/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AKASH NETWORK (AKT) - Decentralized clouds, Staking, Cosmos & more!  - Interview with CEO Greg Osuri (Michaël van de Poppe)"

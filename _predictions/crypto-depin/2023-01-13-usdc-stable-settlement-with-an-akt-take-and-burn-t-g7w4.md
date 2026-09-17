@@ -7,7 +7,7 @@ year: "2023"
 title: "USDC stable settlement with an AKT take-and-burn tax"
 permalink: /predictions/crypto-depin/2023-01-13-usdc-stable-settlement-with-an-akt-take-and-burn-t-g7w4/
 slug_id: 2023-01-13-usdc-stable-settlement-with-an-akt-take-and-burn-t-g7w4
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Most UNDERRATED Cosmos GEM? Akash Network Deep Dive with Greg Osuri! (Cryptocito)"

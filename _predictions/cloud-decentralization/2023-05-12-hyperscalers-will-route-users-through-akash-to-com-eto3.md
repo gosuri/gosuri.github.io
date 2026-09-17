@@ -7,7 +7,7 @@ year: "2023"
 title: "Hyperscalers will route users through Akash to competitors' GPUs"
 permalink: /predictions/cloud-decentralization/2023-05-12-hyperscalers-will-route-users-through-akash-to-com-eto3/
 slug_id: 2023-05-12-hyperscalers-will-route-users-through-akash-to-com-eto3
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"

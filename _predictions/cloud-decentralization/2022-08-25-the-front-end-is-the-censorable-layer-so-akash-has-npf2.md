@@ -7,7 +7,7 @@ year: "2022"
 title: "The front-end is the censorable layer — so Akash has none"
 permalink: /predictions/cloud-decentralization/2022-08-25-the-front-end-is-the-censorable-layer-so-akash-has-npf2/
 slug_id: 2022-08-25-the-front-end-is-the-censorable-layer-so-akash-has-npf2
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Akash Analysis - How Akash is censorship resistant (Akash Network)"

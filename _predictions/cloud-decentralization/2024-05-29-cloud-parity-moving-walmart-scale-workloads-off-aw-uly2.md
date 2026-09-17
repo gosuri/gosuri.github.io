@@ -7,7 +7,7 @@ year: "2024"
 title: "Cloud parity: moving Walmart-scale workloads off AWS"
 permalink: /predictions/cloud-decentralization/2024-05-29-cloud-parity-moving-walmart-scale-workloads-off-aw-uly2/
 slug_id: 2024-05-29-cloud-parity-moving-walmart-scale-workloads-off-aw-uly2
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate '24: Official Livestream (Akash Network)"

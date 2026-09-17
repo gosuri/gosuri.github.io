@@ -7,7 +7,7 @@ year: "2021"
 title: "85-95% of data center compute sits unused"
 permalink: /predictions/cloud-decentralization/2021-04-09-85-95-of-data-center-compute-sits-unused-a4v5/
 slug_id: 2021-04-09-85-95-of-data-center-compute-sits-unused-a4v5
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interchain.fm Ep. 15 Akash: Taking on AWS with Decentralized Cloud Computing (Cosmos)"

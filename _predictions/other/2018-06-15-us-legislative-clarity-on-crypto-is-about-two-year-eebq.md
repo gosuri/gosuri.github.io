@@ -7,7 +7,7 @@ year: "2018"
 title: "US legislative clarity on crypto is about two years away (~2020)"
 permalink: /predictions/other/2018-06-15-us-legislative-clarity-on-crypto-is-about-two-year-eebq/
 slug_id: 2018-06-15-us-legislative-clarity-on-crypto-is-about-two-year-eebq
-theme_page: /predictions/other/2018/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "S1E2 - Greg Osuri (CryptoChange.News)"

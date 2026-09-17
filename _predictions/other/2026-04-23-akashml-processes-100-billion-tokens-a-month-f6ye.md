@@ -7,7 +7,7 @@ year: "2026"
 title: "AkashML processes ~100 billion tokens a month"
 permalink: /predictions/other/2026-04-23-akashml-processes-100-billion-tokens-a-month-f6ye/
 slug_id: 2026-04-23-akashml-processes-100-billion-tokens-a-month-f6ye
-theme_page: /predictions/other/2026/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Infrastructure Behind Agentic Finance, with Shashank Yadav and Greg Osuri of Akash Network (Fraction AI)"

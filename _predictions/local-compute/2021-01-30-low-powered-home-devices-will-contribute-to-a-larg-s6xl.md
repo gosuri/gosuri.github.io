@@ -7,7 +7,7 @@ year: "2021"
 title: "Low-powered home devices will contribute to a larger cloud (Supermini)"
 permalink: /predictions/local-compute/2021-01-30-low-powered-home-devices-will-contribute-to-a-larg-s6xl/
 slug_id: 2021-01-30-low-powered-home-devices-will-contribute-to-a-larg-s6xl
-theme_page: /predictions/local-compute/2021/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Live Stream w/ Greg Osuri and Brian Fox (Akash Network)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Web3 must decouple from finance and showcase infrastructure"
 permalink: /predictions/crypto-depin/2022-07-28-web3-must-decouple-from-finance-and-showcase-infra-7dj4/
 slug_id: 2022-07-28-web3-must-decouple-from-finance-and-showcase-infra-7dj4
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 27th 2022 (Akash Network)"

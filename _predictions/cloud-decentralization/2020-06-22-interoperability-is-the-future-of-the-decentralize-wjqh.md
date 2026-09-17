@@ -7,7 +7,7 @@ year: "2020"
 title: "Interoperability is the future of the decentralized cloud"
 permalink: /predictions/cloud-decentralization/2020-06-22-interoperability-is-the-future-of-the-decentralize-wjqh/
 slug_id: 2020-06-22-interoperability-is-the-future-of-the-decentralize-wjqh
-theme_page: /predictions/cloud-decentralization/2020/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akashian Challenge Phase 1 Livestream (Akash Network)"

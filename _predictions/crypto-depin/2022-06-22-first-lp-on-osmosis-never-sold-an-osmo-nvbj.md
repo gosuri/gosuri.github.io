@@ -7,7 +7,7 @@ year: "2022"
 title: "First LP on Osmosis, never sold an OSMO"
 permalink: /predictions/crypto-depin/2022-06-22-first-lp-on-osmosis-never-sold-an-osmo-nvbj/
 slug_id: 2022-06-22-first-lp-on-osmosis-never-sold-an-osmo-nvbj
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 22nd (Akash Network)"

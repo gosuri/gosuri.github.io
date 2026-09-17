@@ -47,11 +47,10 @@ published elsewhere identifies and links to its original publication.
 
 An index page has a retrieval listing instead of a transcription of all its HTML.
 In particular, theme twins contain titles and IDs, not every quotation. Choose the
-smallest relevant theme or year index listed in the inventory. The
+smallest relevant theme index listed in the inventory. The
 [flat prediction index](/predictions/index.md) contains every title and can exceed
 a fetch tool's output budget; reserve it for broad cross-theme research.
-Year indexes use `/predictions/{theme}/{year}/index.md`; the essay index is
-[/posts/index.md](/posts/index.md).
+The essay index is [/posts/index.md](/posts/index.md).
 
 [Recent statements](/predictions/recent/) lists the latest 50 by the date they
 were said, rather than the date they were added to the archive. Its markdown
@@ -67,6 +66,6 @@ quote. Read the inventory's current token budgets before choosing a full corpus 
 or a smaller theme index; estimates are approximate and change with the archive.
 Fetch full item twins only for the statements you need.
 
-Social preview images for prediction, essay, theme, and theme-year pages use the same
+Social preview images for prediction, essay, and theme pages use the same
 directory convention: append `card.png`. Other pages use the image advertised by
 their `og:image` metadata, including the shared site and predictions-index cards.

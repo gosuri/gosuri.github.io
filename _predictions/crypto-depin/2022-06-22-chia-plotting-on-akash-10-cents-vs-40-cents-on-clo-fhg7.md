@@ -7,7 +7,7 @@ year: "2022"
 title: "Chia plotting on Akash: 10 cents vs 40 cents on cloud; AKT spend doubled in a week"
 permalink: /predictions/crypto-depin/2022-06-22-chia-plotting-on-akash-10-cents-vs-40-cents-on-clo-fhg7/
 slug_id: 2022-06-22-chia-plotting-on-akash-10-cents-vs-40-cents-on-clo-fhg7
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly Spaces - June 22nd (Akash Network)"

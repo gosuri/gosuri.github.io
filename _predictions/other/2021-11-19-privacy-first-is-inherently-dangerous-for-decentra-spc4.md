@@ -7,7 +7,7 @@ year: "2021"
 title: "Privacy-first is inherently dangerous for decentralization"
 permalink: /predictions/other/2021-11-19-privacy-first-is-inherently-dangerous-for-decentra-spc4/
 slug_id: 2021-11-19-privacy-first-is-inherently-dangerous-for-decentra-spc4
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Priv8 Virtual Summit: Greg Osuri, Tor Bair, Ari Paul's Take on the Decentralized Future (Orchid Labs)"

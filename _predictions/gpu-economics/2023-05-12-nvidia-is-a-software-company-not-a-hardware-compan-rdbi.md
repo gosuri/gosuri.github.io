@@ -7,7 +7,7 @@ year: "2023"
 title: "Nvidia is a software company, not a hardware company"
 permalink: /predictions/gpu-economics/2023-05-12-nvidia-is-a-software-company-not-a-hardware-compan-rdbi/
 slug_id: 2023-05-12-nvidia-is-a-software-company-not-a-hardware-compan-rdbi
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AI SUPERCLOUD with Greg Osuri of Akash Network (The Interop)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "The future will demand censorship-resistant platforms"
 permalink: /predictions/other/2021-07-14-the-future-will-demand-censorship-resistant-platfo-vzxv/
 slug_id: 2021-07-14-the-future-will-demand-censorship-resistant-platfo-vzxv
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AKASH NETWORK -  DECENTRALISED CLOUD - DEEP DIVE - WITH THE CEO - 2 OF 2 (Crypto Rich)"

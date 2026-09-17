@@ -7,7 +7,7 @@ year: "2022"
 title: "Usage today will look flat versus a year out"
 permalink: /predictions/crypto-depin/2022-04-24-usage-today-will-look-flat-versus-a-year-out-5v3x/
 slug_id: 2022-04-24-usage-today-will-look-flat-versus-a-year-out-5v3x
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Cheng Wang"
 speaker_status: "attributed"
 source: "\"Akashonomics: AKT Release Schedule\" (Akash Network)"

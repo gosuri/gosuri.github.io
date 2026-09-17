@@ -7,7 +7,7 @@ year: "2026"
 title: "Compute shortage means borrowing from your neighbors"
 permalink: /predictions/local-compute/2026-04-23-compute-shortage-means-borrowing-from-your-neighbo-cmux/
 slug_id: 2026-04-23-compute-shortage-means-borrowing-from-your-neighbo-cmux
-theme_page: /predictions/local-compute/2026/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "From AWS to Akash: Greg Osuri on Building a Decentralized Compute Marketplace (Smart Economy Network)"

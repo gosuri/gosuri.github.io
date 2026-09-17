@@ -7,7 +7,7 @@ year: "2022"
 title: "End state: redefining cloud from every underutilized device"
 permalink: /predictions/local-compute/2022-01-10-end-state-redefining-cloud-from-every-underutilize-dgpu/
 slug_id: 2022-01-10-end-state-redefining-cloud-from-every-underutilize-dgpu
-theme_page: /predictions/local-compute/2022/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash (40%+ staking APY) is taking over the $Bn Cloud Computing Market by AWS? Greg Osuri EXCLUSIVE (Digital Asset Yield Summit)"

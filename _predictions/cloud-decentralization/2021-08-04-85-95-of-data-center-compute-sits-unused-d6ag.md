@@ -7,7 +7,7 @@ year: "2021"
 title: "85-95% of data-center compute sits unused"
 permalink: /predictions/cloud-decentralization/2021-08-04-85-95-of-data-center-compute-sits-unused-d6ag/
 slug_id: 2021-08-04-85-95-of-data-center-compute-sits-unused-d6ag
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network Is The Airbnb Of Cloud (TFiR)"

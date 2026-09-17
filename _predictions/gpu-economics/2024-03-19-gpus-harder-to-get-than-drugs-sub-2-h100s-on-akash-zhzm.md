@@ -7,7 +7,7 @@ year: "2024"
 title: "GPUs \"harder to get than drugs\"; sub-$2 H100s on Akash"
 permalink: /predictions/gpu-economics/2024-03-19-gpus-harder-to-get-than-drugs-sub-2-h100s-on-akash-zhzm/
 slug_id: 2024-03-19-gpus-harder-to-get-than-drugs-sub-2-h100s-on-akash-zhzm
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "No time for nuclear — connect small data centers everywhere instead"
 permalink: /predictions/local-compute/2024-11-09-no-time-for-nuclear-connect-small-data-centers-eve-ghpf/
 slug_id: 2024-11-09-no-time-for-nuclear-connect-small-data-centers-eve-ghpf
-theme_page: /predictions/local-compute/2024/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"

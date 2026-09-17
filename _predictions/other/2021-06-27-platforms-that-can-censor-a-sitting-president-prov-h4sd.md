@@ -7,7 +7,7 @@ year: "2021"
 title: "Platforms that can censor a sitting president prove the danger; society must take power back"
 permalink: /predictions/other/2021-06-27-platforms-that-can-censor-a-sitting-president-prov-h4sd/
 slug_id: 2021-06-27-platforms-that-can-censor-a-sitting-president-prov-h4sd
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Enter Decentralized Cloud & Unstoppable Web with Akash Network & Deeper - DeFi Conference Day 1 (Dcentral Con)"

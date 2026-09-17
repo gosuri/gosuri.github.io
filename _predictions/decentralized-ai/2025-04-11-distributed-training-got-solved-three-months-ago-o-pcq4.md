@@ -7,7 +7,7 @@ year: "2025"
 title: "Distributed training got solved three months ago — on Akash"
 permalink: /predictions/decentralized-ai/2025-04-11-distributed-training-got-solved-three-months-ago-o-pcq4/
 slug_id: 2025-04-11-distributed-training-got-solved-three-months-ago-o-pcq4
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, CEO of Akash Network, on why compute should be shared with a decentralized marketplace! (LegendsNLeaders)"

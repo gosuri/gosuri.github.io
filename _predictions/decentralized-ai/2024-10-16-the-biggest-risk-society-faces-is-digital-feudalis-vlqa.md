@@ -7,7 +7,7 @@ year: "2024"
 title: "The biggest risk society faces is digital feudalism"
 permalink: /predictions/decentralized-ai/2024-10-16-the-biggest-risk-society-faces-is-digital-feudalis-vlqa/
 slug_id: 2024-10-16-the-biggest-risk-society-faces-is-digital-feudalis-vlqa
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network's Greg Osuri on AI Fueling 1,729% Growth (Coinage)"

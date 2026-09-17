@@ -7,7 +7,7 @@ year: "2023"
 title: "8.4 million data centers, 85% unused"
 permalink: /predictions/cloud-decentralization/2023-09-06-8-4-million-data-centers-85-unused-y7l5/
 slug_id: 2023-09-06-8-4-million-data-centers-85-unused-y7l5
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"#3 - Akash Network with Greg Osuri\" (Weapons of Mass Adoption)"

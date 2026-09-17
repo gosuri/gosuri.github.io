@@ -7,7 +7,7 @@ year: "2024"
 title: "Nvidia demand is already declining as open models run on non-Nvidia chips"
 permalink: /predictions/gpu-economics/2024-09-27-nvidia-demand-is-already-declining-as-open-models-b3jd/
 slug_id: 2024-09-27-nvidia-demand-is-already-declining-as-open-models-b3jd
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "IOSG OFR 13th Panel | GPU Symphony: Decentralized Compute Power (IOSG Ventures)"

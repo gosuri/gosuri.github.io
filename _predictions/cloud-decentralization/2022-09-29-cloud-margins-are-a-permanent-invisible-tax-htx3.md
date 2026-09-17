@@ -7,7 +7,7 @@ year: "2022"
 title: "Cloud margins are a permanent invisible tax"
 permalink: /predictions/cloud-decentralization/2022-09-29-cloud-margins-are-a-permanent-invisible-tax-htx3/
 slug_id: 2022-09-29-cloud-margins-are-a-permanent-invisible-tax-htx3
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 28th 2022 (Akash Network)"

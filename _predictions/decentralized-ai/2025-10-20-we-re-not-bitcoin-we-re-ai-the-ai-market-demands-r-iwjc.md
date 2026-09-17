@@ -7,7 +7,7 @@ year: "2025"
 title: "\"We're not Bitcoin, we're AI\" — the AI market demands rapid change"
 permalink: /predictions/decentralized-ai/2025-10-20-we-re-not-bitcoin-we-re-ai-the-ai-market-demands-r-iwjc/
 slug_id: 2025-10-20-we-re-not-bitcoin-we-re-ai-the-ai-market-demands-r-iwjc
-theme_page: /predictions/decentralized-ai/2025/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Founder: Why We're Leaving our Sovereign L1 Behind (Akash Alpha)"

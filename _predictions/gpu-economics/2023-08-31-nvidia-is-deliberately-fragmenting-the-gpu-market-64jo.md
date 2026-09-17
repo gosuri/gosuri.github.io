@@ -7,7 +7,7 @@ year: "2023"
 title: "Nvidia is deliberately fragmenting the GPU market"
 permalink: /predictions/gpu-economics/2023-08-31-nvidia-is-deliberately-fragmenting-the-gpu-market-64jo/
 slug_id: 2023-08-31-nvidia-is-deliberately-fragmenting-the-gpu-market-64jo
-theme_page: /predictions/gpu-economics/2023/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Mainnet 6 Livestream (Akash Network)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Cosmos will go way beyond Ethereum once integration standards are solved"
 permalink: /predictions/crypto-depin/2022-07-21-cosmos-will-go-way-beyond-ethereum-once-integratio-zlyp/
 slug_id: 2022-07-21-cosmos-will-go-way-beyond-ethereum-once-integratio-zlyp
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - July 20th (Akash Network)"

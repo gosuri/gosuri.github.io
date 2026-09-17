@@ -7,7 +7,7 @@ year: "2022"
 title: "Crypto's real gift is planetary-scale coordination, not finance"
 permalink: /predictions/other/2022-10-06-crypto-s-real-gift-is-planetary-scale-coordination-ypve/
 slug_id: 2022-10-06-crypto-s-real-gift-is-planetary-scale-coordination-ypve
-theme_page: /predictions/other/2022/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 5th 2022 (Akash Network)"

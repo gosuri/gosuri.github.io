@@ -7,7 +7,7 @@ year: "2020"
 title: "Tokenized open source software is the third open-source business model"
 permalink: /predictions/crypto-depin/2020-01-12-tokenized-open-source-software-is-the-third-open-s-4ojj/
 slug_id: 2020-01-12-tokenized-open-source-software-is-the-third-open-s-4ojj
-theme_page: /predictions/crypto-depin/2020/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Hashing It Out #70 - Akash Network - Greg Osuri\" (Hashing It Out (The Bitcoin Podcast Network))"

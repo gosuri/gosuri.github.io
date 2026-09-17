@@ -7,7 +7,7 @@ year: "2024"
 title: "Nvidia's dominance won't last long"
 permalink: /predictions/gpu-economics/2024-11-26-nvidia-s-dominance-won-t-last-long-v33a/
 slug_id: 2024-11-26-nvidia-s-dominance-won-t-last-long-v33a
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri - Akash: Decentralized Compute Marketplace - ep 158 (Zima Red)"

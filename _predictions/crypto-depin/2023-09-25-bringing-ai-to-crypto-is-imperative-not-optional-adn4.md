@@ -7,7 +7,7 @@ year: "2023"
 title: "Bringing AI to crypto is imperative, not optional"
 permalink: /predictions/crypto-depin/2023-09-25-bringing-ai-to-crypto-is-imperative-not-optional-adn4/
 slug_id: 2023-09-25-bringing-ai-to-crypto-is-imperative-not-optional-adn4
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri, Founder and CEO of Akash Network (Proof of Coverage)"

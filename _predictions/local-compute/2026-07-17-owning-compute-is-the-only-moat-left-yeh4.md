@@ -7,7 +7,7 @@ year: "2026"
 title: "Owning compute is the only moat left"
 permalink: /predictions/local-compute/2026-07-17-owning-compute-is-the-only-moat-left-yeh4/
 slug_id: 2026-07-17-owning-compute-is-the-only-moat-left-yeh4
-theme_page: /predictions/local-compute/2026/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "This Crypto Turns GPUs Into Income For Everyone!!!! (AllinCrypto)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "Cloud is headed to a trillion-dollar market, devices beyond that"
 permalink: /predictions/cloud-decentralization/2022-01-10-cloud-is-headed-to-a-trillion-dollar-market-device-zanf/
 slug_id: 2022-01-10-cloud-is-headed-to-a-trillion-dollar-market-device-zanf
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash (40%+ staking APY) is taking over the $Bn Cloud Computing Market by AWS? Greg Osuri EXCLUSIVE (Digital Asset Yield Summit)"

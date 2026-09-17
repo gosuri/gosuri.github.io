@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash must outlive its company — systems that run as designed"
 permalink: /predictions/cloud-decentralization/2024-11-26-akash-must-outlive-its-company-systems-that-run-as-5ijy/
 slug_id: 2024-11-26-akash-must-outlive-its-company-systems-that-run-as-5ijy
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "What is Akash Network? Greg Osuri on Decentralized Cloud Computing | Greg Osuri - Founder of Akash (Genzio)"

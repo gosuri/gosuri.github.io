@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash can eventually scale to compete with AWS and Google Cloud"
 permalink: /predictions/cloud-decentralization/2021-03-05-akash-can-eventually-scale-to-compete-with-aws-and-ml2j/
 slug_id: 2021-03-05-akash-can-eventually-scale-to-compete-with-aws-and-ml2j
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Jack Zampolin"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Alessio Treglia, Jack Zampolin, Greg Osuri and Adam Bozanich (Akash Network)"

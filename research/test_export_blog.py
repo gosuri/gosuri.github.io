@@ -173,26 +173,39 @@ class TestRender(unittest.TestCase):
         page = eb.render_index({"declared": 1234}, entries)
         self.assertIn("1,234 statements", page)
 
-    def test_split_by_year(self):
+    def test_theme_pages_always_single_page(self):
         _, entries = eb.parse_predictions(FIXTURE)
         local = [e for e in entries if e["theme"] == "Local Compute"]
-        pages = eb.theme_pages("Local Compute", local, split_bytes=10)
-        # tiny threshold forces split: index + one page per year
-        paths = sorted(pages)
-        self.assertIn("local-compute.md", paths)
-        self.assertIn(os.path.join("local-compute", "2018.md"), paths)
-        self.assertIn(os.path.join("local-compute", "2019.md"), paths)
-        self.assertIn('theme_slug: "local-compute"', pages["local-compute.md"])
+        pages = eb.theme_pages("Local Compute", local)
+        # one page per theme, regardless of size — no year sub-pages
+        self.assertEqual(sorted(pages), ["local-compute.md"])
+        page = pages["local-compute.md"]
+        self.assertIn('theme_slug: "local-compute"', page)
+        self.assertIn("_2 statements · 2018–2019_", page)
+        self.assertIn('sort: "slug_id"', page)
+        self.assertNotIn("by year", page)
 
-    def test_split_by_year_when_title_index_exceeds_budget(self):
+    def test_theme_page_redirects_old_year_urls(self):
         _, entries = eb.parse_predictions(FIXTURE)
         local = [e for e in entries if e["theme"] == "Local Compute"]
-        self.assertTrue(eb.theme_is_split(
-            local, split_bytes=10**9, index_bytes=100))
-        pages = eb.theme_pages(
-            "Local Compute", local, split_bytes=10**9, index_bytes=100)
-        self.assertIn(os.path.join("local-compute", "2018.md"), pages)
-        self.assertIn(os.path.join("local-compute", "2019.md"), pages)
+        page = eb.theme_pages("Local Compute", local)["local-compute.md"]
+        head = page.split("---")[1]
+        self.assertIn("redirect_from:", head)
+        self.assertIn('  - "/predictions/local-compute/2018/"', head)
+        self.assertIn('  - "/predictions/local-compute/2019/"', head)
+
+    def test_theme_page_has_no_year_filter(self):
+        _, entries = eb.parse_predictions(FIXTURE)
+        local = [e for e in entries if e["theme"] == "Local Compute"]
+        page = eb.render_theme_page(
+            "Local Compute", local, "/predictions/local-compute/")
+        self.assertNotIn("page.year", page)
+        self.assertNotIn("year:", page.split("---")[1])
+
+    def test_entry_theme_page_is_the_theme_url(self):
+        _, entries = eb.parse_predictions(FIXTURE)
+        e = entries[0]
+        self.assertEqual(eb.entry_theme_page(e), "/predictions/local-compute/")
 
     def test_recent_page_is_limited_and_stably_sorted(self):
         _, base = eb.parse_predictions(FIXTURE)

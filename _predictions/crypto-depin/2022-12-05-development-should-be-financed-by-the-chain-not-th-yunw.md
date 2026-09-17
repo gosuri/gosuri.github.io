@@ -7,7 +7,7 @@ year: "2022"
 title: "Development should be financed by the chain, not the company"
 permalink: /predictions/crypto-depin/2022-12-05-development-should-be-financed-by-the-chain-not-th-yunw/
 slug_id: 2022-12-05-development-should-be-financed-by-the-chain-not-th-yunw
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - November 30th 2022 (Akash Network)"

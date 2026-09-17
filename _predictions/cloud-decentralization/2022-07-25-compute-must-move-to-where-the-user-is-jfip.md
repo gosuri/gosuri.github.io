@@ -7,7 +7,7 @@ year: "2022"
 title: "Compute must move to where the user is"
 permalink: /predictions/cloud-decentralization/2022-07-25-compute-must-move-to-where-the-user-is-jfip/
 slug_id: 2022-07-25-compute-must-move-to-where-the-user-is-jfip
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Adoption Plan (Akash Network)"

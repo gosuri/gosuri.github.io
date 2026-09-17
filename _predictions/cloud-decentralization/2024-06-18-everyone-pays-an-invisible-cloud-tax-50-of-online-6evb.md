@@ -7,7 +7,7 @@ year: "2024"
 title: "Everyone pays an invisible cloud tax — 50% of online-service revenue goes to the cloud"
 permalink: /predictions/cloud-decentralization/2024-06-18-everyone-pays-an-invisible-cloud-tax-50-of-online-6evb/
 slug_id: 2024-06-18-everyone-pays-an-invisible-cloud-tax-50-of-online-6evb
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Greg Osuri | Founder of Akash Network: Liberty, Community, and the Future of Decentralized AI\" (Beacon Podcast)"

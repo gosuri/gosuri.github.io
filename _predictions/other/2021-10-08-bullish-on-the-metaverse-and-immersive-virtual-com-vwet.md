@@ -7,7 +7,7 @@ year: "2021"
 title: "Bullish on the metaverse and immersive virtual communities"
 permalink: /predictions/other/2021-10-08-bullish-on-the-metaverse-and-immersive-virtual-com-vwet/
 slug_id: 2021-10-08-bullish-on-the-metaverse-and-immersive-virtual-com-vwet
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How do data scientist get into blockchain? Greg Osuri - The Data Scientist Show #007 (The Data Scientist Show)"

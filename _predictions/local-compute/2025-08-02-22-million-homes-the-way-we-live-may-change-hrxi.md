@@ -7,7 +7,7 @@ year: "2025"
 title: "22 million homes — \"the way we live may change\""
 permalink: /predictions/local-compute/2025-08-02-22-million-homes-the-way-we-live-may-change-hrxi/
 slug_id: 2025-08-02-22-million-homes-the-way-we-live-may-change-hrxi
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving the AI energy crisis | Greg Osuri on what it takes to power AI (Changelog)"

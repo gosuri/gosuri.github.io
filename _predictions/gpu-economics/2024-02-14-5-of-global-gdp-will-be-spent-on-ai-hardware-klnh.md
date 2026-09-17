@@ -7,7 +7,7 @@ year: "2024"
 title: "~5% of global GDP will be spent on AI hardware"
 permalink: /predictions/gpu-economics/2024-02-14-5-of-global-gdp-will-be-spent-on-ai-hardware-klnh/
 slug_id: 2024-02-14-5-of-global-gdp-will-be-spent-on-ai-hardware-klnh
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"How to Pivot your Career in Crypto and AI | Builder's Diary #9 with Greg Osuri\" (Finality Crypto Podcast (DeFi Times))"

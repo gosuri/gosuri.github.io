@@ -7,7 +7,7 @@ year: "2024"
 title: "Decouple intelligence from the state, like Bitcoin decoupled money"
 permalink: /predictions/decentralized-ai/2024-11-19-decouple-intelligence-from-the-state-like-bitcoin-u75w/
 slug_id: 2024-11-19-decouple-intelligence-from-the-state-like-bitcoin-u75w
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Bitcoin Renaissance - Greg Osuri of Akash Network (Bigeye Studios)"

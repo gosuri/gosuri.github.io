@@ -7,7 +7,7 @@ year: "2021"
 title: "DEXes are the most efficient liquidity mechanism in crypto"
 permalink: /predictions/crypto-depin/2021-06-26-dexes-are-the-most-efficient-liquidity-mechanism-i-mlta/
 slug_id: 2021-06-26-dexes-are-the-most-efficient-liquidity-mechanism-i-mlta
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Livestream w/ Sunny Aggarwal & Greg Osuri (Akash Network)"

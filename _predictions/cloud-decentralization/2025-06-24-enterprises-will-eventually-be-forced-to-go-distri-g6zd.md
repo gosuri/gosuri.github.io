@@ -7,7 +7,7 @@ year: "2025"
 title: "Enterprises will eventually be forced to go distributed"
 permalink: /predictions/cloud-decentralization/2025-06-24-enterprises-will-eventually-be-forced-to-go-distri-g6zd/
 slug_id: 2025-06-24-enterprises-will-eventually-be-forced-to-go-distri-g6zd
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025: Official Livestream (Akash Network)"

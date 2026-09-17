@@ -7,7 +7,7 @@ year: "2024"
 title: "First milestone: 1% of the cloud market"
 permalink: /predictions/cloud-decentralization/2024-10-18-first-milestone-1-of-the-cloud-market-dx3n/
 slug_id: 2024-10-18-first-milestone-1-of-the-cloud-market-dx3n
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Sovereign AI's Battlefield: Compute, Storage, & Running On The Edge | Crypto x AI Event (Delphi Digital)"

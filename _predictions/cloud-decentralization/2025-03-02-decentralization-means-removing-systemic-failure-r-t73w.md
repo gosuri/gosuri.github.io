@@ -7,7 +7,7 @@ year: "2025"
 title: "Decentralization means removing systemic failure risk"
 permalink: /predictions/cloud-decentralization/2025-03-02-decentralization-means-removing-systemic-failure-r-t73w/
 slug_id: 2025-03-02-decentralization-means-removing-systemic-failure-r-t73w
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network (AKT) Explained: Everything You Need To Know Before Investing by Founder Greg Osuri (Founder School)"

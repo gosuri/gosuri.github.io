@@ -7,7 +7,7 @@ year: "2025"
 title: "\"By the end of the year, we'll have a very high-quality model that competes with centralized models\""
 permalink: /predictions/local-compute/2025-07-31-by-the-end-of-the-year-we-ll-have-a-very-high-qual-p7mv/
 slug_id: 2025-07-31-by-the-end-of-the-year-we-ll-have-a-very-high-qual-p7mv
-theme_page: /predictions/local-compute/2025/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Solving AI's Energy Crisis with Decentralized Compute, w/ Akash CEO Greg Osuri (The People's AI: The Decentralized AI Podcast)"

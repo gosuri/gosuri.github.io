@@ -7,7 +7,7 @@ year: "2022"
 title: "Akash is the first viable open cloud, 97% cheaper"
 permalink: /predictions/cloud-decentralization/2022-12-11-akash-is-the-first-viable-open-cloud-97-cheaper-xi5o/
 slug_id: 2022-12-11-akash-is-the-first-viable-open-cloud-97-cheaper-xi5o
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Unknown"
 speaker_status: "uncertain"
 source: "Ask Akash - What problem does Akash solve? Can it scale? (Akash Network)"

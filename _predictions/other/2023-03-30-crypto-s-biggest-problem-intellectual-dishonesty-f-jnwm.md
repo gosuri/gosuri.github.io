@@ -7,7 +7,7 @@ year: "2023"
 title: "Crypto's biggest problem: intellectual dishonesty from the top"
 permalink: /predictions/other/2023-03-30-crypto-s-biggest-problem-intellectual-dishonesty-f-jnwm/
 slug_id: 2023-03-30-crypto-s-biggest-problem-intellectual-dishonesty-f-jnwm
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Mission: DeFi EP 92 - Greg Osuri - Akash is taking on the giants in hosted processing (Mission: DeFi)"

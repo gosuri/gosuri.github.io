@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash is Airbnb, Amazon is Hilton — from Equinix racks to devices in the home"
 permalink: /predictions/cloud-decentralization/2021-06-09-akash-is-airbnb-amazon-is-hilton-from-equinix-rack-55lw/
 slug_id: 2021-06-09-akash-is-airbnb-amazon-is-hilton-from-equinix-rack-55lw
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Future of Web 3 and the Battle for Data Sovereignty with Greg Osuri, CEO of Akash Networks (Orchid Labs)"

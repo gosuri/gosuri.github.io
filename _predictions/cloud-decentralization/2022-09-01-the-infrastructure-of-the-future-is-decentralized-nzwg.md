@@ -7,7 +7,7 @@ year: "2022"
 title: "The infrastructure of the future is decentralized"
 permalink: /predictions/cloud-decentralization/2022-09-01-the-infrastructure-of-the-future-is-decentralized-nzwg/
 slug_id: 2022-09-01-the-infrastructure-of-the-future-is-decentralized-nzwg
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - August 31st 2022 (Akash Network)"

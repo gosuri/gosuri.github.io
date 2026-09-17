@@ -7,7 +7,7 @@ year: "2021"
 title: "Akash as the gateway for decentralized cloud"
 permalink: /predictions/cloud-decentralization/2021-02-19-akash-as-the-gateway-for-decentralized-cloud-2f6o/
 slug_id: 2021-02-19-akash-as-the-gateway-for-decentralized-cloud-2f6o
-theme_page: /predictions/cloud-decentralization/2021/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Akash Mainnet 2 Livestream w/ Greg Osuri and Adam Bozanich (Akash Network)"

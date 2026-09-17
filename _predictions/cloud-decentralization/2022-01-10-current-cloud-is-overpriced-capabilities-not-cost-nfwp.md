@@ -7,7 +7,7 @@ year: "2022"
 title: "Current cloud is overpriced; capabilities, not cost, win long-term"
 permalink: /predictions/cloud-decentralization/2022-01-10-current-cloud-is-overpriced-capabilities-not-cost-nfwp/
 slug_id: 2022-01-10-current-cloud-is-overpriced-capabilities-not-cost-nfwp
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash (40%+ staking APY) is taking over the $Bn Cloud Computing Market by AWS? Greg Osuri EXCLUSIVE (Digital Asset Yield Summit)"

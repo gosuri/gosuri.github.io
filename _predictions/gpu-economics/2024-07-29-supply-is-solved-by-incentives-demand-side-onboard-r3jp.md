@@ -7,7 +7,7 @@ year: "2024"
 title: "Supply is solved by incentives; demand-side onboarding is the real bottleneck"
 permalink: /predictions/gpu-economics/2024-07-29-supply-is-solved-by-incentives-demand-side-onboard-r3jp/
 slug_id: 2024-07-29-supply-is-solved-by-incentives-demand-side-onboard-r3jp
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "More than Decentralised Compute | Converge @ EthCC 2024 (Caladan)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash is the world's first decentralized supercloud"
 permalink: /predictions/cloud-decentralization/2024-03-19-akash-is-the-world-s-first-decentralized-superclou-hzb5/
 slug_id: 2024-03-19-akash-is-the-world-s-first-decentralized-superclou-hzb5
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Decentralizing AI: Compute Protocols and Proof of Work - Panel Discussion | Proof of Data 2024 (Recall Network)"

@@ -7,7 +7,7 @@ year: "2024"
 title: "The cloud is an unelected tax — \"we need decentralization to avoid feudalism\""
 permalink: /predictions/cloud-decentralization/2024-07-29-the-cloud-is-an-unelected-tax-we-need-decentraliza-6bac/
 slug_id: 2024-07-29-the-cloud-is-an-unelected-tax-we-need-decentraliza-6bac
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "More than Decentralised Compute | Converge @ EthCC 2024 (Caladan)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "De-platforming is a threat to civil liberties"
 permalink: /predictions/other/2021-10-26-de-platforming-is-a-threat-to-civil-liberties-wmyy/
 slug_id: 2021-10-26-de-platforming-is-a-threat-to-civil-liberties-wmyy
-theme_page: /predictions/other/2021/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Network CEO on competing with Amazon AWS, decentralized cloud computing, and free speech (Yahoo Finance)"

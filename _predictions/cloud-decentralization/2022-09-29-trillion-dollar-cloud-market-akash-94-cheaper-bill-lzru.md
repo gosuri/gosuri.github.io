@@ -7,7 +7,7 @@ year: "2022"
 title: "Trillion-dollar cloud market; Akash 94% cheaper, bills halved"
 permalink: /predictions/cloud-decentralization/2022-09-29-trillion-dollar-cloud-market-akash-94-cheaper-bill-lzru/
 slug_id: 2022-09-29-trillion-dollar-cloud-market-akash-94-cheaper-bill-lzru
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - September 28th 2022 (Akash Network)"

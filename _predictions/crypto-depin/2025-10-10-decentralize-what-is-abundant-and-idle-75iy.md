@@ -7,7 +7,7 @@ year: "2025"
 title: "Decentralize what is abundant and idle"
 permalink: /predictions/crypto-depin/2025-10-10-decentralize-what-is-abundant-and-idle-75iy/
 slug_id: 2025-10-10-decentralize-what-is-abundant-and-idle-75iy
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePIN: Hype or the Next Trillion-Dollar Market? - TOKEN2049 Singapore 2025 (TOKEN2049)"

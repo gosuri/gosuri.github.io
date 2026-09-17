@@ -15,6 +15,7 @@ permalink: pretty
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 paginate: 5
 

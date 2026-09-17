@@ -7,7 +7,7 @@ year: "2023"
 title: "Supermini: the home GPU box for training AI"
 permalink: /predictions/local-compute/2023-06-12-supermini-the-home-gpu-box-for-training-ai-mmrm/
 slug_id: 2023-06-12-supermini-the-home-gpu-box-for-training-ai-mmrm
-theme_page: /predictions/local-compute/2023/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The GPU crisis that AI needs solved now.  W/ Greg Osuri, CEO Overclock Labs Akash Network (Parks and Decentralization)"

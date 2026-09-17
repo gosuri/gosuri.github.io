@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash makes more in fees than Ripple, Dogecoin, Cardano"
 permalink: /predictions/crypto-depin/2023-12-18-akash-makes-more-in-fees-than-ripple-dogecoin-card-54w4/
 slug_id: 2023-12-18-akash-makes-more-in-fees-than-ripple-dogecoin-card-54w4
-theme_page: /predictions/crypto-depin/2023/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash: Crypto's AI Supercloud W/Greg Osuri ($1 To $1 Million Podcast)"

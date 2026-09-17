@@ -7,7 +7,7 @@ year: "2025"
 title: "Build a cloud no one can shut down"
 permalink: /predictions/cloud-decentralization/2025-07-01-build-a-cloud-no-one-can-shut-down-4u5l/
 slug_id: 2025-07-01-build-a-cloud-no-one-can-shut-down-4u5l
-theme_page: /predictions/cloud-decentralization/2025/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Accelerate 2025  -  Greg Osuri Keynote (Akash Network)"

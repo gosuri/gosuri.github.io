@@ -7,7 +7,7 @@ year: "2022"
 title: "Console will drive measurably higher usage"
 permalink: /predictions/cloud-decentralization/2022-11-18-console-will-drive-measurably-higher-usage-kt5l/
 slug_id: 2022-11-18-console-will-drive-measurably-higher-usage-kt5l
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Founders Reflect on Why Akash was Created (Akash Network)"

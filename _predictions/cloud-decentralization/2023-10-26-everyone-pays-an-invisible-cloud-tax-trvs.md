@@ -7,7 +7,7 @@ year: "2023"
 title: "Everyone pays an invisible cloud tax"
 permalink: /predictions/cloud-decentralization/2023-10-26-everyone-pays-an-invisible-cloud-tax-trvs/
 slug_id: 2023-10-26-everyone-pays-an-invisible-cloud-tax-trvs
-theme_page: /predictions/cloud-decentralization/2023/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"

@@ -7,7 +7,7 @@ year: "2021"
 title: "A self-serving, fiat-free cloud economy is live"
 permalink: /predictions/crypto-depin/2021-06-26-a-self-serving-fiat-free-cloud-economy-is-live-ul5n/
 slug_id: 2021-06-26-a-self-serving-fiat-free-cloud-economy-is-live-ul5n
-theme_page: /predictions/crypto-depin/2021/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "The Unstoppable Livestream w/ Sunny Aggarwal & Greg Osuri (Akash Network)"

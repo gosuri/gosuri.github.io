@@ -7,7 +7,7 @@ year: "2024"
 title: "East AI vs. West AI"
 permalink: /predictions/other/2024-11-09-east-ai-vs-west-ai-ss55/
 slug_id: 2024-11-09-east-ai-vs-west-ai-ss55
-theme_page: /predictions/other/2024/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Why Decentralized AI Needs Cosmos: Greg Osuri of Akash Explains (The Interop)"

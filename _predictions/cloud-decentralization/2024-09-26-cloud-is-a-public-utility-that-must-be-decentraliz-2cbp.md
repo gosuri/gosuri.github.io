@@ -7,7 +7,7 @@ year: "2024"
 title: "Cloud is a public utility that must be decentralized"
 permalink: /predictions/cloud-decentralization/2024-09-26-cloud-is-a-public-utility-that-must-be-decentraliz-2cbp/
 slug_id: 2024-09-26-cloud-is-a-public-utility-that-must-be-decentraliz-2cbp
-theme_page: /predictions/cloud-decentralization/2024/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "AWS at a Fraction of the Price – Greg Osuri | Akash Network (We are DePIN)"

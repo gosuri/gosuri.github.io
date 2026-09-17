@@ -7,7 +7,7 @@ year: "2018"
 title: "Market sizing Akash's beachhead use cases"
 permalink: /predictions/other/2018-08-31-market-sizing-akash-s-beachhead-use-cases-xekn/
 slug_id: 2018-08-31-market-sizing-akash-s-beachhead-use-cases-xekn
-theme_page: /predictions/other/2018/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Crypto Stories: A Primer on Distributed Computing with Dani Grant, Dan Desjardins, Chandler Song, and Greg Osuri\" (Village Global's Venture Stories)"

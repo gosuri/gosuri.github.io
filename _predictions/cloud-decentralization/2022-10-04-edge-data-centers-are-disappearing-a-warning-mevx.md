@@ -7,7 +7,7 @@ year: "2022"
 title: "Edge data centers are disappearing — a warning"
 permalink: /predictions/cloud-decentralization/2022-10-04-edge-data-centers-are-disappearing-a-warning-mevx/
 slug_id: 2022-10-04-edge-data-centers-are-disappearing-a-warning-mevx
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Building The Infrastructure Of Web3 | Greg Osuri Of Akash Network | The FH Show - EP16 (Felix O. Hartmann)"

@@ -7,7 +7,7 @@ year: "2022"
 title: "The next bull run will be mainstream adoption"
 permalink: /predictions/crypto-depin/2022-10-20-the-next-bull-run-will-be-mainstream-adoption-asxx/
 slug_id: 2022-10-20-the-next-bull-run-will-be-mainstream-adoption-asxx
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Weekly - October 19th 2022 (Akash Network)"

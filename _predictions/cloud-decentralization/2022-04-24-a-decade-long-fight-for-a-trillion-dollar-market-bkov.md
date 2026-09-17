@@ -7,7 +7,7 @@ year: "2022"
 title: "A decade-long fight for a trillion-dollar market"
 permalink: /predictions/cloud-decentralization/2022-04-24-a-decade-long-fight-for-a-trillion-dollar-market-bkov/
 slug_id: 2022-04-24-a-decade-long-fight-for-a-trillion-dollar-market-bkov
-theme_page: /predictions/cloud-decentralization/2022/
+theme_page: /predictions/cloud-decentralization/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Akashonomics: AKT Release Schedule\" (Akash Network)"

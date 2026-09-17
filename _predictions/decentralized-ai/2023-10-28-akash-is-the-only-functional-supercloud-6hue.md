@@ -7,7 +7,7 @@ year: "2023"
 title: "Akash is the only functional supercloud"
 permalink: /predictions/decentralized-ai/2023-10-28-akash-is-the-only-functional-supercloud-6hue/
 slug_id: 2023-10-28-akash-is-the-only-functional-supercloud-6hue
-theme_page: /predictions/decentralized-ai/2023/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "1on1 Greg Osuri - Akash (Jerry V Hall)"

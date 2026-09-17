@@ -7,7 +7,7 @@ year: "2020"
 title: "Home devices + Helium = edge infrastructure that skips telcos and clouds entirely"
 permalink: /predictions/local-compute/2020-01-12-home-devices-helium-edge-infrastructure-that-skips-4ojj/
 slug_id: 2020-01-12-home-devices-helium-edge-infrastructure-that-skips-4ojj
-theme_page: /predictions/local-compute/2020/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "\"Hashing It Out #70 - Akash Network - Greg Osuri\" (Hashing It Out (The Bitcoin Podcast Network))"

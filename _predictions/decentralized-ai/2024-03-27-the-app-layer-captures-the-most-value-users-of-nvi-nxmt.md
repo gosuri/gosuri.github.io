@@ -7,7 +7,7 @@ year: "2024"
 title: "The app layer captures the most value; users of Nvidia beat Nvidia"
 permalink: /predictions/decentralized-ai/2024-03-27-the-app-layer-captures-the-most-value-users-of-nvi-nxmt/
 slug_id: 2024-03-27-the-app-layer-captures-the-most-value-users-of-nvi-nxmt
-theme_page: /predictions/decentralized-ai/2024/
+theme_page: /predictions/decentralized-ai/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Agents Unleashed - Progress In The Decentralized AI Stack (Training, Fine-Tuning, Inference) (Olas)"

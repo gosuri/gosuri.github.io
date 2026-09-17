@@ -7,7 +7,7 @@ year: "2024"
 title: "Akash created the DePIN category; 1700% YoY growth"
 permalink: /predictions/crypto-depin/2024-12-18-akash-created-the-depin-category-1700-yoy-growth-6j25/
 slug_id: 2024-12-18-akash-created-the-depin-category-1700-yoy-growth-6j25
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Greg Osuri Founder Akash Network | Cosmoverse Dubai 2024! (pinoyweb3TV)"

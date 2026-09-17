@@ -7,7 +7,7 @@ year: "2026"
 title: "People are going to have a lot of compute at home"
 permalink: /predictions/local-compute/2026-02-24-people-are-going-to-have-a-lot-of-compute-at-home-aqtz/
 slug_id: 2026-02-24-people-are-going-to-have-a-lot-of-compute-at-home-aqtz
-theme_page: /predictions/local-compute/2026/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "LIVE from NEARCON Day 1 In SF (The Rollup)"

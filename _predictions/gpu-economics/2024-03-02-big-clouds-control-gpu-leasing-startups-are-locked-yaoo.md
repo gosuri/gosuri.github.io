@@ -7,7 +7,7 @@ year: "2024"
 title: "Big clouds control GPU leasing; startups are locked out"
 permalink: /predictions/gpu-economics/2024-03-02-big-clouds-control-gpu-leasing-startups-are-locked-yaoo/
 slug_id: 2024-03-02-big-clouds-control-gpu-leasing-startups-are-locked-yaoo
-theme_page: /predictions/gpu-economics/2024/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Revolutionizing GPU Access for AI Workloads | Greg Osuri - Akash Network (ETHDenver)"

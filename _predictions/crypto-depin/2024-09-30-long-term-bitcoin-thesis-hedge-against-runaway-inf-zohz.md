@@ -7,7 +7,7 @@ year: "2024"
 title: "Long-term Bitcoin thesis: hedge against runaway inflation"
 permalink: /predictions/crypto-depin/2024-09-30-long-term-bitcoin-thesis-hedge-against-runaway-inf-zohz/
 slug_id: 2024-09-30-long-term-bitcoin-thesis-hedge-against-runaway-inf-zohz
-theme_page: /predictions/crypto-depin/2024/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Interview with Akash Network founder/CEO Greg Osuri at deAI Summit TOKEN2049 (Pundi X Labs)"

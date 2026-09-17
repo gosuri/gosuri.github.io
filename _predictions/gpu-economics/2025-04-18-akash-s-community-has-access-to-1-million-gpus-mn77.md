@@ -7,7 +7,7 @@ year: "2025"
 title: "Akash's community has access to ~1 million GPUs"
 permalink: /predictions/gpu-economics/2025-04-18-akash-s-community-has-access-to-1-million-gpus-mn77/
 slug_id: 2025-04-18-akash-s-community-has-access-to-1-million-gpus-mn77
-theme_page: /predictions/gpu-economics/2025/
+theme_page: /predictions/gpu-economics/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "DePin, Scams & Decentralized ML (Chris Joannou)"

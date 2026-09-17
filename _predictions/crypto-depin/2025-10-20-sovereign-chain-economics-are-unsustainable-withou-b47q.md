@@ -7,7 +7,7 @@ year: "2025"
 title: "Sovereign-chain economics are unsustainable without massive volume"
 permalink: /predictions/crypto-depin/2025-10-20-sovereign-chain-economics-are-unsustainable-withou-b47q/
 slug_id: 2025-10-20-sovereign-chain-economics-are-unsustainable-withou-b47q
-theme_page: /predictions/crypto-depin/2025/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Akash Founder: Why We're Leaving our Sovereign L1 Behind (Akash Alpha)"

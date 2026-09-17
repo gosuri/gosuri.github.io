@@ -7,7 +7,7 @@ year: "2023"
 title: "Home gaming PCs will train models — \"yes, one day, not yet\""
 permalink: /predictions/local-compute/2023-10-26-home-gaming-pcs-will-train-models-yes-one-day-not-hfht/
 slug_id: 2023-10-26-home-gaming-pcs-will-train-models-yes-one-day-not-hfht
-theme_page: /predictions/local-compute/2023/
+theme_page: /predictions/local-compute/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"

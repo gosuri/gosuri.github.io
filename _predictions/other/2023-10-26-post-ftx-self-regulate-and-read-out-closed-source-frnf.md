@@ -7,7 +7,7 @@ year: "2023"
 title: "Post-FTX: self-regulate and read out closed-source projects"
 permalink: /predictions/other/2023-10-26-post-ftx-self-regulate-and-read-out-closed-source-frnf/
 slug_id: 2023-10-26-post-ftx-self-regulate-and-read-out-closed-source-frnf
-theme_page: /predictions/other/2023/
+theme_page: /predictions/other/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "How Akash Network is Democratizing Access to Cloud GPUs | Greg Osuri (0xResearch)"

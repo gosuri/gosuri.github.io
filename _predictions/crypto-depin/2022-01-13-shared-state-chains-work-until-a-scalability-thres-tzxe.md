@@ -7,7 +7,7 @@ year: "2022"
 title: "Shared-state chains work until a scalability threshold forces sovereignty"
 permalink: /predictions/crypto-depin/2022-01-13-shared-state-chains-work-until-a-scalability-thres-tzxe/
 slug_id: 2022-01-13-shared-state-chains-work-until-a-scalability-thres-tzxe
-theme_page: /predictions/crypto-depin/2022/
+theme_page: /predictions/crypto-depin/
 speaker: "Greg Osuri"
 speaker_status: "attributed"
 source: "Comdex Mainnet Launch Party | Panel-1 | The rise of DeFi in the Cosmos Ecosystem (Comdex)"
